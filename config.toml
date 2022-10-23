@@ -1,0 +1,4 @@
+baseURL = 'https://podcast-test.groong.org'
+languageCode = 'en-us'
+title = 'Groong Podcast'
+theme = "castanet" 
