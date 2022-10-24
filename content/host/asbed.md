@@ -14,3 +14,5 @@ Instagram = ""
 YouTube = ""
 Twitch = ""
 +++
+
+Asbed is founder of Groong and co-founder of the ANN/Groong podcast.
