@@ -22,153 +22,128 @@ Description = "The LA City Council Scandal, Ep 170, Oct 21, 2022"
 
 +++
 
+
 # Introduction
 
-Hello, and welcome to the Armenian News Network, **Groong**, Week in Review. This show was recorded on October 23, 2022.
+Hello and welcome to the Armenian News Network, **Groong**, I’m Asbed Bedrossian.
 
-Before we begin the show, we’d like to request that you SUBSCRIBE to our[ Youtube channel](https://www.youtube.com/c/Groong), FOLLOW us on[ Twitter](https://twitter.com/groong), and SUBSCRIBE and rate our podcasts - which you can listen to wherever you get your podcasts.
+Before we begin the show, we’d like to request that you SUBSCRIBE to our[ Youtube channel](https://www.youtube.com/c/Groong) and FOLLOW us on[ Twitter](https://twitter.com/groong). Our links are on our[ LinkTree](https://linktr.ee/groong) page, check us out!
 
-Our Groong links on our[ LinkTree](https://linktr.ee/groong) page, click so you can find us everywhere on Social Media platforms.
+Alright, on with the show!
 
-Here are the major topics we’ll touch on today:
+This episode was recorded on October 19 and 20th, 2022.
 
 
-* Monitors in Armenia
-    * Between the EU civilian monitoring mission, a possible OSCE mission, a possible CSTO mission, there seems to be a race to send monitors to Armenia. What’s all that about?
-* Russia-West Rivalry in the South Caucasus
-    * Like it or not, the war in Ukraine is spilling over into the South Caucasus and Armenia looks to be the current political battleground.
-* Armenian-Iranian relations
-    * Iran has fully engaged in Armenia through diplomacy, and even through military exercise displays along its northern border. It has also opened its consulate in Syunik, and stated that Armenia’s security is tied to its own security. Those are fighting words, but what do they mean?
-* Israeli-Lebanese Maritime Agreement
-    * It looks like Lebanon and Israel have agreed to sign a long-contentious maritime agreement. Is it a win-win deal?
-* Lebanese Presidential Elections
-    * The current president’s term expires on Halloween night. Spooky! But who’s the next president? And what are the stakes for the Lebanese Armenian community?
+# The LA City Council Scandal
 
-To talk about these issues, we have with us:
 
-**Dr. Arthur Khachikyan, **who is an International Relations expert from Stanford University, specializing in Intervention. He currently teaches at the Russian Armenian University in Yerevan.
+## Overview
 
-And
+Over the past month Los Angeles politics were wracked by a [scandal](https://www.vox.com/policy-and-politics/23404926/los-angeles-city-council-racist-recording-scandal-explained) that followed the Los Angeles Times leaking a secretly recorded audio tape of a meeting between LA City council members, during which a few of them made racist comments aimed at various LA communities. The paywalled LA Times article is [here](https://www.latimes.com/california/story/2022-10-09/city-council-leaked-audio-nury-martinez-kevin-de-leon-gil-cedillo). Armenian-related parts of the audio are [here](https://twitter.com/knockdotla/status/1579511891877310466?s=46&t=cXdt8UNoYEyGuS_cS1IWaQ), but you should listen to the whole thing.
 
-**Yeghia Tashjian, **who is a regional analyst and researcher based in Beirut, with expertise in China, Iran and the Persian Gulf. Tashjian is Associate Fellow at the Issam Fares Institute for Public Policy and International Affairs at the American University of Beirut and a part-time instructor in International Affairs at the American University for Science and Technology.
 
+## Guests
 
-# Topics This Week
+So to get a sense of how this scandal is echoing inside the Armenian community, and also their thoughts about the politics around Armenia in the South Caucasus, first we’re going to talk with:
 
 
-## Monitors in Armenia
+<table>
+  <tr>
+   <td><strong>Ardashes ‘Ardy’ Kassakhian</strong> who is a Glendale City Councilman, and the current mayor of Glendale.
+   </td>
+   <td>
 
-A couple of weeks ago we were talking with Benyamin Poghosyan, and in his scenarios for securing the safety of Armenia, he recommended that Armenia needs to negotiate for indefinite, or at least prolonged, monitoring missions, CSTO troops, or whoever’s able to cause a dampening of Azerbaijan’s attacks on our borders.
+<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
-It seems that Armenia is indeed negotiating for international monitors, EU, OSCE, CSTO, any presence, even civilian missions, at this stage of the negotiations with Azerbaijan, with Aliyev’s deadline of Dec. 2022 to get an agreement signed, looming on the horizon. We are explicitly avoiding calling the process with Azerbaijan a “peace agreement” because there can be no peace signed with a gun pointed to your head, no matter what Pashinyan wants to call it.
 
-We all know the checkered history of peacekeeping and monitoring missions under different auspices, whether it is UN, NATO, OSCE or EU. Yet, some people are really excited about a limited 2-months monitoring mission from the EU, composed of several dozen civilian monitors.
+<img src="images/image1.jpg" width="" alt="alt_text" title="image_tooltip">
 
+   </td>
+  </tr>
+  <tr>
+   <td>And then we’ll talk with
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>California State Assemblymember <strong>Adrin Nazarian</strong> from the 46th District, representing the San Fernando Valley.
+   </td>
+   <td>
 
-* What is Armenia's goal with EU monitors?
-* What lessons can the international community and Armenia draw from past successes and failures of international monitoring missions?
+<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
-We just heard the news towards the end of the week that the OSCE is sending a needs assessment team
 
+<img src="images/image2.jpg" width="" alt="alt_text" title="image_tooltip">
 
-* Will this result in OSCE monitors on the ground too?
+   </td>
+  </tr>
+</table>
 
-As if the EU and OSCE are not enough, the CSTO says it will meet soon and sending monitors to Armenia is one of the recommendations of their fact-finding team. In Astana president Putin said that Armenia, holding the presidency of the CSTO in 2022, should convene a CSTO security council meeting and request the troops it needs on its borders. This hasn’t happened for months.
 
 
+## Discussion
 
-* What is the hold up? Did they have an offer of monitors much earlier than the EU, that was ignored by Armenia?
+Glendale city councilman and current mayor of Glendale, Ardy Kassakhian.
 
+**_Recorded on Wednesday, October 19, 2022._**
 
-## Russia-West Rivalry in the South Caucasus
+California State Assemblymember Adrin Nazarian from the 46th District, representing the San Fernando Valley.
 
-Macron stated that Russia conspired with Turkey against Armenia. You could also hear it in US official statements including:
+**_Recorded on Thursday, October 20, 2022._**
 
+In the last few weeks, we’ve had a political storm coursing through Los Angeles since the LA Times broke a story and leaked a secretly recorded audio of racist comments which targeted various LA communities by some members of the LA city council. Since then, Council president Nury Martinez has resigned; and two others, Kevin De León and Gil Cedillo are also under pressure to resign.
 
+Earlier this week Councilman Paul Krekorian was voted to take the presidency of the LA City Council, so hopefully we’re on a better path at this point.
 
-* State dept briefings: Vedant Patel (State Dept) [said](https://www.state.gov/briefings/department-press-briefing-october-18-2022/) “The entire region should be concerned” about Russia/Iran cooperation.
-* Pallone, whom I called “friend of Armenians”, said essentially Russia has no future in the caucasus and that Armenia has to accept an autonomous status for Artsakh that was existent in Soviet times, in an [interview](https://www.youtube.com/watch?v=ZWq955at1kE) on H1.
 
-Experts have warned that lack of cooperation or outright rivalry between the West and Russia in our region is against Armenia’s interests. Yet at first glance it seems that’s where we’re headed. The animosity between the West and Russia and Iran is coming off loud and clear.
 
-In terms of the Artsakh conflict, it appears that the West has collectively recognized the sovereignty of Azerbaijan over Artsakh, even with Macron wavering on the status of Artsakh. The Russian proposal is only a tad bit less discouraging. The Russians offer a very similar “peace plan” (what in reality is a clear capitulation) but with the status of Artsakh to be decided at a future date, without any clear prescription of when and how, and what happens in the meantime. 
+* What are your views on how we, in Los Angeles, move forward from this mess that tore through LA politics in the past few weeks?
+* Your thoughts about Paul Krekorian taking the lead of the LA City Council?
+* Why do you think it took the LA Times breaking this story, for this issue to come to public view? Shouldn’t others who were present at that meeting a year ago, have come forward and defended the LA community?
 
+A year ago, when the decennial post-census redistricting process took place, many communities complained, and I think the Armenian community was also not pleased with the results.
 
 
-* Will Armenia be forced to choose sides? Can it afford to play the “complimentarism” card? 
-* Which way is the Pashinyan government learning?
 
-Ararat Mirzoyan recently [said](https://www.24news.am/news/257227) that “unexpected third countries” are supporting Azerbaijan’s interpretation of the Nov. 9 statement, many interpreting it as an obvious accusation at Russia. 
+* First, can you talk a little bit about how the Armenian community leaders felt about the outcome of last year’s redistricting, and why? 
+* Do you think those results will be revisited, now that we know that the process was maybe compromised by racist undertones, or objectives?
+* How does this entire episode affect the LA mayoral race? Does it tip the balance in either direction, and is this council ready to work with either new mayor, whether it is [Karen Bass](https://twitter.com/KarenBassLA) or [Rick Caruso](https://twitter.com/RickCarusoLA)?
 
+For Mayor Kassakhian:
 
 
-* What do you think about this statement? How important is Armenia’s sovereignty, with Soviet borders, to the West and Russia? 
 
+* Here in Glendale, we’re our own incorporated city inside LA County, with our separate local government from Los Angeles City. How do these events look from inside our city?
+* How has this affected the Glendale city council?
+* How do you rate the Glendale city council’s atmosphere?
 
-## Iran-Armenia Relations
+For Assemblymember Nazarian:
 
-In the past month, Iran has fully activated its diplomacy, as well as its military in the northern direction. It appears that the aftershock of Armenia’s losses in the 44-day war have awakened Iran to its own present disadvantageous positions, vis-à-vis its traditional competitors, as well as enemies; and that includes Turkey, Azerbaijan, Russia, as well as the west, the US and the EU. We can even include Israel in this list, due to the worrisome defense cooperation between Israel and Azerbaijan.
 
-At every [summit](https://www.azatutyun.am/a/32081216.html), or conference, Iran has reiterated its redline about keeping the Iran-Armenia border intact through all geopolitical changes. And most recently, the Iranian Revolutionary Guard Corp, the IRGC, has [begun](https://armenpress.am/eng/news/1094809.html) conducting massive military exercises in the northern direction; reportedly the exercises point at readiness to invade Azerbaijan, Nakhichevan, and defend Armenian borders deep into its territory.
 
+* You did not re-run for your Assembly seat in the primaries this year. What are your plans for public service, going forward?
 
+Let’s briefly turn our attention to the international scene:
 
-* What are the stakes for Iran, in the South Caucasus, specifically through Armenia?
-* Are western observers on Armenia’s eastern borders, whether they are the EU civilian monitoring group, or some OSCE mission, a threat to Iran’s security interests? How?
+In the context of developments in the South Caucasus, how can we, in Los Angeles, support a fair outcome for Armenia?
 
-This past week, Iran opened its consulate in Kapan, in Armenia’s southern Syunik province. The foreign ministers of both countries were present and emphasized the close relations between the two countries, with Iran’s FM Hossein Amir-Abdollahian [saying](https://armenpress.am/eng/news/1095416.html) that Armenia’s security was Iran's own security. 
+We’re referring to a context where:
 
-Iran’s newly appointed consul general in Kapan, Morteza Abedin Varamin, [added](https://www.youtube.com/watch?app=desktop&v=5cSRsjWvgB8) that “we will not officially recognize any change in internationally recognized borders of Armenia.” He further stated, “don’t worry, I am in Kapan”.
 
-Iran has also announced a number of economic investments in Armenia, including a [manufacturing line](https://en.mehrnews.com/news/192446/Iran-to-set-up-car-production-line-in-Armenia-TPOI-chief) for auto exports to the Eurasian Economic Union.
+1. Azerbaijan conducts constant and unprovoked attacks on Armenia, invading its sovereign territory, kills civilians, and commits war crimes by executing soldiers in captivity.
+2. The ongoing Turkish-Armenian so-called “Normalization” process, acts as an angle for Turkey to pressure Armenia into conceding maximally to Azerbaijan.
+* What are your views of the so-called “peace negotiations” between Armenia and Azerbaijan under the auspices of the EU?
+* Is a “Normalization” with Turkey possible under current circumstances?
 
 
+# Wrap-up
 
-* Are Iran’s interests primarily driven by geopolitics, or [economic](https://armenpress.am/eng/news/1095465.html) interests? Is Iran protecting its North-South economic corridor, or Armenia?
-* Would Iran go to war for Armenia’s territorial integrity? 
+That was our[ show](https://groong.org/podcasts/) and we hope you found it helpful. We invite your feedback and your suggestions. You can[ find us](https://linktr.ee/groong) on most social media and podcast platforms, or our website[ Groong.org](https://groong.org/). Don’t forget to subscribe to our channel on YouTube, **Follow** us on Twitter, and **Like** our Facebook page.
 
-
-### India
-
-In the past week, defense minister Suren Papikyan paid a long visit to India. After Armenia’s near quarter billion dollar [purchase of Indian weaponry](https://www.deccanherald.com/opinion/comment/why-is-new-delhi-selling-weapons-to-armenia-1153088.html?fbclid=IwAR1aBgOgFax8zyqSRtS3lWmnLzsSTQDEz-uouU2p3Vexp9Hs9GYOpyF3eVc), including MLRS and surface to air missiles, and other weaponry, Armenia is considering [further purchases](https://armenpress.am/eng/news/1095189.html). Papikyan also attended a Defense Expo in New Delhi. This week reports also came out that Armenia is considering buying Iranian drones, which are proving their value in battle for Russia in Ukraine.
-
-**Question**:
-
-
-
-* After decades of the Armenian military being armed by Russia, why is Armenia now shopping in India and Iran?
-* Many western countries have already slapped sanctions on the Iranian drone manufacturer, and the rest are sure to follow. In light of this news, how should Armenia proceed? Can it afford to anger the West by buying Iranian drones? Is the current government capable of taking a risk if needed?
-
-After the 44-day war, there were complaints by Pashinyan that some Russian weaponry “worked only in 10% capacity”. More recently Pashinyan has made side swipes at Russia, insinuating that they had been paid for weaponry which they were not delivering.
-
-
-
-* What is the common thread in these issues, and what do they mean?
-
-In a response to the reports that Armenia may be purchasing Iranian drones, the newly installed Iran consul in Kapan, Morteza Abedin Varamin [said](https://armenpress.am/eng/news/1095439.html) that “Armenia will never need offensive weapons”.
-
-
-
-* What does that mean?
-* What is Armenia’s vision for, and perceived role in, the region?
-
-
-## Israel-Lebanon Maritime Agreement
-
-After years of stop and start negotiations, Lebanon and Israel have [announced](https://www.nytimes.com/2022/10/11/world/middleeast/israel-and-lebanon-maritime-deal.html) that a maritime agreement [brokered by the US](https://www.usip.org/publications/2022/10/could-israel-lebanon-maritime-border-deal-be-game-changer) is essentially agreed upon. We’re including a couple of links in our show notes to read about the details of the agreement.
-
-
-
-* Is this a win-win for both countries, and what’s the outlook for economic benefits for Lebanon?
-
-On Thursday this week, the Lebanese parliament again [failed to elect a new president](https://www.reuters.com/world/middle-east/lebanon-fails-elect-president-third-time-amid-financial-meltdown-2022-10-20/), and Michel Aoun’s term ends on October 31.
-
-
-
-* What the state of presidential politics in Lebanon?
-* What are the stakes for the Lebanese-Armenian community?
+Thanks to Laura Osborn for the music on our podcasts. On behalf of everyone in this episode, we thank you for listening. Stay well, we’ll be back next week.
 
 
 # Keywords
 
-Arthur Khachikyan, Yeghia Tashijian, Armenia, Azerbaijan, Iran, India, Military cooperation, Iran drones, MLRS, Missiles, South Caucasus, EU Monitoring Mission, OSCE Mission, CSTO peacekeepers, Observers, Lebanon, Maritime Agreement, Turkey, Russia, Corridors, Peace Negotiations, UNIFIL, Israel, Michel Aoun, Emmanuel Macron, Abdollahian, Frank Pallone, Ukraine, Ukraine War, North-South Corridor
+Ardashes Ardy Kassakhian, Adrin Nazarian, Paul Krekorian, Los Angeles, LA City Council Scandal, LA City Council, Nury Martinez, Kevin De Leon, Gil Cedillo, Ron Johnson, Karen Bass, Rick Caruso, LA Mayor, Mayoral Race, LA Times, California, Glendale, Glendale Mayor, Armenia, Artsakh, Nagorno Karabakh, Azerbaijan, War Crimes, South Caucasus, Turkish-Armenian Normalization, 
