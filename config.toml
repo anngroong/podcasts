@@ -1,6 +1,6 @@
 baseURL = 'https://hovman.github.io/groongpod/'
 languageCode = 'en-us'
-title = 'Groong Podcast'
+title = 'ANN/Groong Podcast'
 theme = "castanet-1.19.0" 
 googleAnalytics = ""
 paginate = "9"
