@@ -2,3 +2,116 @@ baseURL = 'https://podcast-test.groong.org'
 languageCode = 'en-us'
 title = 'Groong Podcast'
 theme = "castanet" 
+googleAnalytics = ""
+paginate = "9"
+buildFuture = true
+
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
+
+
+[permalinks]
+	# page = "/:filename/"
+	about = "/:filename/"
+	episode = "/:filename/"
+
+
+# The theme supports menus with up to one submenu per menu item
+# The menu name must be "Main"
+# The menus are sorted based upon their identifier
+[[Menu.Main]]
+    name = "About"
+    identifier = "about"
+    url = "/about"
+
+[[Menu.Main]]
+    name = "Contact"
+    identifier = "contact"
+    url = "/contact"
+
+[[Menu.Main]]
+    name = "Hosts"
+    identifier = "hosts"
+    url = "/host"
+
+[[Menu.Main]]
+    name = "Guests"
+    identifier = "guests"
+    url = "/guest"
+
+[[Menu.Main]]
+    name = "Upcoming Episodes"
+    identifier = "upcoming"
+    url = "/upcoming"
+
+[[Menu.Main]]
+    name = "Blog"
+    identifier = "blog"
+    url = "/blog"
+
+
+[params]
+googleAnalytics_UA = ""
+mainSections = ["episode"]
+episode_number_style  = "brackets"
+episode_number_prefix = "EP"
+site_theme = "blue"
+# site_layout = "grid"
+site_layout = "row"
+show_next_upcoming = "true"
+enable_jumbo = "true"
+# enable_jumbo = "false"
+disable_title_caps = "true"
+# truncate = "100"
+# about_logo = "/img/hugocast.png"
+copyright_notice = "Copyright 2022 [Armenian News Network/Groong](https://www.groong.org)"
+youtube_subscribe = "https://www.youtube.com/groong?sub_confirmation=1"
+itunes_subscribe = "https://podcasts.apple.com/us/podcast/armenian-news-network-groong-week-in-review-podcast/id1524235399?ign-mpt=uo%3D4&mt=2"
+android_subscribe = "https://www.subscribeonandroid.com/feeds.buzzsprout.com/1215113.rss"
+spotify_subscribe = "https://open.spotify.com/show/53y8G068hkWOvE6W0LUjDK?si=75f22dec938947a1&nd=1"
+google_play_subscribe = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS8xMjE1MTEzLnJzcw"
+rss_subscribe = "https://feeds.buzzsprout.com/1215113.rss"
+stitcher_subscribe = "https://www.stitcher.com/show/armenian-news-network-groong-week-in-review"
+description = "Armenian podcast providing objective coverage on #armenia, #artsakh (#nagornokarabakh) and the #armenian diaspora. Find us and follow us everywhere on social media. Here are our links: [linktr.ee/groong](https://linktr.ee/groong)."
+
+media_prefix = "https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/"
+disqusShortname = ""
+
+  [params.realfavicongenerator] # https://realfavicongenerator.net/
+    mask_icon_color="#5bbad5"
+    msapplication_tilecolor="#2b5797"
+    theme_color="#ffffff"
+
+  # Social links can be given in full URL form or short form
+  # In the short form the theme will generate a relevant URL
+  [params.social]
+    facebook = "groong.org"
+    facebook_admin = ["500557137","1234"] # This needs to be one or more page admins to get domain insights
+    twitter = "https://twitter.com/groong"
+    twitter_domain = "groong.org" # This domain shows in twitter cards as "View on `twitter_domain`"
+    instagram = "anngroong"
+    youtube = "groong"
+
+  [params.authors]
+    [params.authors.Matt]
+      name	= "Asbed Bedrossian"
+      thumbnail = "img/host/asbed.png"
+      bio = ""
+      [params.authors.Asbed.social]
+        facebook = "qubriq"
+        twitter = "qubriq"
+
+    [params.authors.Hovik]
+      name = "Hovik Manucharyan"
+      thumbnail = "img/host/hovik.jpg"
+      bio = ""
+      [params.authors.Hovik.social]
+        facebook = "HovikYerevan"
+        twitter = "HovikYerevan"
+
+    [params.links]
+      [params.links.ado]
+        name = "Armenian news Network/Groong"
+        url = "https://www.groong.org"
