@@ -5,6 +5,7 @@ theme = "castanet"
 googleAnalytics = ""
 paginate = "9"
 buildFuture = true
+show_next_upcoming = false
 
 [taxonomies]
   category = "categories"
@@ -42,15 +43,9 @@ buildFuture = true
     url = "/guest"
 
 [[Menu.Main]]
-    name = "Upcoming Episodes"
-    identifier = "upcoming"
-    url = "/upcoming"
-
-[[Menu.Main]]
     name = "Blog"
     identifier = "blog"
     url = "/blog"
-
 
 [params]
 googleAnalytics_UA = ""
@@ -76,7 +71,7 @@ rss_subscribe = "https://feeds.buzzsprout.com/1215113.rss"
 stitcher_subscribe = "https://www.stitcher.com/show/armenian-news-network-groong-week-in-review"
 description = "Armenian podcast providing objective coverage on #armenia, #artsakh (#nagornokarabakh) and the #armenian diaspora. Find us and follow us everywhere on social media. Here are our links: [linktr.ee/groong](https://linktr.ee/groong)."
 
-media_prefix = "https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/"
+media_prefix = "https://www.buzzsprout.com/1215113/"
 disqusShortname = ""
 
   [params.realfavicongenerator] # https://realfavicongenerator.net/
@@ -97,7 +92,7 @@ disqusShortname = ""
   [params.authors]
     [params.authors.Matt]
       name	= "Asbed Bedrossian"
-      thumbnail = "img/host/asbed.png"
+      thumbnail = "img/host/asbed.jpg"
       bio = ""
       [params.authors.Asbed.social]
         facebook = "qubriq"
