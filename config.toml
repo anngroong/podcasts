@@ -1,4 +1,4 @@
-baseURL = 'https://hovman.github.io/groongpod/'
+baseURL = 'https://podcast.ann.org/groongpod/'
 languageCode = 'en-us'
 title = 'Groong Podcast'
 theme = "castanet" 
