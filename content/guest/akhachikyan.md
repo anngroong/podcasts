@@ -14,7 +14,7 @@ Instagram = ""
 YouTube = ""
 Twitch = ""
 #Aka = []
-#guest_group = ""
+guest_group = "wir"
 +++
 
 Dr. Arthur Khachikyan, who is an International Relations expert from Stanford University, specializing in Intervention. He currently teaches at the Russian Armenian University in Yerevan.
