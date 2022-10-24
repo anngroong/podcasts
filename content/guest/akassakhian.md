@@ -14,7 +14,7 @@ Instagram = ""
 YouTube = ""
 Twitch = ""
 #Aka = []
-guest_group = "cog"
+#guest_group = "cog"
 +++
 
 Ardashes ‘Ardy’ Kassakhian is a Glendale City Councilman, and the current mayor of Glendale.
