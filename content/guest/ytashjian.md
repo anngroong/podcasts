@@ -14,7 +14,7 @@ Instagram = ""
 YouTube = ""
 Twitch = ""
 #Aka = []
-guest_group = "wir"
+#guest_group = "wir"
 +++
 
 Yeghia Tashjian, is a regional analyst and researcher based in Beirut, with expertise in China, Iran and the Persian Gulf. Tashjian is Associate Fellow at the Issam Fares Institute for Public Policy and International Affairs at the American University of Beirut and a part-time instructor in International Affairs at the American University for Science and Technology.
