@@ -1,7 +1,7 @@
 +++
 
 title = "Monitors | Russia-West Rivalry | Iran-Armenia Relations | Lebanon topics | Ep 171 - Oct 23, 2022"
-date = 2022-10-23T00:00:00:00
+date = 2022-10-23T00:00:00+04:00
 draft = false
 explicit = "no"
 
