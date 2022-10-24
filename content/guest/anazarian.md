@@ -14,7 +14,7 @@ Instagram = ""
 YouTube = ""
 Twitch = ""
 #Aka = []
-#guest_group = ""
+guest_group = "cog"
 +++
 
 California State Assemblymember Adrin Nazarian from the 46th District, representing the San Fernando Valley.
