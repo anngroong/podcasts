@@ -7,7 +7,7 @@ explicit = "no"
 
 aliases = ["/168"]
 author = "Armenian News Network - Groong"
-episode = "171"
+episode = "168"
 episode_image = "img/episode/default.jpg"
 episode_banner = "img/episode/default-banner.jpg"
 guests = ["bpoghosyan"]
@@ -22,67 +22,7 @@ Description = "Armenia-Azerbaijan “Peace Negotiations” Tactics and Goals"
 
 +++
 
-<!-- Output copied to clipboard! -->
 
-<!-----
-
-Yay, no errors, warnings, or alerts!
-
-Conversion time: 0.573 seconds.
-
-
-Using this Markdown file:
-
-1. Paste this output into your source file.
-2. See the notes and action items below regarding this conversion run.
-3. Check the rendered output (headings, lists, code blocks, tables) for proper
-   formatting and use a linkchecker before you publish this page.
-
-Conversion notes:
-
-* Docs to Markdown version 1.0β33
-* Wed Oct 26 2022 02:00:32 GMT-0700 (PDT)
-* Source doc: TEST-MD-CoG-20221014
-
-WARNING:
-You have 7 H1 headings. You may want to use the "H1 -> H2" option to demote all headings by one level.
-
------>
-
-
-<p style="color: red; font-weight: bold">>>>>>  gd2md-html alert:  ERRORs: 0; WARNINGs: 1; ALERTS: 0.</p>
-<ul style="color: red; font-weight: bold"><li>See top comment block for details on ERRORs and WARNINGs. <li>In the converted Markdown or HTML, search for inline alerts that start with >>>>>  gd2md-html alert:  for specific instances that need correction.</ul>
-
-<p style="color: red; font-weight: bold">Links to alert messages:</p>
-<p style="color: red; font-weight: bold">>>>>> PLEASE check and correct alert issues and delete this message and the inline alerts.<hr></p>
-
-
-
-# [Armenian News Network / Groong](https://groong.org/)
-
-
-# Conversations on Groong: Negotiating for Peace
-
-
-## ANN/Groong
-
-
-## October 14, 2022
-
-
-# Guest
-
-
-
-* Benyamin Poghosyan
-
-
-# Hosts
-
-
-
-* Hovik Manucharyan
-* Asbed Bedrossian
 
 
 # Introduction
