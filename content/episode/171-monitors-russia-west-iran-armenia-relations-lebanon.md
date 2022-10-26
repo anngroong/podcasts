@@ -18,6 +18,9 @@ podcast_file = "monitors-russia-west-rivalry-iran-armenia-relations-lebanon-topi
 youtube = "oFLVdoGR4Bw"
 truncate = ""
 series = ["WIR"]
+
+tags = ["Arthur Khachikyan", "Yeghia Tashijian", "Armenia", "Azerbaijan", "Iran", "India", "Military cooperation", "Iran drones", "MLRS", "Missiles", "South Caucasus", "EU Monitoring Mission", "OSCE Mission", "CSTO peacekeepers", "Observers", "Lebanon", "Maritime Agreement", "Turkey", "Russia", "Corridors", "Peace Negotiations", "UNIFIL", "Israel", "Michel Aoun", "Emmanuel Macron", "Abdollahian", "Frank Pallone", "Ukraine", "Ukraine War", "North-South Corridor"]
+
 upcoming = false
 Description = """Armenian News Network - Groong Week in Review - Oct 23, 2022
 
