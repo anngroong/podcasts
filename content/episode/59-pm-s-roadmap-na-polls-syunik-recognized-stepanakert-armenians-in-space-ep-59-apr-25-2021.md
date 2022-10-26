@@ -18,7 +18,7 @@ podcast_bytes = 50871470
 podcast_file = "8404309-pm-s-roadmap-na-polls-syunik-recognized-stepanakert-armenians-in-space-ep-59-apr-25-2021.mp3"
 youtube = "gTa7-DIYWw0"
 truncate = ""
-categories = ["WIR"]
+series = ["WIR"]
 upcoming = false
 Description = """ANN/Groong Week in Review - April 25, 2021
 

@@ -18,7 +18,7 @@ podcast_bytes = 26630391
 podcast_file = "6982657-opposition-talks-edmon-marukyan-of-bright-armenia-party.mp3"
 youtube = "17I0o-9djOM"
 truncate = ""
-categories = ["COG"]
+series = ["COG"]
 upcoming = false
 Description = """𝐂𝐨𝐧𝐯𝐞𝐫𝐬𝐚𝐭𝐢𝐨𝐧 𝐰𝐢𝐭𝐡 Bright Armenia's Edmon Marukyan
 

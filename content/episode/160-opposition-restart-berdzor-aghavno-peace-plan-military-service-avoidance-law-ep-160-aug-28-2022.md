@@ -18,7 +18,7 @@ podcast_bytes = 40237164
 podcast_file = "11218675-opposition-restart-berdzor-aghavno-peace-plan-military-service-avoidance-law-ep-160-aug-28-2022.mp3"
 youtube = "bvqW9ejBj3I"
 truncate = ""
-categories = ["WIR"]
+series = ["WIR"]
 upcoming = false
 Description = """Armenian News Network/Groong Week in Review - August 21, 2022
 

@@ -18,7 +18,7 @@ podcast_bytes = 23910944
 podcast_file = "7626577-constitutional-amendment-opp-rising-zarif-tour-virus-update-armenia-fund-the-dram-ep-47.mp3"
 youtube = "XWKdTbuQmYQ"
 truncate = ""
-categories = ["WIR"]
+series = ["WIR"]
 upcoming = false
 Description = """𝐀𝐍𝐍/𝐆𝐫𝐨𝐨𝐧𝐠 𝐖𝐞𝐞𝐤 𝐢𝐧 𝐑𝐞𝐯𝐢𝐞𝐰 - 𝐉𝐚𝐧 𝟑𝟏, 𝟐𝟎𝟐𝟏
 

@@ -18,7 +18,7 @@ podcast_bytes = 33979440
 podcast_file = "7283497-conversation-with-aram-vardevanyan.mp3"
 youtube = "ShlAd5k9R_k"
 truncate = ""
-categories = ["COG"]
+series = ["COG"]
 upcoming = false
 Description = """𝐂𝐨𝐧𝐯𝐞𝐫𝐬𝐚𝐭𝐢𝐨𝐧 𝐰𝐢𝐭𝐡 𝐀𝐫𝐚𝐦 𝐕𝐚𝐫𝐝𝐞𝐯𝐚𝐧𝐲𝐚𝐧  - 𝟎𝟏/𝟏𝟑/𝟐𝟎𝟐𝟏
 

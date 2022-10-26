@@ -18,7 +18,7 @@ podcast_bytes = 36966691
 podcast_file = "10294455-azerbaijan-s-peace-deal-artsakh-gas-cut-off-ukraine-protest-in-yerevan-vardenis-mayoral-issue-resolved-ep-129-mar-20-2022.mp3"
 youtube = "jCUJ4m-lm88"
 truncate = ""
-categories = ["WIR"]
+series = ["WIR"]
 upcoming = false
 Description = """Armenian News Network/Groong Week in Review - March 20, 2022
 

@@ -18,7 +18,7 @@ podcast_bytes = 30942043
 podcast_file = "9474939-georgian-runoffs-turkish-drones-in-donbas-iran-turkey-g20-palooza-ep-96-oct-31-2021.mp3"
 youtube = "CggjwCIc4uk"
 truncate = ""
-categories = ["WIR"]
+series = ["WIR"]
 upcoming = false
 Description = """ANN/Groong Week in Review - October 31, 2021
 

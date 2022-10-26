@@ -18,7 +18,7 @@ podcast_bytes = 36333481
 podcast_file = "8788049-preserving-armenian-heritage-simon-maghakian-talks-with-lori-khatchadourian-and-christina-maranci-ep-77-june-30-2021.mp3"
 youtube = "nVU5iBeIxUs"
 truncate = ""
-categories = ["COG"]
+series = ["COG"]
 upcoming = false
 Description = """Preserving Armenian Heritage
 

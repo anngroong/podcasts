@@ -18,7 +18,7 @@ podcast_bytes = 22139134
 podcast_file = "5997355-artsakh-war-back-to-9-27-war-council-proposal-diaspora-mobilization-ep-22.mp3"
 youtube = "o3n-aNMY8is"
 truncate = ""
-categories = ["WIR"]
+series = ["WIR"]
 upcoming = false
 Description = """ANN/Groong Week in Review - October 18, 2020
 

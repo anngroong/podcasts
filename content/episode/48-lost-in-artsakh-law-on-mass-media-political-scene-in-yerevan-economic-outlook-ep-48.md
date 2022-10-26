@@ -18,7 +18,7 @@ podcast_bytes = 26153479
 podcast_file = "7762591-lost-in-artsakh-law-on-mass-media-political-scene-in-yerevan-economic-outlook-ep-48.mp3"
 youtube = "LqZNB9dIBp8"
 truncate = ""
-categories = ["WIR"]
+series = ["WIR"]
 upcoming = false
 Description = """𝐀𝐍𝐍/𝐆𝐫𝐨𝐨𝐧𝐠 𝐖𝐞𝐞𝐤 𝐢𝐧 𝐑𝐞𝐯𝐢𝐞𝐰 𝐄𝐩𝐢𝐬𝐨𝐝𝐞 𝟒𝟖 - 𝐅𝐞𝐛𝐫𝐮𝐚𝐫𝐲 𝟕, 𝟐𝟎𝟐𝟏
 

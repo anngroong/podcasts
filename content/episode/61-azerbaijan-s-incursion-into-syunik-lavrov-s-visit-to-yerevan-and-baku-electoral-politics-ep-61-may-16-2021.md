@@ -18,7 +18,7 @@ podcast_bytes = 45228766
 podcast_file = "8532990-azerbaijan-s-incursion-into-syunik-lavrov-s-visit-to-yerevan-and-baku-electoral-politics-ep-61-may-16-2021.mp3"
 youtube = "vOkwvphnOow"
 truncate = ""
-categories = ["WIR"]
+series = ["WIR"]
 upcoming = false
 Description = """ANN/Groong Week in Review - May 16, 2021
 Topics:

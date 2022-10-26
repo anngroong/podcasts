@@ -18,7 +18,7 @@ podcast_bytes = 25964305
 podcast_file = "5757580-stepanakert-cluster-bombed-turkey-s-role-russia-quiet-what-s-next-october-4-2020.mp3"
 youtube = "F9vtJPBOfvM"
 truncate = ""
-categories = ["WIR"]
+series = ["WIR"]
 upcoming = false
 Description = """ANN/Groong Week in Review - October 4, 2020
 

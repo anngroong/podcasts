@@ -18,7 +18,7 @@ podcast_bytes = 35681341
 podcast_file = "10869681-osce-mg-aparan-murders-vanetsyan-resigns-jhangiryan-doesn-t-ep-144-jun-26-2022.mp3"
 youtube = "QtNsmeWfbGQ"
 truncate = ""
-categories = ["WIR"]
+series = ["WIR"]
 upcoming = false
 Description = """Armenian News Network/Groong Week in Review - June 26, 2022
 

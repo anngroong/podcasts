@@ -18,7 +18,7 @@ podcast_bytes = 40008824
 podcast_file = "8656698-kocharyan-closes-in-on-pashinyan-s-lead-in-election-polls-pashinyan-visits-europe-ep-66-june-6-2021.mp3"
 youtube = "He6zKqq9YWU"
 truncate = ""
-categories = ["WIR"]
+series = ["WIR"]
 upcoming = false
 Description = """ANN/Groong Week in Review - June 6, 2021
 

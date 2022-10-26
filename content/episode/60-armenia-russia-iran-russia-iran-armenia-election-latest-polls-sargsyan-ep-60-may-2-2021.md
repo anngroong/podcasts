@@ -18,7 +18,7 @@ podcast_bytes = 38866244
 podcast_file = "8448365-armenia-russia-iran-russia-iran-armenia-election-latest-polls-sargsyan-ep-60-may-2-2021.mp3"
 youtube = "uX-cJvWm8qE"
 truncate = ""
-categories = ["WIR"]
+series = ["WIR"]
 upcoming = false
 Description = """ANN/Groong Week in Review - May 2, 2021
 

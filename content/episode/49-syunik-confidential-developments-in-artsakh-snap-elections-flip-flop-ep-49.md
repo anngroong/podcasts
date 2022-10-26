@@ -18,7 +18,7 @@ podcast_bytes = 28066527
 podcast_file = "7917895-syunik-confidential-developments-in-artsakh-snap-elections-flip-flop-ep-49.mp3"
 youtube = "QP9m_tVnmDs"
 truncate = ""
-categories = ["WIR"]
+series = ["WIR"]
 upcoming = false
 Description = """𝐀𝐍𝐍/𝐆𝐫𝐨𝐨𝐧𝐠 𝐖𝐞𝐞𝐤 𝐢𝐧 𝐑𝐞𝐯𝐢𝐞𝐰 𝐄𝐩𝐢𝐬𝐨𝐝𝐞 𝟒𝟗 - 𝐅𝐞𝐛𝐫𝐮𝐚𝐫𝐲 𝟏𝟒, 𝟐𝟎𝟐𝟏
 

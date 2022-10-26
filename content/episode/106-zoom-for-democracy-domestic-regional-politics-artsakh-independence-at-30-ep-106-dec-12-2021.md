@@ -18,7 +18,7 @@ podcast_bytes = 60734503
 podcast_file = "9710668-zoom-for-democracy-domestic-regional-politics-artsakh-independence-at-30-ep-106-dec-12-2021.mp3"
 youtube = "fDn4FEBlxzM"
 truncate = ""
-categories = ["WIR"]
+series = ["WIR"]
 upcoming = false
 Description = """ANN/Groong Week in Review - December 12, 2021
 

@@ -18,7 +18,7 @@ podcast_bytes = 39463884
 podcast_file = "7192057-conversation-with-my-step-s-maria-karapetyan.mp3"
 youtube = "1truZLIzNCQ"
 truncate = ""
-categories = ["COG"]
+series = ["COG"]
 upcoming = false
 Description = """𝐂𝐨𝐧𝐯𝐞𝐫𝐬𝐚𝐭𝐢𝐨𝐧 𝐰𝐢𝐭𝐡 𝐌𝐲 𝐒𝐭𝐞𝐩'𝐬 𝐌𝐚𝐫𝐢𝐚 𝐊𝐚𝐫𝐚𝐩𝐞𝐭𝐲𝐚𝐧 - 𝟎𝟏/𝟎𝟖/𝟐𝟎𝟐𝟏
 

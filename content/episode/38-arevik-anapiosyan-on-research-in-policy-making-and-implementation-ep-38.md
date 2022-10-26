@@ -18,7 +18,7 @@ podcast_bytes = 28197875
 podcast_file = "7116184-arevik-anapiosyan-on-research-in-policy-making-and-implementation-ep-38.mp3"
 youtube = "8_RiUzQ6AlE"
 truncate = ""
-categories = ["COG"]
+series = ["COG"]
 upcoming = false
 Description = """𝐑𝐞𝐬𝐞𝐚𝐫𝐜𝐡 𝐢𝐧 𝐏𝐨𝐥𝐢𝐜𝐲 𝐌𝐚𝐤𝐢𝐧𝐠 𝐚𝐧𝐝 𝐈𝐦𝐩𝐥𝐞𝐦𝐞𝐧𝐭𝐚𝐭𝐢𝐨𝐧 (𝐄𝐩 #𝟑𝟖) - 01/03/2021
 

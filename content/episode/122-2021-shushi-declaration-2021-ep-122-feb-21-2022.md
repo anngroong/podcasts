@@ -18,7 +18,7 @@ podcast_bytes = 41011552
 podcast_file = "10113707-2021-shushi-declaration-2021-ep-122-feb-21-2022.mp3"
 youtube = "qHPCV-ksxIw"
 truncate = ""
-categories = ["COG"]
+series = ["COG"]
 upcoming = false
 Description = """2021-ի «Շուշիի Հռչակագիրը» - The 2021 “Shushi Declaration” by Azerbaijan and Turkey
 

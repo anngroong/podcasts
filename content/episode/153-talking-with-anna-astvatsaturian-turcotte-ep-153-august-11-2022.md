@@ -18,7 +18,7 @@ podcast_bytes = 27806704
 podcast_file = "11120812-talking-with-anna-astvatsaturian-turcotte-ep-153-august-11-2022.mp3"
 youtube = "GLBS28bD_ow"
 truncate = ""
-categories = ["COG"]
+series = ["COG"]
 upcoming = false
 Description = """Talking with Anna Astvatsaturian Turcotte | Ep 153 - August 11, 2022
 

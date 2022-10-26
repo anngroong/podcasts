@@ -18,7 +18,7 @@ podcast_bytes = 58054987
 podcast_file = "11267954-artsakh-independence-diplomacy-normalization-with-turkey-gorbachev-ep-162-sep-4-2022.mp3"
 youtube = "xifGGMM3mfU"
 truncate = ""
-categories = ["WIR"]
+series = ["WIR"]
 upcoming = false
 Description = """Armenian News Network - Groong Week in Review - Sep 4, 2022
 

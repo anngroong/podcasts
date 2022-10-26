@@ -18,7 +18,7 @@ podcast_bytes = 28371021
 podcast_file = "9146182-pashinyan-shuns-nk-reconciliation-2-0-taliban-2-0-state-of-world-affairs-political-analysis-ep-88-sep-5-2021.mp3"
 youtube = "3NZ0fJJYffQ"
 truncate = ""
-categories = ["WIR"]
+series = ["WIR"]
 upcoming = false
 Description = """ANN/Groong Week in Review - September 5, 2021
 

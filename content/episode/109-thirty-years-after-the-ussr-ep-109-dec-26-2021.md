@@ -18,7 +18,7 @@ podcast_bytes = 33936808
 podcast_file = "9788895-thirty-years-after-the-ussr-ep-109-dec-26-2021.mp3"
 youtube = "bADiV9V_Nrw"
 truncate = ""
-categories = ["COG"]
+series = ["COG"]
 upcoming = false
 Description = """Thirty Years After the USSR
 

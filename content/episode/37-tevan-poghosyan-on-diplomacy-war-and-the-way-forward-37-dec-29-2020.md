@@ -18,7 +18,7 @@ podcast_bytes = 31617502
 podcast_file = "7045906-tevan-poghosyan-on-diplomacy-war-and-the-way-forward-37-dec-29-2020.mp3"
 youtube = "h6d4q4WPDJA"
 truncate = ""
-categories = ["COG"]
+series = ["COG"]
 upcoming = false
 Description = """Since the end of the first Nagorno-Karabakh war in 1994 and for over quarter of a century, Armenia has engaged in diplomatic activity with Azerbaijan, Turkey, Russia and the West. The aim of those diplomatic initiatives was to find a solution to the conflict by engaging in direct diplomatic negotiations as well as track two diplomacy.
 

@@ -18,7 +18,7 @@ podcast_bytes = 50873112
 podcast_file = "9759725-turkish-armenian-normalization-brussels-sprouts-armenian-nsc-chair-in-dc-armenia-project-tour-ep-108-dec-19-2021.mp3"
 youtube = "vgjQXvcemgw"
 truncate = ""
-categories = ["WIR"]
+series = ["WIR"]
 upcoming = false
 Description = """ANN/Groong Week in Review - December 19, 2021
 

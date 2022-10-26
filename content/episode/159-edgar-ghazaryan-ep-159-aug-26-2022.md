@@ -18,7 +18,7 @@ podcast_bytes = 38234519
 podcast_file = "11210517-edgar-ghazaryan-ep-159-aug-26-2022.mp3"
 youtube = "gBh458DLb9I"
 truncate = ""
-categories = ["COG"]
+series = ["COG"]
 upcoming = false
 Description = """Armenian News Network / Groong
 

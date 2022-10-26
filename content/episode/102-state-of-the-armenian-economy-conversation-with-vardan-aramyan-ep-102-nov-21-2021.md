@@ -18,7 +18,7 @@ podcast_bytes = 44182944
 podcast_file = "9584896-state-of-the-armenian-economy-conversation-with-vardan-aramyan-ep-102-nov-21-2021.mp3"
 youtube = "nGjftxCvmJQ"
 truncate = ""
-categories = ["COG"]
+series = ["COG"]
 upcoming = false
 Description = """State of the Armenian Economy
 A Conversation with Vardan Aramyan - November 21, 2021

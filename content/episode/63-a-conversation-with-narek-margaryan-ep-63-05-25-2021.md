@@ -18,7 +18,7 @@ podcast_bytes = 22381394
 podcast_file = "8584216-a-conversation-with-narek-margaryan-ep-63-05-25-2021.mp3"
 youtube = "oS5Swsi5Rcc"
 truncate = ""
-categories = ["COG"]
+series = ["COG"]
 upcoming = false
 Description = """A Conversation with Narek Margaryan - 05/25/2021
 

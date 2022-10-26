@@ -18,7 +18,7 @@ podcast_bytes = 34915587
 podcast_file = "8273315-kocharyan-case-electoral-reforms-new-gallup-poll-ukraine-heating-up-ep-56-apr-4-2021.mp3"
 youtube = "Lo5UhR_BKzI"
 truncate = ""
-categories = ["WIR"]
+series = ["WIR"]
 upcoming = false
 Description = """ANN/Groong Week in Review - April 4, 2021
 

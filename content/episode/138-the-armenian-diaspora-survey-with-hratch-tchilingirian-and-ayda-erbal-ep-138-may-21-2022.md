@@ -18,7 +18,7 @@ podcast_bytes = 36668522
 podcast_file = "10658647-the-armenian-diaspora-survey-with-hratch-tchilingirian-and-ayda-erbal-ep-138-may-21-2022.mp3"
 youtube = "7naAlh_AoOY"
 truncate = ""
-categories = ["COG"]
+series = ["COG"]
 upcoming = false
 Description = """The Armenian Diaspora Survey - May 21, 2022
 

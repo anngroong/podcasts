@@ -18,7 +18,7 @@ podcast_bytes = 39994991
 podcast_file = "10595433-mass-protests-growing-fm-mirzoyan-in-dc-normalization-round-3-ep-135-may-8-2022.mp3"
 youtube = "cOkU3yiri80"
 truncate = ""
-categories = ["WIR"]
+series = ["WIR"]
 upcoming = false
 Description = """Armenian News Network/Groong Week in Review - May 8, 2022
 

@@ -18,7 +18,7 @@ podcast_bytes = 29511373
 podcast_file = "10245207-renewed-hostilities-in-artsakh-ukraine-fm-arabat-mirzoyan-in-antalya-ep-128-mar-13-2022.mp3"
 youtube = "T_bg5uj5EJ4"
 truncate = ""
-categories = ["WIR"]
+series = ["WIR"]
 upcoming = false
 Description = """ANN/Groong Week in Review - March 13, 2022
 

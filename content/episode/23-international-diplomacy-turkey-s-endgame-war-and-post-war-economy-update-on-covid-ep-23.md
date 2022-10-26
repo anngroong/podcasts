@@ -18,7 +18,7 @@ podcast_bytes = 28485036
 podcast_file = "6115510-international-diplomacy-turkey-s-endgame-war-and-post-war-economy-update-on-covid-ep-23.mp3"
 youtube = "t4ITvzNhVZU"
 truncate = ""
-categories = ["WIR"]
+series = ["WIR"]
 upcoming = false
 Description = """ANN/Groong Week in Review - 10/25/2020
 

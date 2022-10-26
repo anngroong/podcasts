@@ -18,7 +18,7 @@ podcast_bytes = 38197236
 podcast_file = "10010660-legal-human-rights-developments-in-armenia-ruben-melikyan-ep-117-feb-4-2022.mp3"
 youtube = "gYeG_m72vjc"
 truncate = ""
-categories = ["COG"]
+series = ["COG"]
 upcoming = false
 Description = """Legal & Human Rights Developments in Armenia
 A Conversation with Ruben Melikyan

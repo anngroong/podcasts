@@ -18,7 +18,7 @@ podcast_bytes = 26466329
 podcast_file = "9482000-save-our-monuments-a-year-after-the-war-in-artsakh-the-case-at-the-icj-ep-97-nov-3-2021.mp3"
 youtube = "ctRz6bDiPl8"
 truncate = ""
-categories = ["COG"]
+series = ["COG"]
 upcoming = false
 Description = """Save Armenian Monuments
 A Conversation with Virginia Davies and Heghnar Watenpaugh

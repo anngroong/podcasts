@@ -18,7 +18,7 @@ podcast_bytes = 51943907
 podcast_file = "10548790-peace-agenda-motorcade-accident-civil-disobedience-criminalization-of-insults-upheld-ep-134-may-1-2022.mp3"
 youtube = "7dpSSPzq4F4"
 truncate = ""
-categories = ["WIR"]
+series = ["WIR"]
 upcoming = false
 Description = """Armenian News Network/Groong Week in Review - May 1, 2022
 

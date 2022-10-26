@@ -18,7 +18,7 @@ podcast_bytes = 48215746
 podcast_file = "9670654-regional-geopolitics-turkmen-iran-gas-armenian-opposition-fizzles-out-ep-105-dec-5-2021.mp3"
 youtube = "9zxSX8j0tYI"
 truncate = ""
-categories = ["WIR"]
+series = ["WIR"]
 upcoming = false
 Description = """ANN/Groong Week in Review - December 5, 2021
 

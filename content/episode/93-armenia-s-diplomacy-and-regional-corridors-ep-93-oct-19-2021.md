@@ -18,7 +18,7 @@ podcast_bytes = 32547247
 podcast_file = "9398648-armenia-s-diplomacy-and-regional-corridors-ep-93-oct-19-2021.mp3"
 youtube = "bXBycmvUyN8"
 truncate = ""
-categories = ["COG"]
+series = ["COG"]
 upcoming = false
 Description = """Armenia’s Diplomacy and Corridor Politics
 A Conversation with Varuzhan Geghamyan

@@ -18,7 +18,7 @@ podcast_bytes = 29729350
 podcast_file = "7602388-conversation-with-ruben-muradyan-01-31-2021-ep-46.mp3"
 youtube = "vTxNmxlJ6Z0"
 truncate = ""
-categories = ["COG"]
+series = ["COG"]
 upcoming = false
 Description = """Armenian IT Security and Readiness During Wartime - with Ruben Muradyan -  Jan. 31, 2021
 

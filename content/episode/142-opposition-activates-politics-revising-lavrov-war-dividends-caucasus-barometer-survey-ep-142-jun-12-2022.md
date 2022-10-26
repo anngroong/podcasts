@@ -18,7 +18,7 @@ podcast_bytes = 44724080
 podcast_file = "10789987-opposition-activates-politics-revising-lavrov-war-dividends-caucasus-barometer-survey-ep-142-jun-12-2022.mp3"
 youtube = "3CzSHC1FEqA"
 truncate = ""
-categories = ["WIR"]
+series = ["WIR"]
 upcoming = false
 Description = """Armenian News Network/Groong Week in Review - June 12, 2022
 

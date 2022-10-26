@@ -18,7 +18,7 @@ podcast_bytes = 30354911
 podcast_file = "8147871-latest-iri-poll-results-armen-grigoryan-interview-snap-on-snap-off-ep-53-03-14-2021.mp3"
 youtube = "fYOHW45e-Ns"
 truncate = ""
-categories = ["WIR"]
+series = ["WIR"]
 upcoming = false
 Description = """𝐀𝐍𝐍/𝐆𝐫𝐨𝐨𝐧𝐠 𝐖𝐞𝐞𝐤 𝐢𝐧 𝐑𝐞𝐯𝐢𝐞𝐰 - 𝐌𝐚𝐫𝐜𝐡 𝟏𝟒, 𝟐𝟎𝟐𝟏
 

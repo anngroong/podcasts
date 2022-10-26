@@ -18,7 +18,7 @@ podcast_bytes = 65688522
 podcast_file = "11440075-armenian-news-network-groong-week-in-review-oct-2-2022.mp3"
 youtube = "_KN7CzlRueg"
 truncate = ""
-categories = ["WIR"]
+series = ["WIR"]
 upcoming = false
 Description = """Armenian News Network - Groong Week in Review - Oct 2, 2022
 

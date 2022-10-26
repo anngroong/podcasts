@@ -18,7 +18,7 @@ podcast_bytes = 57665905
 podcast_file = "8953422-unblocking-the-south-caucasus-fact-or-fiction-ep-83-august-1-2021-recorded-june-14-2021.mp3"
 youtube = "ljDR_eWBLHE"
 truncate = ""
-categories = ["COG"]
+series = ["COG"]
 upcoming = false
 Description = """Unblocking The South Caucasus, Facts and "Alternative Facts"
 A conversation with Areg Danagoulian and Emil Sanamyan

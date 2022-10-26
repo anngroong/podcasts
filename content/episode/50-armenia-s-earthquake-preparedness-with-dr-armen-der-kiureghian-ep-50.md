@@ -18,7 +18,7 @@ podcast_bytes = 12857325
 podcast_file = "8003896-armenia-s-earthquake-preparedness-with-dr-armen-der-kiureghian-ep-50.mp3"
 youtube = "1iMlGI86gI0"
 truncate = ""
-categories = ["COG"]
+series = ["COG"]
 upcoming = false
 Description = """𝐀𝐫𝐦𝐞𝐧𝐢𝐚'𝐬 𝐄𝐚𝐫𝐭𝐡𝐪𝐮𝐚𝐤𝐞 𝐏𝐫𝐞𝐩𝐚𝐫𝐞𝐝𝐧𝐞𝐬𝐬 - 𝟎𝟐/𝟐𝟏/𝟐𝟎𝟐𝟏
 

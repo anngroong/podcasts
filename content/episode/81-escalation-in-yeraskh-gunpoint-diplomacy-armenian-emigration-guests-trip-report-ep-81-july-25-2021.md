@@ -18,7 +18,7 @@ podcast_bytes = 37766302
 podcast_file = "8932991-escalation-in-yeraskh-gunpoint-diplomacy-armenian-emigration-guests-trip-report-ep-81-july-25-2021.mp3"
 youtube = "5BMaqn7mk4I"
 truncate = ""
-categories = ["WIR"]
+series = ["WIR"]
 upcoming = false
 Description = """ANN/Groong Week in Review - July 25, 2021
 

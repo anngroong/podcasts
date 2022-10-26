@@ -18,7 +18,7 @@ podcast_bytes = 30180440
 podcast_file = "6340759-six-weeks-of-war-what-is-russia-thinking-to-recognize-or-not-to-recognize-ep-26.mp3"
 youtube = "xDvpV89gYlY"
 truncate = ""
-categories = ["WIR"]
+series = ["WIR"]
 upcoming = false
 Description = """ANN/Groong Week in Review Episode 26 - Nov 8, 2020
 

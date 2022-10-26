@@ -18,7 +18,7 @@ podcast_bytes = 40226356
 podcast_file = "9801699-pashinyan-press-conference-kocharyan-press-conference-yerevan-mayor-saga-ep-110-dec-26-2021.mp3"
 youtube = "uDaiK3xdMT8"
 truncate = ""
-categories = ["WIR"]
+series = ["WIR"]
 upcoming = false
 Description = """ANN/Groong Week in Review - December 26, 2021
 

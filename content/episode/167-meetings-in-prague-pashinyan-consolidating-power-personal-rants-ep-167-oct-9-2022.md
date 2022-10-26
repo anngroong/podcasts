@@ -18,7 +18,7 @@ podcast_bytes = 34256381
 podcast_file = "11477210-meetings-in-prague-pashinyan-consolidating-power-personal-rants-ep-167-oct-9-2022.mp3"
 youtube = "zmaGLQvp4Xk"
 truncate = ""
-categories = ["WIR"]
+series = ["WIR"]
 upcoming = false
 Description = """Armenian News Network - Groong Week in Review - Oct 9, 2022
 

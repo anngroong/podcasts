@@ -18,7 +18,7 @@ podcast_bytes = 38873717
 podcast_file = "11546033-the-la-city-council-scandal-ep-no-170-oct-21-2022.mp3"
 youtube = "VnzUdKwGsS8"
 truncate = ""
-categories = ["COG"]
+series = ["WIR"]
 upcoming = false
 Description = """The LA City Council Scandal | Ep 170 - Oct. 21, 2022
 

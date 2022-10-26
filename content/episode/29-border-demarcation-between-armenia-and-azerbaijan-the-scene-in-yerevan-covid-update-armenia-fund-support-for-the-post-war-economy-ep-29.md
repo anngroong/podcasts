@@ -18,7 +18,7 @@ podcast_bytes = 28548510
 podcast_file = "6701140-border-demarcation-between-armenia-and-azerbaijan-the-scene-in-yerevan-covid-update-armenia-fund-support-for-the-post-war-economy-ep-29.mp3"
 youtube = "koBNWaNJ_xY"
 truncate = ""
-categories = ["WIR"]
+series = ["WIR"]
 upcoming = false
 Description = """ANN/Groong Week in Review Episode 29 - Nov 29, 2020
 

@@ -18,7 +18,7 @@ podcast_bytes = 44753209
 podcast_file = "10334664-azerbaijan-incursion-into-askeran-artsakh-still-without-gas-pax-azeriana-and-armenia-response-ep-130-mar-27-2022.mp3"
 youtube = "mdYkr99ia5Q"
 truncate = ""
-categories = ["WIR"]
+series = ["WIR"]
 upcoming = false
 Description = """Armenian News Network/Groong Week in Review - March 27, 2022
 

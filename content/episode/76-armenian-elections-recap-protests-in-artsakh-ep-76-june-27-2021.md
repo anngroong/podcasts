@@ -18,7 +18,7 @@ podcast_bytes = 27383808
 podcast_file = "8781690-armenian-elections-recap-protests-in-artsakh-ep-76-june-27-2021.mp3"
 youtube = "YpSBnPzRWS8"
 truncate = ""
-categories = ["WIR"]
+series = ["WIR"]
 upcoming = false
 Description = """ANN/Groong Week in Review - June 27, 2021
 Topics:

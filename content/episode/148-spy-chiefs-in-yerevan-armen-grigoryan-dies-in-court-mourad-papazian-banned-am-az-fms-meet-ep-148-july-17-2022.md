@@ -18,7 +18,7 @@ podcast_bytes = 51155546
 podcast_file = "10991685-spy-chiefs-in-yerevan-armen-grigoryan-dies-in-court-mourad-papazian-banned-am-az-fms-meet-ep-148-july-17-2022.mp3"
 youtube = "sjdndULGdPc"
 truncate = ""
-categories = ["WIR"]
+series = ["WIR"]
 upcoming = false
 Description = """Armenian News Network/Groong Week in Review - July 17, 2022
 

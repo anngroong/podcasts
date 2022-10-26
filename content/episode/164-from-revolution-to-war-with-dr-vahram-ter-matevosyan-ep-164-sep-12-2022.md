@@ -18,7 +18,7 @@ podcast_bytes = 44314356
 podcast_file = "11308976-from-revolution-to-war-with-dr-vahram-ter-matevosyan-ep-164-sep-12-2022.mp3"
 youtube = "9RvrWlemc9k"
 truncate = ""
-categories = ["COG"]
+series = ["COG"]
 upcoming = false
 Description = """From ‘revolution’ to war: deciphering Armenia’s populist foreign policy-making process
 Conversation with Dr. Vahram Ter-Matevosyan

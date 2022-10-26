@@ -18,7 +18,7 @@ podcast_bytes = 41786527
 podcast_file = "8688379-arf-dashnaktsutyun-roadmap-challenges-conversation-with-giro-manoyan-ep-69-june-11-2021.mp3"
 youtube = "rJsyJhCDWy8"
 truncate = ""
-categories = ["COG"]
+series = ["COG"]
 upcoming = false
 Description = """ARF-Dashnaktsutyun: Roadmap and Challenges
 

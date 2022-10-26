@@ -18,7 +18,7 @@ podcast_bytes = 39460276
 podcast_file = "8736754-elections-az-az-negotiations-erdogan-in-az-biden-meets-erdogan-putin-ep-74-june-20-2021.mp3"
 youtube = "lOG_eJi8Jmk"
 truncate = ""
-categories = ["WIR"]
+series = ["WIR"]
 upcoming = false
 Description = """ANN/Groong Week in Review - June 20, 2021
 Topics:

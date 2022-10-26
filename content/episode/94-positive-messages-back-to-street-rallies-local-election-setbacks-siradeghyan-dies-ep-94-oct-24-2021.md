@@ -18,7 +18,7 @@ podcast_bytes = 37436540
 podcast_file = "9434655-positive-messages-back-to-street-rallies-local-election-setbacks-siradeghyan-dies-ep-94-oct-24-2021.mp3"
 youtube = "FdhyjKfFeCI"
 truncate = ""
-categories = ["WIR"]
+series = ["WIR"]
 upcoming = false
 Description = """ANN/Groong Week in Review - October 24, 2021
 

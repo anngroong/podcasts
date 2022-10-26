@@ -18,7 +18,7 @@ podcast_bytes = 45039337
 podcast_file = "10718077-russia-geopolitics-armenia-russia-rels-israeli-and-armenia-ep-140-may-29-2022.mp3"
 youtube = "cMxqiqBn09w"
 truncate = ""
-categories = ["WIR"]
+series = ["WIR"]
 upcoming = false
 Description = """Armenian News Network/Groong Week in Review - May 29, 2022
 

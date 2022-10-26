@@ -18,7 +18,7 @@ podcast_bytes = 23864180
 podcast_file = "9234801-independence-day-pashinyan-s-turkish-overtures-goris-kapan-highway-ep-89-sep-19-2021.mp3"
 youtube = "T1Ob0R1WYXo"
 truncate = ""
-categories = ["WIR"]
+series = ["WIR"]
 upcoming = false
 Description = """ANN/Groong Week in Review - September 19, 2021
 

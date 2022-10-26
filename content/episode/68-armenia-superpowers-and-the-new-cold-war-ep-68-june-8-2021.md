@@ -18,7 +18,7 @@ podcast_bytes = 40329142
 podcast_file = "8669387-armenia-superpowers-and-the-new-cold-war-ep-68-june-8-2021.mp3"
 youtube = "wNQlfNTaTQs"
 truncate = ""
-categories = ["COG"]
+series = ["COG"]
 upcoming = false
 Description = """Armenia, Superpowers and The New Cold War
 

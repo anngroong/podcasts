@@ -18,7 +18,7 @@ podcast_bytes = 26601754
 podcast_file = "9983007-ukraine-antalya-army-day-in-armenia-the-ministry-of-foreign-affairs-ep-116-jan-30-2022.mp3"
 youtube = "F08dkUyHNiI"
 truncate = ""
-categories = ["WIR"]
+series = ["WIR"]
 upcoming = false
 Description = """ANN/Groong Week in Review - January 30, 2022
 

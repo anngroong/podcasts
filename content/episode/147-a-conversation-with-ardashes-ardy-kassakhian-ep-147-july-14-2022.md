@@ -18,7 +18,7 @@ podcast_bytes = 58011920
 podcast_file = "10964418-a-conversation-with-ardashes-ardy-kassakhian-ep-147-july-14-2022.mp3"
 youtube = "2jyuXCsE0bo"
 truncate = ""
-categories = ["COG"]
+series = ["COG"]
 upcoming = false
 Description = """Armenian News Network/Groong: Current Topics with the Mayor of Glendale - July 14, 2022
 A Conversation with Ardy Kassakhian

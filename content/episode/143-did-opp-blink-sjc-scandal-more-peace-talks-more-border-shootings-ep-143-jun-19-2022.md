@@ -18,7 +18,7 @@ podcast_bytes = 41405020
 podcast_file = "10828971-did-opp-blink-sjc-scandal-more-peace-talks-more-border-shootings-ep-143-jun-19-2022.mp3"
 youtube = "oJCqFwoBoxU"
 truncate = ""
-categories = ["WIR"]
+series = ["WIR"]
 upcoming = false
 Description = """Armenian News Network/Groong - Week in Review - June 19, 2022
 

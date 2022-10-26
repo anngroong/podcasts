@@ -18,7 +18,7 @@ podcast_bytes = 54860321
 podcast_file = "11343381-azerbaijani-aggression-facts-and-analysis-nancy-pelosi-ep-165-sep-18-2022.mp3"
 youtube = "LX7Y2VyD4RA"
 truncate = ""
-categories = ["WIR"]
+series = ["WIR"]
 upcoming = false
 Description = """Armenian News Network - Groong Week in Review - Sep 18, 2022
 

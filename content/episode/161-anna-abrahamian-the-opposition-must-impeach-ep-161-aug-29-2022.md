@@ -18,7 +18,7 @@ podcast_bytes = 26971869
 podcast_file = "11224496-anna-abrahamian-the-opposition-must-impeach-ep-161-aug-29-2022.mp3"
 youtube = "u9zPGNrelpE"
 truncate = ""
-categories = ["COG"]
+series = ["COG"]
 upcoming = false
 Description = """Armenian News Network/Groong Week in Review - August 29, 2022
 Conversation with Anna Abrahamian

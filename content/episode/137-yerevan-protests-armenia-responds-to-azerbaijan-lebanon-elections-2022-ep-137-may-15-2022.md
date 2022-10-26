@@ -18,7 +18,7 @@ podcast_bytes = 48078169
 podcast_file = "10640112-yerevan-protests-armenia-responds-to-azerbaijan-lebanon-elections-2022-ep-137-may-15-2022.mp3"
 youtube = "SoQXhfcEQSk"
 truncate = ""
-categories = ["WIR"]
+series = ["WIR"]
 upcoming = false
 Description = """Armenian News Network/Groong Week in Review - May 15, 2022
 

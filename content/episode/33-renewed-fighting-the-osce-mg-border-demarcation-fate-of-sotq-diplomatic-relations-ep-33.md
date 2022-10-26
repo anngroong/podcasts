@@ -18,7 +18,7 @@ podcast_bytes = 34825108
 podcast_file = "6837433-renewed-fighting-the-osce-mg-border-demarcation-fate-of-sotq-diplomatic-relations-ep-33.mp3"
 youtube = "NhVAQ2mzFgE"
 truncate = ""
-categories = ["WIR"]
+series = ["WIR"]
 upcoming = false
 Description = """ANN/Groong Week in Review Episode 33 - Dec 13, 2020
 

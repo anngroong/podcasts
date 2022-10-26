@@ -18,7 +18,7 @@ podcast_bytes = 29533955
 podcast_file = "9108070-syunik-blocked-and-unblocked-5-year-plan-approved-parliamentary-dynamics-ep-87-august-29-2021.mp3"
 youtube = "v7TFG3MHxvw"
 truncate = ""
-categories = ["WIR"]
+series = ["WIR"]
 upcoming = false
 Description = """ANN/Groong Week in Review - August 29, 2021
 

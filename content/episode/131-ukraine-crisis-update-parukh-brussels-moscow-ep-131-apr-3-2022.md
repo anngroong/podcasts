@@ -18,7 +18,7 @@ podcast_bytes = 45244633
 podcast_file = "10379757-ukraine-crisis-update-parukh-brussels-moscow-ep-131-apr-3-2022.mp3"
 youtube = "sDyXTRFwcFE"
 truncate = ""
-categories = ["WIR"]
+series = ["WIR"]
 upcoming = false
 Description = """Armenian News Network/Groong Week in Review - April 3, 2022
 

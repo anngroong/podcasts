@@ -18,7 +18,7 @@ podcast_bytes = 48811981
 podcast_file = "10146777-armenia-s-regional-challenges-a-conversation-with-tatev-hayrapetyan-february-26-2022.mp3"
 youtube = "fID3mpfWpWM"
 truncate = ""
-categories = ["COG"]
+series = ["COG"]
 upcoming = false
 Description = """Armenia’s Regional Challenges - February 26, 2022
 A Conversation with Tatev Hayrapetyan

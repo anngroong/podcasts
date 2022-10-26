@@ -18,7 +18,7 @@ podcast_bytes = 29599164
 podcast_file = "8897075-const-court-decision-new-pm-appts-aliyev-threats-russian-generals-in-yerevan-ep-78-july-18-2021.mp3"
 youtube = "oX0oMUeD3gE"
 truncate = ""
-categories = ["WIR"]
+series = ["WIR"]
 upcoming = false
 Description = """ANN/Groong Week in Review - July 18, 2021
 

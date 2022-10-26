@@ -18,7 +18,7 @@ podcast_bytes = 46414507
 podcast_file = "9043256-lebanon-afghanistan-armenian-parliament-artsakh-ep-85-aug-15-2021.mp3"
 youtube = "-ci4mbn2hfM"
 truncate = ""
-categories = ["WIR"]
+series = ["WIR"]
 upcoming = false
 Description = """ANN/Groong Week in Review - August 15, 2021
 

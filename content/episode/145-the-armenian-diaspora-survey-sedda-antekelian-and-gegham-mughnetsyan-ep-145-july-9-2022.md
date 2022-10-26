@@ -18,7 +18,7 @@ podcast_bytes = 14537875
 podcast_file = "10933475-the-armenian-diaspora-survey-sedda-antekelian-and-gegham-mughnetsyan-ep-145-july-9-2022.mp3"
 youtube = "ZgXsWVTsuzY"
 truncate = ""
-categories = ["COG"]
+series = ["COG"]
 upcoming = false
 Description = """The Armenian Diaspora Survey - July 9, 2022
 

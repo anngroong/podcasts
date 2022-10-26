@@ -18,7 +18,7 @@ podcast_bytes = 42062705
 podcast_file = "11124608-armenia-s-economy-in-2022-part1-inflation-fiscal-policy-monetary-policy-ep-154-august-11-2022.mp3"
 youtube = "qRV8UoMeC4s"
 truncate = ""
-categories = ["COG"]
+series = ["COG"]
 upcoming = false
 Description = """Armenia’s Economy in 2022 - PART 1
 Conversation with Vardan Aramyan

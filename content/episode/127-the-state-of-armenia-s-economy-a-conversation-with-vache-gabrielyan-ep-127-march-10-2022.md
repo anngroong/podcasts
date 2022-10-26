@@ -18,7 +18,7 @@ podcast_bytes = 58263374
 podcast_file = "10227992-the-state-of-armenia-s-economy-a-conversation-with-vache-gabrielyan-ep-127-march-10-2022.mp3"
 youtube = "OD_ftYCliZQ"
 truncate = ""
-categories = ["COG"]
+series = ["COG"]
 upcoming = false
 Description = """The State of Armenia’s Economy - March 10, 2022
 

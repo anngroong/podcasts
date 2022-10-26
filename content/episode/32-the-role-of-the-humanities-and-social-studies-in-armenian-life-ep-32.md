@@ -18,7 +18,7 @@ podcast_bytes = 36715250
 podcast_file = "6830104-the-role-of-the-humanities-and-social-studies-in-armenian-life-ep-32.mp3"
 youtube = "tC5s5k1NLjA"
 truncate = ""
-categories = ["COG"]
+series = ["COG"]
 upcoming = false
 Description = """The Role of The Humanities and Social Studies in Armenian Life  - 12/13/2020
 

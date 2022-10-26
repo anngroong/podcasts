@@ -18,7 +18,7 @@ podcast_bytes = 37933152
 podcast_file = "9628534-pashinyan-live-trilateral-in-sochi-bilateral-in-brussels-turkish-armenian-normalization-russian-turkish-co-opetition-ep-104-nov-28-2021.mp3"
 youtube = "VJmys-SmBlI"
 truncate = ""
-categories = ["WIR"]
+series = ["WIR"]
 upcoming = false
 Description = """ANN/Groong Week in Review - November 28, 2021
 

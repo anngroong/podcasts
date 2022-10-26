@@ -18,7 +18,7 @@ podcast_bytes = 36564786
 podcast_file = "11105886-azerbaijan-attacks-evacuating-berdzor-aghavno-chalabyan-re-arrested-ep-152-aug-7-2022.mp3"
 youtube = "NXAU6vxOvQ8"
 truncate = ""
-categories = ["WIR"]
+series = ["WIR"]
 upcoming = false
 Description = """ANN/Groong Week in Review - August 7, 2022
 

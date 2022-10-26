@@ -18,7 +18,7 @@ podcast_bytes = 23825595
 podcast_file = "10103162-political-topics-with-edmon-marukyan-ep-120-feb-18-2022.mp3"
 youtube = "CKhF5CTi2vQ"
 truncate = ""
-categories = ["COG"]
+series = ["COG"]
 upcoming = false
 Description = """Political Topics with Edmon Marukyan - February 18, 2022
 

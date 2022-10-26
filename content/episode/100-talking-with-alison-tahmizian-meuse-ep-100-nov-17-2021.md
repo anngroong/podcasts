@@ -18,7 +18,7 @@ podcast_bytes = 47374318
 podcast_file = "9555197-talking-with-alison-tahmizian-meuse-ep-100-nov-17-2021.mp3"
 youtube = "B5ORtHz7-2M"
 truncate = ""
-categories = ["COG"]
+series = ["COG"]
 upcoming = false
 Description = """Talking with Alison Tahmizian Meuse - TW/@AliTahmizian - November 17, 2021
 

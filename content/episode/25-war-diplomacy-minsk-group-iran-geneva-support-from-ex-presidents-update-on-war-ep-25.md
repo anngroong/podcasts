@@ -18,7 +18,7 @@ podcast_bytes = 21449908
 podcast_file = "6203116-war-diplomacy-minsk-group-iran-geneva-support-from-ex-presidents-update-on-war-ep-25.mp3"
 youtube = "zcnDVH_sauE"
 truncate = ""
-categories = ["WIR"]
+series = ["WIR"]
 upcoming = false
 Description = """ANN/Groong Week in Review Episode 25 - Nov 1, 2020
 

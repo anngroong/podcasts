@@ -18,7 +18,7 @@ podcast_bytes = 42553864
 podcast_file = "9872090-color-me-kazakhstan-first-normalization-meeting-on-friday-ep-112-jan-9-2022.mp3"
 youtube = "5cvX4TEpHsI"
 truncate = ""
-categories = ["WIR"]
+series = ["WIR"]
 upcoming = false
 Description = """ANN/Groong Week in Review - January 9, 2022
 

@@ -18,7 +18,7 @@ podcast_bytes = 43750494
 podcast_file = "8325952-mr-pashinyan-goes-to-moscow-election-politics-the-pow-debacle-a-coronavirus-update-the-state-of-the-economy-ep-57-apr-11-2021.mp3"
 youtube = "lCD9GF280nE"
 truncate = ""
-categories = ["WIR"]
+series = ["WIR"]
 upcoming = false
 Description = """ANN/Groong Week in Review - April 11, 2021
 

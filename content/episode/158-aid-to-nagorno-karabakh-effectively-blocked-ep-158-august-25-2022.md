@@ -18,7 +18,7 @@ podcast_bytes = 9900085
 podcast_file = "11202998-aid-to-nagorno-karabakh-effectively-blocked-ep-158-august-25-2022.mp3"
 youtube = "_CX11J3DMj8"
 truncate = ""
-categories = ["COG"]
+series = ["COG"]
 upcoming = false
 Description = """Aid to Nagorno Karabakh Effectively Blocked - August 25, 2022
 A Conversation with ARAM SUREN HAMPARIAN

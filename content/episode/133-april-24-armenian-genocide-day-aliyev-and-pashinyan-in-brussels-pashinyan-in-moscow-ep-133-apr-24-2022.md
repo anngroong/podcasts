@@ -18,7 +18,7 @@ podcast_bytes = 49571567
 podcast_file = "10505914-april-24-armenian-genocide-day-aliyev-and-pashinyan-in-brussels-pashinyan-in-moscow-ep-133-apr-24-2022.mp3"
 youtube = "Ed_7OYcR4pU"
 truncate = ""
-categories = ["WIR"]
+series = ["WIR"]
 upcoming = false
 Description = """Armenian News Network/Groong Week in Review - April 24, 2022
 

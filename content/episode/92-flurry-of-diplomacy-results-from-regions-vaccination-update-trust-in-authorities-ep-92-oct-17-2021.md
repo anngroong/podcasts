@@ -18,7 +18,7 @@ podcast_bytes = 32838250
 podcast_file = "9394229-flurry-of-diplomacy-results-from-regions-vaccination-update-trust-in-authorities-ep-92-oct-17-2021.mp3"
 youtube = "2_CdGlPg6z0"
 truncate = ""
-categories = ["WIR"]
+series = ["WIR"]
 upcoming = false
 Description = """ANN/Groong Week in Review - October 17, 2021
 

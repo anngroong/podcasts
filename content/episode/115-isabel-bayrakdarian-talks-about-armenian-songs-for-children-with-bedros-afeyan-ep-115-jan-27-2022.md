@@ -18,7 +18,7 @@ podcast_bytes = 56057231
 podcast_file = "9961631-isabel-bayrakdarian-talks-about-armenian-songs-for-children-with-bedros-afeyan-ep-115-jan-27-2022.mp3"
 youtube = "AtZcJcDyLk0"
 truncate = ""
-categories = ["COG"]
+series = ["COG"]
 upcoming = false
 Description = """Armenian Songs for Children
 Bedros Afeyan talks with Isabel Bayrakdarian

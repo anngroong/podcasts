@@ -18,7 +18,7 @@ podcast_bytes = 45571933
 podcast_file = "8952307-calls-for-a-commission-to-analyze-the-defeat-in-the-2020-artsakh-war-ep-82-july-31-2021.mp3"
 youtube = "z4H_jE4MLyE"
 truncate = ""
-categories = ["COG"]
+series = ["COG"]
 upcoming = false
 Description = """Calls for a Commission to Analyze the Defeat in the 2020 Artsakh War
 

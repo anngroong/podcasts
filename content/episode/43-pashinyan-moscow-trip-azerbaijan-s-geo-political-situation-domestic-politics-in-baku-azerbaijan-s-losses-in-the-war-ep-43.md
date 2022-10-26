@@ -18,7 +18,7 @@ podcast_bytes = 30795146
 podcast_file = "7364506-pashinyan-moscow-trip-azerbaijan-s-geo-political-situation-domestic-politics-in-baku-azerbaijan-s-losses-in-the-war-ep-43.mp3"
 youtube = "tCfTiiJQ-Q4"
 truncate = ""
-categories = ["WIR"]
+series = ["WIR"]
 upcoming = false
 Description = """𝐀𝐍𝐍/𝐆𝐫𝐨𝐨𝐧𝐠 𝐖𝐞𝐞𝐤 𝐢𝐧 𝐑𝐞𝐯𝐢𝐞𝐰 - 𝐉𝐚𝐧 𝟏𝟕, 𝟐𝟎𝟐𝟏
 

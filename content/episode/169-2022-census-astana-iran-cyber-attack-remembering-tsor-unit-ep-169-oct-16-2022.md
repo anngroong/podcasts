@@ -18,7 +18,7 @@ podcast_bytes = 48543655
 podcast_file = "11519914-2022-census-astana-iran-cyber-attack-remembering-tsor-unit-ep-169-oct-16-2022.mp3"
 youtube = "fYhns_q-DgQ"
 truncate = ""
-categories = ["WIR"]
+series = ["WIR"]
 upcoming = false
 Description = """Armenian News Network - Groong Week in Review - Oct 9, 2022
 

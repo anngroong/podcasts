@@ -18,7 +18,7 @@ podcast_bytes = 30539479
 podcast_file = "7387702-opposition-talks-armen-ashotyan-of-the-rpa-hhk-01-19-2021.mp3"
 youtube = "QgmNA47sMXs"
 truncate = ""
-categories = ["COG"]
+series = ["COG"]
 upcoming = false
 Description = """𝐎𝐩𝐩𝐨𝐬𝐢𝐭𝐢𝐨𝐧 𝐓𝐚𝐥𝐤𝐬 - 𝐰𝐢𝐭𝐡 𝐇𝐇𝐊/𝐑𝐏𝐀’𝐬 𝐀𝐫𝐦𝐞𝐧 𝐀𝐬𝐡𝐨𝐭𝐲𝐚𝐧 - 𝟎𝟏/𝟏𝟗/𝟐𝟎𝟐𝟏
 

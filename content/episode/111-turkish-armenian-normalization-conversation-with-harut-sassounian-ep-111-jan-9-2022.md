@@ -18,7 +18,7 @@ podcast_bytes = 46485752
 podcast_file = "9854809-turkish-armenian-normalization-conversation-with-harut-sassounian-ep-111-jan-9-2022.mp3"
 youtube = "_AsOsO3h6W8"
 truncate = ""
-categories = ["COG"]
+series = ["COG"]
 upcoming = false
 Description = """Turkish-Armenian Normalization Negotiations
 A Conversation with Harut Sassounian

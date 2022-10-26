@@ -18,7 +18,7 @@ podcast_bytes = 40770682
 podcast_file = "6729955-turkey-and-azerbaijan-connecting-armenia-s-political-opposition-uniting-does-putin-support-pashinyan-robert-kocharyan-interview-ep-30.mp3"
 youtube = "wyGiEJeHetI"
 truncate = ""
-categories = ["WIR"]
+series = ["WIR"]
 upcoming = false
 Description = """ANN/Groong Week in Review Episode 30 - Dec 6, 2020
 

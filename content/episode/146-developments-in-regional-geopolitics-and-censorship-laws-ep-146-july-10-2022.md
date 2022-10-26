@@ -18,7 +18,7 @@ podcast_bytes = 42875487
 podcast_file = "10946656-developments-in-regional-geopolitics-and-censorship-laws-ep-146-july-10-2022.mp3"
 youtube = "2sjP-B2jFLE"
 truncate = ""
-categories = ["WIR"]
+series = ["WIR"]
 upcoming = false
 Description = """Armenian News Network/Groong Week in Review - July 10, 2022
 

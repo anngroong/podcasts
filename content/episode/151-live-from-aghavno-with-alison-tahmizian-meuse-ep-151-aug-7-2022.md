@@ -18,7 +18,7 @@ podcast_bytes = 26016133
 podcast_file = "11096656-live-from-aghavno-with-alison-tahmizian-meuse-ep-151-aug-7-2022.mp3"
 youtube = "YQPDMGtibcI"
 truncate = ""
-categories = ["COG"]
+series = ["COG"]
 upcoming = false
 Description = """This is a live recording of our Twitter Spaces discussion from August 7, 2022 with Alison Tahmizian Meuse who joined us from Aghavno.
 

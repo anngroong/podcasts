@@ -18,7 +18,7 @@ podcast_bytes = 39718941
 podcast_file = "8965910-instability-on-armenia-azerbaijan-borders-commission-on-44-daywar-first-session-of-the-8th-parliament-ep-84-aug-1-2021.mp3"
 youtube = "YePp4MPuW7M"
 truncate = ""
-categories = ["WIR"]
+series = ["WIR"]
 upcoming = false
 Description = """ANN/Groong Week in Review - August 1, 2021
 

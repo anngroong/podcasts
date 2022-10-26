@@ -18,7 +18,7 @@ podcast_bytes = 28503257
 podcast_file = "8192528-early-elections-on-june-20th-gas-through-azerbaijan-military-exercises-ep-54-03-21-2021.mp3"
 youtube = "QzeWgu4ikC4"
 truncate = ""
-categories = ["WIR"]
+series = ["WIR"]
 upcoming = false
 Description = """ANN/Groong Week in Review - March 21, 2021
 

@@ -18,7 +18,7 @@ podcast_bytes = 31945265
 podcast_file = "6447709-the-war-ends-who-won-and-who-lost-pax-russiana-the-extent-of-turkey-s-presence-in-azerbaijan-jubilation-in-baku-ep-27.mp3"
 youtube = "8A_3peGKhIQ"
 truncate = ""
-categories = ["WIR"]
+series = ["WIR"]
 upcoming = false
 Description = """ANN/Groong Week in Review Episode 27 - Nov 15, 2020
 

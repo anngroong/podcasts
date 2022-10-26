@@ -18,7 +18,7 @@ podcast_bytes = 24148840
 podcast_file = "7490332-supreme-judicial-council-turk-azerbaijani-military-exercises-in-kars-blinken-on-armenia.mp3"
 youtube = "4AmycRZJ9Ak"
 truncate = ""
-categories = ["WIR"]
+series = ["WIR"]
 upcoming = false
 Description = """𝐀𝐍𝐍/𝐆𝐫𝐨𝐨𝐧𝐠 𝐖𝐞𝐞𝐤 𝐢𝐧 𝐑𝐞𝐯𝐢𝐞𝐰 - 𝐉𝐚𝐧 𝟐𝟒, 𝟐𝟎𝟐𝟏
 

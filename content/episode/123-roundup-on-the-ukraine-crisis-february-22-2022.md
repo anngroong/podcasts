@@ -18,7 +18,7 @@ podcast_bytes = 12297419
 podcast_file = "10125651-roundup-on-the-ukraine-crisis-february-22-2022.mp3"
 youtube = "n0bjR8T7B9s"
 truncate = ""
-categories = ["COG"]
+series = ["COG"]
 upcoming = false
 Description = """Roundup on the Ukraine Crisis - February 22, 2022
 

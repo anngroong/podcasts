@@ -18,7 +18,7 @@ podcast_bytes = 39206644
 podcast_file = "8728915-robert-markarian-analyzing-party-platforms-in-june-20-parliamentary-elections-ep-73-june-20-2021.mp3"
 youtube = "b9PXIAjYgjc"
 truncate = ""
-categories = ["COG"]
+series = ["COG"]
 upcoming = false
 Description = """Analyzing Party Platforms in June 20 Parliamentary Elections
 

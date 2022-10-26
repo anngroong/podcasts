@@ -24,7 +24,7 @@ podcast_bytes = {bytes}
 podcast_file = "{mp3}"
 youtube = "{youtube}"
 truncate = ""
-categories = ["{category}"]
+series = ["{serie}"]
 upcoming = false
 Description = \"\"\"{description}
 \"\"\"
@@ -44,7 +44,7 @@ def main():
 	    dt = datetime.strptime(row[0], '%Y-%m-%d %H:%M:%S').isoformat()
             title = re.sub('"', '\\"', row[2])
             with open("output/" + filename, 'a') as output:
-                output.write(TEXT.format(date=dt, category=row[1], title=title,
+                output.write(TEXT.format(date=dt, serie=row[1], title=title,
                     description=row[3], youtube=row[4], episode=row[6],
                     guests=row[7], mp3=row[8], bytes=row[9], duration=row[11]))
 

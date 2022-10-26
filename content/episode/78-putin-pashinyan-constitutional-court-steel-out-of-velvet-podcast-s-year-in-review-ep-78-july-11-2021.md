@@ -18,7 +18,7 @@ podcast_bytes = 43538499
 podcast_file = "8855705-putin-pashinyan-constitutional-court-steel-out-of-velvet-podcast-s-year-in-review-ep-78-july-11-2021.mp3"
 youtube = "aVISc2wIHnw"
 truncate = ""
-categories = ["WIR"]
+series = ["WIR"]
 upcoming = false
 Description = """ANN/Groong Week in Review - July 11, 2021
 

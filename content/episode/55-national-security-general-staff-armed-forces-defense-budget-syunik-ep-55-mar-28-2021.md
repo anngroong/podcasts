@@ -18,7 +18,7 @@ podcast_bytes = 37543056
 podcast_file = "8230492-national-security-general-staff-armed-forces-defense-budget-syunik-ep-55-mar-28-2021.mp3"
 youtube = "SasoYMamYCI"
 truncate = ""
-categories = ["WIR"]
+series = ["WIR"]
 upcoming = false
 Description = """ANN/Groong Week in Review - March 28, 2021
 

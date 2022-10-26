@@ -18,7 +18,7 @@ podcast_bytes = 20267165
 podcast_file = "9905175-major-incident-on-the-line-of-contact-turkish-armenian-meeting-in-moscow-ep-113-jan-16-2022.mp3"
 youtube = "MIQpXmDcvnI"
 truncate = ""
-categories = ["WIR"]
+series = ["WIR"]
 upcoming = false
 Description = """ANN/Groong Week in Review - January 16, 2022
 

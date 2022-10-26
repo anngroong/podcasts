@@ -18,7 +18,7 @@ podcast_bytes = 25212833
 podcast_file = "10112781-ukraine-azeri-destruction-of-armenian-heritage-artsakh-law-arresting-arayik-iri-results-analyzed-ep-121-feb-20-2022.mp3"
 youtube = "8BthC0QV_FE"
 truncate = ""
-categories = ["WIR"]
+series = ["WIR"]
 upcoming = false
 Description = """ANN/Groong Week in Review - February 20, 2022
 

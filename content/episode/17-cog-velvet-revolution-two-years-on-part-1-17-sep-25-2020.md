@@ -18,7 +18,7 @@ podcast_bytes = 37435536
 podcast_file = "5610016-cog-velvet-revolution-two-years-on-part-1-17-sep-25-2020.mp3"
 youtube = "_uKIbawsky0"
 truncate = ""
-categories = ["COG"]
+series = ["COG"]
 upcoming = false
 Description = """“𝐕𝐞𝐥𝐯𝐞𝐭 𝐑𝐞𝐯𝐨𝐥𝐮𝐭𝐢𝐨𝐧” 𝐓𝐰𝐨 𝐘𝐞𝐚𝐫𝐬 𝐎𝐧 - 𝐏𝐚𝐫𝐭 𝟏 - 09/25/2020
 

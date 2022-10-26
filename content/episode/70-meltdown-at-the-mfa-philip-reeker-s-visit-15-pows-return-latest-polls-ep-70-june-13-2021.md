@@ -18,7 +18,7 @@ podcast_bytes = 36674156
 podcast_file = "8712155-meltdown-at-the-mfa-philip-reeker-s-visit-15-pows-return-latest-polls-ep-70-june-13-2021.mp3"
 youtube = "8elUzlq6whw"
 truncate = ""
-categories = ["WIR"]
+series = ["WIR"]
 upcoming = false
 Description = """ANN/Groong Week in Review - June 13, 2021
 Topics:

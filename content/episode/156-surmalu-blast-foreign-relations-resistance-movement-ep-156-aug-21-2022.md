@@ -18,7 +18,7 @@ podcast_bytes = 45717079
 podcast_file = "11184221-surmalu-blast-foreign-relations-resistance-movement-ep-156-aug-21-2022.mp3"
 youtube = "LN0538lCYCU"
 truncate = ""
-categories = ["WIR"]
+series = ["WIR"]
 upcoming = false
 Description = """Armenian News Network/Groong Week in Review - August 21, 2022
 

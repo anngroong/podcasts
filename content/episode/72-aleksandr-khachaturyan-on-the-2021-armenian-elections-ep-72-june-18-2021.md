@@ -18,7 +18,7 @@ podcast_bytes = 42659145
 podcast_file = "8724705-aleksandr-khachaturyan-on-the-2021-armenian-elections-ep-72-june-18-2021.mp3"
 youtube = "6OraCiF6azA"
 truncate = ""
-categories = ["COG"]
+series = ["COG"]
 upcoming = false
 Description = """Aleksandr Khachaturyan on the 2021 Armenian Elections
 

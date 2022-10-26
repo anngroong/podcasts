@@ -18,7 +18,7 @@ podcast_bytes = 26791659
 podcast_file = "5883073-war-in-artsakh-security-situation-diplomatic-activity-humanitarian-impact-ep-21.mp3"
 youtube = "G_eehYrtoG4"
 truncate = ""
-categories = ["WIR"]
+series = ["WIR"]
 upcoming = false
 Description = """ANN/Groong Week in Review - October 12, 2020
 

@@ -18,7 +18,7 @@ podcast_bytes = 42546065
 podcast_file = "10156783-ukraine-donetsk-luhansk-artsakh-aliyev-in-moscow-euronest-in-yerevan-ep-125-feb-27-2022.mp3"
 youtube = "NIh3RwZAAqQ"
 truncate = ""
-categories = ["WIR"]
+series = ["WIR"]
 upcoming = false
 Description = """ANN/Groong Week in Review - February 27, 2022
 

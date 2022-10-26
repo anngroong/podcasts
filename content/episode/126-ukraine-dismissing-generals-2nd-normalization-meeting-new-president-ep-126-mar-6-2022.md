@@ -18,7 +18,7 @@ podcast_bytes = 29588173
 podcast_file = "10201986-ukraine-dismissing-generals-2nd-normalization-meeting-new-president-ep-126-mar-6-2022.mp3"
 youtube = "o7pgEr569Ic"
 truncate = ""
-categories = ["WIR"]
+series = ["WIR"]
 upcoming = false
 Description = """ANN/Groong Week in Review - March 6, 2022
 

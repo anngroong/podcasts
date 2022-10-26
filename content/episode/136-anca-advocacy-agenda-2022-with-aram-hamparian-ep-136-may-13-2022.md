@@ -18,7 +18,7 @@ podcast_bytes = 44206452
 podcast_file = "10611416-anca-advocacy-agenda-2022-with-aram-hamparian-ep-136-may-13-2022.mp3"
 youtube = "WBkdmONwgJI"
 truncate = ""
-categories = ["COG"]
+series = ["COG"]
 upcoming = false
 Description = """ANCA Advocacy Agenda 2022 - MaY 13, 2022
 A Conversation with ARAM SUREN HAMPARIAN

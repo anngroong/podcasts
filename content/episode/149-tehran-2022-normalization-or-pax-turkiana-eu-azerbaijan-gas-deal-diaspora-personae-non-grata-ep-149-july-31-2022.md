@@ -18,7 +18,7 @@ podcast_bytes = 20556896
 podcast_file = "11067273-tehran-2022-normalization-or-pax-turkiana-eu-azerbaijan-gas-deal-diaspora-personae-non-grata-ep-149-july-31-2022.mp3"
 youtube = "OLd0bg1IouM"
 truncate = ""
-categories = ["WIR"]
+series = ["WIR"]
 upcoming = false
 Description = """ANN/Groong Week in Review - July 31, 2022
 

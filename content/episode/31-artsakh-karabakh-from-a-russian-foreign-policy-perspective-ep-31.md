@@ -18,7 +18,7 @@ podcast_bytes = 12552183
 podcast_file = "6798175-artsakh-karabakh-from-a-russian-foreign-policy-perspective-ep-31.mp3"
 youtube = "JEMj4cgzg04"
 truncate = ""
-categories = ["COG"]
+series = ["COG"]
 upcoming = false
 Description = """On November 9, Armenia, Azerbaijan and Russia signed The Statement ending the war in Artsakh, known more commonly as Nagorno-Karabakh. Russia emerged as a major winner, by ending the violence, introducing peacekeepers, and upholding its historical role as the regional referee in the Caucasus. What are Russia’s interests in the region, and in this agreement?
 

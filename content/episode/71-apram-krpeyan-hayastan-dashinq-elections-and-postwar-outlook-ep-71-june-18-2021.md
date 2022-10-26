@@ -18,7 +18,7 @@ podcast_bytes = 26973155
 podcast_file = "8724144-apram-krpeyan-hayastan-dashinq-elections-and-postwar-outlook-ep-71-june-18-2021.mp3"
 youtube = "thQgt2_f5rs"
 truncate = ""
-categories = ["COG"]
+series = ["COG"]
 upcoming = false
 Description = """Hayastan Dashinq (Armenia Alliance), Elections and Postwar Outlook
 

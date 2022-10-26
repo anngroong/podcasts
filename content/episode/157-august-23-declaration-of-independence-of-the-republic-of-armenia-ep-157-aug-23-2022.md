@@ -18,7 +18,7 @@ podcast_bytes = 5296791
 podcast_file = "11202663-august-23-declaration-of-independence-of-the-republic-of-armenia-ep-157-aug-23-2022.mp3"
 youtube = "bflweNUzAcU"
 truncate = ""
-categories = ["COG"]
+series = ["COG"]
 upcoming = false
 Description = """Armenian News Network/Groong - August 23, 2022
 

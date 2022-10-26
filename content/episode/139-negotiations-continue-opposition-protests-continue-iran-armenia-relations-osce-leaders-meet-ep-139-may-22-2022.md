@@ -18,7 +18,7 @@ podcast_bytes = 45211537
 podcast_file = "10671805-negotiations-continue-opposition-protests-continue-iran-armenia-relations-osce-leaders-meet-ep-139-may-22-2022.mp3"
 youtube = "qoArcffUemI"
 truncate = ""
-categories = ["WIR"]
+series = ["WIR"]
 upcoming = false
 Description = """Armenian News Network/Groong Week in Review - May 22, 2022
 

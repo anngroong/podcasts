@@ -18,7 +18,7 @@ podcast_bytes = 59393461
 podcast_file = "10077868-cost-of-pows-war-commission-degrading-norms-of-democracy-lukashenko-latest-mpg-ep-119-feb-13-2022.mp3"
 youtube = "xScL5XrsPFY"
 truncate = ""
-categories = ["WIR"]
+series = ["WIR"]
 upcoming = false
 Description = """ANN/Groong Week in Review - February 13, 2022
 

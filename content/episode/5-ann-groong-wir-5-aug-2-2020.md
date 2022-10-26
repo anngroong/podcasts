@@ -18,7 +18,7 @@ podcast_bytes = 58316560
 podcast_file = "4827524-ann-groong-wir-5-aug-2-2020.mp3"
 youtube = "mIS2ld0rz-M"
 truncate = ""
-categories = ["WIR"]
+series = ["WIR"]
 upcoming = false
 Description = """𝐀𝐍𝐍/𝐆𝐫𝐨𝐨𝐧𝐠 𝐖𝐞𝐞𝐤 𝐢𝐧 𝐑𝐞𝐯𝐢𝐞𝐰 - 𝟎𝟖/𝟎𝟐/𝟐𝟎𝟐𝟎
 

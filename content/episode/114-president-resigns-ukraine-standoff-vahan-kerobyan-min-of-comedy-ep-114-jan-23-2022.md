@@ -18,7 +18,7 @@ podcast_bytes = 42132756
 podcast_file = "9955086-president-resigns-ukraine-standoff-vahan-kerobyan-min-of-comedy-ep-114-jan-23-2022.mp3"
 youtube = "FFiC_lt_pDU"
 truncate = ""
-categories = ["WIR"]
+series = ["WIR"]
 upcoming = false
 Description = """ANN/Groong Week in Review - January 23, 2022
 

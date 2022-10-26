@@ -18,7 +18,7 @@ podcast_bytes = 68213525
 podcast_file = "10426796-opposition-brussels-alison-update-war-economy-new-poll-artsakh-ep-132-apr-10-2022.mp3"
 youtube = "xuIZ-ZYdUwM"
 truncate = ""
-categories = ["WIR"]
+series = ["WIR"]
 upcoming = false
 Description = """Armenian News Network/Groong Week in Review - April 10, 2022
 

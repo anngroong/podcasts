@@ -18,7 +18,7 @@ podcast_bytes = 52487813
 podcast_file = "9305874-saakashvili-in-georgia-putin-erdogan-in-sochi-osce-mg-in-artsakh-tonoyan-in-jail-hovik-in-stepanakert-ep-91-oct-3-2021.mp3"
 youtube = "gWZ4tkCz4xs"
 truncate = ""
-categories = ["WIR"]
+series = ["WIR"]
 upcoming = false
 Description = """ANN/Groong Week in Review - October 3, 2021
 

@@ -18,7 +18,7 @@ podcast_bytes = 35438726
 podcast_file = "5723422-armenia-azerbaijan-conflict-in-regional-context-libaridian-de-waal-oct-3-2020.mp3"
 youtube = "K96kTH66CM0"
 truncate = ""
-categories = ["COG"]
+series = ["COG"]
 upcoming = false
 Description = """Conversations on Groong - October 3, 2020
 

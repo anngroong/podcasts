@@ -18,7 +18,7 @@ podcast_bytes = 29374706
 podcast_file = "11124687-armenia-s-economy-in-2022-part-2-bank-secrecy-cashless-transactions-ep-155-august-12-2022.mp3"
 youtube = "XVbGOmS8d2k"
 truncate = ""
-categories = ["COG"]
+series = ["COG"]
 upcoming = false
 Description = """Armenia’s Economy in 2022 - PART 2
 Conversation with Vardan Aramyan

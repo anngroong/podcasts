@@ -18,7 +18,7 @@ podcast_bytes = 37591382
 podcast_file = "9509962-the-state-of-affairs-in-lebanon-the-armenian-community-a-year-after-the-beirut-blast-ep-98-nov-8-2021.mp3"
 youtube = "QKyo5nueh9M"
 truncate = ""
-categories = ["COG"]
+series = ["COG"]
 upcoming = false
 Description = """The State of Affairs in Lebanon
 A Conversation with Dr. Ohannes Geukjian and Vera Yacoubian

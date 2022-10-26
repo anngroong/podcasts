@@ -18,7 +18,7 @@ podcast_bytes = 37743954
 podcast_file = "6188845-cog-artsakh-in-the-arab-media-24-oct-28-2020.mp3"
 youtube = "fuoJOkBl5G4"
 truncate = ""
-categories = ["COG"]
+series = ["COG"]
 upcoming = false
 Description = """Conversations on Groong:
 Artsakh in the Arab Media - Oct 28, 2020

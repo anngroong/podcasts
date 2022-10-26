@@ -18,7 +18,7 @@ podcast_bytes = 31873277
 podcast_file = "5195833-cog-turkey-part-2-10-aug-28-2020.mp3"
 youtube = "cKq4ziiRZjA"
 truncate = ""
-categories = ["COG"]
+series = ["COG"]
 upcoming = false
 Description = """𝐓𝐮𝐫𝐤𝐞𝐲 - 𝐏𝐚𝐫𝐭 𝟐 - 𝟎𝟖/𝟐𝟖/𝟐𝟎𝟐𝟎
 

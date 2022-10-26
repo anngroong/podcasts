@@ -17,6 +17,7 @@ podcast_bytes = 45113094
 podcast_file = "monitors-russia-west-rivalry-iran-armenia-relations-lebanon-topics-ep-171-oct-23-2022.mp3"
 youtube = "oFLVdoGR4Bw"
 truncate = ""
+series = ["WIR"]
 upcoming = false
 Description = "Description for Episode 171"
 

@@ -18,7 +18,7 @@ podcast_bytes = 45602358
 podcast_file = "10041795-continuing-ukraine-crisis-vahagn-khachatryan-for-pres-new-iri-poll-results-ep-118-feb-6-2022.mp3"
 youtube = "FSBMviV3o6c"
 truncate = ""
-categories = ["WIR"]
+series = ["WIR"]
 upcoming = false
 Description = """ANN/Groong Week in Review - February 6, 2022
 

@@ -18,7 +18,7 @@ podcast_bytes = 30274605
 podcast_file = "4976648-cog-education-reform-in-armenia-7-aug-13-2020.mp3"
 youtube = "RMSZ5AUQV0I"
 truncate = ""
-categories = ["COG"]
+series = ["COG"]
 upcoming = false
 Description = """𝐄𝐝𝐮𝐜𝐚𝐭𝐢𝐨𝐧 𝐑𝐞𝐟𝐨𝐫𝐦 𝐢𝐧 𝐀𝐫𝐦𝐞𝐧𝐢𝐚 - 𝟎𝟖/𝟏𝟎/𝟐𝟎𝟐𝟎
 Conversations on Groong

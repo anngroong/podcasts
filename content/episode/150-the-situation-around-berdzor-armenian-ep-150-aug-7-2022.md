@@ -18,7 +18,7 @@ podcast_bytes = 23495252
 podcast_file = "11096231-the-situation-around-berdzor-armenian-ep-150-aug-7-2022.mp3"
 youtube = "0WXDyx93h0Y"
 truncate = ""
-categories = ["COG"]
+series = ["COG"]
 upcoming = false
 Description = """The Situation Around Berdzor with Hakob Hakobyan and Davit Galstyan
 

@@ -18,7 +18,7 @@ podcast_bytes = 29755466
 podcast_file = "8658018-iran-foreign-relations-upcoming-elections-ep-66-06-07-2021.mp3"
 youtube = "kjLjIs1o5HA"
 truncate = ""
-categories = ["COG"]
+series = ["COG"]
 upcoming = false
 Description = """Iran: Foreign Relations and Upcoming Elections
 A Conversation with Robert Markarian

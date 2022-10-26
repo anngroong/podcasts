@@ -18,7 +18,7 @@ podcast_bytes = 33108063
 podcast_file = "10755487-yerevan-protests-grow-artsakh-negotiations-new-mpg-results-ep-141-jun-5-2022.mp3"
 youtube = "3dPI9vsw6nk"
 truncate = ""
-categories = ["WIR"]
+series = ["WIR"]
 upcoming = false
 Description = """Armenian News Network/Groong Week in Review - June 5, 2022
 

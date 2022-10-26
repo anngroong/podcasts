@@ -18,7 +18,7 @@ podcast_bytes = 28081441
 podcast_file = "6686738-cog-soviet-or-armenian-the-life-and-times-of-anastas-ivanovich-mikoyan-28-dec-3-2020.mp3"
 youtube = "BrQQZ_CrgAE"
 truncate = ""
-categories = ["COG"]
+series = ["COG"]
 upcoming = false
 Description = """Conversations on Groong
 

@@ -18,7 +18,7 @@ podcast_bytes = 37412133
 podcast_file = "8020192-sargsyan-interview-criminalizing-defamation-appointments-during-martial-law-opp-protests-on-feb-20-govsagan-in-the-end-ep-51.mp3"
 youtube = "cpVdo1aAcUI"
 truncate = ""
-categories = ["WIR"]
+series = ["WIR"]
 upcoming = false
 Description = """𝐀𝐍𝐍 𝐆𝐫𝐨𝐨𝐧𝐠 𝐖𝐞𝐞𝐤 𝐢𝐧 𝐑𝐞𝐯𝐢𝐞𝐰 𝐄𝐩𝐢𝐬𝐨𝐝𝐞 𝟓𝟏 - 𝐅𝐞𝐛 𝟐𝟏, 𝟐𝟎𝟐𝟏
 

@@ -18,7 +18,7 @@ podcast_bytes = 39611073
 podcast_file = "9517635-war-in-artsakh-one-year-on-erika-olson-visits-region-internal-political-developments-ep-99-nov-7-2021.mp3"
 youtube = "oKQokJAoXhk"
 truncate = ""
-categories = ["WIR"]
+series = ["WIR"]
 upcoming = false
 Description = """ANN/Groong Week in Review - November 7, 2021
 

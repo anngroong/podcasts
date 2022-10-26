@@ -18,7 +18,7 @@ podcast_bytes = 52221363
 podcast_file = "4537598-ann-groong-wir-1-jul-12-2020.mp3"
 youtube = "JsyPnaeyGuo"
 truncate = ""
-categories = ["WIR"]
+series = ["WIR"]
 upcoming = false
 Description = """ANN/Groong Week in Review - 07/12/2020
 

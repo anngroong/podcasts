@@ -18,7 +18,7 @@ podcast_bytes = 50769593
 podcast_file = "8350631-armenians-at-crossroads-a-conversation-with-dr-viken-hovsepian-ep-58-04-17-2021.mp3"
 youtube = "9DsesVPgJxY"
 truncate = ""
-categories = ["COG"]
+series = ["COG"]
 upcoming = false
 Description = """Armenians at Crossroads - 04/17/2021
 

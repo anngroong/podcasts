@@ -18,7 +18,7 @@ podcast_bytes = 20804148
 podcast_file = "11503307-armenia-azerbaijan-peace-negotiations-tactics-and-goals-ep-no-168-oct-14-2022.mp3"
 youtube = "7CdfUvrcq8k"
 truncate = ""
-categories = ["COG"]
+series = ["COG"]
 upcoming = false
 Description = """Armenia-Azerbaijan “Peace Negotiations” Tactics & Goals - October 14, 2022
 

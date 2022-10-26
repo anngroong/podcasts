@@ -18,7 +18,7 @@ podcast_bytes = 18753672
 podcast_file = "6921518-opposition-talks-arthur-khachatryan-of-the-arf-dashnaktsutyun-ep-34.mp3"
 youtube = "xQxHbhDqGSI"
 truncate = ""
-categories = ["COG"]
+series = ["COG"]
 upcoming = false
 Description = """𝐂𝐨𝐧𝐯𝐞𝐫𝐬𝐚𝐭𝐢𝐨𝐧 𝐰𝐢𝐭𝐡 𝐀𝐑𝐅’𝐬 𝐀𝐫𝐭𝐡𝐮𝐫 𝐊𝐡𝐚𝐜𝐡𝐚𝐭𝐫𝐲𝐚𝐧
 

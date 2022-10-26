@@ -18,7 +18,7 @@ podcast_bytes = 36686709
 podcast_file = "9563587-armenia-attacked-border-politics-azerbaijan-back-to-osce-mg-municipal-results-ep-101-nov-14-2021.mp3"
 youtube = "k0NTtsKYb9c"
 truncate = ""
-categories = ["WIR"]
+series = ["WIR"]
 upcoming = false
 Description = """ANN/Groong Week in Review - November 7, 2021
 

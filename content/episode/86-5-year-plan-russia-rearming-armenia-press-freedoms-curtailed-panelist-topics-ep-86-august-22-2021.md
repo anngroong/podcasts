@@ -18,7 +18,7 @@ podcast_bytes = 33599359
 podcast_file = "9074863-5-year-plan-russia-rearming-armenia-press-freedoms-curtailed-panelist-topics-ep-86-august-22-2021.mp3"
 youtube = "IyefLsR6J5Q"
 truncate = ""
-categories = ["WIR"]
+series = ["WIR"]
 upcoming = false
 Description = """ANN/Groong Week in Review - August 22, 2021
 

@@ -18,7 +18,7 @@ podcast_bytes = 28879382
 podcast_file = "7251304-state-of-the-opposition-update-on-am-az-border-positions-state-of-the-artsakh-loc.mp3"
 youtube = "9Xq1RoY49qU"
 truncate = ""
-categories = ["WIR"]
+series = ["WIR"]
 upcoming = false
 Description = """𝐀𝐍𝐍/𝐆𝐫𝐨𝐨𝐧𝐠 𝐖𝐞𝐞𝐤 𝐢𝐧 𝐑𝐞𝐯𝐢𝐞𝐰 𝐄𝐩𝐢𝐬𝐨𝐝𝐞 𝟒𝟎 - 𝐉𝐚𝐧 𝟏𝟎, 𝟐𝟎𝟐𝟏
 

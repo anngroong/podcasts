@@ -18,7 +18,7 @@ podcast_bytes = 38086865
 podcast_file = "8904370-armenian-foreign-policy-between-war-and-peace-ep-80-july-22-2021.mp3"
 youtube = "lpCpkWgYb3Y"
 truncate = ""
-categories = ["COG"]
+series = ["COG"]
 upcoming = false
 Description = """Armenian Foreign policy Between War and Peace
 A Conversation with Dr. Pietro Shakarian and Yeghia Tashjian

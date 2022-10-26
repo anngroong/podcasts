@@ -18,7 +18,7 @@ podcast_bytes = 26167914
 podcast_file = "6978898-life-in-artsakh-hin-tagher-khtsaberd-political-scene-in-yerevan-kapan-border-tension-ep-35.mp3"
 youtube = "nF3w-cPYT84"
 truncate = ""
-categories = ["WIR"]
+series = ["WIR"]
 upcoming = false
 Description = """𝐀𝐍𝐍/𝐆𝐫𝐨𝐨𝐧𝐠 𝐖𝐞𝐞𝐤 𝐢𝐧 𝐑𝐞𝐯𝐢𝐞𝐰 𝐄𝐩𝐢𝐬𝐨𝐝𝐞 𝟑𝟓 - 𝐃𝐞𝐜 𝟐𝟎, 𝟐𝟎𝟐𝟎
 
