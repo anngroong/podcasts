@@ -1,7 +1,8 @@
+
 +++
 
-title = "Armenia-Azerbaijan “Peace Negotiations” Tactics and Goals | Ep 168 - Oct. 14, 2022"
-date = 2022-10-14T00:00:00+04:00
+title = "Armenia-Azerbaijan “Peace Negotiations” Tactics and Goals | Ep No. 168 - Oct. 14, 2022"
+date = 2022-10-14T18:28:51
 draft = false
 explicit = "no"
 
@@ -12,18 +13,33 @@ episode_image = "img/episode/default.jpg"
 episode_banner = "img/episode/default-banner.jpg"
 guests = ["bpoghosyan"]
 images = ["img/episode/default-social.jpg"]
-podcast_duration = "00:28:52"
-podcast_bytes = 45113094
-podcast_file = "armenia-azerbaijan-peace-negotiations-tactics-and-goals-ep-no-168-oct-14-2022.mp3"
+podcast_duration = "0:28:49"
+podcast_bytes = 20804148
+podcast_file = "11503307-armenia-azerbaijan-peace-negotiations-tactics-and-goals-ep-no-168-oct-14-2022.mp3"
 youtube = "7CdfUvrcq8k"
 truncate = ""
+categories = ["COG"]
 upcoming = false
-Description = "Armenia-Azerbaijan “Peace Negotiations” Tactics and Goals"
+Description = """Armenia-Azerbaijan “Peace Negotiations” Tactics & Goals - October 14, 2022
+
+Guest: 
+* Benyamin Poghosyan, is the Chairman of the Yerevan based think tank Center for Political and Economic Strategic Studies,
+
+Topics:
+* Goals and Tactics of Azerbaijan’s Negotiations
+* How did “Corridors” Become a Thing?
+* Russia’s Contributions to the process
+* Options and Scenarios Going Forward
+
+Hosts:
+* Asbed Bedrossian TW/@qubriq
+* Hovik Manucharyan TW/@HovikYerevan
+
+Episode 168 | Recorded: Friday, October 14, 2022
+Show notes: https://groong.org/podcasts/CoG-20221014.html
+"""
 
 +++
-
-
-
 
 # Introduction
 

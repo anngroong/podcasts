@@ -1,27 +1,51 @@
+
 +++
 
-title = "The LA City Council Scandal, Ep 170 - Oct. 21, 2022"
-date = 2022-10-21T03:14:29+04:00
+title = "The LA City Council Scandal | Ep 170 - Oct. 21, 2022"
+date = 2022-10-21T16:58:34
 draft = false
 explicit = "no"
 
 aliases = ["/170"]
-author = "Armenian News Network/Groong"
+author = "Armenian News Network - Groong"
 episode = "170"
 episode_image = "img/episode/default.jpg"
 episode_banner = "img/episode/default-banner.jpg"
-guests = ["akassakhian", "anazarian"]
+guests = ["akassakhian","anazarian"]
 images = ["img/episode/default-social.jpg"]
-podcast_duration = "00:53:55"
+podcast_duration = "0:53:55"
 podcast_bytes = 38873717
 podcast_file = "11546033-the-la-city-council-scandal-ep-no-170-oct-21-2022.mp3"
 youtube = "VnzUdKwGsS8"
 truncate = ""
+categories = ["COG"]
 upcoming = false
-Description = "The LA City Council Scandal, Ep 170, Oct 21, 2022"
+Description = """The LA City Council Scandal | Ep 170 - Oct. 21, 2022
+
+Conversations on Groong
+
+Guest: 
+* Ardashes ‘Ardy’ Kassakhian who is a Glendale City Councilman, and the current mayor of Glendale - TW/@ArdyKassakhian
+* Adrin Nazarian is the California State Assemblymember from the 46th District, representing the San Fernando Valley - TW/@adrin_nazarian
+
+Topics:
+* On the LA City Council scandal and how to move forward
+* On Paul Krekorian, elected LA City Council president
+* On redistricting in the aftermath of the scandal
+* On the effect of the scandal on the LA mayoral race
+* On Armenia’s Situation in the South Caucasus
+* On Armenia’s Negotiations with Azerbaijan
+* On Turkish-Armenian “Normalization”
+
+Hosts:
+* Asbed Bedrossian TW/@qubriq
+* Hovik Manucharyan TW/@HovikYerevan
+
+Episode 170 | Recorded: October 19 & 20, 2022
+Show notes: https://groong.org/podcasts/CoG-20221021.html
+"""
 
 +++
-
 
 # Introduction
 
