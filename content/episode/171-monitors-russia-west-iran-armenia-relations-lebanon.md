@@ -19,7 +19,30 @@ youtube = "oFLVdoGR4Bw"
 truncate = ""
 series = ["WIR"]
 upcoming = false
-Description = "Description for Episode 171"
+Description = """Armenian News Network - Groong Week in Review - Oct 23, 2022
+
+Topics:
+
+Monitors in Armenia
+Russia-West Rivalry in the South Caucasus
+Armenian-Iranian Relations
+Maritime Agreement between Israel and Lebanon
+State of Lebanon’s Presidential Election
+
+Guest:
+
+Arthur Khachikyan
+Yeghia Tashjian - TW/@Yeghig
+
+
+Hosts:
+
+Hovik Manucharyan TW/@HovikYerevan
+Asbed Bedrossian TW/@qubriq
+
+
+Episode 171 | Recorded: October 23, 2022
+"""
 
 +++
 
