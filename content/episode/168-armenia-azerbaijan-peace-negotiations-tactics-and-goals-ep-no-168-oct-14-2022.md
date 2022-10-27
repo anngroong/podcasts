@@ -79,7 +79,7 @@ This episode was recorded on Friday, October 14, 2022.
 Thanks to Laura Osborn for the music on our podcasts. On behalf of everyone in this episode, we thank you for listening. Stay well, we’ll be back next week.
 
  
-#[Groong Channels](https://linktr.ee/groong)
+# [Groong Channels](https://linktr.ee/groong)
 
 
 * Facebook Group:[ Groong - Armenian News Network](https://facebook.com/groups/groong/)
