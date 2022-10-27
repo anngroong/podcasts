@@ -41,15 +41,6 @@ Show notes: https://groong.org/podcasts/CoG-20221014.html
 
 +++
 
-# Introduction
-
-Hello and welcome to the Armenian News Network, **Groong**, I’m Asbed Bedrossian, here with Hovik Manucharyan.
-
-This **Conversations on Groong** episode came about from our discussion with Benyamin Poghosyan a few days ago during last week’s Week-in-Review.
-
-This episode was recorded on Friday, October 14, 2022.
-
-
 # Armenia-Azerbaijan “Peace Negotiations” Tactics and Goals
 
 
@@ -83,14 +74,12 @@ You note that this is probably just a negotiating, psychological tactic. Discuss
 
 # Wrap-up
 
-That was our[ show](https://groong.org/podcasts/) and we hope you found it helpful. We invite your feedback and your suggestions. You can[ find us](https://linktr.ee/groong) on most social media and podcast platforms, or our website[ Groong.org](https://groong.org/). Don’t forget to subscribe to our channel on YouTube, **Follow** us on Twitter, and **Like** our Facebook page.
+This episode was recorded on Friday, October 14, 2022.
 
 Thanks to Laura Osborn for the music on our podcasts. On behalf of everyone in this episode, we thank you for listening. Stay well, we’ll be back next week.
 
-
-# 
-[Groong Channels](https://linktr.ee/groong)
-
+ 
+#[Groong Channels](https://linktr.ee/groong)
 
 
 * Facebook Group:[ Groong - Armenian News Network](https://facebook.com/groups/groong/)
