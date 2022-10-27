@@ -23,7 +23,7 @@ upcoming = false
 Description = """Armenia-Azerbaijan “Peace Negotiations” Tactics & Goals - October 14, 2022
 
 Guest: 
-* Benyamin Poghosyan, is the Chairman of the Yerevan based think tank Center for Political and Economic Strategic Studies,
+* Benyamin Poghosyan, is the Chairman of the Yerevan based think tank Center for Political and Economic Strategic Studies.
 
 Topics:
 * Goals and Tactics of Azerbaijan’s Negotiations
@@ -35,7 +35,6 @@ Hosts:
 * Asbed Bedrossian TW/@qubriq
 * Hovik Manucharyan TW/@HovikYerevan
 
-Episode 168 | Recorded: Friday, October 14, 2022
 Show notes: https://groong.org/podcasts/CoG-20221014.html
 """
 
@@ -49,11 +48,6 @@ Show notes: https://groong.org/podcasts/CoG-20221014.html
 Since the end of the 44-day war Benyamin has advised caution to Armenia’s leadership in negotiating for a so-called “peace” with Azerbaijan, and that any final agreement that leaves out Nagorno Karabakh means that ultimately it will be depopulated of Armenians.
 
 
-## Guests
-
-bpoghosyan
-
-
 ## Discussion
 
 Benyamin, on Monday we discussed last week's geopolitical issues and something stuck in my mind, so that is why we’re back to discuss this one topic today.
@@ -63,8 +57,6 @@ You said that we should try to understand that there's a difference for Azerbaij
 The November 2020 agreement created for Armenia an impression that 2 major demands were equally important and imperative for Azerbaijan: the issue of Nagorno Karabakh, and the issue of corridors (through Syunik). And because Armenia lost the war in 2020, it was put in front of a situation of not being able to reject these demands. But that in fact, the negotiation signal to Armenia was that perhaps it had a choice of rejecting one, and possibly to save face.
 
 You note that this is probably just a negotiating, psychological tactic. Discuss:
-
-
 
 * Goals and Tactics of Azerbaijan’s Negotiations
 * How did “Corridors” Become a Thing?
@@ -76,7 +68,7 @@ You note that this is probably just a negotiating, psychological tactic. Discuss
 
 This episode was recorded on Friday, October 14, 2022.
 
-Thanks to Laura Osborn for the music on our podcasts. On behalf of everyone in this episode, we thank you for listening. Stay well, we’ll be back next week.
+Thanks to Laura Osborn for the music on our podcasts.
 
  
 # [Groong Channels](https://linktr.ee/groong)
