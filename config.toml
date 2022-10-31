@@ -90,10 +90,10 @@ disqusShortname = ""
     youtube = "groong"
 
   [params.authors]
-    [params.authors.Matt]
+    [params.authors.Asbed]
       name	= "Asbed Bedrossian"
       thumbnail = "img/host/asbed.jpg"
-      bio = ""
+      bio = "Asbed is founder of Groong and co-founder of the ANN/Groong podcast."
       [params.authors.Asbed.social]
         facebook = "qubriq"
         twitter = "qubriq"
@@ -101,7 +101,7 @@ disqusShortname = ""
     [params.authors.Hovik]
       name = "Hovik Manucharyan"
       thumbnail = "img/host/hovik.jpg"
-      bio = ""
+      bio = "Hovik Manucharyan is co-founder of the ANN/Groong podcast and a contributor to Groong news since the late 1990s."
       [params.authors.Hovik.social]
         facebook = "HovikYerevan"
         twitter = "HovikYerevan"
