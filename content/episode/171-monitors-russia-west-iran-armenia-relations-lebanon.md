@@ -34,15 +34,13 @@ State of Lebanon’s Presidential Election
 
 Guest:
 
-Arthur Khachikyan
-Yeghia Tashjian - TW/@Yeghig
-
+* Arthur Khachikyan
+* Yeghia Tashjian - TW/@Yeghig
 
 Hosts:
 
-Hovik Manucharyan TW/@HovikYerevan
-Asbed Bedrossian TW/@qubriq
-
+* Hovik Manucharyan TW/@HovikYerevan
+* Asbed Bedrossian TW/@qubriq
 
 Episode 171 | Recorded: October 23, 2022
 """
