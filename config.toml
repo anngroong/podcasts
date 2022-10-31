@@ -99,6 +99,13 @@ disqusShortname = ""
       [params.authors.Asbed.social]
         facebook = "qubriq"
         twitter = "qubriq"
+        github = ""
+        linkedin = ""
+        homepage = ""
+        pinterest = ""
+        instagram = ""
+        youtube = ""
+        twitch = ""
 
     [params.authors.Hovik]
       name = "Hovik Manucharyan"
@@ -108,6 +115,13 @@ disqusShortname = ""
       [params.authors.Hovik.social]
         facebook = "HovikYerevan"
         twitter = "HovikYerevan"
+        github = ""
+        linkedin = ""
+        homepage = ""
+        pinterest = ""
+        instagram = ""
+        youtube = ""
+        twitch = ""
 
     [params.links]
       [params.links.ado]
