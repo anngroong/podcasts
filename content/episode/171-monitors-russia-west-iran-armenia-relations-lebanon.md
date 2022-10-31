@@ -11,6 +11,7 @@ episode = "171"
 episode_image = "img/episode/default.jpg"
 episode_banner = "img/episode/default-banner.jpg"
 guests = ["akhachikyan", "ytashjian"]
+hosts = ["asbed", "hovik"]
 images = ["img/episode/default-social.jpg"]
 podcast_duration = "01:02:35"
 podcast_bytes = 45113094
