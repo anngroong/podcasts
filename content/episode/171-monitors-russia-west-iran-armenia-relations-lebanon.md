@@ -34,8 +34,8 @@ Topics:
 
 Guest:
 
-* [Arthur Khachikyan](./guest/akhachikyan)
-* [Yeghia Tashjian](./guest/ytashjian) [@Yeghig](https://twitter.com/yeghig)
+* [Arthur Khachikyan](/guest/akhachikyan)
+* [Yeghia Tashjian](/guest/ytashjian) [@Yeghig](https://twitter.com/yeghig)
 
 Hosts:
 
