@@ -1,6 +1,6 @@
 +++
 
-title = "Monitors | Russia-West Rivalry | Iran-Armenia Relations | Lebanon topics"
+title = "Monitors | Russia-West Rivalry | Iran-Armenia | Lebanon"
 date = 2022-10-23T00:00:00+04:00
 draft = false
 explicit = "no"
