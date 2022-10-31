@@ -34,13 +34,13 @@ State of Lebanon’s Presidential Election
 
 Guest:
 
-* Arthur Khachikyan
-* Yeghia Tashjian - TW/@Yeghig
+* [Arthur Khachikyan](./guest/akhachikyan)
+* [Yeghia Tashjian](./guest/ytashjian) [@Yeghig](https://twitter.com/yeghig)
 
 Hosts:
 
-* Hovik Manucharyan TW/@HovikYerevan
-* Asbed Bedrossian TW/@qubriq
+* [Hovik Manucharyan](./host/hovik/) [@HovikYerevan](https://twitter.com/HovikYerevan)
+* [Asbed Bedrossian](./host/asbed/) [@qubriq](https://twitter.com/qubriq)
 
 Episode 171 | Recorded: October 23, 2022
 """
@@ -72,11 +72,9 @@ Here are the major topics we’ll touch on today:
 
 To talk about these issues, we have with us:
 
-**Dr. Arthur Khachikyan, **who is an International Relations expert from Stanford University, specializing in Intervention. He currently teaches at the Russian Armenian University in Yerevan.
+* **Dr. Arthur Khachikyan**, who is an International Relations expert from Stanford University, specializing in Intervention. He currently teaches at the Russian Armenian University in Yerevan. AND
 
-And
-
-**Yeghia Tashjian, **who is a regional analyst and researcher based in Beirut, with expertise in China, Iran and the Persian Gulf. Tashjian is Associate Fellow at the Issam Fares Institute for Public Policy and International Affairs at the American University of Beirut and a part-time instructor in International Affairs at the American University for Science and Technology.
+* **Yeghia Tashjian**, who is a regional analyst and researcher based in Beirut, with expertise in China, Iran and the Persian Gulf. Tashjian is Associate Fellow at the Issam Fares Institute for Public Policy and International Affairs at the American University of Beirut and a part-time instructor in International Affairs at the American University for Science and Technology.
 
 
 # Topics This Week
