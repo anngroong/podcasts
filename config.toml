@@ -34,6 +34,11 @@ show_next_upcoming = false
     url = "/contact"
 
 [[Menu.Main]]
+    name = "Categories"
+    identifier = "categories"
+    url = "/categories"
+
+[[Menu.Main]]
     name = "Hosts"
     identifier = "hosts"
     url = "/host"
