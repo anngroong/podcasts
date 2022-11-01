@@ -18,6 +18,7 @@ podcast_bytes = 45113094
 podcast_file = "monitors-russia-west-rivalry-iran-armenia-relations-lebanon-topics-ep-171-oct-23-2022.mp3"
 youtube = "oFLVdoGR4Bw"
 truncate = ""
+categories = ["Politics", "Artsakh", "Diaspora"]
 series = ["WIR"]
 
 tags = ["Arthur Khachikyan", "Yeghia Tashijian", "Armenia", "Azerbaijan", "Iran", "India", "Military cooperation", "Iran drones", "MLRS", "Missiles", "South Caucasus", "EU Monitoring Mission", "OSCE Mission", "CSTO peacekeepers", "Observers", "Lebanon", "Maritime Agreement", "Turkey", "Russia", "Corridors", "Peace Negotiations", "UNIFIL", "Israel", "Michel Aoun", "Emmanuel Macron", "Abdollahian", "Frank Pallone", "Ukraine", "Ukraine War", "North-South Corridor"]

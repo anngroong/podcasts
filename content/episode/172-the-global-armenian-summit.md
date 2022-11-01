@@ -1,4 +1,5 @@
 +++
+
 Date = 2022-10-30T03:00:00-07:00
 podcast_file = "11593703-the-global-armenian-summit-ep-172-oct-30-2022.mp3"
 podcast_duration = "32:12"
@@ -14,11 +15,10 @@ images = ["img/episode/default-social.jpg"]
 aliases = ["/172"]
 youtube = "W-rR9HYSq8s"
 explicit = "no"
-#categories = []
+categories = ["Diaspora", "Politics", "Artsakh"]
 series = ["COG"]
 tags = ["Harut Sassounian", "Armenia", "Global Armenian Summit", "Artsakh", "Nagorno Karabakh", "Diaspora", "Armenian Diaspora"]
-Description = """The Global Armenian Summit | Ep 172 - Oct. 30, 2022
-Conversations on Groong
+Description = """The Global Armenian Summit | Ep 172 - Oct 30, 2022
 
 Guest: 
 * [Harut Sassounian](/guest/hsassounian)
