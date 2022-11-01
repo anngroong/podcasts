@@ -12,6 +12,7 @@ episode = "97"
 episode_image = "img/episode/default.jpg"
 episode_banner = "img/episode/default-banner.jpg"
 guests = ["vdavies","hwatenpaugh"]
+hosts = ["smaghakyan"]
 images = ["img/episode/default-social.jpg"]
 podcast_duration = "0:36:41"
 podcast_bytes = 26466329

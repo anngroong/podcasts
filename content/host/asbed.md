@@ -1,6 +1,6 @@
 +++
 Date = 2022-10-24T05:08:52+04:00
-title = ""
+title = "Asbed Bedrossian"
 Pronouns = ""
 Twitter = "qubriq"
 Website = ""

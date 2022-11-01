@@ -16,3 +16,5 @@ Twitch = ""
 #Aka = []
 #guest_group = ""
 +++
+
+Isabel Bayrakdarian who is a mother, singer, teacher, poet, artist, storyteller, collaborator, believer… Not your average prima donna!
