@@ -17,6 +17,7 @@ show_next_upcoming = false
 	# page = "/:filename/"
 	about = "/:filename/"
 	episode = "/:filename/"
+	blog = "/:filename/"
 
 
 # The theme supports menus with up to one submenu per menu item
@@ -64,11 +65,11 @@ disable_title_caps = "true"
 copyright_notice = "Copyright 2022 [Armenian News Network - Groong](https://groong.org)"
 youtube_subscribe = "https://www.youtube.com/c/groong?sub_confirmation=1"
 itunes_subscribe = "https://podcasts.apple.com/us/podcast/armenian-news-network-groong-week-in-review-podcast/id1524235399?ign-mpt=uo%3D4&mt=2"
-android_subscribe = "https://www.subscribeonandroid.com/feeds.buzzsprout.com/1215113.rss"
+# android_subscribe = "https://www.subscribeonandroid.com/feeds.buzzsprout.com/1215113.rss"
 spotify_subscribe = "https://open.spotify.com/show/53y8G068hkWOvE6W0LUjDK?si=75f22dec938947a1&nd=1"
 google_play_subscribe = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS8xMjE1MTEzLnJzcw"
 rss_subscribe = "https://feeds.buzzsprout.com/1215113.rss"
-stitcher_subscribe = "https://www.stitcher.com/show/armenian-news-network-groong-week-in-review"
+# stitcher_subscribe = "https://www.stitcher.com/show/armenian-news-network-groong-week-in-review"
 description = "Armenian podcast providing objective coverage on #armenia, #artsakh (#nagornokarabakh) and the #armenian diaspora. Find us and follow us everywhere on social media. Here are our links: [linktr.ee/groong](https://linktr.ee/groong)."
 
 media_prefix = "https://www.buzzsprout.com/1215113/"
