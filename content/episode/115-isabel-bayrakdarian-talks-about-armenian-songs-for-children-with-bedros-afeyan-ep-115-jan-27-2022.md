@@ -12,6 +12,7 @@ episode = "115"
 episode_image = "img/episode/default.jpg"
 episode_banner = "img/episode/default-banner.jpg"
 guests = ["ibayrakdarian"]
+hosts = ["bafeyan"]
 images = ["img/episode/default-social.jpg"]
 podcast_duration = "1:17:47"
 podcast_bytes = 56057231
@@ -30,10 +31,10 @@ Topics:
 * Isabel's Favorites and Influences
 
 Guest:
-* Isabel Bayrakdarian TW/@IBsoprano
+* [Isabel Bayrakdarian](/guest/ibayrakdarian) [@IBsoprano](https://twitter.com/IBsoprano)
 
 Hosts:
-* Dr. Bedros Afeyan
+* [Dr. Bedros Afeyan](/host/bafeyan)
 
 Song Excerpts list & timestamps:
 (Note: All excerpts used with permission)
