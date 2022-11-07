@@ -17,7 +17,7 @@ youtube = "acolMbdkN0E"
 explicit = "no"
 categories = ["Politics", "Armenia"]
 series = ["COG"]
-tags = ["Arthur Khachatryan", "ARF", "Stepanakert", "Artsakh", "Nagorno Karabakh", "Azerbaijan", "November 5", "Lavrov Plan", "Sullivan Plan", "Sergei Lavrov", "United States", "Russia", "State Department", "Hayastan Dashing", "Armenia Alliance", "UN Charter", "Opposition", "Vladimir Putin", "Ilham Aliyev", "Nikol Pashinyan"]
+tags = ["Arthur Khachatryan", "ARF", "Stepanakert", "Artsakh", "Nagorno Karabakh", "Azerbaijan", "November 5", "Lavrov Plan", "Sullivan Plan", "Sergei Lavrov", "United States", "Russia", "State Department", "Hayastan Dashinq", "Armenia Alliance", "UN Charter", "Opposition", "Vladimir Putin", "Ilham Aliyev", "Nikol Pashinyan"]
 
 Description = """Arthur Khachatryan: Resistance Movement and the "Sullivan Plan" | Ep 174 - Nov 3, 2022
 
