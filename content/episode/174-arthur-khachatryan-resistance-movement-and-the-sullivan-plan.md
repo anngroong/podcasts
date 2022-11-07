@@ -7,8 +7,8 @@ podcast_bytes = "24164504"
 episode_image = "img/episode/default.jpg"
 #episode_banner = ""
 guests = ["akhachatryan"]
-hosts = ["asbed", "hovik"]
-episode = "173"
+hosts = ["hovik", "asbed"]
+episode = "174"
 title = "Arthur Khachatryan: Resistance Movement and the ‘Sulivan Plan’"
 subtitle = "Armenian News Network - Conversations on Groong - Nov 3, 2022"
 images = ["img/episode/default-social.jpg"]
@@ -24,7 +24,7 @@ Description = """Arthur Khachatryan: Resistance Movement and the "Sullivan Plan"
 Armenian News Network - Conversations on Groong - Nov 3, 2022
 
 Guest: 
-* [Arthur Khachatryan](/guest/akhachatryan [@Arthur.Khachatryan](https://www.facebook.com/arthur.khachatryan)
+* [Arthur Khachatryan](/guest/akhachatryan) [@Arthur.Khachatryan](https://www.facebook.com/arthur.khachatryan)
 
 Topics:
 * Massive Stepanakert Rally
@@ -36,7 +36,7 @@ Hosts:
 * [Hovik Manucharyan](/host/hovik/) [@HovikYerevan](https://twitter.com/HovikYerevan)
 * [Asbed Bedrossian](/host/asbed/) [@qubriq](https://twitter.com/qubriq)
 
-Episode 173 | Recorded: November 1, 2022"""
+Episode 174 | Recorded: November 1, 2022"""
 
 +++
 
