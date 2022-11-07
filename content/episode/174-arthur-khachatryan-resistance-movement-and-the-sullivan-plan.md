@@ -18,12 +18,13 @@ explicit = "no"
 categories = ["Politics", “Armenia”]
 series = ["COG"]
 tags = [“Arthur Khachatryan”, “ARF”, “Stepanakert”, “Armenia", "Artsakh", "Nagorno Karabakh", "Azerbaijan", "November 5”, "South Caucasus", "Lavrov Plan", "Sullivan Plan", "Sergei Lavrov", “Russia”, “United States”, "State Department", “Armenia Alliance”, “Hayastan Dashinq”, “UN Charter”, “Alma Ata”, “Opposition”, "Vladimir Putin", "Ilham Aliyev", "Nikol Pashinyan"]
+
 Description = """Arthur Khachatryan: Resistance Movement and the ‘Sulivan Plan’ | Ep 174 - Nov 3, 2022
 
 Armenian News Network - Conversations on Groong - Nov 3, 2022
 
 Guest: 
-* [Arthur Khachatryan](/guest/akhachatryan) [Arthur Khachatryan](https://www.facebook.com/arthur.khachatryan)
+* [Arthur Khachatryan](/guest/akhachatryan) [@Arthur.Khachatryan](https://www.facebook.com/arthur.khachatryan)
 
 Topics:
 * Stepanakert Rally
@@ -31,7 +32,6 @@ Topics:
 * Upcoming Protest on November 5
 
 Hosts:
-
 * [Hovik Manucharyan](/host/hovik/) [@HovikYerevan](https://twitter.com/HovikYerevan)
 * [Asbed Bedrossian](/host/asbed/) [@qubriq](https://twitter.com/qubriq)
 
