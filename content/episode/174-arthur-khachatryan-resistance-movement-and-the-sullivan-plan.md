@@ -17,7 +17,7 @@ youtube = "acolMbdkN0E"
 explicit = "no"
 categories = ["Politics", “Armenia”]
 series = ["COG"]
-tags = [“Arthur Khachatryan”, “ARF”, “Stepanakert”, “Armenia", "Artsakh", "Nagorno Karabakh", "Azerbaijan", "November 5”, South Caucasus", "Lavrov Plan", "Sullivan Plan", "Sergei Lavrov", “Russia”, “United States”, "State Department", “Armenia Alliance”, “Hayastan Dashinq”, “UN Charter”, “Alma Ata”, “Opposition”, "Vladimir Putin", "Ilham Aliyev", "Nikol Pashinyan"]
+tags = [“Arthur Khachatryan”, “ARF”, “Stepanakert”, “Armenia", "Artsakh", "Nagorno Karabakh", "Azerbaijan", "November 5”, "South Caucasus", "Lavrov Plan", "Sullivan Plan", "Sergei Lavrov", “Russia”, “United States”, "State Department", “Armenia Alliance”, “Hayastan Dashinq”, “UN Charter”, “Alma Ata”, “Opposition”, "Vladimir Putin", "Ilham Aliyev", "Nikol Pashinyan"]
 Description = """Arthur Khachatryan: Resistance Movement and the ‘Sulivan Plan’ | Ep 174 - Nov 3, 2022
 
 Armenian News Network - Conversations on Groong - Nov 3, 2022
