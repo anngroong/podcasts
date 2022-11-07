@@ -19,20 +19,17 @@ categories = ["Politics", "Armenia"]
 series = ["COG"]
 tags = ["Arthur Khachatryan", "ARF", "Stepanakert", "Artsakh", "Nagorno Karabakh", "Azerbaijan", "November 5", "Lavrov Plan", "Sullivan Plan", "Sergei Lavrov", "United States", "Russia", "State Department", "Hayastan Dashinq", "Armenia Alliance", "UN Charter", "Opposition", "Vladimir Putin", "Ilham Aliyev", "Nikol Pashinyan"]
 
-Description = """Arthur Khachatryan: Resistance Movement and the "Sullivan Plan" | Ep 174 - Nov 3, 2022
+Description = """Armenian News Network - Conversations on Groong - Nov 3, 2022 | Ep 174 - Nov 3, 2022
 
-Armenian News Network - Conversations on Groong - Nov 3, 2022
-
-Guest: 
-* [Arthur Khachatryan](/guest/akhachatryan) [@Arthur.Khachatryan](https://www.facebook.com/arthur.khachatryan)
-
-Topics:
+## Topics
 * Massive Stepanakert Rally
 * Sullivan Plan vs. Russian Plan
 * Upcoming Protest on November 5
 
-Hosts:
+## Guest
+* [Arthur Khachatryan](/guest/akhachatryan) [@Arthur.Khachatryan](https://www.facebook.com/arthur.khachatryan)
 
+## Hosts
 * [Hovik Manucharyan](/host/hovik/) [@HovikYerevan](https://twitter.com/HovikYerevan)
 * [Asbed Bedrossian](/host/asbed/) [@qubriq](https://twitter.com/qubriq)
 
@@ -40,7 +37,6 @@ Episode 174 | Recorded: November 3, 2022"""
 
 +++
 
-# Discussion
 
 ## Stepanakert Rally
 A day prior to the meeting, on October 30, tens of thousands of people gathered in Stepanakert’s Renaissance Square.
