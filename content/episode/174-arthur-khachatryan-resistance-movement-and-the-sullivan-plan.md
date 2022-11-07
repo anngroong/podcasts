@@ -36,12 +36,13 @@ Hosts:
 * [Hovik Manucharyan](/host/hovik/) [@HovikYerevan](https://twitter.com/HovikYerevan)
 * [Asbed Bedrossian](/host/asbed/) [@qubriq](https://twitter.com/qubriq)
 
-Episode 174 | Recorded: November 1, 2022"""
+Episode 174 | Recorded: November 3, 2022"""
 
 +++
 
+# Discussion
 
-Stepanakert Rally
+## Stepanakert Rally
 A day prior to the meeting, on October 30, tens of thousands of people gathered in Stepanakert’s Renaissance Square.
 * What was the objective of the rally and was it achieved?
  
@@ -50,7 +51,7 @@ One of the calls heard from Renaissance Square, was an appeal to the Russian Fed
 * How much hope is there given the recent declaration in Sochi?
  
  
-Sullivan Plan vs Putin’s Plan
+## Sullivan Plan vs Putin’s Plan
  
 In the analyst community it is common belief that there are two competing plans for signing a so-called “peace treaty” between Armenia and Azerbaijan.
  
@@ -71,7 +72,8 @@ The statement continued to put an equal weight between Azerbaijan’s maximalist
 * Some politicians have expressed the position that it is in the best interests of Armenia not to sign anything at this time. Do you agree? If so, how should Armenia respond to pressures from all sides to sign what would be qualified as another capitulation?
  
  
-Upcoming Protest on November 5
+## Upcoming Protest on November 5
+
 Following the protest in Stepanakert the Armenian opposition has announced a demonstration in Yerevan on November 5.
 * Are you concerned about apathy from people?
 * What explains the long pause in opposition protests?
