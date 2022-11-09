@@ -1,11 +1,10 @@
 +++
 
 Date = 2022-11-08T03:00:00-07:00
-podcast_file = "11615732-stepanakert-rally-sullivan-plan-csto-meeting-sochi-trilateral-tehran-summit-ep-173-oct-30-2022.mp3"
-podcast_duration = "1:06:50"
-podcast_bytes = "46730929"
+podcast_file = "11659177-border-delimitations-fms-meet-in-dc-azerbaijan-iran-ruben-vardanyan-ep-175-nov-6-2022.mp3"
+podcast_duration = "56:00"
+podcast_bytes = "40373381"
 episode_image = "img/episode/default.jpg"
-
 #episode_banner = ""
 guests = ["amartirosyan"]
 hosts = ["hovik", "asbed"]
@@ -14,11 +13,11 @@ title = "Latest 'Peace' Developments | Belliscose Statements Between Azerbaijan 
 subtitle = "Armenian News Network - Groong Week in Review - Nov 6, 2022"
 images = ["img/episode/default-social.jpg"]
 aliases = ["/175"]
-youtube = "TNY0F3qQvxI"
+youtube = "TDc_QOhqY5M"
 explicit = "no"
 categories = ["Politics", "Artsakh"]
-series = ["COG"]
-tags = ["Arthur Martirosyan", "Armenia", "Artsakh", "Nagorno Karabakh", "Azerbaijan", "Russia", "Sochi", "Sullivan Plan", "Brussels", "Ararat Mirzoyan", "Jeyhun Bayramov", "Borders", "Peace Negotiations", "United States", "EU", "European Union", "Vladimir Putin", "Ilham Aliyev", "Iran", "Turkey"]
+series = ["WIR"]
+tags = ["Annalena Baerbock", "Anthony Blinken", "Ararat Mirzoyan", "Arayik Harutyunyan", "Armen Grigoryan", "Armenia", "Artak Beglaryan", "Arthur Martirosyan", "Azerbaijan", "Benjamin Netanyahu", "Borders", "Brussels", "EU", "European Union", "Iran", "Israel", "Jake Sullivan", "Jeyhun Bayramov", "Negotiations", "Peace Negotiations", "Ruben Vardanyan", "Russia", "Sergey Lavrov", "Shahcheragh", "Sochi", "South Azerbaijan Republic", "Stepanakert", "Sullivan Plan", "Turkey", "United States", "Ursula von der Leyen", "Valdai", "Vladimir Putin", "Washington DC", "Yerevan"]
 
 Description = """
 Guest: 
