@@ -10,7 +10,7 @@ episode_image = "img/episode/default.jpg"
 guests = ["amartirosyan"]
 hosts = ["hovik", "asbed"]
 episode = "175"
-title = "Latest 'Peace' Developments | Ruben Vardanyan State Minister of Artsakh"
+title = "Latest 'Peace' Developments | Ruben Vardanyan State Minister of Artsakh | Belliscose Statements Between Azerbaijan and Iran"
 subtitle = "Armenian News Network - Groong Week in Review - Nov 6, 2022"
 images = ["img/episode/default-social.jpg"]
 aliases = ["/175"]
@@ -20,11 +20,7 @@ categories = ["Politics", "Artsakh"]
 series = ["COG"]
 tags = ["Arthur Martirosyan", "Armenia", "Artsakh", "Nagorno Karabakh", "Azerbaijan", "Russia", "Sochi", "Sullivan Plan", "Brussels", "Ararat Mirzoyan", "Jeyhun Bayramov", "Borders", "Peace Negotiations", "United States", "EU", "European Union", "Vladimir Putin", "Ilham Aliyev", "Iran", "Turkey"]
 
-Description = """Latest 'Peace' Developments | Ruben Vardanyan State Minister of Artsakh | Ep 175 - Nov 6, 2022
-
-Armenian News Network - Groong Week in Review - Nov 6, 2022
-
-Guest: 
+Description = """Guest: 
 * [Arthur G. Martirosyan](/guest/amartirosyan) [@ArthurMartirosyan](https://www.facebook.com/arthur.martirosyan1)
 
 Topics:
@@ -34,10 +30,6 @@ Topics:
 * Bellicose Statements Between Azerbaijan and Iran
 * Ruben Vardanyan Takes Over as State Minister of Artsakh
 
-Hosts:
-
-* [Hovik Manucharyan](/host/hovik/) [@HovikYerevan](https://twitter.com/HovikYerevan)
-* [Asbed Bedrossian](/host/asbed/) [@qubriq](https://twitter.com/qubriq)
 
 Episode 175 | Recorded: November 8, 2022"""
 
