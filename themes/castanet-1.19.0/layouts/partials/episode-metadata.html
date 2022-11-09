@@ -5,6 +5,3 @@
 {{ with .Param "series" }}
     | Series: {{ partial "series.html" $pageScope}}
 {{ end }}
-{{ with .Param "tags" }}
-    | {{ partial "tags.html" $pageScope}}
-{{ end }}

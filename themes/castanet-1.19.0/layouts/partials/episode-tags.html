@@ -1,0 +1,4 @@
+{{ $pageScope := . }}
+{{ with .Param "tags" }}
+    Tags: {{ partial "tags.html" $pageScope}}
+{{ end }}
