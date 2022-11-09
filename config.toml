@@ -2,7 +2,7 @@ baseURL = 'https://podcasts.groong.org/'
 languageCode = 'en-us'
 title = 'ANN/Groong Podcast'
 theme = "castanet-1.19.0" 
-googleAnalytics = "G-JNZ5XF71ZR"
+googleAnalytics = 'G-JNZ5XF71ZR'
 paginate = "9"
 buildFuture = false
 show_next_upcoming = false
@@ -54,7 +54,6 @@ show_next_upcoming = false
     url = "/blog"
 
 [params]
-googleAnalytics_UA = ""
 mainSections = ["episode"]
 episode_number_style  = "brackets"
 episode_number_prefix = "EP"
