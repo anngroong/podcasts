@@ -1,6 +1,6 @@
 +++
 
-Date = 2022-11-06T03:00:00-07:00
+Date = 2022-11-08T03:00:00-07:00
 podcast_file = "11615732-stepanakert-rally-sullivan-plan-csto-meeting-sochi-trilateral-tehran-summit-ep-173-oct-30-2022.mp3"
 podcast_duration = "1:06:50"
 podcast_bytes = "46730929"
@@ -20,7 +20,8 @@ categories = ["Politics", "Artsakh"]
 series = ["COG"]
 tags = ["Arthur Martirosyan", "Armenia", "Artsakh", "Nagorno Karabakh", "Azerbaijan", "Russia", "Sochi", "Sullivan Plan", "Brussels", "Ararat Mirzoyan", "Jeyhun Bayramov", "Borders", "Peace Negotiations", "United States", "EU", "European Union", "Vladimir Putin", "Ilham Aliyev", "Iran", "Turkey"]
 
-Description = """Guest: 
+Description = """
+Guest: 
 * [Arthur G. Martirosyan](/guest/amartirosyan) [@ArthurMartirosyan](https://www.facebook.com/arthur.martirosyan1)
 
 Topics:
@@ -115,6 +116,4 @@ For Vardanyan’s tenure, the state minister’s [portfolio](https://armenpress.
 
 # Wrap-up
 
-We hope you found our [Week in Review](https://podcasts.groong.org/) helpful. We invite your feedback and your suggestions. You can [find us](https://linktr.ee/groong) on most social media and podcast platforms. Don’t forget to subscribe to our channel on YouTube, **Follow** us on Twitter, and **Like** our Facebook page.
-
-Thanks to Laura Osborn for the music on our podcasts. On behalf of everyone in this episode, we thank you for listening. Stay well, we’ll be back next week.
+We hope you found our [Week in Review](https://podcasts.groong.org/) helpful. We invite your feedback and your suggestions. You can [**find us**](https://linktr.ee/groong) on most social media and podcast platforms. Thanks to **Laura Osborn** for the music on our podcasts. On behalf of everyone in this episode, we thank you for listening. Stay well, we’ll be back next week.
