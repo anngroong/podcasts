@@ -10,7 +10,7 @@ episode_image = "img/episode/default.jpg"
 guests = ["amartirosyan"]
 hosts = ["hovik", "asbed"]
 episode = "175"
-title = "Latest "Peace" Dveelopments | Ruben Vardanyan State Minister of Artsakh"""
+title = "Latest 'Peace' Developments | Ruben Vardanyan State Minister of Artsakh"
 subtitle = "Armenian News Network - Groong Week in Review - Nov 6, 2022"
 images = ["img/episode/default-social.jpg"]
 aliases = ["/175"]
@@ -19,19 +19,20 @@ explicit = "no"
 categories = ["Politics", "Artsakh"]
 series = ["COG"]
 tags = ["Arthur Martirosyan", "Armenia", "Artsakh", "Nagorno Karabakh", "Azerbaijan", "Russia", "Sochi", "Sullivan Plan", "Brussels", "Ararat Mirzoyan", "Jeyhun Bayramov", "Borders", "Peace Negotiations", "United States", "EU", "European Union", "Vladimir Putin", "Ilham Aliyev", "Iran", "Turkey"]
-Description = """Latest "Peace" Dveelopments | Ruben Vardanyan State Minister of Artsakh | Ep 173 - Oct 30, 2022
+
+Description = """Latest 'Peace' Developments | Ruben Vardanyan State Minister of Artsakh | Ep 175 - Nov 6, 2022
 
 Armenian News Network - Groong Week in Review - Nov 6, 2022
 
 Guest: 
-* [Arthur G. Martirosyan](/guest/amartirosyan) [@benyamin_poghos](https://www.facebook.com/arthur.martirosyan1)
+* [Arthur G. Martirosyan](/guest/amartirosyan) [@ArthurMartirosyan](https://www.facebook.com/arthur.martirosyan1)
 
 Topics:
 * Latest "Peace" Developments
     * Border Delimitation Discussions in Brussels
     * Meeting of the Foreign Ministers in DC
 * Bellicose Statements Between Azerbaijan and Iran
-Ruben Vardanyan Takes Over as State Minister of Artsakh
+* Ruben Vardanyan Takes Over as State Minister of Artsakh
 
 Hosts:
 
