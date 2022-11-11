@@ -48,4 +48,4 @@ Over the course of this weekend and until Monday, there’s this [Global Armenia
 
 ## Wrap-up
 
-We hope you found our **Conversations on Groong** helpful. We invite your feedback and your suggestions. You can find us on most social media and podcast platforms. Thanks to Laura Osborn for the music on our podcasts.
+We hope you found our [Conversations on Groong] (/series/cog/) helpful. We invite your feedback and your suggestions. You can find us on most social media and podcast platforms. Thanks to Laura Osborn for the music on our podcasts.
