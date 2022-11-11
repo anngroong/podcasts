@@ -9,7 +9,7 @@ episode_image = "img/episode/default.jpg"
 guests = ["amartirosyan"]
 hosts = ["hovik", "asbed"]
 episode = "175"
-title = "Latest 'Peace' Developments | Bellicose Statements Between Azerbaijan and Iran | Ruben Vardanyan State Minister of Artsakh"
+title = "ANN Groong Week in Review - Nov 6, 2022"
 subtitle = "Armenian News Network - Groong Week in Review - Nov 6, 2022"
 images = ["img/episode/default-social.jpg"]
 aliases = ["/175"]
@@ -19,7 +19,7 @@ categories = ["Politics", "Artsakh"]
 series = ["WIR"]
 tags = ["Annalena Baerbock", "Anthony Blinken", "Ararat Mirzoyan", "Arayik Harutyunyan", "Armen Grigoryan", "Armenia", "Artak Beglaryan", "Arthur Martirosyan", "Azerbaijan", "Benjamin Netanyahu", "Borders", "Brussels", "EU", "European Union", "Iran", "Israel", "Jake Sullivan", "Jeyhun Bayramov", "Negotiations", "Peace Negotiations", "Ruben Vardanyan", "Russia", "Sergey Lavrov", "Shahcheragh", "Sochi", "South Azerbaijan Republic", "Stepanakert", "Sullivan Plan", "Turkey", "United States", "Ursula von der Leyen", "Valdai", "Vladimir Putin", "Washington DC", "Yerevan"]
 
-Description = """## ANN Groong Week in Review - Nov 6, 2022
+Description = """
 
 Guest: 
 * [Arthur G. Martirosyan](/guest/amartirosyan) [@ArthurMartirosyan](https://www.facebook.com/arthur.martirosyan1)
