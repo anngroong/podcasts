@@ -25,8 +25,8 @@ upcoming = false
 Description = """
 
 #### Guests:
-* Ardashes ‘Ardy’ Kassakhian who is a Glendale City Councilman, and the current mayor of Glendale - TW/@ArdyKassakhian
-* Adrin Nazarian is the California State Assemblymember from the 46th District, representing the San Fernando Valley - TW/@adrin_nazarian
+* [Ardashes ‘Ardy’ Kassakhian] (/guest/akassakhian) is a Glendale City Councilman, and the current mayor of Glendale
+* [Adrin Nazarian] (/guest/anazarian) is the California State Assemblymember from the 46th District, representing the San Fernando Valley
 
 #### Topics:
 * On the LA City Council scandal and how to move forward
@@ -96,5 +96,7 @@ We’re referring to a context where:
 * What are your views of the so-called “peace negotiations” between Armenia and Azerbaijan under the auspices of the EU?
 * Is a “Normalization” with Turkey possible under current circumstances?
 
+
+## Wrap-up
 
 We hope you found our [Conversations on Groong](/series/cog/) helpful, we invite your feedback and your suggestions. You can [**find us**](https://linktr.ee/groong) on most social media and podcast platforms. Thanks to **Laura Osborn** for the music on our podcasts.
