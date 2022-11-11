@@ -99,15 +99,10 @@
         {{- end -}}
         <!-- transcript POC end -->
 
-  <div class="row">
-    <div class="col">
-        <small>{{ partial "episode-tags.html" .}}</small>
-    </div>
-  </div>
 
   <div class="row">
     <div class="col">
-      <h2>Show Notes</h2>
+      <h2 align="center">Show Notes</h2>
       {{ .Content }}
     </div>
   </div>
@@ -310,6 +305,14 @@
         {{- end -}}
       {{ end }}
 {{ end }}
+
+
+  <div class="row">
+    <div class="col">
+        <small>{{ partial "episode-tags.html" .}}</small>
+    </div>
+  </div>
+
 
 <!-- begin sponsor section -->
 {{- with .Params.sponsors -}}
