@@ -1,6 +1,7 @@
 +++
 
 Date = 2022-11-08T03:00:00-07:00
+recordedDate = 2022-11-08T11:00:00-07:00
 podcast_file = "11659177-border-delimitations-fms-meet-in-dc-azerbaijan-iran-ruben-vardanyan-ep-175-nov-6-2022.mp3"
 podcast_duration = "56:00"
 podcast_bytes = "40373381"
