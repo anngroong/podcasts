@@ -2,6 +2,7 @@
 +++
 
 title = "Ardy Kassakhian and Adrin Nazarian: The LA City Council Scandal"
+subtitle = "Conversations on Groong - Oct 21, 2022"
 date = 2022-10-21T16:58:34
 draft = false
 explicit = "no"
@@ -20,7 +21,7 @@ podcast_file = "11546033-the-la-city-council-scandal-ep-no-170-oct-21-2022.mp3"
 youtube = "VnzUdKwGsS8"
 truncate = ""
 categories = ["US Politics", "Diaspora", "Artsakh"]
-series = ["WIR"]
+series = ["cog"]
 upcoming = false
 Description = """
 
