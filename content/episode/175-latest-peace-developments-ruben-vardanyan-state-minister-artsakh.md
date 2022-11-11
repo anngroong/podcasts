@@ -109,4 +109,4 @@ For Vardanyan’s tenure, the state minister’s [portfolio](https://armenpress.
 
 # Wrap-up
 
-We hope you found our [Week in Review](https://podcasts.groong.org/) helpful. We invite your feedback and your suggestions. You can [**find us**](https://linktr.ee/groong) on most social media and podcast platforms. Thanks to **Laura Osborn** for the music on our podcasts.
+We hope you found our [Week in Review](/series/wir/) helpful. We invite your feedback and your suggestions. You can [**find us**](https://linktr.ee/groong) on most social media and podcast platforms. Thanks to **Laura Osborn** for the music on our podcasts.
