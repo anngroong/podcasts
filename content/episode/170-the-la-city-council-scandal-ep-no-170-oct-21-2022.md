@@ -25,8 +25,8 @@ upcoming = false
 Description = """
 
 #### Guests:
-* [Ardashes ‘Ardy’ Kassakhian] (/guest/akassakhian) is a Glendale City Councilman, and the current mayor of Glendale
-* [Adrin Nazarian] (/guest/anazarian) is the California State Assemblymember from the 46th District, representing the San Fernando Valley
+* [Ardashes ‘Ardy’ Kassakhian](/guest/akassakhian) is a Glendale City Councilman, and the current mayor of Glendale
+* [Adrin Nazarian](/guest/anazarian) is the California State Assemblymember from the 46th District, representing the San Fernando Valley
 
 #### Topics:
 * On the LA City Council scandal and how to move forward
