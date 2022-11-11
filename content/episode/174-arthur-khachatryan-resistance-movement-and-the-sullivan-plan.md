@@ -10,7 +10,7 @@ guests = ["akhachatryan"]
 hosts = ["hovik", "asbed"]
 episode = "174"
 title = "Arthur Khachatryan: Resistance Movement and the ‘Sulivan Plan’"
-subtitle = "Armenian News Network - Conversations on Groong - Nov 3, 2022"
+subtitle = "Conversations on Groong - Nov 3, 2022"
 images = ["img/episode/default-social.jpg"]
 aliases = ["/174"]
 youtube = "acolMbdkN0E"
@@ -19,19 +19,14 @@ categories = ["Politics", "Armenia"]
 series = ["COG"]
 tags = ["Arthur Khachatryan", "ARF", "Stepanakert", "Artsakh", "Nagorno Karabakh", "Azerbaijan", "November 5", "Lavrov Plan", "Sullivan Plan", "Sergei Lavrov", "United States", "Russia", "State Department", "Hayastan Dashinq", "Armenia Alliance", "UN Charter", "Opposition", "Vladimir Putin", "Ilham Aliyev", "Nikol Pashinyan"]
 
-Description = """## Armenian News Network - Conversations on Groong - Nov 3, 2022 | Ep 174 - Nov 3, 2022
+Description = """
+#### Guest:
+* [Arthur Khachatryan](/guest/akhachatryan) [@Arthur.Khachatryan](https://www.facebook.com/arthur.khachatryan)
 
-## Topics
+#### Topics:
 * Massive Stepanakert Rally
 * Sullivan Plan vs. Russian Plan
 * Upcoming Protest on November 5
-
-## Guest
-* [Arthur Khachatryan](/guest/akhachatryan) [@Arthur.Khachatryan](https://www.facebook.com/arthur.khachatryan)
-
-## Hosts
-* [Hovik Manucharyan](/host/hovik/) [@HovikYerevan](https://twitter.com/HovikYerevan)
-* [Asbed Bedrossian](/host/asbed/) [@qubriq](https://twitter.com/qubriq)
 
 Episode 174 | Recorded: November 3, 2022"""
 
@@ -58,7 +53,6 @@ A week ago, another member of the Hayastan Dashinq, Gegham Manukyan, symbolicall
 * What is the position of the opposition on how Armenia should react to the Western and Russian proposals?
 * In your discussions with your Western counterparts, do you believe that your message about self-determination of Artsakh is perceived properly by the “international community”?
  
---
  
 On October 31, Pashinyan, Aliyev and Putin met in Sochi. It became clear that the sides are far from agreeing on all issues. But they did issue a statement on whatever they could agree.
  
