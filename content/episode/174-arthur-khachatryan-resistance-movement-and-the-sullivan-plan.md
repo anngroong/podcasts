@@ -75,3 +75,7 @@ Following the protest in Stepanakert the Armenian opposition has announced a dem
 * What explains the long pause in opposition protests?
 * On Nov 5 will protesters be told to go home again and wait for further news?
 * Is it still the goal of the opposition to remove Nikol Pashinyan?
+
+## Wrap-up
+
+We hope you found our Week in Review helpful. We invite your feedback and your suggestions. You can find us on most social media and podcast platforms. Thanks to Laura Osborn for the music on our podcasts.
