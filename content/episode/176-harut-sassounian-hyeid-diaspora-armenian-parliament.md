@@ -14,10 +14,10 @@ title = "Harut Sassounian: The HyeID project, to initiate an elected Diaspora Ar
 subtitle = "Convesations on Groong - Nov 13, 2022"
 images = ["img/episode/default-social.jpg"]
 aliases = ["/176"]
-youtube = "TDc_QOhqY5M"
+youtube = "Nbr_qH6Hfus"
 explicit = "no"
 categories = ["Diaspora", "Politics"]
-series = ["WIR"]
+series = ["cog"]
 tags = ["Harut Sassounian", "Armenia", "HyeID", "Diaspora Armenian Parliament", "Nikol Pashinyan", "Zareh Sinanyan", "Armenian Diaspora"]
 
 Description = """
