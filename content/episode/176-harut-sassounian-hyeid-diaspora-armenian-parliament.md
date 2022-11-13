@@ -19,7 +19,6 @@ explicit = "no"
 categories = ["Diaspora", "Politics"]
 series = ["cog"]
 tags = ["Harut Sassounian", "Armenia", "HyeID", "Diaspora Armenian Parliament", "Nikol Pashinyan", "Zareh Sinanyan", "Armenian Diaspora"]
-
 Description = """
 #### Guest: 
 * [Harut Sassounian](/guest/hsassounian) [@HarutSassounian](https://www.twitter.com/HarutSassounian)
@@ -30,7 +29,6 @@ Description = """
 * Funding and operations
 * Outreach to the Diaspora and the Armenian government
 * Current State of the project
-
 
 
 Episode 176 | Recorded: November 12, 2022"""
