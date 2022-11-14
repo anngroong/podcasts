@@ -1,6 +1,8 @@
 +++
 
 Date = 2022-11-02T03:00:00-07:00
+title = "Rally in Stepanakert | Sullivan Plan | CSTO Security Council Convened | Trilateral in Sochi | Pashinyan in Tehran"
+subtitle = "ANN Groong Week in Review - Oct 30, 2022"
 podcast_file = "11615732-stepanakert-rally-sullivan-plan-csto-meeting-sochi-trilateral-tehran-summit-ep-173-oct-30-2022.mp3"
 podcast_duration = "1:06:50"
 podcast_bytes = "46730929"
@@ -9,8 +11,6 @@ episode_image = "img/episode/default.jpg"
 guests = ["bpoghosyan"]
 hosts = ["asbed", "hovik"]
 episode = "173"
-title = "ANN Groong Week in Review - Oct 30, 2022"
-subtitle = "Armenian News Network - Groong Week in Review - Oct 30, 2022"
 images = ["img/episode/default-social.jpg"]
 aliases = ["/173"]
 youtube = "TNY0F3qQvxI"
