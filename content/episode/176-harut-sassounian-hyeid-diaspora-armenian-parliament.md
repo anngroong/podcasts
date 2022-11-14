@@ -24,7 +24,7 @@ Description = """
 * [Harut Sassounian](/guest/hsassounian) [@HarutSassounian](https://www.twitter.com/HarutSassounian)
 
 #### Topics:
-* What is HyeID, what problems is it trying to address?
+* What is [HyeID](https://www.facebook.com/hyeidnonprofit), what problems is it trying to address?
 * Organizations and models for Diaspora representation
 * Funding and operations
 * Outreach to the Diaspora and the Armenian government
@@ -43,6 +43,8 @@ Episode 176 | Recorded: November 12, 2022"""
 * Does HyelD have a budget? How is it funded?
 * What steps have been taken to disseminate the idea of this project throughout the Diaspora? The Armenian government?
 * What is the current state of the project?
+
+Website: [HyeID.org](https://www.hyeid.org/en/)
 
 
 ## Wrap-up
