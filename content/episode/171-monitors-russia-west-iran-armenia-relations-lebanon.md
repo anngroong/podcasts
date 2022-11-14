@@ -1,6 +1,7 @@
 +++
 
-title = "ANN Groong Week in Review - Oct 23, 2022"
+title = "Monitors in Armenia | Russia-West Rivalry in South Caucasus | Armenia-Iran Relations | Israel-Lebanon Maritime Agreement | Lebanon Presidential Elections"
+subtitle = "ANN Groong Week in Review - Oct 23, 2022"
 date = 2022-10-23T00:00:00+04:00
 draft = false
 explicit = "no"
