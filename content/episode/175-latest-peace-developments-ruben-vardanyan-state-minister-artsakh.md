@@ -2,6 +2,8 @@
 
 Date = 2022-11-08T03:00:00-07:00
 recordedDate = 2022-11-08T11:00:00-07:00
+title = "Border Delimitations | FMs in DC | Azerbaijan Iran Acrimony | Ruben Vardanyan Artsakh State Minister"
+subtitle = "ANN Groong Week in Review - Nov 6, 2022"
 podcast_file = "11659177-border-delimitations-fms-meet-in-dc-azerbaijan-iran-ruben-vardanyan-ep-175-nov-6-2022.mp3"
 podcast_duration = "56:00"
 podcast_bytes = "40373381"
@@ -10,8 +12,6 @@ episode_image = "img/episode/default.jpg"
 guests = ["amartirosyan"]
 hosts = ["hovik", "asbed"]
 episode = "175"
-title = "ANN Groong Week in Review - Nov 6, 2022"
-subtitle = "Armenian News Network - Groong Week in Review - Nov 6, 2022"
 images = ["img/episode/default-social.jpg"]
 aliases = ["/175"]
 youtube = "TDc_QOhqY5M"
