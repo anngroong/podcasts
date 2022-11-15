@@ -11,7 +11,7 @@ guests = ["akhachikyan","giskajyan"]
 hosts = ["hovik", "asbed"]
 episode = "177"
 title = "Arthur Khachikyan & Gev Iskajyan: The Nov 10 Statement, Two Years On | Ep 177 - Nov 13, 2022"
-subtitle = "Armenian News Network - Groong Week in Review - Nov 13, 2022"
+subtitle = "ANN Groong Week in Review - Nov 13, 2022"
 images = ["img/episode/default-social.jpg"]
 aliases = ["/177"]
 youtube = "_73Mom5ajcM"
@@ -21,7 +21,7 @@ series = ["wir"]
 tags = ["Arthur Khachikyan", "Gev Iskajyan", "Nikol Pashinyan", "Ilham Aliyev", "Vladimir Putin", "Ned Price", "Armenia", "Artsakh", "Nagorno Karabakh", "Azerbaijan", "South Caucasus", "Turkey", "Russia", "Syunik", "Zangezur", "Corridors", "Borders", "Peace Negotiations", "Peace Treaty", "United States", "Iran", "EU", "European Union", "November 10 Statement", "Nov 10 Statement", "Border Guards", "Yerevan", "Baku", "Tehran", "Sochi", "Washington DC"]
 
 Description = """
-#### Guest: 
+#### Guests: 
 * [Arthur Khachikyan](/guest/akhachikyan)
 * [Gev Iskajyan](/guest/giskajyan) [@GevIskajyan](https://www.twitter.com/geviskajyan)
 
