@@ -17,4 +17,4 @@ Twitch = ""
 #guest_group = "wir"
 +++
 
-Gev Iskajyan is ...
+Gev Iskajyan is the ANC Representative in Artsakh, Nagorno Karabakh.
