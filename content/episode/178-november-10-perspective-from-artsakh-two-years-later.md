@@ -25,8 +25,11 @@ Description = """
 * [Gev Iskajyan](/guest/giskajyan) [@GevIskajyan](https://www.twitter.com/geviskajyan)
 
 #### Topics:
-* November 10 "Ceasefire"
-    * We’ll talk with our guest in Stepanakert about perspectives of where life is two years after the 44-day war ended.
+* November 10 as perceived by Artsakhtsis
+* Update on the status of refugees
+* Update on the economy of Artsakh
+* Rally at the Renaissance Square
+* Generating and communicating support for Artsakh
 
 Episode 178 | Recorded: November 14, 2022"""
 
