@@ -19,7 +19,7 @@ podcast_file = "11519914-2022-census-astana-iran-cyber-attack-remembering-tsor-u
 youtube = "fYhns_q-DgQ"
 truncate = ""
 series = ["wir"]
-tags = ["Hrant Mikaelian", "Artur Papyan", "Yeghishe Zakunts", "Naira Melikyan", "Armenia", "Nagorno Karabakh", "Artsakh", "Azerbaijan", "Iran", "Census", "Armenian Census", "Astana", "Kazakhstan", "Ilham Aliyev", "Vladimir Putin", "CIS", "CIS Summit", "Strengthening Cooperation and Trust in Asia", "Ebrahim Raisi", "Iran Military Exercises 2022", "Armen Grigorian, "Alen Simonyan"]
+tags = ["Hrant Mikaelian", "Artur Papyan", "Yeghishe Zakunts", "Naira Melikyan", "Armenia", "Nagorno Karabakh", "Artsakh", "Azerbaijan", "Iran", "Census", "Armenian Census", "Astana", "Kazakhstan", "Ilham Aliyev", "Vladimir Putin", "CIS", "CIS Summit", "Strengthening Cooperation and Trust in Asia", "Ebrahim Raisi", "Iran Military Exercises 2022", "Armen Grigorian", "Alen Simonyan"]
 upcoming = false
 
 Description = """
