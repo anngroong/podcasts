@@ -27,7 +27,7 @@ Description = """
 * [Hrant Mikaelian](/guest/hmikaelian)
 * [Artur Papyan](/guest/apapyan)
 * [Yeghishe Zakunts](/guest/yzakunts)
-* [Naira Melikyan](/guest/hmikaelian)
+* [Naira Melikyan](/guest/nmelikyan)
 
 #### Topics:
 * Census in progress in Armenia
