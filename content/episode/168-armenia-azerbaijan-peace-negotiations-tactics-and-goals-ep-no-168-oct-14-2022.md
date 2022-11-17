@@ -3,6 +3,7 @@
 
 title = "Armenia-Azerbaijan “Peace Negotiations” Tactics and Goals | October 14, 2022"
 date = 2022-10-14T18:28:51
+recordedDate = 2022-10-16T18:00:00
 draft = false
 explicit = "no"
 
@@ -18,11 +19,22 @@ podcast_bytes = 20804148
 podcast_file = "11503307-armenia-azerbaijan-peace-negotiations-tactics-and-goals-ep-no-168-oct-14-2022.mp3"
 youtube = "7CdfUvrcq8k"
 truncate = ""
-series = ["COG"]
+series = ["cog"]
+tags = ["Benyamin Poghosyan", "Armenia", "Nagorno Karabakh", "Artsakh", "Azerbaijan", "Russia", "Turkey", "Corridors", "Borders", "Peace Negotiations", "Nikol Pashinyan", "Ilham Aliyev", "Charles Michel", "OSCE", "Minsk Group", "Zangezur", "Syunik"]
 upcoming = false
-Description = """Armenia-Azerbaijan “Peace Negotiations” Tactics & Goals - October 14, 2022
 
-"""
+Description = """
+
+#### Guest: 
+* [Benyamin Poghosyan](/guest/bpoghosyan)
+
+#### Topics:
+* Goals and Tactics of Azerbaijan’s Negotiations
+* How did “Corridors” Become a Thing?
+* Russia’s Contributions to the process
+* Options and Scenarios Going Forwards
+
+Episode 168 | Recorded: Friday, October 14, 2022"""
 
 +++
 
@@ -50,27 +62,7 @@ You note that this is probably just a negotiating, psychological tactic. Discuss
 * Options and Scenarios Going Forwards
 
 
+
 # Wrap-up
 
-This episode was recorded on Friday, October 14, 2022.
-
-Thanks to Laura Osborn for the music on our podcasts.
-
- 
-# [Groong Channels](https://linktr.ee/groong)
-
-
-* Facebook Group:[ Groong - Armenian News Network](https://facebook.com/groups/groong/)
-* Facebook Page:[ ANN - Groong](https://facebook.com/groong.org/)
-* YouTube:[ Armenian News Network - Groong](https://www.youtube.com/c/Groong/videos/)
-* Twitter:[ @groong](https://twitter.com/groong)
-* Telegram:[ Armenian News Network - Groong](https://t.me/anngroong)
-* Reddit:[ r/Groong](https://www.reddit.com/r/Groong/)
-* Instagram:[ ANNGroong](https://www.instagram.com/anngroong/)
-* Website:[ Groong.org](https://groong.org/)
-* Podcasts: Apple, Google, Spotify, and more. Search your preferred Podcast platform!
-
-
-# Keywords
-
-Benyamin Poghosyan, Armenia, Nagorno Karabakh, Artsakh, Azerbaijan, Russia, Turkey, Corridors, Borders, Peace Negotiations, Nikol Pashinyan, Ilham Aliyev, Charles Michel, OSCE, Minsk Group, Zangezur, Syunik, 
+We hope you found our [Conversations on Groong](/series/cog/) helpful, we invite your feedback and your suggestions. You can [**find us**](https://linktr.ee/groong) on most social media and podcast platforms. Thanks to **Laura Osborn** for the music on our podcasts.
