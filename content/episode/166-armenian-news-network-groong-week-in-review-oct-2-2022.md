@@ -66,8 +66,7 @@ We had a surprise visit by Pashinyan to France to meet with Macron, followed by 
 
 Then we had somewhat of a surprise announcement from the organization that you chair, Aram. The ANCA [tweeted](https://mobile.twitter.com/ANCA_DC/status/1574463143090294791) that: 
 
-
-   "*For the 1st time since the rebirth of Armenian independence in 1991, US policymakers - under sustained bipartisan Congressional pressure - are considering the sale of US arms to help #Armenia's defense against #Azerbaijan's relentless (Turkey-backed) aggression & ethnic-cleansing*”
+    "*For the 1st time since the rebirth of Armenian independence in 1991, US policymakers - under sustained bipartisan Congressional pressure - are considering the sale of US arms to help #Armenia's defense against #Azerbaijan's relentless (Turkey-backed) aggression & ethnic-cleansing*”
 
 This tweet got [translated](https://arminfo.info/full_news.php?id=71744&lang=3) to a headline of: “U.S. considering selling arms to Armenia” by News.am.
 
