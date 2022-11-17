@@ -2,7 +2,7 @@
 
 date = 2022-10-17T20:24:15
 recordedDate = 2022-10-17T12:24:15
-title = "2022 Census | Astana | Iran | Cyber Attack | Remembering TsOR Unit | Ep 169 - Oct 16, 2022"title  
+title = "2022 Census | Astana | Iran | Cyber Attack | Remembering TsOR Unit | Ep 169 - Oct 16, 2022"
 subtitle = "ANN Groong Week in Review - Oct 9, 2022"
 draft = false
 explicit = "no"
