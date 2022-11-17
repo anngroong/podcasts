@@ -23,17 +23,17 @@ series = ["WIR"]
 upcoming = false
 Description = """
 
+#### Guests:
+* [Arthur G. Martirosyan](/guest/amartirosyan)
+* [Karen Vrtanesyan](/guest/kvrtanesyan)
+* [Suren Sargsyan](/guest/ssargsyan)
+
 #### Topics:
 * Azerbaijani Aggression
 * Russia and CSTO
 * UN & International Reaction
 * War Communications (with Karen Vrtanesyan)
 * Nancy Pelosi's Visit (with Suren Sargsyan)
-
-#### Guests:
-* [Arthur G. Martirosyan](/guest/amartirosyan)
-* [Karen Vrtanesyan](/guest/kvrtanesyan)
-* [Suren Sargsyan](/guest/ssargsyan)
 
 Episode 165 | Recorded: Sunday, September 18, 2022"""
 
