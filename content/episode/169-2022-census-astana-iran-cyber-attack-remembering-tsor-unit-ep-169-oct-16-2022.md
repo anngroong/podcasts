@@ -1,4 +1,3 @@
-
 +++
 
 title = "2022 Census | Astana | Iran | Cyber Attack | Remembering TsOR Unit | Ep 169 - Oct 16, 2022"title  
@@ -6,7 +5,6 @@ subtitle = "ANN Groong Week in Review - Oct 9, 2022"
 date = 2022-10-17T20:24:15
 draft = false
 explicit = "no"
-
 aliases = ["/169"]
 author = "Armenian News Network - Groong"
 episode = "169"
@@ -19,8 +17,10 @@ podcast_bytes = 48543655
 podcast_file = "11519914-2022-census-astana-iran-cyber-attack-remembering-tsor-unit-ep-169-oct-16-2022.mp3"
 youtube = "fYhns_q-DgQ"
 truncate = ""
-series = ["WIR"]
+series = ["wir"]
+tags = ["Hrant Mikaelian", "Artur Papyan", "Yeghishe Zakunts", "Naira Melikyan", "Armenia", "Nagorno Karabakh", "Artsakh", "Azerbaijan", "Iran", "Census", "Armenian Census", "Astana", "Kazakhstan", "Ilham Aliyev", "Vladimir Putin", "CIS", "CIS Summit", "Strengthening Cooperation and Trust in Asia", "Ebrahim Raisi", "Iran Military Exercises 2022", "Armen Grigorian, "Alen Simonyan"]
 upcoming = false
+
 Description = """
 
 #### Guests:
@@ -65,24 +65,20 @@ Along the sidelines of this summit, Armenian, Russian and Azerbaijani FMs Ararat
 
 During this meeting Mirzoyan emphasized to Lavrov the need to implement monitoring in order to control the violence on the Armenia-Azerbaijan borders, including the presence of CSTO troops. Putin however reminded that the current CSTO chair-country, Armenia, should convene a CSTO security council meeting and initiate that process. While Armenia continues to blame the CSTO for inaction, a security council meeting is still not scheduled (to our knowledge).
 
-
-
 * Last week we talked with Benyamin Poghosyan, and in one of his scenarios he noted that Armenia needs to negotiate the presence of both the EU civilian monitors, as well as CSTO troops on its borders in order to ward off Azeri attacks and a possible invasion. 
 * Where is this headed? Is there a problem for Pashinyan in convening a CSTO council meeting and initiating this proposal?
 * The exchange between Armenia and Russia, played out in the public, seems to be just an effort to put blame and to save face. Normally, such agreements are prepared ahead of time. What does this say about Armenian-Russian relations?
+
 
 On October 12 Lavrov [said](https://oc-media.org/csto-ready-to-send-observers-to-armenia-azerbaijan-border-as-eu-approves-own-mission/) that the CSTO is ready to send “observers” to the line of contact between Armenia and Azerbaijan. This is likely a response to the fact that the EU agreed to send a 2-month civilian observer mission, during the meetings in Brussels two weeks ago.
 
 However, Mirzoyan said that Armenia fully [expects](https://asbarez.com/armenia-wants-russias-support-for-withdrawal-of-azerbaijani-troops-from-armenia/) that ally Russia can and must compel Azerbaijan to [leave Armenia’s sovereign](https://armenpress.am/eng/news/1094734.html) territory.
 
-
-
 * Is this a likely scenario, given Russia’s entanglement in the Ukraine imbroglio?
 * Given the diplomatic offensive by the US and the EU in the south Caucasus, do you think Russia is feeling a pressure to act, and in some ways retake the initiative here?
 
+
 For his part, Pashinyan delivered a [speech](https://armenpress.am/eng/news/1094890.html) at the summit. Here are the key notes from that: (Not necessary to read all of this)
-
-
 
 * He said that in Prague, he and Aliyev had agreed to use fundamental CIS documents for the purpose of border delimitation. Essentially, the official Soviet state borders would become the international border between Armenia and Azerbaijan.
 * He asked the leaders to clarify if the CIS fundamentally accepts that the 1991 borders between them are accepted as international borders, and hinted that the CSTO could not accept the CIS as an observer without this clarification.
@@ -91,17 +87,16 @@ For his part, Pashinyan delivered a [speech](https://armenpress.am/eng/news/1094
 * What can be expected outcomes from this summit? Can we be optimistic that anything new will evolve from here?
 
 
-## Iran: Protests, Worries About Syunik
 
+## Iran: Protests, Worries About Syunik
 
 ### Protests
 
 For more than a month now, Iran has been embroiled in [unrest](https://www.hrw.org/news/2022/10/05/iran-security-forces-fire-kill-protesters). It began with the death of a Kurdish woman Mahsa Amini who was arrested for not wearing a headscarf and died in police custody under suspicious circumstances. Since then, protests have been raging in different cities in Iran with different degrees violence. The death toll from the protests varies greatly depending on who is reporting but on Saturday alone, a prison holding many of the protesters went ablaze resulting in 8 deaths. The exact circumstances however, are still being clarified.
 
-
-
 * What is the trajectory of these developments in Iran
 * What is their significance to Armenia?
+
 
 
 ### Military Exercises
@@ -110,13 +105,10 @@ Before the CIS summit in Astana, the capital of Kazakhstan also hosted a confere
 
 Soon thereafter, Iran’s Islamic Revolutionary Guard [announced](https://armenpress.am/eng/news/1094809.html) massive military exercises along the length of its northern borders along Armenia and Azerbaijan.
 
-
-
 * How strongly does Iran stand by its red line? Will they go to war if they have to?
 
+
 Iran has also announced investments into Armenian infrastructure and industry. For example, they will apparently [open](https://en.mehrnews.com/news/192446/Iran-to-set-up-car-production-line-in-Armenia-TPOI-chief) an auto manufacturing line in Armenia to export cars to the Eurasian Economic Union (EAEU) countries. Plus, they’re opening a consulate in Kapan.
-
-
 
 * What can we say about Iran’s activation of politics and diplomacy, is this to preserve its North-South corridor, from India to Europe, potential?
 
@@ -134,6 +126,7 @@ In the second case, web properties belonging to the Union of Informed Citizens, 
 We have a short chat with Arthur Papyan, a malware researcher, digital security consultant and co-founder of CyberHub. We talk about the details of these compromises as well as what website operators should take into account in order to improve the security and resiliency of their website.
 
 
+
 ## October 12, 2020 - Remembering the TsOR Boys
 
 **_Segment with Naira Melikyan and Yeghishe Zakunts (Recorded May 7, 2022)_**
@@ -145,8 +138,6 @@ Parents and relatives of the fallen servicemen have initiated a criminal complai
 October 12 is the day when the relatives remember their fallen soldiers, many of whom were posthumously awarded the Battle Cross medal for their heroism.
 
 Here is a short excerpt from our archives of a discussion we had with two of the relatives, Naira Melikyan (mother of Hayk Melikyan) and Yeghishe Zakunts (relative of Ruben Poghosyan). This discussion was recorded on May 7, 2022, at the sidelines of the resistance movement protest so apologies in advance for the poor audio quality and background noise.
-
-
 
 1. Հայկ Սարգսի Մելիքյան (Hayk Melikyan)
 2. Գեորգի Արմենի Բալայան (Gevorg Balayan)
