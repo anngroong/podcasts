@@ -94,10 +94,8 @@ Meanwhile, Putin arranged a summit with Aliyev and Pashinyan in Sochi, which hap
 
 The statement is heavy on territorial integrity and inviolability of borders, but there’s no word on the self-determination of people. It also put an equal sign between unresolved security and humanitarian issues (including our POWs still in Baku). Even the name “Karabakh” is avoided as a location and referred to Artsakh as the “zone where peacekeepers are stationed”. 
 
-
-* Two questions arise:
-1. What about Artsakh/Nagorno-Karabakh? And 
-2. Does this mean Azerbaijan de-occupies Armenian territories it has invaded since the 44-day war?
+* What happens to Artsakh/Nagorno-Karabakh? 
+* Does this mean Azerbaijan de-occupies Armenian territories it has invaded since the 44-day war?
 
 
 ## From Sochi to Tehran
