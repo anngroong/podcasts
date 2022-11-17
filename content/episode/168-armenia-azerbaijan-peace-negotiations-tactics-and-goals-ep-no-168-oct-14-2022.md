@@ -13,6 +13,7 @@ episode = "168"
 episode_image = "img/episode/default.jpg"
 episode_banner = "img/episode/default-banner.jpg"
 guests = ["bpoghosyan"]
+hosts = ["asbed"]
 images = ["img/episode/default-social.jpg"]
 podcast_duration = "0:28:49"
 podcast_bytes = 20804148
