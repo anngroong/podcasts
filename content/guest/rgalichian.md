@@ -1,6 +1,6 @@
 +++
 Date = 2022-11-13T04:45:01+04:00
-title = "Rouben Galichian
+title = "Rouben Galichian"
 Pronouns = ""
 Twitter = ""
 Website = "http://roubengalichian.com"
