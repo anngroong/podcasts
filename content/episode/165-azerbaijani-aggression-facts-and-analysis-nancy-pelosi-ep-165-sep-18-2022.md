@@ -51,12 +51,10 @@ The Azerbaijani forces have also gained territory. In Jermuk, the enemy has brok
 
 Since September 16 there is a humanitarian case-fire in place which seems to be holding at the time of this recording. But Armenian officials have also accused Azerbaijan of preparing to attack Armenia from Nakhijevan in order to forcefully punch a corridor through Armenia’s south.
 
-
-
 * What is your observation of what took place? In your assessment, what is Azerbaijan’s goal and was Armenia taken by surprise by this invasion?
 
-    _Notes:_
 
+**Notes:**
 * _Lead up of propaganda for more than a week_
 * _All analysts expected that full scale violence was imminent_
 * _DM was in the US_
