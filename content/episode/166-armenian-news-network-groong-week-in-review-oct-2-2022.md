@@ -67,7 +67,7 @@ We had a surprise visit by Pashinyan to France to meet with Macron, followed by 
 Then we had somewhat of a surprise announcement from the organization that you chair, Aram. The ANCA [tweeted](https://mobile.twitter.com/ANCA_DC/status/1574463143090294791) that: 
 
 
-    _“For the 1st time since the rebirth of Armenian independence in 1991, US policymakers - under sustained bipartisan Congressional pressure - are considering the sale of US arms to help #Armenia's defense against #Azerbaijan's relentless (Turkey-backed) aggression & ethnic-cleansing”_
+   "*For the 1st time since the rebirth of Armenian independence in 1991, US policymakers - under sustained bipartisan Congressional pressure - are considering the sale of US arms to help #Armenia's defense against #Azerbaijan's relentless (Turkey-backed) aggression & ethnic-cleansing*”
 
 This tweet got [translated](https://arminfo.info/full_news.php?id=71744&lang=3) to a headline of: “U.S. considering selling arms to Armenia” by News.am.
 
@@ -99,8 +99,6 @@ In terms of physical control of territory, Azerbaijan’s aggression along the e
 
 The delimitation and demarcation process promises to be a very long and arduous one, since Aliyev has the upper hand and apparent control over the tempo of the process.
 
-**Questions**:
-
 * You [penned](https://asbarez.com/aliyev-says-no-one-or-nothing-can-stop-his-forces/) an article that was published in Asbarez, in response to Aliyev’s allegations. Aliyev claimed to have a map from 1844 showing an Azerbaijan between Georgia and Armenia. Where did that map originate and is it authentic?
 * In other interviews, you have [referred](https://www.youtube.com/watch?v=Ajbqkd7v-6g) to a map published in 1926 in the Soviet Encyclopedia as the earliest map and the one on which delimitation should be based on. Can you tell us more about this map from 1926?
     * Who did Karvachar (Kelbajar) belong to at the time?
@@ -108,8 +106,6 @@ The delimitation and demarcation process promises to be a very long and arduous 
 
 
 In his TV address on September 21 Pashinyan [said](https://www.1lurer.am/en/2022/09/16/Our-political-position-is-that-aggressor-forces-of-Azerbaijan-should-leave-sovereign-territory-of-A/796892) that Armenia is ready to accept a peace treaty with Azerbaijan based on the fact that Armenia is 29,800 sq. kilometers or the territory that was assigned to Armenia before the breakup of the USSR. He repeated this claim in his address at the UNGA.
-
-**Question**:
 
 * What is the significance of this 29,800 number?
 * What areas does it cover?
@@ -131,8 +127,6 @@ Our condolences to the families and loved ones of Lt Col Nahapet Margaryan, Sgt 
 
 As confirmed by Pashinyan the Armenian side was conducting engineering activities in order to fortify its positions after retreating on 9/13. This was seen as a provocation by Azerbaijan despite entrenchment work by Azerbaijan itself in the newly acquired positions well inside Armenia, visible even from space.
 
-**Questions**:
-
 * Why is Azerbaijan able to get away with such brazen attacks?
 * What goals did they have when attacking and did they achieve them?
 
@@ -145,8 +139,6 @@ Following the Sep 12-13 aggression, Pashinyan and Aliyev began a series of publi
 
 However, as the days progressed, Pashinyan’s current position seemed to be further clarified. First, Pashinyan in different circumstances, including the UN, Pashinyan is [saying](https://www.1lurer.am/en/2022/09/16/Our-political-position-is-that-aggressor-forces-of-Azerbaijan-should-leave-sovereign-territory-of-A/796892) that Armenia is ready to accept a peace treaty with Azerbaijan based on the fact that Armenia is 29,800 sq. kilometers or the territory that was assigned to Armenia before the breakup of the USSR. Also, in the latest interview he gave to H1, Pashinyan [says](https://jam-news.net/karabakh-may-not-be-mentioned-in-the-peace-agreement-with-azerbaijan-pashinyan/) “Karabakh may not be mentioned in the peace agreement with Azerbaijan”.
 
-**Question**:
-
 * Analysts on our show have warned about this, but what are the risks you see from these positions that are now officially public record?
 * What about the enclaves?
 
@@ -155,8 +147,6 @@ In fact, leaving Artsakh to its own fate is already in the process officially.
 
 * Arayik Harutyunyan mentioned something about it in a televised speech
 * Pashinyan in Paris [said](https://www.primeminister.am/en/foreign-visits/item/2022/09/26/Nikol-Pashinyan-Emmanuel-Macron/): “I think the start of Azerbaijan-Nagorno Karabakh discussions can be useful. In this context, I must emphasize the role of France as an OSCE Co-chair country.”
-
-**Question**:
 
 * How is Stepanakert going to fend for itself? Why is Armenia formally relinquishing its role in the OSCE Minsk group?
 
@@ -180,7 +170,8 @@ The public fight with Russia and CSTO didn’t end with just weapons acquisition
 
 In an apparent slight to the organization, Armenia [skipped](https://akipress.com/news:680815:Armenia_skips_CSTO_drills_in_Kazakhstan) the CSTO drills in Kazakhstan last week. And in his speech on 9/29, Pashinyan [said](https://armenpress.am/eng/news/1093631) international peacekeeper forces on the border between Armenia and Azerbaijan are an "absolute necessity". This was after his visit to France and following his announcement, France [said](https://twitter.com/301arm/status/1575783602373251072?t=SwoJ-Gf0slhTbF2Rexa7YA&s=19) it supports the idea of sending international monitors to Armenia.
 
-* What is the prospect of having non-CSTO troops on the Armenian border with Azerbaijan? ~~Can this be done unilaterally, without Azerbaijan's agreement?~~
+* What is the prospect of having non-CSTO troops on the Armenian border with Azerbaijan?
+* Can this be done unilaterally, without Azerbaijan's agreement?
 
 
 ## Internal Politics
