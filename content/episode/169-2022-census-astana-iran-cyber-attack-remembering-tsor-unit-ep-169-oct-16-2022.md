@@ -1,8 +1,9 @@
 +++
 
+date = 2022-10-17T20:24:15
+recordedDate = 2022-10-17T12:24:15
 title = "2022 Census | Astana | Iran | Cyber Attack | Remembering TsOR Unit | Ep 169 - Oct 16, 2022"title  
 subtitle = "ANN Groong Week in Review - Oct 9, 2022"
-date = 2022-10-17T20:24:15
 draft = false
 explicit = "no"
 aliases = ["/169"]
@@ -22,7 +23,6 @@ tags = ["Hrant Mikaelian", "Artur Papyan", "Yeghishe Zakunts", "Naira Melikyan",
 upcoming = false
 
 Description = """
-
 #### Guests:
 * [Hrant Mikaelian](/guest/hmikaelian)
 * [Artur Papyan](/guest/apapyan)
@@ -37,7 +37,6 @@ Description = """
 * Remembering the TsOR artillery unit
 
 Episode 169 | Recorded: October 17, 2022"""
-
 +++
 
 ## Census In Progress in Armenia
@@ -45,8 +44,6 @@ Episode 169 | Recorded: October 17, 2022"""
 The third decennial post-Soviet census is currently [in progress](https://www.kavkaz-uzel.eu/blogs/83781/posts/56648) in Armenia, and there’s been so little public advertising and information about it that almost nobody is thinking about it. Awareness and support of the census is, of course, a major factor in its success and the ultimate quality of its data.
 
 The census is being actively conducted from October 13 to 23, and our guest is a close follower of it.
-
-
 
 * Why do they pick October to conduct the census?
 * Has Armenia consistently conducted the census since its independence?
@@ -96,7 +93,6 @@ For more than a month now, Iran has been embroiled in [unrest](https://www.hrw.o
 
 * What is the trajectory of these developments in Iran
 * What is their significance to Armenia?
-
 
 
 ### Military Exercises
