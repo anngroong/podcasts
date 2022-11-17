@@ -96,8 +96,8 @@ The statement is heavy on territorial integrity and inviolability of borders, bu
 
 
 * Two questions arise:
-    * 1. What about Artsakh/Nagorno-Karabakh? And 
-    * 2. Does this mean Azerbaijan de-occupies Armenian territories it has invaded since the 44-day war?
+1. What about Artsakh/Nagorno-Karabakh? And 
+2. Does this mean Azerbaijan de-occupies Armenian territories it has invaded since the 44-day war?
 
 
 ## From Sochi to Tehran
