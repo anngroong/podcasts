@@ -21,7 +21,7 @@ tags = ["Benyamin Poghosyan", "Armenia", "Artsakh", "Nagorno Karabakh", "Azerbai
 Description = """
 
 #### Guest: 
-* [Benyamin Poghosyan](/guest/bpoghosyan) [@benyamin_poghos](https://twitter.com/benyamin_poghos)
+* [Benyamin Poghosyan](/guest/bpoghosyan)
 
 #### Topics:
 * Massive Stepanakert Rally
