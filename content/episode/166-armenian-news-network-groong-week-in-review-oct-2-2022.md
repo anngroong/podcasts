@@ -3,6 +3,7 @@
 
 title = "US-Armenia Relations | Azerbaijan Maps | Azerbaijan Aggression and War Crimes | Ep 166 - Oct 2, 2022"
 date = 2022-10-04T17:25:20
+recordedDate = 2022-10-03T11:00:00
 draft = false
 explicit = "no"
 
