@@ -2,10 +2,10 @@
 
 Date = 2022-11-20T03:00:00-07:00
 recordedDate = 2022-11-21T03:00:00-07:00
-title = "Armenian Economy | Negotiations | French Senate Slams Azerbaijan | Opposition Back in Parliament | Ep 179 - Nov 21, 2022"
+title = "Armenian Economy | Armenia-Azerbaijan Negotiations | French Senate Slams Azerbaijan | Opposition Back in Parliament | Ep 179 - Nov 21, 2022"
 subtitle = "ANN Groong Week in Review - Nov 20, 2022"
 podcast_file = "11744763-hrant-mikaelian-migrants-saving-the-economy-while-debt-grows-ep-179-nov-20-2022.mp3"
-podcast_duration = "4086"
+podcast_duration = "1:08:06"
 podcast_bytes = "49085290"
 episode_image = "img/episode/default.jpg"
 #episode_banner = ""
