@@ -35,8 +35,6 @@ Episode 180 | Recorded: December 5, 2022"""
 
 +++
 
-## Show notes
-
 ## CSTO Summit in Yerevan
 
 On Wednesday, November 23rd, Russian president Putin arrived in Yerevan to attend the CSTO Summit. It was originally announced that he would arrive a day earlier, but for whatever reasons that didn’t happen. Pashinyan had been inviting Putin to visit since earlier in the year, and Putin had originally agreed to do so, but those plans got compressed into this visit for the CSTO summit.
