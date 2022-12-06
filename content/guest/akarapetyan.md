@@ -17,4 +17,4 @@ Twitch = ""
 #guest_group = "cog"
 +++
 
-Dr. Anna Karapetyan is the Director of the Insight Analytical Center for Applied Policy and Research. She has a PhD in political sciences, and is a lecturer at Russian-Armenian University.
+Dr. Anna Karapetyan is the Director of the Insight Analytical Center for Applied Policy and Research. She has a PhD in political sciences, and is a lecturer at the Russian-Armenian University.
