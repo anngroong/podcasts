@@ -74,6 +74,8 @@ The Alma-Ata declaration has 4 important points that the Armenians didn’t brin
 * It includes a statement on self-determination.
 * There’s an argument that when Azerbaijan signed it in 1993, Artsakh had already voted to secede from Azerbaijan, so it wasn’t part of Azerbaijan at the time of its signing.
 * Armenia ratified the document with explicit reservations about the status of Artsakh.
+
+**Questions**:
 * How should we interpret Lavrov’s statement on the status of Artsakh and the apparent about-face?
 * Didn't the Russian leadership know the outcome of the Prague summit when they were making more positive statements about Artsakh’s status?
     * Would it be correct to say that the Russian statements about ambiguity in Artsakh’s status were meant to entice Armenia to go with the Russian plan? So essentially Armenia didn’t take the offer?
