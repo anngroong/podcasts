@@ -32,7 +32,6 @@ Description = """
 
 
 Episode 182 | Recorded: December 13, 2022"""
-
 +++
 
 ## Show notes
@@ -72,8 +71,8 @@ In the past couple of months, Pashinyan had been hinting that some form of inter
 
 Armenia just confirmed that they’ve [received](https://asbarez.com/yerevan-confirms-receiving-bakus-draft-peace-treaty/) the latest draft agreement from Azerbaijan, and are [working to respond](https://armenpress.am/eng/news/1099149.html) to it.
 
+* What is the current back-and-forth of drafts primarily about?
 
-* What the current back-and-forth of drafts is primarily about?
 
 This past week, Armen Grigoryan noted in the Armenian parliament that Armenia and Azerbaijan so far agree on basically one single thing: that they should have diplomatic relations, and that there are in fact no clear agreements on any other points.
 
