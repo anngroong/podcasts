@@ -16,7 +16,7 @@ images = ["img/episode/default-social.jpg"]
 aliases = ["/182"]
 youtube = "IvPjsKra8jk"
 explicit = "no"
-categories = ["Armenia", "Artsakh", Politics"]
+categories = ["Armenia", "Artsakh", "Politics"]
 series = ["wir"]
 tags = ["Benyamin Poghosyan", "Armenia", "Azerbaijan", "Artsakh", "Nagorno Karabakh", "South Caucasus", "Turkey", "Russia", "Iran", "Corridors", "Zangezur", "EU", "Syunik", "Meghri", "Peace Negotiations", "Military Exercises", "Military Drills", "Fraternal Fist"]
 
