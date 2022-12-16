@@ -1,11 +1,8 @@
-
 +++
-
-title = "Իրավիճակը Բերձորի շուրջ - The Situation Around Berdzor (Armenian) | Ep #150 - Aug 7, 2022"
+title = "Իրավիճակը Բերձորի շուրջ - The Situation Around Berdzor (Armenian)"
 date = 2022-08-07T15:41:25
 draft = false
 explicit = "no"
-
 aliases = ["/150"]
 author = "Armenian News Network - Groong"
 episode = "150"
@@ -26,15 +23,10 @@ Description = """The Situation Around Berdzor with Hakob Hakobyan and Davit Gals
 
 Guests / Հյուրեր:
 
-- Hakob Hakobyan, co-chair of the Artsakh Justice Party.
+- [Hakob Hakobyan](/guest/hhakobyan), co-chair of the Artsakh Justice Party.
 Հակոբ Հակոբյան, Արցախի Արդարություն Կուսակցության նախագահ:
 
-- David Galstyan, leader of the Justice faction in the National Assembly of the Republic of Artsakh. Դավիթ Գալստյան, Արցախի Հանրապետության Ազգային Ժողովի պատգամավոր և «Արդարություն» խմբակցության ղեկավար։
-
-Hosts:
-
-- Hovik Manucharyan TW/@HovikYerevan
-- Asbed Bedrossian TW/@qubriq
+- David Galstyan(/guest/dgalstyan), leader of the Justice faction in the National Assembly of the Republic of Artsakh. Դավիթ Գալստյան, Արցախի Հանրապետության Ազգային Ժողովի պատգամավոր և «Արդարություն» խմբակցության ղեկավար։
 
 Episode 150 | Recorded on August 7, 2022
 

@@ -15,7 +15,7 @@ aliases = ["/183"]
 youtube = "cZWZ-Dp1svM"
 explicit = "no"
 categories = ["Artsakh", "Politics"]
-series = ["wir"]
+series = ["cog"]
 tags = ["Gev Iskajyan", "Artsakh", "Blockade", "Lachin", "Lachin Corridor", "Berdzor", "Berdzor Corridor", "Ilham Aliyev", "Azerbaijan"]
 Description =  """
 #### Guest: 
