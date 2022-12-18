@@ -15,8 +15,8 @@ hosts = ["hovik"]
 aliases = ["/184"]
 youtube = "Oa7-GAFwlLg"
 explicit = "no"
-categories = ["cog"]
-series = ["Artsakh", "Politics"]
+categories = ["Artsakh", "Politics"]
+series = ["cog"]
 tags = ["Hakob Hakobyan", "Artsakh", "Blockade", "Lachin", "Lachin Corridor", "Berdzor", "Berdzor Corridor", "Ilham Aliyev", "Azerbaijan", "Armenia", "Nagorno Karabakh", "Berdzor", "Հակոբ Հակոբյան", "Հայաստան", "Արցախ", "Լեռնային Ղարաբաղ", "Բերձոր", "Լաչին", "Ադրբեջան"]
 Description = """
 #### Guest:
