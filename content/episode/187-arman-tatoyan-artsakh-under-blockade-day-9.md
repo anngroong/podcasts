@@ -7,7 +7,6 @@ podcast_bytes = "31272396"
 episode_image = "img/episode/default.jpg"
 guests = ["atatoyan"]
 episode = "187"
-#subtitle = ""
 images = ["img/episode/default-social.jpg"]
 hosts = ["hovik"]
 aliases = ["/187"]
@@ -17,6 +16,7 @@ series = ["cog", "video"]
 categories = ["Artsakh", "Politics", "168am"]
 tags = ["Arman Tatoyan", "168", "168am", "Ankara", "Armenia", "Armenian News", "Artsakh", "Azerbaijan", "Baku", "Berdzor Corridor", "Berdzor", "Blockade", "Erdogan", "Ilham Aliyev", "Karabakh", "Lachin Corridor", "Lachin", "Nagorno-Karabakh", "News From Armenia", "POWs", "Russia", "Russian Peacekeepers", "Stepanakert", "Turkey", "UN Security Council", "United Nations", "Yerevan", "prisoners of war"]
 title = "Arman Tatoyan: Artsakh Under Blockade: Day 9"
+subtitle = "A conversation with Arman Tatoyan"
 Description = """
 
 > ***"This is the policy of ethnic cleansing and genocide against the people of Artsakh” -Arman Tatoyan***
