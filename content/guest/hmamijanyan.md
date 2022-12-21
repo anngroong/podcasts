@@ -3,7 +3,7 @@ Date = 2022-11-20T04:05:01-08:00
 title = "Hayk Mamijanyan"
 Pronouns = ""
 Twitter = ""
-Website = ""
+Website = "http://www.parliament.am/deputies.php?sel=details&ID=1447&lang=eng"
 Type = "guest"
 Facebook = "hmamij"
 Linkedin = ""
@@ -17,4 +17,4 @@ Twitch = ""
 #guest_group = "cog"
 +++
 
-Hayk Mamijanyan, is a member of parliament with the Pativ Unem (I have Honor) alliance in the Armenian National Assembly, and a member of the Republican Party of Armenia (RPA). 
+Hayk Mamijanyan is the leader of the oppositional Pativ Unem (With Honor) alliance in the Armenian National Assembly, and a member of the Republican Party of Armenia (RPA). 
