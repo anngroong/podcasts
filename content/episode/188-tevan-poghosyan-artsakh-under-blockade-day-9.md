@@ -11,6 +11,10 @@ images = ["img/episode/default-social.jpg"]
 hosts = ["hovik"]
 aliases = ["/188"]
 youtube = "QPi7uRiSCnQ"
+explicit = "no"
+series = ["cog", "video"]
+categories = ["Artsakh", "Politics", "168am"]
+tags = ["Tevan Poghosyan", "Edmon Marukyan", "Nagorno-Karabakh", "Karabakh", "Artsakh", "Blockade", "Lachin", "Lachin Corridor", "Berdzor", "Berdzor Corridor", "Ilham Aliyev", "Armenia", "Azerbaijan", "News From Armenia", "Armenian News", "Russian Peacekeepers", "Russia", "Richard Moore", "UN Security Council", "United Nations", "Baku", "Yerevan", "Stepanakert", "Turkey", "Ankara", "Erdogan", "168am", "168", "ECHR", "European Commission on Human Rights", "Հայաստան", "Արցախ", "Լեռնային Ղարաբաղ", "Բերձոր", "Լաչին", "Ադրբեջան"]
 title = "Tevan Poghosyan: Artsakh Under Blockade: Day 9"
 subtitle = "A conversation with Tevan Poghosyan"
 Description = """
@@ -81,3 +85,4 @@ Many analysts believe that closing Lachin is the first step by the Turkish-Azeri
 
 * What is the plan and strategy behind Azerbaijan’s blockade?
 * Why has Pashinyan and his government washed its hands of Artsakh?
+
