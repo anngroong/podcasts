@@ -18,7 +18,7 @@ podcast_bytes = 70902026
 podcast_file = "9729656-armenian-and-azerbaijani-expert-perspectives-on-negotiations-ep-107-dec-15-2021.mp3"
 youtube = "ZKUZPpl4JCI"
 truncate = ""
-series = ["COG"]
+series = ["cog", "video"]
 upcoming = false
 Description = """Anar Valiyev and Benyamin Poghosyan discuss stumbling blocks in post-war negotiations
 
