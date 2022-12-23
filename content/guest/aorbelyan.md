@@ -1,8 +1,8 @@
 +++
 Date = 2022-12-23T02:46:21+04:00
-title = ""
+title = "Aram Orbelyan"
 Pronouns = ""
-Twitter = ""
+Twitter = "aram_orbelian"
 Website = "https://www.dialog.am/en/staff/view/id/14"
 Type = "guest"
 Facebook = ""
