@@ -40,7 +40,6 @@ Episode 190 | Recorded: December 23, 2022"""
 
 ## Discussion
 
-
 ### United Nations
 
 On Monday, the United Nations Security Council met at Armenia’s [request](https://documents-dds-ny.un.org/doc/UNDOC/GEN/N22/589/61/PDF/N2258961.pdf?OpenElement) to discuss the situation in Artsakh. We heard a lot of statements from UNSC members bemoaning the crisis, demanding the reopening of the Lachin corridor, but what we didn’t hear was condemnation of Azerbaijan or resolutions by the UNSC demanding remediation.
@@ -48,12 +47,6 @@ On Monday, the United Nations Security Council met at Armenia’s [request](http
 **Question:**
 
 * In general, what tools does the UN Security Council have to compel Azerbaijan to open the Lachin (or Berdzor) corridor?
-
-One statement, however, drew particular Armenian criticism. Many in Armenia and Artsakh found the Russian statement to be artificially neutral or even pro-Azerbaijani. Specifically, Russia portrayed the blockade as not a violation of the November 9-10 tripartite statement but a mere adjacent issue that is being dealt with. Furthermore, in the eyes of [some](https://www.panorama.am/en/news/2022/12/21/Armenian-speaker-Russia/2772556), Russia downplayed the situation by declaring that the blockade started due to conflicts over mining rights, when Armenians know the final goal of Baku is to appropriate and depopulate Artsakh.
-
-**Question:**
-
-* Why did Russia issue such a statement?
 
 Despite any resolutions and a clear condemnation of Azerbaijan, Armenian authorities seem to be very happy with the results - specifically about some statements that named Azerbaijan as the culprit.
 
