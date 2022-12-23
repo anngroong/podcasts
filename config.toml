@@ -5,7 +5,6 @@ theme = "castanet-1.19.0"
 googleAnalytics = 'G-JNZ5XF71ZR'
 paginate = "9"
 buildFuture = false
-show_next_upcoming = false
 
 [taxonomies]
   category = "categories"
@@ -47,6 +46,11 @@ show_next_upcoming = false
     name = "Guests"
     identifier = "guests"
     url = "/guest"
+
+[[Menu.Main]]
+    name = "Upcoming Episodes"
+    identifier = "upcoming"
+    url = "/upcoming"
 
 [[Menu.Main]]
     name = "Blog"
