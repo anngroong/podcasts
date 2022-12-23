@@ -11,7 +11,6 @@ episode = "190"
 title = "Aram Orbelyan: Artsakh Under Blockade: Day 11"
 subtitle = "A conversation with Aram Orbelyan"
 images = ["img/episode/default-social.iojpg"]
-hosts = ["hovik"]
 aliases = ["/190"]
 explicit = "no" # values are "yes" or "no"
 youtube = "_fxZPp0cvGI"
