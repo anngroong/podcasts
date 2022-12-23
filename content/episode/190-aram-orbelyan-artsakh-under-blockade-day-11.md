@@ -6,7 +6,8 @@ podcast_duration = "3072"
 podcast_bytes = "36916078"
 episode_image = "img/episode/default.jpg"
 guests = ["aorbelyan"]
-episode = "189"
+hosts = ["hovik"]
+episode = "190"
 title = "Aram Orbelyan: Artsakh Under Blockade: Day 11"
 subtitle = "A conversation with Aram Orbelyan"
 images = ["img/episode/default-social.iojpg"]
@@ -37,6 +38,7 @@ Links:
 Episode 190 | Recorded: December 23, 2022"""
 +++
 
+## Show notes
 
 ## Discussion
 
@@ -55,4 +57,9 @@ Questions:
 * Why didn’t the security council vote on a resolution?
 * Who has the ability to table resolutions? Could Armenia have tabled it? 
 * How binding are UNSC resolutions?
+
+
+## Wrap-up
+
+We hope you found our [Conversations on Groong](/series/cog/) helpful, we invite your feedback and your suggestions. You can [**find us**](https://linktr.ee/groong) on most social media and podcast platforms. Thanks to **Laura Osborn** for the music on our podcasts.
 
