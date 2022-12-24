@@ -10,11 +10,11 @@ Linkedin = ""
 GitHub = ""
 Thumbnail = "img/guest/Edgar-Elbakyan-1.jpg"
 Pinterest = ""
-Instagram = ""
-YouTube = ""
+Instagram = "elbakyan_edgar"
+YouTube = "elbakyanedgar"
 Twitch = ""
 #Aka = []
 #guest_group = "wir,cog"
 +++
 
-Edgar Elbakyan is a political scientist and social thinker based in Yerevan, Armenia. He is a co-founder of the Armenian Project non-profit organization, which contributes to enhancing Armenian national civil society.
+Edgar Elbakyan is a political scientist and social thinker based in Yerevan, Armenia. He is a co-founder of the [Armenian Project](https://armenianproject.com/) non-profit organization, which contributes to enhancing Armenian national civil society.
