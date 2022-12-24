@@ -1,6 +1,6 @@
 +++
 
-Date = 2022-12-24T03:00:00-07:00
+Date = 2022-12-23T03:00:00-07:00
 
 podcast_file = ""
 podcast_duration = ""
@@ -13,7 +13,7 @@ guests = ["eelbakyan"]
 hosts = ["hovik"]
 episode = "192"
 title = "Edgar Elbakyan: Artsakh Under Blockade: Day 13"
-subtitle = "Armenian News Network - Groong Week in Review - Dec 24, 2022"
+subtitle = "Armenian News Network - Conversations on Groong - Dec 24, 2022"
 images = ["img/episode/default-social.jpg"]
 aliases = ["/192"]
 youtube = ""
