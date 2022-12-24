@@ -6,7 +6,7 @@ podcast_file = ""
 podcast_duration = ""
 podcast_bytes = ""
 episode_image = "img/episode/default.jpg"
-upcoming = "true"
+upcoming=true
 
 #episode_banner = ""
 guests = ["eelbakyan"]
