@@ -33,7 +33,7 @@ Description = """
 
 The blockade of Artsakh is now 13 days old. More than 120,000 people remain trapped in the Republic of Artsakh (or Nagorno-Karabakh). Supermarket shelves are empty. Essential medicine is running out.
 
-On Friday, December 23, that’s yesterday, a meeting between Bairamov and Lavrov was held in Baku without participation from Ararat Mirzoyan. We’ll talk about that among other things.
+On Friday, December 23, that’s yesterday, a meeting between Bairamov and Lavrov was held in Moscow without participation from Ararat Mirzoyan. We’ll talk about that among other things.
 
 This interview is a continuation of the collaboration between Groong and 168 Hours aiming to bring you more English-language coverage on the developments of this very serious humanitarian crisis in progress.
 
