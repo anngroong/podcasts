@@ -19,7 +19,7 @@ aliases = ["/192"]
 youtube = ""
 explicit = "no"
 categories = ["Artsakh", "Politics", "168am"]
-series = ["wir","cog","video"]
+series = ["cog","video"]
 tags = ["Edgar Elbakyan", "168am", "Ankara", "Ararat Mirzoyan", "Armen Grigoryan", "Armenia", "Armenian News", "Artsakh", "Azerbaijan", "Baku", "Berdzor Corridor", "Berdzor", "Blockade", "Dmitry Peskov", "Drmbon", "Erdogan", "Ilham Aliyev", "Karabakh", "Kashen Mine", "Lachin Corridor", "Lachin", "Nagorno-Karabakh", "News From Armenia", "Richard Moore", "Russia", "Russian Peacekeepers", "Stepanakert", "Sullivan Plan", "Turkey", "UN Security Council", "United Nations", "Vladimir Putin", "Yerevan"]
 
 Description = """
