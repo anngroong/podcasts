@@ -4,7 +4,8 @@ PublishDate = 2022-12-23T02:53:21+04:00
 podcast_file = "11920739-aram-orbelyan-artsakh-under-blockade-day-11-ep-190-dec-22-2022.mp3"
 podcast_duration = "3072"
 podcast_bytes = "36916078"
-episode_image = "img/episode/default.jpg"
+episode_image = "img/episode/thumbnail-190.png"
+episode_banner = "img/episode/banner-190.png"
 guests = ["aorbelyan"]
 hosts = ["hovik"]
 episode = "190"
@@ -57,8 +58,6 @@ Questions:
 * Who has the ability to table resolutions? Could Armenia have tabled it? 
 * How binding are UNSC resolutions?
 
-
 ## Wrap-up
 
 We hope you found our [Conversations on Groong](/series/cog/) helpful, we invite your feedback and your suggestions. You can [**find us**](https://linktr.ee/groong) on most social media and podcast platforms. Thanks to **Laura Osborn** for the music on our podcasts.
-
