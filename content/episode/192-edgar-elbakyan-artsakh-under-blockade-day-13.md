@@ -15,7 +15,6 @@ hosts = ["hovik"]
 episode = "192"
 title = "Edgar Elbakyan: Artsakh Under Blockade: Day 13"
 subtitle = "Armenian News Network - Conversations on Groong - Dec 24, 2022"
-images = ["img/episode/default-social.jpg"]
 aliases = ["/192"]
 youtube = "Ktkp7u_0A54"
 explicit = "no"
