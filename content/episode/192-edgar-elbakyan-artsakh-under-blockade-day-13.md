@@ -7,6 +7,7 @@ podcast_duration = "2356"
 podcast_bytes = "28301955"
 episode_image = "img/episode/thumbnail-192.png"
 episode_banner = "img/episode/banner-192.png"
+images = ["img/episode/banner-192.png"]
 upcoming=false
 
 guests = ["eelbakyan"]
