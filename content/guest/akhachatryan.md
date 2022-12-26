@@ -3,7 +3,7 @@ Date = 2022-10-24T04:45:01+04:00
 title = "Arthur Khachatryan"
 Pronouns = ""
 Twitter = ""
-Website = ""
+Website = "http://www.parliament.am/deputies.php?ID=1491&lang=eng&sel=details"
 Type = "guest"
 Facebook = "arthur.khachatryan"
 Linkedin = ""
@@ -17,5 +17,4 @@ Twitch = ""
 #guest_group = "cog"
 +++
 
-Arthur Khachatryan, who is a member of the ARF Dashnaktsutyun Supreme Council in Yerevan. In the past, he has held government posts such as Deputy Minister of Territorial Administration and Development, Governor of Shirak, and Minister of Agriculture.
-Currently, Arthur is a professor of finance at the French University of Armenia and lectures on Leadership at the Public Administration Academy of the Republic of Armenia. Mr. Khachatryan is an MP with the Hayastan Dashinq (Armenia Alliance) faction.
+Arthur Khachatryan, is an MP from the Hayastan (Armenia) alliance and member of the Armenian Revolutionary Federation (ARF Dashnaktsutyun). In the past, he held government posts such as Deputy Minister of Territorial Administration and Development, Governor of Shirak, and Minister of Agriculture.
