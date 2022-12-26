@@ -5,15 +5,15 @@ podcast_file = "###.mp3" # the name of the podcast file, after the media prefix.
 podcast_duration = ""
 podcast_bytes = ""
 
-episode_image = "img/episode/thumbnail-193.png"
-episode_banner = "img/episode/banner-193.png"
+episode_image = "img/episode/thumbnail-195.png"
+episode_banner = "img/episode/banner-195.png"
 images = ["img/episode/default-social.jpg"]
 upcoming = true
 
 hosts = ["hovik", "asbed"]
 guests = ["ytashjian"]
-episode = "193"
-aliases = ["/193"]
+episode = "195"
+aliases = ["/195"]
 #youtube = ""
 explicit = "no" # values are "yes" or "no"
 
