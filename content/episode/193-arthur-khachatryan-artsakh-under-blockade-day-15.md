@@ -1,20 +1,20 @@
 +++
 Date = 2022-12-26T22:00:00+04:00
 
-podcast_file = "###.mp3" # the name of the podcast file, after the media prefix.
-podcast_duration = ""
-podcast_bytes = ""
+podcast_file = "11933908-arthur-khachatryan-artsakh-under-blockade-day-15-ep-193-dec-26-2022.mp3" # the name of the podcast file, after the media prefix.
+podcast_duration = "2138"
+podcast_bytes = "25694196"
 
 episode_image = "img/episode/thumbnail-193.png"
 episode_banner = "img/episode/banner-193.png"
 images = ["img/episode/default-social.jpg"]
-upcoming = true
+upcoming = false
 
 hosts = ["hovik"]
 guests = ["akhachatryan"]
 episode = "193"
 aliases = ["/193"]
-#youtube = ""
+youtube = "2QHFvNdhl6E"
 explicit = "no" # values are "yes" or "no"
 
 categories = ["Artsakh", "Politics", "168am"]
