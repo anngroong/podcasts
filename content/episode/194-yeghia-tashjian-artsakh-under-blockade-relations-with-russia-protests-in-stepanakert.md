@@ -13,15 +13,15 @@ hosts = ["hovik", "asbed"]
 guests = ["ytashjian"]
 episode = "194"
 aliases = ["/194"]
-#youtube = "hk-XqneKZXk"
+youtube = "hk-XqneKZXk"
 explicit = "no" # values are "yes" or "no"
 
 series = ["wir"]
 categories = ["Politics", "Armenia", "Artsakh"]
 #tags = []
-title = "Week in Review for December 25, 2022"
+title = "Yeghia Tashjian | Artsakh Blockade | Relations with Russia | Weekend Protests in Artsakh | Ep 194 - Dec 25, 2022"
+subtitle = "Week in Review for December 25, 2022"
 tags = ["Yeghia Tashjian", "Nagorno-Karabakh", "Karabakh", "Artsakh", "Blockade", "Lachin", "Lachin Corridor", "Berdzor", "Berdzor Corridor", "Ilham Aliyev", "Armenia", "Azerbaijan", "News From Armenia", "Armenian News", "Russian Peacekeepers", "Russia", "UN Security Council", "United Nations", "Baku", "Yerevan", "Stepanakert", "Turkey", "Ankara", "Erdogan", "Հայաստան", "Արցախ", "Լեռնային Ղարաբաղ", "Բերձոր", "Լաչին", "Ադրբեջան"]
-subtitle = ""
 Description = ""
 +++
 
