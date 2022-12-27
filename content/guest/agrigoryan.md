@@ -16,3 +16,5 @@ Twitch = ""
 #Aka = []
 #guest_group = ""
 +++
+
+Anna Grigoryan is a member of the Armenian parliament with the Hayastan Dashinq (Armenia Alliance), no party affiliation.
