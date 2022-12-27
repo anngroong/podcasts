@@ -8,7 +8,7 @@ podcast_bytes = "19125750"
 episode_image = "img/episode/thumbnail-195.png"
 episode_banner = "img/episode/banner-195.png"
 images = ["img/episode/banner-195.jpg"]
-upcoming = true
+upcoming = false
 
 hosts = ["hovik"]
 guests = ["bpoghosyan"]
@@ -68,20 +68,15 @@ So, can you tell us what you think Azerbaijan’s plan maximum and plan minimum 
 
 While the relations with Russia have been tanking, Armenia is publicly making gestures towards the west. At least in words, there’s a lot of support for Armenia by Western powers. It was interesting to read the words of the Czech ambassador to Armenia who [said](https://www.azatutyun.am/a/32187660.html):
 
-
     _“...we, as Europe and the Czech Republic, haven’t abandoned Armenia…It doesn’t mean that we are going to save you, that’s what you need to understand and what I want to emphasize. We are not going to save you, you know. But we are going to do our best to help you get over this mess.”_
 
 French parliamentarian Valerie Boyer, a staunch supporter of Armenia and Artsakh [lamented](https://www.youtube.com/watch?v=C-Th7o62_FI):
-
 
     _“Why did we hold Francophonie in Yerevan. Why did we tell Armenians that they’re our brothers and sisters, when we were going to let them remain alone with their dictatorial neighbors?”_
 
 So I’m guessing a lot of words of encouragement, concern, thoughts and prayers from the West. But no weapons! However, as you know, the spy chiefs from both the US, as well as the UK have recently visited Yerevan. Richard Moore, the head of MI6 met with Pashinyan on December 16. Notably this interaction was between Moore and Pashinyan alone.
 
-
-
 * What is the West’s offer to ensure the security of Armenia?
-
 
 ### Predictions
 
