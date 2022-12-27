@@ -22,8 +22,7 @@ categories = ["Politics", "Armenia", "Artsakh"]
 title = "Yeghia Tashjian | Artsakh Blockade | Relations with Russia | Role of the Armenian Government | Draft 'Peace' Proposals | Weekend Protests in Artsakh"
 subtitle = "Week in Review for December 25, 2022"
 tags = ["Yeghia Tashjian", "Nagorno-Karabakh", "Karabakh", "Artsakh", "Blockade", "Lachin", "Lachin Corridor", "Berdzor", "Berdzor Corridor", "Ilham Aliyev", "Armenia", "Azerbaijan", "News From Armenia", "Armenian News", "Russian Peacekeepers", "Russia", "UN Security Council", "United Nations", "Baku", "Yerevan", "Stepanakert", "Turkey", "Ankara", "Erdogan", "Հայաստան", "Արցախ", "Լեռնային Ղարաբաղ", "Բերձոր", "Լաչին", "Ադրբեջան"]
-Description = ""
-+++
+Description = """
 
 #### Guest:
 * [Yeghia Tashjian](/guest/ytashjian)
