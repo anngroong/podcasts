@@ -8,7 +8,6 @@ podcast_bytes = "27807419"
 episode_image = "img/episode/thumbnail-194.png"
 episode_banner = "img/episode/banner-194.png"
 images = ["img/episode/default-social.jpg"]
-upcoming = true
 
 hosts = ["hovik", "asbed"]
 guests = ["ytashjian"]
