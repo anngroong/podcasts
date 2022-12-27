@@ -2,9 +2,9 @@
 
 Date = 2022-12-25T03:00:00-08:00
 
-podcast_file = ""
-podcast_duration = ""
-podcast_bytes = ""
+podcast_file = "11935940-yeghia-tashjian-artsakh-blockade-relations-with-russia-weekend-protests-in-artsakh-ep-194-dec-25-2022.mp3"
+podcast_duration = "2313"
+podcast_bytes = "27807419"
 episode_image = "img/episode/default.jpg"
 upcoming = "true"
 
