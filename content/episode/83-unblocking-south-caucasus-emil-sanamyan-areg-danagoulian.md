@@ -19,7 +19,7 @@ title = "Unblocking The South Caucasus, Facts & 'Alternative Facts' | Ep 83 - Au
 subtitle = "Conversations on Groong - 08/01/2021"
 Description = """
 
-#### Guest:
+#### Guests:
 * [Areg Danagoulian](/guest/adanagoulian)
 * [Emil Sanamyan](/guest/esanamyan)
 
