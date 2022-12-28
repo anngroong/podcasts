@@ -9,7 +9,6 @@ guests = ["adanagoulian","esanamyan"]
 hosts = ["hovik","asbed"]
 episode = "83"
 images = ["img/episode/default-social.jpg"]
-hosts = ["hovik","asbed"]
 aliases = ["/83"]
 youtube = "ljDR_eWBLHE"
 explicit = "no"
