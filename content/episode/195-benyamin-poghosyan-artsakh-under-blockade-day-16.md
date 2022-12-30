@@ -19,7 +19,7 @@ explicit = "no" # values are "yes" or "no"
 
 series = ["cog", "video"]
 categories = ["Artsakh", "Politics", "168am"]
-tags = []
+tags = ["Benyamin Poghosyan", "Nagorno-Karabakh", "Karabakh", "Artsakh", "Blockade", "Lachin", "Lachin Corridor", "Berdzor", "Berdzor Corridor", "Ilham Aliyev", "Armenia", "Azerbaijan", "News From Armenia", "Armenian News", "Russian Peacekeepers", "Russia", "UN Security Council", "United Nations", "Baku", "Yerevan", "Stepanakert", "Turkey", "Ankara", "Erdogan", "168am", "168", "prisoners of war", "POWs"]
 title = "Benyamin Poghosyan: Artsakh Under Blockade: Day 16"
 subtitle = "Armenian News Network - Conversations on Groong - Dec 27, 2022"
 Description = """
