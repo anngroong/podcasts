@@ -44,14 +44,14 @@ Episode 1 | Recorded on July 12, 2020
 
 ### Overview
 
-The saga around the Armenian Constitutional Court continues this week. The three judges who were targets of the persistent efforts by Pashinyan and his My Step (Im Qayl) parliamentary faction have taken their case to the European Court of Human Rights. The ECHR refused to grant an urgent injunction (intended to prevent any change in the makeup of the court until the case is fully deliberated), however, there are indications that ECHR intends to expedite this case, giving the parties until August to submit their positions. \
+The saga around the Armenian Constitutional Court continues this week. The three judges who were targets of the persistent efforts by Pashinyan and his My Step (Im Qayl) parliamentary faction have taken their case to the European Court of Human Rights. The ECHR refused to grant an urgent injunction (intended to prevent any change in the makeup of the court until the case is fully deliberated), however, there are indications that ECHR intends to expedite this case, giving the parties until August to submit their positions.
 
 Let’s remember that last week’s amendments to the Law on the Constitutional Court have not taken effect since the president is refusing to sign (and he has announced that he won’t refer the bill to the constitutional court), which will most likely mean that they will be signed by the president of the National Assembly (Ararat Mirzoyan) after a constitutionally mandated 21 day period expires. This has left the court in limbo where critics say that the 3 justices are still considered as serving their term while the government maintains that the judges are out even if the law hasn’t been signed yet. With the three judges being out and two other judges who took vacation, for the first time since its founding the CC hasn’t had quorum for two weeks in a row.
 
 
 ### History of events around topic
 
-The 2015 constitutional changes (authored by Hrayr Tovmasyan) reduced the term of a CC judge to 12 years. Previously, the term of a judge ran until they reached retirement age. In order to bridge the gap between the old term limits and the newly introduced ones, the constitution also includes a transitional clause which effectively means that the new term limits only apply to newly appointed justices. This would mean that a number of previously appointed members would get to serve a long time, including the chairperson (Hrayr Tovmasyan) who would get to serve until his retirement in 2035. \
+The 2015 constitutional changes (authored by Hrayr Tovmasyan) reduced the term of a CC judge to 12 years. Previously, the term of a judge ran until they reached retirement age. In order to bridge the gap between the old term limits and the newly introduced ones, the constitution also includes a transitional clause which effectively means that the new term limits only apply to newly appointed justices. This would mean that a number of previously appointed members would get to serve a long time, including the chairperson (Hrayr Tovmasyan) who would get to serve until his retirement in 2035.
 
 Let’s take a brief overview of the issue:
 
@@ -89,7 +89,7 @@ In the West, polls are a ubiquitous part of a citizen’s life. There are polls 
 
 Three major polls were the topic of discussion in Armenian politics over the recent weeks and in this segment, we’ll try to make sense of it all for you. All three polls appear to show a significant amount of support for the executive government in Armenia, despite recent rocky news related to Covid and consolidation of domestic opposition forces.
 
-But how are these polls conducted? Who conducts them? How does data turn into information, and how does information turn into knowledge and decisions? \
+But how are these polls conducted? Who conducts them? How does data turn into information, and how does information turn into knowledge and decisions?
 
 Do these polls truly reflect the reality on the ground in Armenia? Or are they simply a continuation of what has become tradition in Armenia, where political polls have almost always conspicuously favored the party in power. 
 
@@ -119,7 +119,7 @@ Here is an interesting result:
 This is actually an improvement from 2017 when that number was 35%. The best value for this was 2008 when only 20% of Armenians wished to leave Armenia forever.
 
 
-[Armenians want to leave the country forever](img/episode/1/image001.png "image_tooltip")
+[Armenians want to leave the country forever](/img/episode/1/image001.png "image_tooltip")
 
 
 Now on to a few political questions.
@@ -153,7 +153,7 @@ Some findings:
 ![alt_text](img/episode/1/image005.png "image_tooltip")
 
 * Only 35% concerned about unemployment (down from 50% in 2019)
-* 26% concerned about low living standards, poverty (down from 34%) \
+* 26% concerned about low living standards, poverty (down from 34%)
 
 
 ### Analysis of the current situation, including tactical issues
