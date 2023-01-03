@@ -119,7 +119,7 @@ Here is an interesting result:
 This is actually an improvement from 2017 when that number was 35%. The best value for this was 2008 when only 20% of Armenians wished to leave Armenia forever.
 
 
-[Armenians want to leave the country forever](/img/episode/1/image001.png "image_tooltip")
+[Armenians want to leave the country forever](<img src="/img/episode/1/image001.png" alt="Armenians want to leave the country forever"> "image_tooltip")
 
 
 Now on to a few political questions.
