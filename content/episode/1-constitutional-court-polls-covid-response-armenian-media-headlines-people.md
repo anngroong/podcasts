@@ -2,7 +2,7 @@
 +++
 
 title = "Constitutional Court Standoff | Polls | Armenia Response to COVID | Armenian Media | Headlines | People in the News | Ep 1 - Jul 12, 2020"
-subtitle = "ANN/Groong Week in Review  (Ep #1) - 07/12/2020"
+subtitle = "ANN/Groong Week in Review | Ep 1 - 07/12/2020"
 date = 2020-07-13T02:02:27
 recordedDate = date = 2020-07-13T02:00:00
 draft = false
@@ -13,12 +13,12 @@ author = "Armenian News Network - Groong"
 episode = "1"
 episode_image = "img/episode/default.jpg"
 episode_banner = "img/episode/default-banner.jpg"
+images = ["img/episode/default-social.jpg"]
 hosts = ["hovik","asbed"]
 guests = ["akotchikian","esanamyan","azamanyan"]
-images = ["img/episode/default-social.jpg"]
+podcast_file = "4537598-ann-groong-wir-1-jul-12-2020.mp3"
 podcast_duration = "1:12:28"
 podcast_bytes = 52221363
-podcast_file = "4537598-ann-groong-wir-1-jul-12-2020.mp3"
 youtube = "JsyPnaeyGuo"
 truncate = ""
 series = ["WIR"]
@@ -97,7 +97,7 @@ Do these polls truly reflect the reality on the ground in Armenia? Or are they s
 
 ### History of events around topic
 
-**<span style="text-decoration:underline;">MPG LLC (aka “Gallup”) Poll</span>**
+**MPG LLC (aka “Gallup”) Poll**
 
 A poll conducted over the phone by MPG LLC, a member of the GALLUP International Association in Armenia, yielded headlines such as: [88.1% of survey respondents positively assess Armenian PM’s activity](https://www.facebook.com/groups/groong/permalink/10163672188890585/)?
 
@@ -109,7 +109,7 @@ One of the arguments brought up in the discussions was that this is the same MPG
 * Indicated in 2013 that Serge Sargsyan had 69% popularity while Raffi Hovanissian only 11%.
 
 
-**<span style="text-decoration:underline;">Caucasus Barometer</span>**
+**Caucasus Barometer**
 
 The Caucasus Research Resource Centers (CRCC) publishes public opinion datasets across the three Caucasus countries. In Armenia, they conduct the polls of individuals sampled from public voter lists published by the Central Election Commission. The polling was done in-person with more than 60 questions covering a range of topics. While the results were published recently, the poll was conducted in Feb/March (pre Covid). 
 
@@ -118,8 +118,6 @@ Here is an interesting result:
 **Around 24% of Armenians want to leave the country forever.**
 
 This is actually an improvement from 2017 when that number was 35%. The best value for this was 2008 when only 20% of Armenians wished to leave Armenia forever.
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
 ![alt_text](images/image1.png "image_tooltip")
@@ -136,7 +134,7 @@ Now on to a few political questions.
     * 4% said Bright Armenia
     * All other parties received 1% each
 
-**<span style="text-decoration:underline;">EU Neighbors East - Annual Armenia Survey</span>**
+**EU Neighbors East - Annual Armenia Survey**
 
 This is an annual survey of countries in the “EU neighbors east” project. 1000 face-to-face interviews in 30 cities/towns. The survey was conducted in Feb 2020 (before Covid).
 
@@ -144,7 +142,6 @@ Some findings:
 
 **Level of trust in institutions**
 
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 ![alt_text](images/image2.png "image_tooltip")
 
@@ -153,7 +150,6 @@ Some findings:
 
 **What is the most pressing problems facing your country?**
 
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image3.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 ![alt_text](images/image3.png "image_tooltip")
 
@@ -196,7 +192,7 @@ Another interesting fact is that the response rate for this survey was 37.14%, d
 * What conclusions can we draw from the three polls together?
 
 
-## <span style="text-decoration:underline;">The Armenian Government’s response to COVID-19</span>
+## The Armenian Government’s response to COVID-19
 
 ### Overview
 
@@ -209,23 +205,17 @@ There will be tense times in the parliament over the coming weeks as the governm
 
 #### Update on Stats
 
-<p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image4.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
 
 ![alt_text](images/image4.png "image_tooltip")
 
-<p id="gdcalert5" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image5.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert6">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 ![alt_text](images/image5.png "image_tooltip")
 
-<p id="gdcalert6" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image6.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert7">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 ![alt_text](images/image6.png "image_tooltip")
 
 
 According to [worldometers.info]((https://worldometers.info) 
-
-<p id="gdcalert7" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image7.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert8">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 ![alt_text](images/image7.jpg "image_tooltip")
 
@@ -319,7 +309,7 @@ These major on goings are derived from articles we have shared with Groong reade
 
 ## People in the News
 
-### <span style="text-decoration:underline;">Anouch Toranian</span>
+### Anouch Toranian
 
 [Anouch Toranian](https://www.facebook.com/AnouchToranian/), former Exec Dir of AGBU France,  was appointed Vice Mayor of Paris, France in July, 2020.
 
@@ -330,7 +320,7 @@ These major on goings are derived from articles we have shared with Groong reade
 * [Anouch Toranian Elected Head of 15th Arrondissement of Paris](https://www.facebook.com/groups/groong/permalink/10163675752370585/) - ArMedia.am
 
 
-### <span style="text-decoration:underline;">Jeanne Barseghian</span>
+### Jeanne Barseghian
 
 [Jeanne Barseghian](https://www.facebook.com/jeannebarseghianstrasbourg/) was elected mayor of Strasbourg, France in June, 2020. She is the great granddaughter of Berdjouhi Barseghian, one of the first three women elected to the Armenian Parliament during the first Republic of Armenia in 1918.
 
@@ -340,7 +330,7 @@ These major on goings are derived from articles we have shared with Groong reade
 * [Newly elected mayor of Strasbourg is great-granddaughter of female MP of First Republic of Armenia](https://www.facebook.com/groups/groong/permalink/10163647789795585/) - News.am
 
 
-### <span style="text-decoration:underline;">Marianna Gevorgyan</span>
+### Marianna Gevorgyan
 
 [Marianna Gevorgyan](https://www.facebook.com/profile.php?id=100003301519786) won the top prize in the “Music of the peoples of the world” category of the _World Folk Vision 2020 _festival. This yearhe contest was held online, with 115 countries participating.
 
