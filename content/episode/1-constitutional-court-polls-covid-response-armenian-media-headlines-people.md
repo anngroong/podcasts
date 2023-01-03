@@ -1,10 +1,9 @@
-
 +++
-
 title = "Constitutional Court Standoff | Polls | Armenia Response to COVID | Armenian Media | Headlines | People in the News | Ep 1 - Jul 12, 2020"
 subtitle = "ANN/Groong Week in Review | Ep 1 - 07/12/2020"
-date = 2020-07-13T02:02:27
-recordedDate = date = 2020-07-13T02:00:00
+date = 2020-07-12T02:02:27
+recordedDate = 2020-07-12T02:00:00
+PublishDate = 2020-07-12T04:07:12
 draft = false
 explicit = "no"
 
@@ -18,7 +17,7 @@ hosts = ["hovik","asbed"]
 guests = ["akotchikian","esanamyan","azamanyan"]
 podcast_file = "4537598-ann-groong-wir-1-jul-12-2020.mp3"
 podcast_duration = "1:12:28"
-podcast_bytes = 52221363
+podcast_bytes = "52221363"
 youtube = "JsyPnaeyGuo"
 truncate = ""
 series = ["WIR"]
