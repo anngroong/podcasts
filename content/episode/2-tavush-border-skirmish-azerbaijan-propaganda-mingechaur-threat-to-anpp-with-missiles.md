@@ -12,6 +12,7 @@ author = "Armenian News Network - Groong"
 episode = "2"
 episode_image = "img/episode/default.jpg"
 episode_banner = "img/episode/default-banner.jpg"
+hosts = ["hovik","asbed"]
 guests = ["akotchikian","esanamyan","azamanyan","adanagoulian"]
 images = ["img/episode/default-social.jpg"]
 podcast_duration = "1:08:21"
@@ -58,7 +59,7 @@ Now let’s do a deep-dive analysis with our well-informed guests.
 
 ### Analysis of the current situation, including tactical issues
 
-* **Emil** **Sanamyan** wrote an [article](https://www.facebook.com/groups/groong/permalink/10163721883540585/) about these events for the USC Institute of Armenian Studies the day after fighting broke out. What are your thoughts about these continuing hostilities, is this just another routine flare-up, or are there more serious reasons to be worried here? Why the escalation now and why on the Armenian-Azerbaijani border (as opposed to the line of contact in Artsakh)?
+* **Emil Sanamyan** wrote an [article](https://www.facebook.com/groups/groong/permalink/10163721883540585/) about these events for the USC Institute of Armenian Studies the day after fighting broke out. What are your thoughts about these continuing hostilities, is this just another routine flare-up, or are there more serious reasons to be worried here? Why the escalation now and why on the Armenian-Azerbaijani border (as opposed to the line of contact in Artsakh)?
 * Azerbaijan appears to have been ready with its massive PR machine because within a day after the hostilities began Azeri press was full of one-sided statements by a large number of international Islamic organizations, Islamic countries and various other alliances such as the GUAM. Meanwhile, most other organizations and countries put out balanced statements calling for cessation of hostilities by both parties and a return to peace and negotiations. 
 * What are the dynamics driving the domestic political scene in Baku? Ilham Aliyev just fired his long-time foreign minister Elmar Mammadyarov for “ineffective negotiations” over Karabakh. There was a crowd estimated at 30,000 demonstrating in Baku demanding an end to negotiations and quarantine, and demanding war on Armenia. What is going on in Baku?
 * Who is Azerbaijan’s new Foreign Minister Jeyhun Bayramov? What do we know about him?
