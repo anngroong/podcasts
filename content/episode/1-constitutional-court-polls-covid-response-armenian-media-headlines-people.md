@@ -214,7 +214,7 @@ There will be tense times in the parliament over the coming weeks as the governm
 ![alt_text](img/episode/1/image011.png "image_tooltip")
 
 
-According to [worldometers.info]((https://worldometers.info) 
+According to [worldometers.info](https://worldometers.info)
 
 ![alt_text](img/episode/1/image013.jpg "image_tooltip")
 
