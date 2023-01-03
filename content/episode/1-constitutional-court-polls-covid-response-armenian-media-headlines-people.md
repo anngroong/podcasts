@@ -96,7 +96,7 @@ Do these polls truly reflect the reality on the ground in Armenia? Or are they s
 
 ### History of events around topic
 
-**MPG LLC (aka “Gallup”) Poll**
+#### MPG LLC (aka “Gallup”) Poll
 
 A poll conducted over the phone by MPG LLC, a member of the GALLUP International Association in Armenia, yielded headlines such as: [88.1% of survey respondents positively assess Armenian PM’s activity](https://www.facebook.com/groups/groong/permalink/10163672188890585/)?
 
@@ -108,7 +108,7 @@ One of the arguments brought up in the discussions was that this is the same MPG
 * Indicated in 2013 that Serge Sargsyan had 69% popularity while Raffi Hovanissian only 11%.
 
 
-**Caucasus Barometer**
+#### Caucasus Barometer
 
 The Caucasus Research Resource Centers (CRCC) publishes public opinion datasets across the three Caucasus countries. In Armenia, they conduct the polls of individuals sampled from public voter lists published by the Central Election Commission. The polling was done in-person with more than 60 questions covering a range of topics. While the results were published recently, the poll was conducted in Feb/March (pre Covid). 
 
@@ -119,7 +119,7 @@ Here is an interesting result:
 This is actually an improvement from 2017 when that number was 35%. The best value for this was 2008 when only 20% of Armenians wished to leave Armenia forever.
 
 
-![alt_text](images/image1.png "image_tooltip")
+[Armenians want to leave the country forever](img/episode/1/image001.png "image_tooltip")
 
 
 Now on to a few political questions.
@@ -142,15 +142,15 @@ Some findings:
 **Level of trust in institutions**
 
 
-![alt_text](images/image2.png "image_tooltip")
+![alt_text](img/episode/1/image003.png "image_tooltip")
 
 * Trust in Government at 76% (up 4% since 2019 and up 48% since 2018)
 * Trust in Parliament at 59% (no significant change from 2019, but well above the values in 2018)
 
-**What is the most pressing problems facing your country?**
+**What are the most pressing problems facing your country?**
 
 
-![alt_text](images/image3.png "image_tooltip")
+![alt_text](img/episode/1/image005.png "image_tooltip")
 
 * Only 35% concerned about unemployment (down from 50% in 2019)
 * 26% concerned about low living standards, poverty (down from 34%) \
@@ -205,18 +205,18 @@ There will be tense times in the parliament over the coming weeks as the governm
 #### Update on Stats
 
 
-![alt_text](images/image4.png "image_tooltip")
+![alt_text](img/episode/1/image007.png "image_tooltip")
 
 
-![alt_text](images/image5.png "image_tooltip")
+![alt_text](img/episode/1/image009.png "image_tooltip")
 
 
-![alt_text](images/image6.png "image_tooltip")
+![alt_text](img/episode/1/image011.png "image_tooltip")
 
 
 According to [worldometers.info]((https://worldometers.info) 
 
-![alt_text](images/image7.jpg "image_tooltip")
+![alt_text](img/episode/1/image013.jpg "image_tooltip")
 
 
 #### Parliamentary Inquiry
