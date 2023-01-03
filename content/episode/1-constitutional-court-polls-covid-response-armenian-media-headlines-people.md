@@ -118,7 +118,7 @@ Here is an interesting result:
 
 This is actually an improvement from 2017 when that number was 35%. The best value for this was 2008 when only 20% of Armenians wished to leave Armenia forever.
 
-![Armenians want to leave the country forever](/img/episode/1/image001.png "Armenians want to leave the country forever")
+![Armenians want to leave the country forever](/img/episode/1/Picture1.png "Armenians want to leave the country forever")
 
 
 Now on to a few political questions.
@@ -140,7 +140,7 @@ Some findings:
 
 **Level of trust in institutions**
 
-![Level of Trust in Institutions](/img/episode/1/image003.png "Level of Trust in Institutions")
+![Level of Trust in Institutions](/img/episode/1/Picture2.png "Level of Trust in Institutions")
 
 * Trust in Government at 76% (up 4% since 2019 and up 48% since 2018)
 * Trust in Parliament at 59% (no significant change from 2019, but well above the values in 2018)
@@ -148,7 +148,7 @@ Some findings:
 **What are the most pressing problems facing your country?**
 
 
-![Most Pressing Problems Facing Country](/img/episode/1/image005.png "Most Pressing Problems Facing Country")
+![Most Pressing Problems Facing Country](/img/episode/1/Picture3.png "Most Pressing Problems Facing Country")
 
 * Only 35% concerned about unemployment (down from 50% in 2019)
 * 26% concerned about low living standards, poverty (down from 34%)
@@ -203,18 +203,18 @@ There will be tense times in the parliament over the coming weeks as the governm
 #### Update on Stats
 
 
-![Covid-19 Armenia Weekly Change](/img/episode/1/image007.png "Covid-19 Armenia Weekly Change")
+![Covid-19 Armenia Weekly Change](/img/episode/1/Picture4.png "Covid-19 Armenia Weekly Change")
 
 
-![Covid-19 Armenia Weekly Test Stats](/img/episode/1/image009.png "Covid-19 Armenia Weekly Test Stats")
+![Covid-19 Armenia Weekly Test Stats](/img/episode/1/Picture5.png "Covid-19 Armenia Weekly Test Stats")
 
 
-![Covid-19 Armenia New Weekly Deaths](/img/episode/1/image012.jpg "Covid-19 Armenia New Weekly Deaths")
+![Covid-19 Armenia New Weekly Deaths](/img/episode/1/Picture6.jpg "Covid-19 Armenia New Weekly Deaths")
 
 
 According to [worldometers.info](https://worldometers.info)
 
-![Worldometers Info](/img/episode/1/image013.jpg "World-O-Meters info")
+![Worldometers Info](/img/episode/1/Picture7.jpg "World-O-Meters info")
 
 
 #### Parliamentary Inquiry
