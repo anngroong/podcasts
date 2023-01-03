@@ -209,7 +209,7 @@ There will be tense times in the parliament over the coming weeks as the governm
 ![Covid-19 Armenia Weekly Test Stats](/img/episode/1/image009.png "Covid-19 Armenia Weekly Test Stats")
 
 
-![Covid-19 Armenia New Weekly Deaths](/img/episode/1/image011.png "Covid-19 Armenia New Weekly Deaths")
+![Covid-19 Armenia New Weekly Deaths](/img/episode/1/image012.jpg "Covid-19 Armenia New Weekly Deaths")
 
 
 According to [worldometers.info](https://worldometers.info)
