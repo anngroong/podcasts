@@ -1,20 +1,20 @@
 +++
 
-Date = 2023-01-04T00:15:00-07:00
+Date = 2023-01-03T23:15:00-07:00
 
 podcast_file = "11976272-reflections-on-artsakh-blockade-is-russia-pressuring-armenia-to-join-union-state-bill-to-control-internet-during-martial-law-highlights-and-lowlights-of-2022-predictions-for-2023-ep-197-jan-1-2023.mp3"
 podcast_duration = "2306"
 podcast_bytes = "27718902"
 episode_image = "img/episode/default.jpg"
-upcoming = "false"
-
 #episode_banner = ""
+images = ["img/episode/default-social.jpg"]
+upcoming = false
+
 guests = ["bpoghosyan"]
 hosts = ["hovik","asbed"]
 episode = "197"
-title = "Reflections on Artsakh Blockade | Is Russia Pressuring Armenia to join Union State | Bill to Control Internet during Martial Law | Highlights and Lowlights of 2022 | Predictions for 2023 | Ep 197 - Jan 1, 2023"
+title = "Reflections on Artsakh Blockade | Is Russia Pressuring Armenia to join Union State | Bill to Control Internet during Martial Law | Highlights and Lowlights of 2022 | Predictions for 2023"
 subtitle = "ANN Groong Week in Review - Jan 1, 2023"
-images = ["img/episode/default-social.jpg"]
 aliases = ["/197"]
 youtube = "19k2RprKUCI"
 explicit = "no"
