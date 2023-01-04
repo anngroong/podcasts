@@ -6,7 +6,7 @@ podcast_file = "11976272-reflections-on-artsakh-blockade-is-russia-pressuring-ar
 podcast_duration = "2306"
 podcast_bytes = "27718902"
 episode_image = "img/episode/default.jpg"
-upcoming = "true"
+upcoming = "false"
 
 #episode_banner = ""
 guests = ["bpoghosyan"]
