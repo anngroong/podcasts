@@ -5,9 +5,9 @@ Date = 2023-01-03T23:15:00-07:00
 podcast_file = "11976272-reflections-on-artsakh-blockade-is-russia-pressuring-armenia-to-join-union-state-bill-to-control-internet-during-martial-law-highlights-and-lowlights-of-2022-predictions-for-2023-ep-197-jan-1-2023.mp3"
 podcast_duration = "2306"
 podcast_bytes = "27718902"
-episode_image = "img/episode/default.jpg"
-#episode_banner = ""
-images = ["img/episode/default-social.jpg"]
+episode_image = "img/episode/thumbnail-197.png"
+episode_banner = "img/episode/banner-197.png"
+images = ["img/episode/banner-197.png"]
 upcoming = false
 
 guests = ["bpoghosyan"]
