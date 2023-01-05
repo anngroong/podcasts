@@ -2,8 +2,8 @@
 Date = 2021-12-28T04:00:01-08:00
 title = "Hovhannes Ishkhanyan"
 Pronouns = ""
-Twitter = ""
-Website = ""
+Twitter = "Ishkhanian"
+Website = "https://www.facebook.com/aknandakan"
 Type = "guest"
 Facebook = "hovoish"
 Linkedin = ""
@@ -17,4 +17,4 @@ Twitch = ""
 #guest_group = "cog"
 +++
 
-Hovhannes Ishkhanyan, writer, documentary filmmaker, publicist, co-founder of Eye for an Eye (Akn Und Akan), a community of documentarians. Hovhannes has a Master's in journalism from the Georgian Institute of Public Affairs.
+Hovhannes Ishkhanyan, writer, documentary filmmaker, publicist, co-founder of [Eye for an Eye (Akn Und Akan)](https://www.facebook.com/aknandakan), a community of documentarians. Hovhannes has a Master's in journalism from the Georgian Institute of Public Affairs.
