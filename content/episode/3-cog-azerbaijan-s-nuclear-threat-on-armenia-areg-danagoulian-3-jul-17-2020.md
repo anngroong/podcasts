@@ -1,8 +1,9 @@
 
 +++
 
-title = "Azerbaijan's Nuclear Threat on Armenia - Areg Danagoulian - (Ep #3) - 07/17/2020"
-date = 2020-08-30T02:52:11
+title = "Azerbaijan's Nuclear Threat on Armenia - Areg Danagoulian - Ep 3 - 07/19/2020"
+subtitle = "Conversations on Groong"
+date = 2020-07-17T02:52:11
 draft = false
 explicit = "no"
 
@@ -11,6 +12,7 @@ author = "Armenian News Network - Groong"
 episode = "3"
 episode_image = "img/episode/default.jpg"
 episode_banner = "img/episode/default-banner.jpg"
+hosts = ["akotchikian"]
 guests = ["adanagoulian"]
 images = ["img/episode/default-social.jpg"]
 podcast_duration = "0:25:37"
@@ -20,25 +22,27 @@ youtube = "QDFS7-Sks0Q"
 truncate = ""
 series = ["COG"]
 upcoming = false
-Description = """𝐀𝐳𝐞𝐫𝐛𝐚𝐢𝐣𝐚𝐧'𝐬 𝐍𝐮𝐜𝐥𝐞𝐚𝐫 𝐓𝐡𝐫𝐞𝐚𝐭 𝐨𝐧 𝐀𝐫𝐦𝐞𝐧𝐢𝐚 - 𝐀𝐫𝐞𝐠 𝐃𝐚𝐧𝐚𝐠𝐨𝐮𝐥𝐢𝐚𝐧 (𝐄𝐩. 𝟑)
+Description = """𝐀𝐳𝐞𝐫𝐛𝐚𝐢𝐣𝐚𝐧'𝐬 𝐍𝐮𝐜𝐥𝐞𝐚𝐫 𝐓𝐡𝐫𝐞𝐚𝐭 𝐨𝐧 𝐀𝐫𝐦𝐞𝐧𝐢𝐚 - 𝐀𝐫𝐞𝐠 𝐃𝐚𝐧𝐚𝐠𝐨𝐮𝐥𝐢𝐚𝐧
 
-Conversations on Groong
+## Safety and Security of Metsamor
 
-Safety and Security of Metsamor
-𝐀𝐬𝐛𝐞𝐝 𝐊𝐨𝐭𝐜𝐡𝐢𝐤𝐢𝐚𝐧 talks with 𝐀𝐫𝐞𝐠 𝐃𝐚𝐧𝐚𝐠𝐨𝐮𝐥𝐢𝐚𝐧
+#### Topics:
+* Azerbaijan’s threat to attack the NPP
+* Overall safety and security of the plant
+* Safe handling of nuclear fuel
+* Renewable energy alternatives to nuclear
+* Maintenance and upgrades to the NPP
 
-Topics:
-- Azerbaijan’s threat to attack the NPP
-- Overall safety and security of the plant
-- Safe handling of nuclear fuel
-- Renewable energy alternatives to nuclear
-- Maintenance and upgrades to the NPP
-
-Web: https://groong.org/podcasts/Conversations-Areg-D-20200719.html
-Episode 3 | Recorded on July 17, 2020
-"""
+Episode 3 | Recorded on July 17, 2020"""
 
 +++
 
-Show Notes
+## The Threat on the Armenian Nuclear Power Plant
+
+In this segment **Asbed Kotchikian** discusses a wide variety of aspects of the Armenian Nuclear Power Plant (ANPP) at Metsamor with **Areg Danagulian**. The ANPP’s significance to Armenia’s economy, energy security, and independence cannot be overstated. The power plant was shut down in 1989 following the devastating earthquake in Spitak, and when it was brought back online in 1995 after being shut down since 1989 it served as a lifeline and helped fuel Armenia’s economic growth for the next two decades.
+
+
+## Wrap-up
+
+We hope you found our [Conversations on Groong](/series/cog/) helpful, we invite your feedback and your suggestions. You can [**find us**](https://linktr.ee/groong) on most social media and podcast platforms. Thanks to **Laura Osborn** for the music on our podcasts.
 
