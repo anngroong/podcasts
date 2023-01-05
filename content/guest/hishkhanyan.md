@@ -17,4 +17,4 @@ Twitch = ""
 #guest_group = "cog"
 +++
 
-Hovhannes Ishkhanyan ...
+Hovhannes Ishkhanyan, writer, documentary filmmaker, publicist, co-founder of Eye for an Eye (Akn Und Akan), a community of documentarians. Hovhannes has a Master's in journalism from the Georgian Institute of Public Affairs.
