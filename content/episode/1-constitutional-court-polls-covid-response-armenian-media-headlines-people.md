@@ -24,7 +24,8 @@ series = ["WIR"]
 Tags = ["Emil Sanamyan", "Asbed Kotchikian", "Alen Zamanyan", "Armenian Media", "Armenian Press", "Armenia", "Azerbaijan", "Emigration", "Border skirmish"]
 
 upcoming = false
-Description = """ANN/Groong Week in Review - 07/12/2020
+Description = """
+### ANN/Groong Week in Review - 07/12/2020
 
 #### Topics:
 * The Constitutional Court Standoff Continues in Limbo

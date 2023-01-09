@@ -23,8 +23,8 @@ truncate = ""
 series = ["WIR"]
 Tags = ["Emil Sanamyan", "Asbed Kotchikian", "Areg Danagoulian", "Alen Zamanyan", "Vagharshak Harutyunyan", "Lev Rokhlin", "Armenia", "Azerbaijan", "Tavush", "War", "Border skirmish", "Armenian Nuclear Power Plant", "ANPP", "Metsamor", "Mingechaur Reservoir", "Mingachevir", "Baku", "SCUD", "Flood"]
 upcoming = false
-Description = """𝐀𝐍𝐍/𝐆𝐫𝐨𝐨𝐧𝐠 𝐖𝐞𝐞𝐤 𝐢𝐧 𝐑𝐞𝐯𝐢𝐞𝐰 - 𝟎𝟕/𝟏𝟗/𝟐𝟎𝟐𝟎
-
+Description = """
+### ANN Groong Week in Review - 07/19/2020
 
 #### Topics:
 * Clashes on the Tavush Border

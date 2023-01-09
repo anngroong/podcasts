@@ -22,9 +22,9 @@ youtube = "QDFS7-Sks0Q"
 truncate = ""
 series = ["COG"]
 upcoming = false
-Description = """𝐀𝐳𝐞𝐫𝐛𝐚𝐢𝐣𝐚𝐧'𝐬 𝐍𝐮𝐜𝐥𝐞𝐚𝐫 𝐓𝐡𝐫𝐞𝐚𝐭 𝐨𝐧 𝐀𝐫𝐦𝐞𝐧𝐢𝐚 - 𝐀𝐫𝐞𝐠 𝐃𝐚𝐧𝐚𝐠𝐨𝐮𝐥𝐢𝐚𝐧
-
-## Safety and Security of Metsamor
+Description = """
+### Conversations on Groong
+### Safety and Security of Metsamor
 
 #### Topics:
 * Azerbaijan’s threat to attack the NPP
