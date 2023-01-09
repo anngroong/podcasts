@@ -1,5 +1,5 @@
 +++
-Date = 2023-01-01T04:00:01-08:00
+Date = 2020-07-26T04:00:01-08:00
 title = "Karena Avedissian"
 Pronouns = ""
 Twitter = "KarenaAv"
