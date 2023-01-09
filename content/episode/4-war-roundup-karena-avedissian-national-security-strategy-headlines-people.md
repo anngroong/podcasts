@@ -12,6 +12,7 @@ author = "Armenian News Network - Groong"
 episode = "4"
 episode_image = "img/episode/default.jpg"
 episode_banner = "img/episode/default-banner.jpg"
+hosts = ["hovik","asbed"]
 guests = ["akotchikian","esanamyan","kvrtanesian","azamanyan","kavedissian"]
 images = ["img/episode/default-social.jpg"]
 podcast_duration = "1:08:39"
