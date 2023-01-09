@@ -58,7 +58,7 @@ We discuss the state of affairs since the cessation of fighting, and what the re
 We also spend some time into why, as the border quieted down, clashes have broken out in cities around the world between Armenian diaspora communities protesting against Azeri aggression against Armenia, and Azeri or Azerbaijan-supported protesters. In cities like Los Angeles, Chicago, Boston, Moscow, Kiev, London, violence broke out between angry demonstrators. In San Francisco an Armenian school was vandalized with hate graffiti, while in Berlin a car belonging to the Armenian embassy was set on fire.
 
 
-### Sources
+#### Sources
 * [Interview with Seyran Ohanyan](https://www.facebook.com/groups/groong/permalink/10163760942045585/ ) - Yerkir Media
 * [Turkey Now Has Swarming Suicide Drones It Could Export](https://www.facebook.com/groups/groong/permalink/10163594548725585/) - TheDrive.com
 * [Armenian, Russian servicemen to develop new ways on fighting against UAVs](https://www.facebook.com/groups/groong/permalink/10163762288975585/) - Armenpress
@@ -71,7 +71,7 @@ We also spend some time into why, as the border quieted down, clashes have broke
 Armenia’s Security Council introduced a [new National Security Strategy](https://www.seco.am/pdf/%D4%B1%D5%A6%D5%A3%D5%A1%D5%B5%D5%AB%D5%B6%20%D5%A1%D5%B6%D5%BE%D5%BF%D5%A1%D5%B6%D5%A3%D5%B8%D6%82%D5%A9%D5%B5%D5%A1%D5%B6%20%D5%BC%D5%A1%D5%A6%D5%B4%D5%A1%D5%BE%D5%A1%D6%80%D5%B8%D6%82%D5%A9%D5%B5%D5%B8%D6%82%D5%B6%202020.pdf) (NS Strategy) on July 10, 2020. The previous strategy document was adopted in 2007, in the final year of second president Robert Kocharian’s final term in office. Last week we had a conversation with Dr. Karena Avedissian on this topic. Her research focuses on social movements, new media/communications, civil society and governance in the former Soviet Union, with an area focus on Russia and the Caucasus. Here is that conversation.
 
 
-### Sources
+#### Sources
 * [Rationalizing the Tonoyan Doctrine: Armenia’s Active Deterrence Strategy](https://jamestown.org/program/rationalizing-the-tonoyan-doctrine-armenias-active-deterrence-strategy/?fbclid=IwAR3p4ZmJB7GLFtgBI2kbNa7mD_1yEhGjIn5cZG7C4RUveeljDGKojl4yHGg) - Jamestown.org
 * [Armenia’s New National Security Strategy: Sharing First Impressions](https://www.evnreport.com/opinion/armenia-s-new-national-security-strategy-sharing-first-impressions)  -By [Vahram Ter-Matevosyan](https://twitter.com/Vahram_TM) on EVNreport.com (contains a link to the NSD)
 * [Armenian-Azerbaijani Border Clashes: The Russian Dimension and Beyond](https://www.facebook.com/groups/groong/permalink/10163763324240585/) - Jamestown.org
@@ -89,7 +89,6 @@ One salient point we’ve noticed is that it seems that Armenia is making a deli
 
 
 ## Headlines in the News
-
 
 ### Sunday
 * Over the weekend the Russian Defence Ministry carried out a snap check of troops in the southern and western military districts, as well as units of Air and Naval forces per the decision of President Putin. Despite denials, the exercises were clearly a warning to Turkey to stay out of the Caucasus war scene.
