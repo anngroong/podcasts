@@ -139,7 +139,7 @@ Mr. Jirair Reisian was elected to Syria’s parliament on July 19.
 * [3 Armenians elected members of Syrian parliament](https://www.facebook.com/groups/groong/permalink/10163758113200585/) - Armenpress.am
 
 
-### Lucy Esgenian<
+### Lucy Esgenian
 
 Lucy Esgenian Esq. was elected to Syria’s parliament on July 19.
 
