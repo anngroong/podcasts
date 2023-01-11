@@ -20,7 +20,7 @@ aliases = ["/200"]
 youtube = ""
 explicit = "no"
 categories = ["Politics", "Artsakh"]
-series = ["wir",cog","video"]
+series = ["wir","cog"]
 tags = ["Gev Iskajyan", "Artsakh", "Azerbaijan", "Armenia", "Berdzor Corridor", "Berdzor", "Blockade", "Nagorno Karabakh", "Lachin Corridor", "Power Lines", "Electricity", "Yerevan", "Sergey Ghazaryan"]
 Description = """
 Artsakh Blockade Flash Update with Gev Iskajyan - Ep 200, Jan 11, 2023
