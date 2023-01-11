@@ -1,7 +1,7 @@
 +++
 
 Date = 2023-01-11T03:00:00-07:00
-upcoming = true
+upcoming = false
 
 title = "Artsakh Blockade Flash Update with Gev Iskajyan - Ep 200, Jan 11, 2023"""
 subtitle = "Armenian News Network - Groong - Jan 11, 2023"
