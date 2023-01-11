@@ -9,7 +9,7 @@ subtitle = "Armenian News Network - Groong - Jan 11, 2023"
 podcast_file = ""
 podcast_duration = ""
 podcast_bytes = ""
-episode_image = "img/episode/200/default.jpg"
+episode_image = "img/episode/200/thumbnail-200.jpg"
 episode_banner = "img/episode/200/banner-200.png"
 
 guests = ["giskajyan"]
