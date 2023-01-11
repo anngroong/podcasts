@@ -1,9 +1,8 @@
 +++
-
 Date = 2023-01-11T03:00:00-07:00
 upcoming = "false"
 
-title = "Artsakh Blockade Flash Update with Gev Iskajyan - Ep 200, Jan 11, 2023"""
+title = "Artsakh Blockade Flash Update with Gev Iskajyan - Ep 200, Jan 11, 2023"
 subtitle = "Armenian News Network - Groong - Jan 11, 2023"
 
 podcast_file = "12025819-artsakhblockade-flash-update-with-gev-jan-11-2023.mp3"
@@ -11,11 +10,11 @@ podcast_duration = "510"
 podcast_bytes = "6167569"
 episode_image = "img/episode/200/thumbnail-200.jpg"
 episode_banner = "img/episode/200/banner-200.png"
+images = ["img/episode/200/banner-200.png"]
 
 guests = ["giskajyan"]
 hosts = ["asbed","hovik"]
 episode = "200"
-images = ["img/episode/200/default-social.jpg"]
 aliases = ["/200"]
 youtube = ""
 explicit = "no"
@@ -37,7 +36,6 @@ Armenian News Network - Jan 11, 2023
 * New Ministerial Appointments
 
 Episode 200 | Recorded: January 11, 2023"""
-
 +++
 
 # Wrap-up
