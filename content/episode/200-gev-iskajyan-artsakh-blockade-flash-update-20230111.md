@@ -13,7 +13,7 @@ episode_image = "img/episode/200/thumbnail-200.jpg"
 episode_banner = "img/episode/200/banner-200.png"
 
 guests = ["giskajyan"]
-hosts = ["asbed",hovik"]
+hosts = ["asbed","hovik"]
 episode = "200"
 images = ["img/episode/200/default-social.jpg"]
 aliases = ["/200"]
