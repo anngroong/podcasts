@@ -1,0 +1,45 @@
++++
+
+Date = 2023-01-11T03:00:00-07:00
+upcoming = true
+
+title = "Artsakh Blockade Flash Update with Gev Iskajyan - Ep 200, Jan 11, 2023"""
+subtitle = "Armenian News Network - Groong - Jan 11, 2023"
+
+podcast_file = ""
+podcast_duration = ""
+podcast_bytes = ""
+episode_image = "img/episode/200/default.jpg"
+episode_banner = "img/episode/200/banner-200.png"
+
+guests = ["giskajyan"]
+hosts = ["asbed",hovik"]
+episode = "200"
+images = ["img/episode/200/default-social.jpg"]
+aliases = ["/200"]
+youtube = ""
+explicit = "no"
+categories = ["Politics", "Artsakh"]
+series = ["wir",cog","video"]
+tags = ["Gev Iskajyan", "Artsakh", "Azerbaijan", "Armenia", "Berdzor Corridor", "Berdzor", "Blockade", "Nagorno Karabakh", "Lachin Corridor", "Power Lines", "Electricity", "Yerevan", "Sergey Ghazaryan"]
+Description = """
+Artsakh Blockade Flash Update with Gev Iskajyan - Ep 200, Jan 11, 2023
+
+Armenian News Network - Jan 11, 2023
+
+Guest: 
+* [Gev Iskajyan](/guest/giskajyan)
+
+Topics:
+* Power Shortages
+* Food Rationing and Basic Supplies
+* Weather Conditions
+* New Ministerial Appointments
+
+Episode 200 | Recorded: January 11, 2023"""
+
++++
+
+# Wrap-up
+
+We hope you found our [#ArtsakhBlockade Flash Update](https://podcasts.groong.org/) helpful. We invite your feedback and your suggestions. You can [find us](https://linktr.ee/groong) on most social media and podcast platforms. Thanks to Laura Osborn for the music on our podcasts.
