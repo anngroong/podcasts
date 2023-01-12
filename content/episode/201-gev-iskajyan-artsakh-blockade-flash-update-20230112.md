@@ -33,6 +33,9 @@ Armenian News Network - Jan 12, 2023
 * Internet cutoff
 * Power situation and rolling blackouts
 * Psychological pressure on Artsakh
+* It's going to get tougher...
+* Consequences of Internet cutoff
+* Psychological pressure on Artsakh
 
 Episode 201 | Recorded: January 12, 2023"""
 +++
