@@ -5,9 +5,9 @@ upcoming = true
 title = "Artsakh Blockade Flash Update with Gev Iskajyan - Ep 201, Jan 12, 2023"
 subtitle = "Armenian News Network - Groong - Jan 12, 2023"
 
-podcast_file = ""
-podcast_duration = ""
-podcast_bytes = ""
+podcast_file = "12033011-artsakh-blockade-flash-update-with-gev-jan-12-2023.mp3"
+podcast_duration = "444"
+podcast_bytes = "5375745"
 episode_image = "img/episode/201/thumbnail-201.jpg"
 episode_banner = "img/episode/201/banner-201.png"
 images = ["img/episode/201/banner-201.png"]
@@ -16,11 +16,11 @@ guests = ["giskajyan"]
 hosts = ["asbed","hovik"]
 episode = "201"
 aliases = ["/201"]
-youtube = ""
+youtube = "CYefjK4a-2s"
 explicit = "no"
 categories = ["Politics", "Artsakh"]
 series = ["wir","cog"]
-tags = ["Gev Iskajyan", "Artsakh", "Azerbaijan", "Armenia", "Berdzor Corridor", "Berdzor", "Blockade", "Nagorno Karabakh", "Lachin Corridor", "Power Lines", "Electricity", "Yerevan", "Sergey Ghazaryan"]
+tags = ["Gev Iskajyan", "Artsakh", "Azerbaijan", "Internet cutodd", "Power Blackout", "Rolling Blackouts", Armenia", "Berdzor Corridor", "Berdzor", "Blockade", "Nagorno Karabakh", "Lachin Corridor", "Power Lines", "Electricity", "Yerevan", "Sergey Ghazaryan"]
 Description = """
 Artsakh Blockade Flash Update with Gev Iskajyan - Ep 201, Jan 12, 2023
 
@@ -30,9 +30,9 @@ Armenian News Network - Jan 12, 2023
 * [Gev Iskajyan](/guest/giskajyan)
 
 #### Topics:
-* 1
-* 2
-* 3
+* Internet cutoff
+* Power situation and rolling blackouts
+* Psychological pressure on Artsakh
 
 Episode 201 | Recorded: January 12, 2023"""
 +++
