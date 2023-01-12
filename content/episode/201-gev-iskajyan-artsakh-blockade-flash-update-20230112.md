@@ -1,6 +1,6 @@
 +++
 Date = 2023-01-12T03:00:00-07:00
-upcoming = true
+upcoming = false
 
 title = "Artsakh Blockade Flash Update with Gev Iskajyan - Ep 201, Jan 12, 2023"
 subtitle = "Armenian News Network - Groong - Jan 12, 2023"
@@ -20,7 +20,7 @@ youtube = "CYefjK4a-2s"
 explicit = "no"
 categories = ["Politics", "Artsakh"]
 series = ["wir","cog"]
-tags = ["Gev Iskajyan", "Artsakh", "Azerbaijan", "Internet cutodd", "Power Blackout", "Rolling Blackouts", Armenia", "Berdzor Corridor", "Berdzor", "Blockade", "Nagorno Karabakh", "Lachin Corridor", "Power Lines", "Electricity", "Yerevan", "Sergey Ghazaryan"]
+tags = ["Gev Iskajyan", "Artsakh", "Azerbaijan", "Internet cutodd", "Power Blackout", "Rolling Blackouts", "Armenia", "Berdzor Corridor", "Berdzor", "Blockade", "Nagorno Karabakh", "Lachin Corridor", "Power Lines", "Electricity", "Yerevan", "Sergey Ghazaryan"]
 Description = """
 Artsakh Blockade Flash Update with Gev Iskajyan - Ep 201, Jan 12, 2023
 
