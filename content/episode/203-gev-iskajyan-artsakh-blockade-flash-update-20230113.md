@@ -30,12 +30,16 @@ Armenian News Network - Jan 13, 2023
 * [Gev Iskajyan](/guest/giskajyan)
 
 #### Topics:
-* Internet cutoff
-* Power situation and rolling blackouts
-* Psychological pressure on Artsakh
+* Internet Restored
+* 33rd Anniversary of Baku & Sumgait Pogroms
 
 Episode 203 | Recorded: January 13, 2023"""
 +++
+
+##Discussion
+
+* [Internet connectivity](https://armenpress.am/eng/news/1101642.html) was restored in Artsakh later this afternoon.
+* Today is the 33rd day of the #ArtsakhBlockade - but it also marks the 33rd anniversary of the Baku and Sumgait pogroms against Armenians in Azerbaijan.
 
 # Wrap-up
 
