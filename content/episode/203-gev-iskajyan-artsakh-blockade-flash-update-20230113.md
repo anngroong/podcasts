@@ -3,7 +3,7 @@ Date = 2023-01-13T03:00:00-07:00
 upcoming = false
 
 title = "Artsakh Blockade Flash Update with Gev Iskajyan - Ep 203, Jan 13, 2023"
-subtitle = "Armenian News Network - Groong - Jan 13, 2023"
+subtitle = "Armenian News Network Groong - Jan 13, 2023"
 
 podcast_file = "12039325-artsakh-blockade-flash-update-with-gev-jan-13-2023.mp3"
 podcast_duration = "384"
@@ -24,7 +24,7 @@ tags = ["Gev Iskajyan", "Artsakh", "Azerbaijan", "Internet cutodd", "Power Black
 Description = """
 Artsakh Blockade Flash Update with Gev Iskajyan - Ep 203, Jan 13, 2023
 
-Armenian News Network - Jan 13, 2023
+Armenian News Network Groong - Jan 13, 2023
 
 #### Guest: 
 * [Gev Iskajyan](/guest/giskajyan)
@@ -37,7 +37,7 @@ Armenian News Network - Jan 13, 2023
 Episode 203 | Recorded: January 13, 2023"""
 +++
 
-##Discussion
+## Discussion
 
 * [Internet connectivity](https://armenpress.am/eng/news/1101642.html) was restored in Artsakh later this afternoon.
 * Today is the 33rd day of the #ArtsakhBlockade - but it also marks the 33rd anniversary of the Baku and Sumgait pogroms against Armenians in Azerbaijan. Does anything ever change, when it comes to hate against the Armenians in Azerbaijan?
