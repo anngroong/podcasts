@@ -5,9 +5,9 @@ podcast_file = "11952812-karen-vrtanesyan-artsakh-under-blockade-day-19-ep-196-d
 podcast_duration = "1896"
 podcast_bytes = "22801190"
 
-episode_image = "img/episode/thumbnail-196.png"
-episode_banner = "img/episode/banner-196.png"
-images = ["img/episode/banner-196.jpg"]
+episode_image = "img/episode/196/thumbnail-196.png"
+episode_banner = "img/episode/196/banner-196.png"
+images = ["img/episode/196/banner-196.jpg"]
 upcoming = false
 
 hosts = ["hovik"]

@@ -5,9 +5,9 @@ podcast_file = "11933908-arthur-khachatryan-artsakh-under-blockade-day-15-ep-193
 podcast_duration = "2138"
 podcast_bytes = "25694196"
 
-episode_image = "img/episode/thumbnail-193.png"
-episode_banner = "img/episode/banner-193.png"
-images = ["img/episode/banner-193.png"]
+episode_image = "img/episode/193/thumbnail-193.png"
+episode_banner = "img/episode/193/banner-193.png"
+images = ["img/episode/193/banner-193.png"]
 upcoming = false
 
 hosts = ["hovik"]
