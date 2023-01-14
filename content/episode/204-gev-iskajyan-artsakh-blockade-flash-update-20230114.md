@@ -20,7 +20,7 @@ youtube = "Vtw0lNQRmkQ"
 explicit = "no"
 categories = ["Politics", "Artsakh"]
 series = ["wir","cog"]
-tags = ["Gev Iskajyan", "Artsakh", "Nagorno Karabakh", "Artsakh Blockade", "Azerbaijan", "Berdzor Corridor", "Lachin Corridor", "Internet", "Internet Cutoff", "Power Lines", "Electricity", "Rolling Blackouts", "Baku Pogroms", "Sumgait Pogroms", "Pogroms Against Armenians", "Armenia"]
+tags = ["Gev Iskajyan", "Artsakh", "Nagorno Karabakh", "Artsakh Blockade", "Azerbaijan", "Berdzor Corridor", "Lachin Corridor", "Power Lines", "Electricity", "Rolling Blackouts", "Internet", "Internet Cutoff", "Businesses Closed", "Tax Base", "Revenue Shortfall", "Kashen Mine", "Armenia", "Disinformation", "Misinformation", "Propaganda", "Fake News", "Rumors"]
 Description = """
 Artsakh Blockade Flash Update with Gev Iskajyan - Ep 204, Jan 14, 2023
 
@@ -30,14 +30,18 @@ Armenian News Network Groong - Jan 14, 2023
 * [Gev Iskajyan](/guest/giskajyan)
 
 #### Topics:
-* TBD
+* Rolling Blackouts Continue
+* Internet Connection Difficulties
+* Over 200 Businesses Closed
+    * Thousands laid off
+    * Kashen Mine remains Closed
+* Status in the Regions and Towns
+* Concerns over Tax Revenue  Shortfalls
+* Concerns about Rumors and Disinformation
 
 Episode 204 | Recorded: January 14, 2023"""
 +++
 
-## Discussion
-
-* TBD
 
 # Wrap-up
 
