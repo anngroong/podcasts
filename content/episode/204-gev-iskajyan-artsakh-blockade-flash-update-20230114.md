@@ -8,7 +8,7 @@ subtitle = "Armenian News Network Groong - Jan 14, 2023"
 podcast_file = ""
 podcast_duration = ""
 podcast_bytes = ""
-episode_image = "img/episode/204/thumbnail-204.jpg"
+episode_image = "img/episode/204/thumbnail-204.png"
 episode_banner = "img/episode/204/banner-204.png"
 images = ["img/episode/204/banner-204.png"]
 
