@@ -2,8 +2,8 @@
 Date = 2023-01-14T03:00:00-07:00
 upcoming = true
 
-title = "Artsakh Blockade Flash Update with Gev Iskajyan - Ep 204, Jan 13, 2023"
-subtitle = "Armenian News Network Groong - Jan 13, 2023"
+title = "Artsakh Blockade Flash Update with Gev Iskajyan - Ep 204, Jan 14, 2023"
+subtitle = "Armenian News Network Groong - Jan 14, 2023"
 
 podcast_file = ""
 podcast_duration = ""
@@ -22,9 +22,9 @@ categories = ["Politics", "Artsakh"]
 series = ["wir","cog"]
 tags = ["Gev Iskajyan", "Artsakh", "Nagorno Karabakh", "Artsakh Blockade", "Azerbaijan", "Berdzor Corridor", "Lachin Corridor", "Internet", "Internet Cutoff", "Power Lines", "Electricity", "Rolling Blackouts", "Baku Pogroms", "Sumgait Pogroms", "Pogroms Against Armenians", "Armenia"]
 Description = """
-Artsakh Blockade Flash Update with Gev Iskajyan - Ep 204, Jan 13, 2023
+Artsakh Blockade Flash Update with Gev Iskajyan - Ep 204, Jan 14, 2023
 
-Armenian News Network Groong - Jan 13, 2023
+Armenian News Network Groong - Jan 14, 2023
 
 #### Guest: 
 * [Gev Iskajyan](/guest/giskajyan)
