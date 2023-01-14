@@ -20,7 +20,7 @@ youtube = ""
 explicit = "no"
 categories = ["Politics", "Artsakh"]
 series = ["wir","cog"]
-tags = ["Gev Iskajyan", "Artsakh", "Azerbaijan", "Internet cutodd", "Power Blackout", "Rolling Blackouts", "Armenia", "Berdzor Corridor", "Berdzor", "Blockade", "Nagorno Karabakh", "Lachin Corridor", "Power Lines", "Electricity", "Yerevan", "Sergey Ghazaryan"]
+tags = ["Gev Iskajyan", "Artsakh", "Nagorno Karabakh", "Artsakh Blockade", "Azerbaijan", "Berdzor Corridor", "Lachin Corridor", "Internet", "Internet Cutoff", "Power Lines", "Electricity", "Rolling Blackouts", "Baku Pogroms", "Sumgait Pogroms", "Pogroms Against Armenians", "Armenia"]
 Description = """
 Artsakh Blockade Flash Update with Gev Iskajyan - Ep 204, Jan 13, 2023
 
