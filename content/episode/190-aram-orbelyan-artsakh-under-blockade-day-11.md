@@ -4,14 +4,16 @@ PublishDate = 2022-12-23T02:53:21+04:00
 podcast_file = "11920739-aram-orbelyan-artsakh-under-blockade-day-11-ep-190-dec-22-2022.mp3"
 podcast_duration = "3072"
 podcast_bytes = "36916078"
-episode_image = "img/episode/thumbnail-190.png"
-episode_banner = "img/episode/banner-190.png"
+
+episode_image = "img/episode/190/thumbnail-190.png"
+episode_banner = "img/episode/190/banner-190.png"
+images = ["img/episode/190/banner-190.png"]
+
 guests = ["aorbelyan"]
 hosts = ["hovik"]
 episode = "190"
 title = "Aram Orbelyan: Artsakh Under Blockade: Day 11"
 subtitle = "A conversation with Aram Orbelyan"
-images = ["img/episode/default-social.iojpg"]
 aliases = ["/190"]
 explicit = "no" # values are "yes" or "no"
 youtube = "_fxZPp0cvGI"
