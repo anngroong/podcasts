@@ -12,7 +12,7 @@ youtube = "F_2gC20GANg"
 
 episode_image = "img/episode/205/thumbnail-205.png"
 episode_banner = "img/episode/205/banner-205.png"
-images = ["img/episode/204/banner-205.png"]
+images = ["img/episode/205/banner-205.png"]
 
 guests = ["giskajyan"]
 hosts = ["asbed","hovik"]
