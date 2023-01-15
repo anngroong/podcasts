@@ -1,7 +1,7 @@
 +++
 
-Date = 2022-12-15T08:30:00-08:00
-PublishDate = 2022-12-15T08:30:00-08:00
+Date = 2023-12-15T08:30:00-08:00
+PublishDate = 2023-12-15T08:30:00-08:00
 upcoming = true
 
 title = "Artsakh Blockade | Pashinyan Press Conference | Ministry of Interior Appointments | Artsakh Foreign Minister | Armenia Economy Outlook 2023"
@@ -23,13 +23,13 @@ guests = ["hmikaelian"]
 hosts = ["hovik","asbed"]
 
 series = ["wir"]
-categories = ["Artsakh", "Armenia", Politics"]
+categories = ["Artsakh", "Armenia", "Politics"]
 tags = ["Hrant Mikaelian", "Nagorno Karabakh", "Karabakh", "Artsakh", "Artsakh Blockade", "Blockade", Lachin", "Lachin Corridor", "Berdzor", "Berdzor Corridor", "Armenia", "Azerbaijan", "Pashinyan Press Conference", "Sergey Ghazaryan", "New Ministers", "Nagorno Karabakh Foreign Minister", "Minister Appointments", "Armenia Economic Outlook"]
 
 Description = """
 
 #### Guest:
-* [Hrant Mikaelian](/guest/hmikaelian), a political scientist and multidisciplinary researcher in social sciences based in Yerevan. He is also a senior researcher at the Caucasus Institute.
+* [Hrant Mikaelian](/guest/hmikaelian)
 
 #### Topics:
 * Artsakh Blockade Status
@@ -39,7 +39,7 @@ Description = """
 * Economic Outlook in 2023
 
 
-Episode 206 | Recorded: January 15, 2022"""
+Episode 206 | Recorded: January 15, 2023"""
 
 +++
 
