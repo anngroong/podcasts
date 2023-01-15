@@ -33,7 +33,7 @@ Description = """
 
 #### Topics:
 * Artsakh Blockade Status
-* Pashinyan’s “Press Conference”
+* Pashinyan’s 'Press Conference'
 * Ministry of Interior Affairs Appointments
 * New Artsakh Ministerial Appointments
 * Economic Outlook in 2023
