@@ -20,7 +20,7 @@ episode = "205"
 aliases = ["/205"]
 explicit = "no"
 categories = ["Politics", "Artsakh"]
-series = ["wir","cog"]
+series = ["artsakhblockade"]
 tags = ["Gev Iskajyan", "Artsakh", "Nagorno Karabakh", "Artsakh Blockade", "Azerbaijan", "Berdzor Corridor", "Lachin Corridor", "Rouben Vardanyan", "Stepanakert Politics", "Food Stamps", "Food Rationing", "Food Supplies"]
 
 Description = """
