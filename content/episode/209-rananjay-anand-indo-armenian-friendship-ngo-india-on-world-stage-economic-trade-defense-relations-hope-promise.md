@@ -5,9 +5,9 @@ upcoming = false
 title = "Rananjay Anand | Indo-Armenian Friendship NGO | Indian Armenian Relations | The Hope & Promise | Ep 209 - Jan 18, 2023"
 subtitle = "Conversations on Groong - Jan 18, 2023"
 
-podcast_file = ""
-podcast_duration = ""
-podcast_bytes = ""
+podcast_file = "12067705-indian-armenian-relations-and-friendship-with-rananjay-anand-ep-209-january-18-2023.mp3"
+podcast_duration = "2434"
+podcast_bytes = "29264377"
 youtube = ""
 
 episode_image = "img/episode/209/thumbnail-209.png"
@@ -21,12 +21,11 @@ aliases = ["/209"]
 explicit = "no"
 categories = ["India", "Armenia", "Relations", "Politics"]
 series = ["cog"]
-tags = ["Rananjay Anand", "India", "Armenia", "Indo-Armenian Friendship NGO","Indian Armenian Cooperation",  "Azerbaijan", "South Caucasus", "Central Asia", "Afghanistan", "Artsakh", Nagorno Karabakh", "Kashmir", "Global South", "Vaccination", "Defense Industry", "Defense Cooperation", "IT", "AI", "Artificial Intelligence", "Agriculture", "Military Base", "Security Guarantee", "Pinaka", "Missile Deal", "Climate Change", "Global Warming", "Russia", "Ukraine", "Oil", "Subramanyam Jaishankar", "SU 30", "Sukhoi"]
+tags = ["Rananjay Anand", "India", "Armenia", "Indo-Armenian Friendship NGO","Indian Armenian Cooperation",  "Azerbaijan", "South Caucasus", "Central Asia", "Afghanistan", "Artsakh", "Nagorno Karabakh", "Kashmir", "Global South", "Vaccination", "Defense Industry", "Defense Cooperation", "IT", "AI", "Artificial Intelligence", "Agriculture", "Military Base", "Security Guarantee", "Pinaka", "Missile Deal", "Climate Change", "Global Warming", "Russia", "Ukraine", "Oil", "Subramanyam Jaishankar", "SU 30", "Sukhoi"]
 
 Description = """
-Artsakh Blockade Flash Update with Gev Iskajyan - Ep 209, Jan 18, 2023
 
-Armenian News Network Groong - Jan 18, 2023
+Conversations on Groong - Jan 18, 2023
 
 #### Guest: 
 * [Rananjay Anand](/guest/ranand)
