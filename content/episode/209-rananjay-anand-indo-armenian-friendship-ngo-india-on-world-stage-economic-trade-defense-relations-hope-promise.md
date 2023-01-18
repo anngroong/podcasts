@@ -8,7 +8,7 @@ subtitle = "Conversations on Groong - Jan 18, 2023"
 podcast_file = "12067705-indian-armenian-relations-and-friendship-with-rananjay-anand-ep-209-january-18-2023.mp3"
 podcast_duration = "2434"
 podcast_bytes = "29264377"
-youtube = ""
+youtube = "_EJ8PSTQwv4"
 
 episode_image = "img/episode/209/thumbnail-209.png"
 episode_banner = "img/episode/209/banner-209.png"
