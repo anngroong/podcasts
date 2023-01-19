@@ -17,5 +17,5 @@ Twitch = ""
 #guest_group = "cog"
 +++
 
-__Rananjay Anand__, who is the Co-Founder & President of the [Indo-Armenian Friendship NGO](https://www.facebook.com/IndoArmenianFriendshipNGO/).
+__Rananjay Anand__ is the Co-Founder & President of the [Indo-Armenian Friendship NGO](https://www.facebook.com/IndoArmenianFriendshipNGO/).
 
