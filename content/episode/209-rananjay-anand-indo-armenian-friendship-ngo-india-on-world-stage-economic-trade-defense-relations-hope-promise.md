@@ -46,7 +46,7 @@ Episode 209 | Recorded: January 18, 2023"""
 
 Mr. Anand, since this is your first time on our show, we’re interested in hearing more about you and your involvement with Armenian relations or the involvement of Armenians in your life.
 
-* First may we hear a little bit about the Indo-Armenian Friendship NGO that you co-founded?
+* What is the Indo-Armenian Friendship NGO that you co-founded?
     * How many members does it have? 
     * Where does it get its funding?
     * Do you get support from the Indian embassy or the MFA?
@@ -55,12 +55,12 @@ Mr. Anand, since this is your first time on our show, we’re interested in hear
 * What attracted you to working in the field of relationship building between the two nations?
 
 
-### World Politics
+### India on the World Stage
 
 India is one of the largest countries in the world, and is barely second only to China as the most populous country in the world. In fact, within a few years India is expected to overtake China in this area. At the same time, India is the most populous, or largest democracy in the world, and a major regional and nuclear power, with significant technology and defense industries. So it is quickly rising to become a world power, which other major powers can no longer ignore or take for granted. Since the start of the war in Ukraine, Indian-Russian partnership has further developed. India has increased its consumption of Russian gas. India is also a key member of BRICS, which is set to grow much more in influence as a testament to the rearrangement of the world geopolitical order.
 
-* Can you tell us about where India sees itself on the world stage in the coming few years, and decades?
-* Given what we just noted about India a moment ago, - nuclear power, most populous country, largest democracy, rising regional, and vying world power status, - why is India outside the UN Security Council, still?
+* Where does India see itself on the world stage in the coming few years and decades?
+* Why is India not a permanent UN Security Council member?
 
 
 ### India and Armenia
@@ -74,14 +74,14 @@ Meanwhile, India’s adversary Pakistan has been very active in developing its r
 We’ve discussed on this show the North-South Corridor of world trade, which takes commerce to and from the Persian Gulf to the Black Sea, essentially connecting the economies of India and South Asia to Europe. This corridor theoretically would pass through Iran, and Armenia, and Georgia in the South Caucasus.
 
 * What are the main reasons why India is interested in strengthening its relationship with Armenia?
-* Do you think it has to do more with economic factors (such as trade routes) or strategic military objectives, namely to counter Pakistan, Turkey, and combating terrorism?
+* Are the factors purely economic, or do they have strategic military objectives as well, namely to counter Pakistan, Turkey, and combating terrorism?
 
 
 ### Post 44-Day War Stance
 
 During the 44-day war in Nagorno Karabakh in 2020, Pakistan threw its full support behind Azerbaijan’s vicious aggression against a peaceful population. During and since that war, the world has mostly paid lip service to the war crimes and humanitarian crisis unfolding in Artsakh, and the need of the indigenous Armenian population. India has been a rare exception. Recently, India has not only been unambiguous in its support and sympathy for Armenia, but has also started helping Armenia rearm itself, and supplying it with Indian-made weapons to defend itself.
 
-* Can you discuss the drivers behind India’s policy?
+* What are the drivers behind India’s policy?
 
 
 ### Increasing Trade Relations
