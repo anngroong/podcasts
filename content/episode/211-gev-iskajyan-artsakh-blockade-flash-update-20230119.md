@@ -32,7 +32,13 @@ Armenian News Network Groong - Jan 19, 2023
 * [Gev Iskajyan](/guest/giskajyan)
 
 #### Topics:
-* Daily update - Day 39
+* Gas Cutoff AGAIN
+* Electricity Grid Ooverload
+* Effects on the Community
+    * School Closures
+    * Bakeries
+* Work to Restore Energy
+* Tragic accident in Geghargunik military outpost
 
 Episode 211 | Recorded: January 19, 2023"""
 +++
