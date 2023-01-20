@@ -32,7 +32,7 @@ Armenian News Network Groong - Jan 19, 2023
 * [Gev Iskajyan](/guest/giskajyan)
 
 #### Topics:
-* Gas Cutoff AGAIN
+* Ongoing Gas Cutoff
 * Electricity Grid Ooverload
 * Effects on the Community
     * School Closures
