@@ -100,3 +100,8 @@ The government in Armenia has immense information resources. The Public TV chann
 
 What is the intention of the Armenian government?
 
+
+
+## Wrap-up
+
+We hope you found our [Conversations on Groong](/series/cog/) helpful, we invite your feedback and your suggestions. You can [**find us**](https://linktr.ee/groong) on most social media and podcast platforms. Thanks to **Laura Osborn** for the music on our podcasts.

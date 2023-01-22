@@ -103,3 +103,8 @@ Jeyhun Bayramov last week said that Artsakh officials used to be a lot more coop
 
 * What has changed in Artsakh’s approach with Azerbaijan?
 * Do you see Artsakh breaking away from Armenia’s foreign policy, in pursuit of its self-determination? How?
+
+
+## Wrap-up
+
+We hope you found our [Conversations on Groong](/series/cog/) helpful, we invite your feedback and your suggestions. You can [**find us**](https://linktr.ee/groong) on most social media and podcast platforms. Thanks to **Laura Osborn** for the music on our podcasts.

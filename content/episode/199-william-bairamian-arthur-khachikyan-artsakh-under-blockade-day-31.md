@@ -58,16 +58,13 @@ Yesterday, in addition to the political crisis in Artsakh, Nikol Pashinyan held 
 
 At times, Pashinyan and his team’s behavior has been very haphazard. One day they criticize the Russians on another day they suck up to Putin and say that Armenia is Russia’s greatest ally.
 
-But yesterday’s speech leaves no room for doubt, does it?
+But yesterday’s speech leaves no room for doubt.
 
-**Question: Arthur, your thoughts?**
+**** Reactions
 
 BACKGROUND INFO, WHICH CAN BE MENTIONED:
 
-
     Pashinyan’s 4-hour press conference:
-
-
 
 * Russian military-base in Armenia is not a guarantee of Armenia’s security but places that security under threat because of Russia’s unwillingness to act to defend its ally.
 * Aliyev is scared of signing a peace treaty with Armenia because he fears that after signing Armenia may start new processes to threaten Azerbaijan’s statehood.
@@ -86,16 +83,11 @@ In the Diaspora, among politically invested circles there are also great divisio
 
 And it seems that even issues such as the blockade of Artsakh or even Pashinyan’s speech yesterday don’t seem to be generating reactions, one way or another.
 
-Questions:
-
-
+#### Questions:
 
 * **William**, you live in the diaspora. I believe you’ve also thought about these questions in detail over the past few years. What is your take on this? Is this a real problem or an issue of perception? What is it exactly? Apathy? Sublimated anger? And if it is a problem, is it measurable?
-* Arthur, your thoughts?
-
-What are the causes for this apparent low engagement? Has the war in Ukraine affected this in any way?
-
-The traditional notion is that when there is unity among Armenians (both diaspora and motherland) then we are successful. If achieving unity and increasing support is critical, how do we achieve it?
+* What are the causes for this apparent low engagement? Has the war in Ukraine affected this in any way?
+* The traditional notion is that when there is unity among Armenians (both diaspora and motherland) then we are successful. If achieving unity and increasing support is critical, how do we achieve it?
 
 
 ### 3. Foreign Funding of Media
@@ -104,29 +96,26 @@ William, you’ve [documented](https://thearmenite.com/2021/06/foreign-money-in-
 
 I was reminded of this problem when in a Facebook group that I’m a member of, someone asked for recommendations of news sources in Armenia. One member recommended Azatutyun (which we all know to be funded by the US State Department) while another member recommended a different news outlet which was alleged to be influenced by Russia. 
 
-Can you tell us what motivated you to do this work?
-
+* Can you tell us what motivated you to do this work?
 * Is it really a problem? If so, how big?
     * How big was the influence of foreign media in bringing Nikol Pashinyan to power.
 * So what if Azatutyun is US funded? Don’t they have governance policies that force them to be objective, balanced, etc…?
 * How about Sputnik and other Russian media? Should they also get similar treatment?
 
 The US has FARA which requires certain foreign funded media to register as foreign agents, but interestingly it is selectively enforced. For example, Russian media such as Sputnik were only required to register under FARA recently.
-
-Is the problem primarily or exclusively a legislative one? Would FARA-like legislation work in Armenia?
+* Is the problem primarily or exclusively a legislative one? Would FARA-like legislation work in Armenia?
 
 ### 4. The Coming “New World Order”
 
 With the war in Ukraine, many are predicting a schism between Russia and the Western world. Others are pointing to a multipolar world, with regional actors playing bigger roles.
 
-**Questions:**
+#### Questions:
 
 * How real are predictions of a multipolar world? How much of this is dependent on the outcome of what happens in Ukraine?
 * If so, what will this new world look like? 
 * Is “complementarism”, Armenia’s previous foreign policy of trying to appease both the West and Russia, dead?
 
-Alright, we’ll leave it there for today! Thank you gentlemen!
+## Wrap-up
 
-# Wrap-up
+We hope you found our [Conversations on Groong](/series/cog/) helpful, we invite your feedback and your suggestions. You can [**find us**](https://linktr.ee/groong) on most social media and podcast platforms. Thanks to **Laura Osborn** for the music on our podcasts.
 
-All right, that’s our[ show](https://podcasts.groong.org/), we hope you found it useful. Please find us on[ Social Media](https://lintr.ee/groong) and follow us everywhere you get your Armenian news, the links are in the show notes. Thanks to **Laura Osborn** for the music on our podcasts. We’ll talk to you soon!

@@ -40,26 +40,19 @@ Links:
 Episode 196 | Recorded: December 30, 2022"""
 +++
 
-
 ## Discussion
-
 
 ### How did we get here?
 
 Karen, we are now on Day 19 of the blockade. There are continuing reports of shortages and depleted supplies. 
 
-Question:
-
-
-
-* Can I ask your opinion on how we got here?
+#### Question:
+* How do you think we got here?
 
 
 ### Armenia’s Defense Readiness
 
 Some politicians and analysts, such as Avetik Chalabyan, say that without engaging the military, Armenia will not be able to unblock the corridor.
-
-
 
 * Does Armenia have the capacity to engage in military operations to unblock the corridor? Are there other means, for instance flying airlifts to Stepanakert?
 
@@ -67,7 +60,7 @@ How about Syunik specifically? For nearly 30 years, the Syunetsi had lived in pe
 
 As a result of the fighting, Armenia’s brittle border security situation has become even worse. 
 
-Questions:
+#### Questions:
 
 * As a military expert, can you tell us how prepared is Armenia to withstand an Azerbaijani-Turkish attack whose goal would be to capture Syunik?
 
@@ -82,7 +75,11 @@ Two days ago Armen Grigoryan, Armenia’s NSC head made some bombshell announcem
 
 Of course, during the same interview where Grigoryan made that bombshell statement, he also told a small fib, that EU monitors have not left Armenia. Go figure!
 
-Question:
-
+#### Question:
 
 * Some say that this type of behavior, especially doing it in such a public forum as Armenian Public TV, is meant to discredit the Russians. What is your reaction to all of this?
+
+
+## Wrap-up
+
+We hope you found our [Conversations on Groong](/series/cog/) helpful, we invite your feedback and your suggestions. You can [**find us**](https://linktr.ee/groong) on most social media and podcast platforms. Thanks to **Laura Osborn** for the music on our podcasts.
