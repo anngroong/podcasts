@@ -32,3 +32,9 @@ Armenian News Network Groong - Jan 21, 2023
 
 Episode 213 | Recorded: January 21, 2023"""
 +++
+
+
+
+## Wrap-up
+
+We hope you found our [Conversations on Groong](/series/cog/) helpful, we invite your feedback and your suggestions. You can [**find us**](https://linktr.ee/groong) on most social media and podcast platforms. Thanks to **Laura Osborn** for the music on our podcasts.
