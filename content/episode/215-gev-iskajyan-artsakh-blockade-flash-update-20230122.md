@@ -32,13 +32,14 @@ Armenian News Network Groong - Jan 22, 2023
 * [Gev Iskajyan](/guest/giskajyan)
 
 #### Topics:
-* Gas Partially Restored
-* Listener Questions
-    1. Do the people of Artsakh feel abandoned by the ROA
-    2. Is High Commissioner of Diaspora Office in Artsakh
-* International Coverage of Artsakh Blockade
-* Lack of Foreign Journalists in Artsakh Currently
-* Send us your Listener Questions
+* Gas Cutoff AGAIN
+* Azerbaijan’s Psychological and Political Games
+* Effect on the Electricity Grid
+* Pattern of Increasing Blackouts
+* Impressions from Askeran Region
+* Urban vs Rural Aspects of the Blockade
+* Risk of Normalizing the Pain of Artsakh
+* MP Metaxe Hakobyan’s concerns
 
 Episode 215 | Recorded: January 22, 2023"""
 +++
