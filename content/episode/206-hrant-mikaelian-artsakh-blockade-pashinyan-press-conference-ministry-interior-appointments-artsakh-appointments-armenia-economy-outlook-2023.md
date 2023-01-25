@@ -1,154 +1,141 @@
 +++
 
-Date = 2023-01-15T23:30:00+04:00
-PublishDate = 2023-01-15T23:30:00+04:00
-upcoming = false
+Date = 2023-01-22T23:30:00+04:00
+PublishDate = 2023-01-22T23:30:00+04:00
+upcoming = true
 
-podcast_file = "12052175-hrant-mikaelian-artsakh-blockade-pashinyan-press-conference-ministry-of-interior-appointments-artsakh-foreign-minister-armenia-economy-outlook-2023-ep-206-jan-15-2023.mp3"
-podcast_duration = "3667"
-podcast_bytes = "44041952"
-youtube = "CyH9aUKJKyM"
+podcast_file = ""
+podcast_duration = ""
+podcast_bytes = ""
+youtube = ""
 
-episode = "206"
-aliases = ["/206"]
+episode = "217"
+aliases = ["/217"]
 
-episode_image = "img/episode/206/thumbnail-206.png"
-episode_banner = "img/episode/206/banner-206.png"
-images = ["img/episode/206/banner-206.png"]
+episode_image = "img/episode/217/thumbnail-217.png"
+episode_banner = "img/episode/217/banner-217.png"
+images = ["img/episode/217/banner-217.png"]
 
-title = "Hrant Mikaelian | Artsakh Blockade | Pashinyan Press Conference | Ministry of Interior Appointments | Artsakh Foreign Minister | Armenia Economy Outlook 2023 | Ep 206 - Jan 15, 2023"
-subtitle = "ANN Groong Week in Review - 01/15/2023"
+title = "Tevan Poghosyan | Catastrophic Accident in Military Barrack | New EU Civilian Mission to Armenia | Armenia-Russia Relations | Ruben Vardanyan on BBC HARDtalk | Ep 217 - Jan 22, 2023"
+subtitle = "ANN Groong Week in Review - 01/22/2023"
 
-guests = ["hmikaelian"]
+guests = ["tpoghosyan"]
 hosts = ["hovik","asbed"]
 
 series = ["wir"]
-categories = ["Artsakh", "Armenia", "Politics"]
-tags = ["Hrant Mikaelian", "Artsakh", "Nagorno Karabakh", "Karabakh", "Blockade", "Lachin", "Lachin Corridor", "Berdzor", "Berdzor Corridor", "Ilham Aliyev", "Nikol Pashinyan", "Armenia", "Azerbaijan", "Russia", "Russian Peacekeepers", "Russian Base Gyumri", "Russian Military Base", "Ministry of Interior", "Vahe Ghazaryan", "Minister appointment", "Sergey Ghazaryan", "Karabakh Foreign Minister", "Armenian Economy"]
+categories = ["Armenia", "Artsakh", "Politics"]
+tags = ["Tevan Pighosyan", "Ruben Vardanyan", "Artsakh", "Nagorno Karabakh", "Karabakh", "Artsakh Blockade", "Azat Village", "Gegharkunik", "Military Barracks", "Fire Kills 15", "Catastrophic Accident", "EU", "EU Monitoring Mission in Armenia", "Armenia Russia Relations", "BBC", "BBC HARDtalk", "Ilham Aliyev"]
 
 Description = """
 
 #### Guest:
-* [Hrant Mikaelian](/guest/hmikaelian), a political scientist and multidisciplinary researcher in social sciences based in Yerevan. He is also a senior researcher at the Caucasus Institute.
+* [Tevan Poghosyan](/guest/tpoghosyan)
 
 
 #### Topics:
-* Artsakh Update and Politics in Stepanakert
-* Pashinyan’s “Press Conference”
-* Ministry of Interior Affairs Appointments
-* Economic Review and Outlook in 2023
-* Personal Comments
-    * Hrant - MPG polls results on Armenian Attitudes towards Russia
-    * Hovik - Stop the destructive internal politics
+* Catastrophic Accident in Military Barrack
+* New EU Civilian Mission to Armenia
+* Armenia-Russia Relations
+* Ruben Vardanyan on BBC HARDtalk
 
-Episode 206 | Recorded: January 15, 2023"""
+Episode 217 | Recorded: January 24, 2023"""
 
 +++
 
-## Artsakh Blockade Status
+## Catastrophic Accident Kills 15 Soldiers
 
-Well, we all know that Artsakh has been blockaded by Azerbaijan for over a month now. This happens to be day 35.
+### What happened
 
-Last Monday afternoon, Artsakh’s main power line connecting Stepanakert and Goris was [damaged](https://armenpress.am/eng/news/1101331.html). ArtsakhEnergo has still not been allowed access to the site of repairs to restore service. So each day there are rolling blackouts to make do with locally produced electricity.
+Some time between 00:30 and 1:00 am on January 19th [a fire broke out](https://armenpress.am/eng/news/1102148.html) in the military barracks housing a company of sappers in the Armenian Army, in Gegharkunik province. The fire quickly spread and as a result [15 men](https://www.facebook.com/groups/2019574104975338/) died, and 3 who escaped were severely injured.
 
-Mid-week there was a 24-hour Internet outage, but service was restored by Friday evening. Per our reports from Stepanakert, supplies are low, food stamps are being implemented right now, and over 200 businesses have shut down, and so a serious state budget revenue shortfall is expected. This is where things stand for now.
-
-
-### New Cabinet Appointments
-
-Turning to the politics in Stepanakert
-
-[Last week](https://armenpress.am/eng/news/1100828.html) and [this week](https://armenpress.am/eng/news/1101399.html), Artsakh president Arayik Harutyunyan and state minister Ruben Vardanyan announced new appointments to the cabinet.
-
-* Srbuhi Arzumanyan First Deputy Chief of Staff for Arayik Harutyunyan.
-* Aram Sargsyan, Minister of Urban Development.
-* Armen Mangasaryan, Minister of Social Development and Migration.
-* Hrant Safaryan, Minister of Agriculture.
-* Suren Galstyan, Minister of Territorial Administration and Infrastructure,
-
-The key appointment was Sergey Ghazaryan, who is taking over the post of [foreign minister](https://armenpress.am/eng/news/1101463.html) from David Babayan.
-
-#### Questions:
-* What do we know about Sergey Ghazaryan, except that he has the guts to take on this job at this difficult moment in Artsakh’s history?
-* Why did we need a shuffling of the presidential cabinet right now? What were the reasons for it?
+Let’s discuss the social and political aspects. What this event means for the Pashinyan government, and also how the Armenian population is dealing with this loss.
 
 
-### Is Ruben Vardanyan Staying or Leaving?
+### Theories
 
-On Saturday rumors surfaced that Artsakh president Arayik Harutyunyan might release Ruben Vardanyan as State Minister. Vardanyan himself [denied](https://verelq.am/hy/node/120534) that he was going to resign, and his statement also said that under the current circumstances, it would be unacceptable for the president or parliament of Artsakh to resign, because it would fulfill the enemy’s agenda.
+The first theories came from Pashinyan and defense minister Suren Papkiyan in the morning of the 19th. Investigations had barely started, let alone completed yet.
 
-Hrant, on Sunday this news was on fire in Armenia.
+The main theory provided by the government is that the captain of the company set his hands on fire as he poured  gasoline from a 5-liter canister into the heater. He dropped the canister, setting the barracks on fire. The door got jammed, preventing people from fleeing.
 
-#### Questions:
-* What did you make of this… information?
-* First of all, who published the original articles about Arayik Hauryunyan firing Vardanyan?
-* Why would Harutyunyan, and the Artsakh parliament resign at this point in time?
-* Is this the manifestation of a power struggle between Vardanyan and Harutyunyan? Or Vardanyan and Pashinyan? What’s going on?
+The government, including representatives of the investigative committee say that there are other theories also being investigated, yet, for some reason this gasoline theory is being broadcasted loudly before the investigation is complete.
 
-Aliyev has been vehement in his declarations that he would never talk with Vardanyan, and that he wants Vardanyan to leave Artsakh as quickly as possible. Their press has speculated publicly about carrying out raids into Stepanakert to either arrest him or even assassinate him.
+#### Question:
 
-* Has Aliyev’s irritation with Vardanyan’s presence in Stepanakert become a source of problems for Pashinyan and his so-called “agenda of peace”?
+* Does this main working theory sound plausible to you? Why announce about it confidently if the investigation is still ongoing?
 
 
-## Pashinyan’s “Press Conference”
+### Aftermath
 
-Nearly a dozen press and media outlets were [left out](https://verelq.am/hy/node/120280) of the invitation list to attend Nikol Pashinyan’s press conference on Monday. The Union of journalists of Armenia [called](https://168.am/2023/01/09/1817091.html) on Pashinyan to rectify the situation and allow access to all Armenian news outlets.
-
-It seems like this press conference was mostly a staged show for Pashinyan to make statements in the form of questions that he wanted asked, in order to give prepared answers for them. Also notable was the fact that Pashinyan and Aliyev held their major press conferences on the same day. Maybe next week we should talk about Aliyev’s statements.
-
-#### Some main points he made:
-* Armenia is using its “[diplomatic toolkit](https://armenpress.am/eng/news/1101322.html)” to put pressure on Azerbaijan to open the Lachin corridor.
-    * It can be said that Armenia not only doesn’t consider using force to secure the Armenians of Artsakh, but it refuses to even prepare for a coming war.
-* Pashinyan denied that Armenia has threatened to leave the CSTO if Russia can not open communications by Tuesday, January 10.
-    * We should note that on the same day, Armenia [declined](https://armenpress.am/eng/news/1101323.html) to hold CSTO military exercises in Armenia in 2023, with a statement that contradicted the Russian defense minister’s statement, and [surprised](https://armenpress.am/eng/news/1101346.html) the Russians.
-    * At the same time, Armenian officials announce that it is the CSTO that is leaving Armenia.
-* Pashinyan [talked](https://armenpress.am/eng/news/1101330.html) about the discussions with both Russia, and the CSTO, about Armenia’s expectations for its allies’  red lines regarding the inviolability of its borders. Among other statements, he floated the idea that the Russian base in Armenia is more of a liability than a security cornerstone for Armenia’s defense, if the Russians are unwilling to act.
-* Pashinyan said that Armenia is [changing its point of view](https://armenpress.am/eng/news/1101324.html) regarding its regional political orientation, and the process of “normalization” with Turkey, and the recent opening of the Turkish-Armenian border for air-cargo is a result of that.
-* He blamed Azerbaijan’s corridor demands as a hindrance to regional peace.
-* Pashinyan said that his [policy towards Artsakh](https://armenpress.am/eng/news/1101327.html) is to have them decide their own fate, rather than the government of Armenia. He said Armenia would support the Armenians of Artsakh “[by all available means](https://armenpress.am/eng/news/1101337.html)”, and he pointed to the sums that his government had allocated to rebuild Artsakh.
-* Pashinyan [denied](https://armenpress.am/eng/news/1101329.html) that there have been any “official” invitations for Armenia to join the Russia-Belarus “Union State”, but he said such ideas may have been voiced by political analysts (who were not identified).
-* Pashinyan said that Azerbaijan is still keeping around [200 Armenian POWs](https://armenpress.am/eng/news/1101343.html) as a lever to pressure the Armenian side in negotiations.
-* Pashinyan predicts that Armenia is able to ensure [7% economic growth](https://armenpress.am/eng/news/1101348.html) in 2023. For reference the [World Bank expects 4.1%](https://armenpress.am/eng/news/1101383.html), but the war in Ukraine remains a major factor of uncertainty in Armenia’s economic growth.
-
-
-#### Given what we’ve heard:
-* Is a “diplomatic toolkit” going to be sufficient to force Azerbaijan to open the Lachin corridor?
-* What is Pashinyan referring to when he says it’s time for Armenia to “change its perspective”?
-
-It’s clear that Pashinyan is hinting that the closure of the Russian base in Armenia is on the table for him. He left a level of ambiguity to give himself an out, but the trial balloon is clear. 
-
-The removal of Russia from the South Caucasus is a fundamental western geopolitical goal and we’ve discussed this on our show in the past. 
-
-* What would be the consequences of such a move on the part of the Armenian government?
-
-
-## Ministry of Interior Affairs Appointments
-
-In December the [parliament approved](https://www.azatutyun.am/a/32179993.html) the Ministry of Justice proposal to consolidate the police, rescue, and immigration services into a new Ministry of Interior. Last weekend Pashinyan named his new minister of interior to be a childhood friend of his, Vahe Ghazaryan. The move was [widely criticized](https://www.azatutyun.am/a/32217305.html) by the opposition, as well as civic groups and international NGOs.
-
-* What are the ramifications of this appointment to the leadership of basically all of the police forces of Armenia?
-
-
-## Economic Outlook in 2023
-
-In his press conference, Pashinyan [said](https://armenpress.am/eng/news/1101348.html) that for 2022 his government had predicted or promised 7% economic growth, but due to the effects of the war in Ukraine something around 12-13% was achieved. In fact what I recall was that his minister of the economy had promised a double digit growth, but anyway.
-
-For 2023, Pashinyan expects 7% economic growth. The World Bank [expects](https://armenpress.am/eng/news/1101383.html) 4.1%.
+Almost the entire leadership of the 2nd Corps was removed by the time we heard the news.
 
 
 #### Questions:
-* Hrant, what does the Central Bank of Armenia expect, and what do you think is possible, or reasonable?
-* What are the major factors that could push the economic growth up or down in the coming year?
-* Where do you expect Armenia’s inflation to be in 2023? Why?
+* Was this a good idea?
+* Why is there no official list of the casualties?
+* Why is there no public mourning or commemoration?
 
 
-## Topics from the Panelists
-1. Hrant - On MPG poll results on Armenian attitudes towards Russia
-2. Hovik - On the destructive Armenian internal politics
+## EU Unarmed Monitors to Armenia
+
+The EU Council yesterday, January 23, approved a new mission to Armenia. The new mission will be for 2 years and will include 100 unarmed monitors. 
+
+
+### What is the EU doing in Armenia?
+
+#### Questions:
+* What is the purpose of this missing?
+* We haven’t seen any public reports from the previous 2 month temporary mission that included 40 people, despite a number of violations. How do we measure the success of such a mission without any metrics?
+
+
+### Russian Response
+
+New EU monitoring mission to come to Armenia. Lavrov expressed caution about this, saying that if Azerbaijan is against this mission, then it may create problems.
 
 
 
-# Wrap-up
+* How could the EUMM mission may affect Armenia’s relations with Iran and Russia.
+
+
+## Armenia - Russia relations
+
+
+### Lavrov/Zakharova statements
+
+Both Lavrov and Zakharova have recently dropped hints in their public statements that the Armenian side is not being honest with its public about previously made agreements.
+
+For instance, Zakharova, in a Q/A session on January 12, [said](https://youtu.be/SjsaEOMg7SA) that there are “principled positions, not tactical, not even strategic, but a matter of principles” about which the Armenian side should be honest about. Zakharova further expanded that “... there are agreements, that people either observe or if they don’t observe them, then they need to say that approaches have changed. This needs to be discussed honestly and publicly with one’s own people.”
+
+[Certain](https://www.aravot.am/2023/01/21/1318323/) [analysts ](https://www.panorama.am/ru/news/2023/01/20/%D0%93%D1%80%D0%B0%D0%BD%D1%82-%D0%9C%D0%B5%D0%BB%D0%B8%D0%BA-%D0%A8%D0%B0%D1%85%D0%BD%D0%B0%D0%B7%D0%B0%D1%80%D1%8F%D0%BD-%D0%90%D1%80%D1%86%D0%B0%D1%85/2783852)have interpreted this to be a reference to yet undisclosed verbal agreements by Pashinyan from Nov 9/10.
+
+#### Question:
+* What agreements is the Russian side referring to?
+
+
+### Vahagn Khachaturyan in Estonia
+
+Armenia president Vahagn Khachaturyan [visited](https://armenpress.am/eng/news/1101771.html) Estonia and [said ](https://www.youtube.com/watch?v=jj6a4Qc3WIk)something like: Estonia as a small country is in NATO and they’re able to gain protection from the alliances with Russia and CSTO. He further complained that Armenia has not been able to get help from its military allies adding an ominous note that “nothing stays the same forever and throughout time, there always is a necessity to change something”
+
+#### Question:
+* What was Khachaturyan alluding to? Is this a further confirmation that current leadership intends to part ways with Russia?
+
+
+## Ruben Vardanyan on BBC HARDtalk
+
+Artsakh State Minister Ruben Vardanyan was [interviewed](https://armenpress.am/eng/news/1102335.html) by Stephen Sackur on BBC’s Hardtalk show.
+
+#### Question:
+* What was your overall impression of the conversation?
+
+Sackur was clearly fishing for pro-Western declarations on the part of Vardanyan, but Vardanyan didn’t get drawn into commenting on conflicts that are completely out of scope and interest for an embattled leader in a small country in deep crisis.
+
+Sackur tried to fish for anti-Putin comments in the context of Ukraine, and in the lack of support Russia has provided for Armenia, and so on.
+
+#### Questions:
+* What did you think of Vardanyan’s responses to Sackur?
+* What was Sackur fishing for?
+
+
+## Wrap-up
 
 We hope you found our [Week in Review](https://podcasts.groong.org/) helpful. We invite your feedback and your suggestions. You can [find us](https://linktr.ee/groong) on most social media and podcast platforms. Thanks to Laura Osborn for the music on our podcasts.
 
