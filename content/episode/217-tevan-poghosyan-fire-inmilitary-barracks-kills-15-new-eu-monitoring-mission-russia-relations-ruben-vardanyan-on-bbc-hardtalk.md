@@ -1,7 +1,6 @@
 +++
 
-Date = 2023-01-22T23:30:00+04:00
-PublishDate = 2023-01-22T23:30:00+04:00
+Date = 2023-01-24T23:30:00+04:00
 upcoming = false
 
 podcast_file = "12115148-tevan-poghosyan-catastrophic-accident-in-military-barrack-new-eu-civilian-mission-to-armenia-armenia-russia-relations-ruben-vardanyan-on-bbc-hardtalk-ep-217-jan-22-2023.mp3"
