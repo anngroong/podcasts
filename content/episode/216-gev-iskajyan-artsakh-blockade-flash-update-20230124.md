@@ -7,6 +7,7 @@ subtitle = "Armenian News Network Groong - Jan 24, 2023"
 podcast_file = "12112746-artsakh-blockade-flash-update-with-gev-jan-24-2023.mp3"
 podcast_duration = "580"
 podcast_bytes = "7005152"
+youtube = "WPS4_xvRJmk"
 
 episode_image = "img/episode/216/thumbnail-216.png"
 episode_banner = "img/episode/216/banner-216.png"
@@ -17,7 +18,6 @@ hosts = ["hovik"]
 guests = ["tpoghosyan"]
 episode = "216"
 aliases = ["/216"]
-youtube = "WPS4_xvRJmk"
 explicit = "no" # values are "yes" or "no"
 
 
@@ -36,7 +36,7 @@ Armenian News Network Groong - Jan 24, 2023
 #### Topics:
 * January 24 Update
 * Ruben Vardanyan on BBC HARDtalk
-* Importance to not normalize tragedy
+* Importance of not normalizing tragedy
 
 Episode 216 | Recorded: January 24, 2023"""
 
