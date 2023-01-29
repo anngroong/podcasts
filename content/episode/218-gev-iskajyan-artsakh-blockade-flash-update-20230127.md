@@ -39,7 +39,7 @@ Armenian News Network Groong - Jan 27, 2023
     * Reportedly Gas turned back on
     * Blaclouts continue
 * Hagop Ipdjian in Artsakh
-    * [Artsakh Support Body](https://www.facebook.com/artsakhsupport/) [GoFundMe](https://www.gofundme.com/f/support-for-volunteers-artsakh-support-body)
+    * [Artsakh Support Body](https://www.facebook.com/artsakhsupport/) [Fund through reArmenia](https://rearmenia.com/hy/fundraisers/2048d56e-3366-4b18-8d1e-4f1f014233db?tab=story)
     * [ReArmenia Projects](https://rearmenia.com/)
     * [Lorik Humanitarian Fund](https://www.facebook.com/LorikFund/)
     * [ARS](https://ars1910.org) - [Armenian Relief Society](https://www.facebook.com/ars1910)
