@@ -6,7 +6,7 @@ upcoming = false
 podcast_file = "12142760-arthur-g-martirosyan-army-day-in-armenia-new-eu-civilian-mission-to-armenia-politics-of-artsakh-blockade-ep-219-jan-29-2023.mp3"
 podcast_duration = "2868"
 podcast_bytes = "34463388"
-youtube = "cfslHk1RmjE"
+youtube = "nZtxTaykdKo"
 
 episode = "219"
 aliases = ["/219"]
