@@ -56,7 +56,7 @@ The Armenian armed forces are the backbone of the hopes of any successful Armeni
 
 ### Events of the Day
 
-So [yesterday](https://168.am/2023/01/28/1824948.html) hundreds of parents and relatives of fallen soldiers were forcibly removed from Yerablur, by hundreds, by some accounts thousands, of Pashinyan’s red beret police and other guards. This was to secure Pashinyan and some of his ministers to visit the Pantheon of fallen soldiers on Army Day.
+[Yesterday](https://168.am/2023/01/28/1824948.html) hundreds of parents and relatives of fallen soldiers were forcibly removed from Yerablur, by hundreds, by some accounts thousands, of Pashinyan’s red beret police and other guards. This was to secure Pashinyan and some of his ministers to visit the Pantheon of fallen soldiers on Army Day.
 
 As a background note, let me add that there was absolutely zero coverage of these events in government controlled press, such as Armenpress. There were many [articles](https://168.am/2023/01/28/1824914.html) in the more independent or opposition-leaning press, like 168.am..
 
@@ -64,7 +64,7 @@ As a background note, let me add that there was absolutely zero coverage of thes
 #### Question:
 * Impressions from the day?
 
-Background notes:
+:memo: Background notes:
 * 3rd January 28 that is in mournful mood:
     * January 2021 - Right after the war.
     * January 2022 - Ceremony canceled because of “Covid”
@@ -77,9 +77,7 @@ Background notes:
 
 ### Azat incident: No Political Accountability
 
-NOTE: Not sure if we actually want to cover this, but if we keep it maybe we can ask Arthur about political responsibility.
-
-I guess in the aftermath of the horrible fire in the military barrack in Gegharkunik, people are already feeling very demoralized, and full of apprehension towards the government and how it is treating the armed forces.
+In the aftermath of the horrible fire in the military barrack in Gegharkunik, people are feeling demoralized and are full of apprehension towards the government and how it is treating the armed forces.
 
 It’s been additionally demoralizing to know that the government has written off the possibility of any political accountability for this incident by Pashinyan’s government. Meanwhile Pashinyan has been pushing for an incident narrative that he himself conceived of, before any investigation was even launched.
 
@@ -96,14 +94,12 @@ So far there is every indication that the government plans on railroading its ow
 
 On Monday, the EU [approved](https://www.azatutyun.am/a/32235932.html) an expanded, civilian monitoring mission to the borders of Armenia. The mission was originally for 200 monitors and for 2 years, but that was reduced to 100 monitors at least for now.
 
-We should note that these monitors are sent to Armenia, near the current line of contact between Armenia and Azerbaijan. As Azerbaijan has invaded sovereign Armenian territory, they also claim that none of their forces are on what they consider Armenian territory, and they have not approved of the EU monitors to be on the de-facto or de-jure borders between the countries.
+We should note that these monitors are sent to Armenia, near the current line of contact between Armenia and Azerbaijan. As Azerbaijan has invaded sovereign Armenian territory, yet they also claim that none of their forces are on what they consider Armenian territory, and they have not approved of the EU monitors to be on the de-facto or de-jure borders between the countries.
 
 The Armenian government has decided to station the EU monitors along the entire length of the Armenian-Azerbaijani border (including [Nakhijevan](https://www.youtube.com/watch?v=A1dNpwNu3X4)).
 
 
 ### What is Armenia doing?
-
-This is the 2nd week we are covering this, but it is important.
 
 The Armenian government has received the news very enthusiastically. Foreign Minister Mirzoyan said that the mission will contribute to peace and stability in the region.
 
@@ -122,9 +118,9 @@ Since May 2021, Armenia has asked CSTO to give a declaration on Azerbaijani beha
 
 Various EU leaders, including the leader of the French National Assembly recently said that the EU cannot provide a security umbrella to Armenia.
 
-But if this monitoring mission carries the risk of alienating Armenia’s strategic ally Russia, one who has an agreement with Armenia and actually has boots on the ground and is nuclear armed, then are the Armenian authorities thinking clearly about their next steps?
-
-Is it possible that Armenia could end up in a situation in which it gets the worst of both worlds, no nuclear umbrella, no Russian base, and no external power (other than Turkey) which would be willing to commit forces to Armenia?
+#### Questions:
+* But if this monitoring mission carries the risk of alienating Armenia’s strategic ally Russia, one who has an agreement with Armenia and actually has boots on the ground and is nuclear armed, then are the Armenian authorities thinking clearly about their next steps?
+* Is it possible that Armenia could end up in a situation in which it gets the worst of both worlds, no nuclear umbrella, no Russian base, and no external power (other than Turkey) which would be willing to commit forces to Armenia?
 
 
 ### Russia’s Increasing Displeasure
@@ -160,7 +156,6 @@ OK, here we are on the 49th day of the blockade, and it looks like it may take a
 * What should Armenia and Armenians do to weather the storm?
 
 On Wednesday, Pashinyan [warned](https://www.azatutyun.am/a/32240807.html) Artsakh’s leadership again - we’re assuming the target was Ruben Vardanyan - that they should not undermine his “agenda of peace”. Of course, Pashinyan’s peace is selling the Armenians of Artsakh down the river, with very questionable and temporary expectations in return.
-
 
 #### Questions:
 * What is Artsakh’s government doing, or saying, that is causing Pashinyan concern?
