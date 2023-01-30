@@ -64,7 +64,7 @@ As a background note, let me add that there was absolutely zero coverage of thes
 #### Question:
 * Impressions from the day?
 
-:memo: Background notes:
+> :memo: Background notes:
 * 3rd January 28 that is in mournful mood:
     * January 2021 - Right after the war.
     * January 2022 - Ceremony canceled because of “Covid”
