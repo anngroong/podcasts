@@ -23,7 +23,7 @@ explicit = "no" # values are "yes" or "no"
 
 series = ["artsakhblockade"]
 categories = ["Politics", "Artsakh"]
-tags = ["Gev Iskajyan", "Artsakh", "Nagorno Karabakh", "Artsakh Blockade", "Azerbaijan", "Berdzor Corridor", "Lachin Corridor", "Curated Protests", "Curated Image", "Lindsey Snell", Baku State University", "Students Bussed", "Gas", "Electricity", "Rolling Blackouts", "Food Stamps", "Food Rationing"]
+tags = ["Gev Iskajyan", "Artsakh", "Nagorno Karabakh", "Artsakh Blockade", "Azerbaijan", "Berdzor Corridor", "Lachin Corridor", "Curated Protests", "Curated Image", "Lindsey Snell", "Baku State University", "Students Bussed", "Gas", "Electricity", "Rolling Blackouts", "Food Stamps", "Food Rationing"]
 
 Description = """
 Artsakh Blockade Flash Update with Gev Iskajyan - Ep 221, Feb 4, 2023
