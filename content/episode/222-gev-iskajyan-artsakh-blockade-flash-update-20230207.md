@@ -35,7 +35,9 @@ Armenian News Network Groong - Feb 7, 2023
 
 #### Topics:
 * Update for February 7
-
+    * Unreliable Gas Supply
+* Adam Schiff invites Robert Avetisyan to the State of the Union
+* Artsakh on the mind if the US Legislative Branch
 
 Episode 222 | Recorded: February 4, 2023"""
 
