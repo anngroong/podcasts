@@ -39,7 +39,7 @@ Armenian News Network Groong - Feb 7, 2023
 * Adam Schiff [invites](https://asbarez.com/i-will-always-stand-with-the-people-of-armenia-and-artsakh-says-schiff-and-thanks-artsakh-rep-to-u-s/) Robert Avetisyan to the State of the Union
 * Artsakh on the mind if the US Legislative Branch
 
-Episode 222 | Recorded: February 4, 2023"""
+Episode 222 | Recorded: February 7, 2023"""
 
 +++
 
