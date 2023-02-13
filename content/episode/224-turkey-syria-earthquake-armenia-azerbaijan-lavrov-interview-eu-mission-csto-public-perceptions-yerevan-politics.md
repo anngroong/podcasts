@@ -52,9 +52,9 @@ Some, in Armenia, have criticized Armenia’s efforts. Deputy speaker of parliam
 
 
 #### Questions:
-* Hovik, can you explain the argument?
-* Benyamin, do you think this affects the math for the elections in May, for Erdogan? How?
-* Does this event change the level of interdependency between Russia and Turkey?
+* How can we explain the argument?
+* Does this event affects the math for the elections in May, for Erdogan? How?
+* Does this event change the balance of interdependency between Russia and Turkey?
 
 
 ## Armenia - Azerbaijan Conflict
@@ -68,7 +68,6 @@ Glaringly, Lavrov stated that since the government of Armenia had decided to for
 
 #### Questions:
 * Some, even opposition leaning analysts, have accused Russia of crossing red lines in the Armenian-Russian relationship. Would you agree with that? And what are the repercussions of this perspective by Russia, on the Armenian-Azerbaijani conflict? 
-* What does it mean for Artsakh, and its aspirations for self-determination and independence?
 
 
 ### EU Monitors
@@ -159,7 +158,7 @@ Matevosyan was [replaced](https://www.azatutyun.am/a/32183251.html) by Tigran Kh
 ## Topics from the Panelists
 1. Benyamin - Increased Russian diplomatic activity in Armenia
 2. Hovik - Armenian Government Stonewalling Armenian Media
-    1. Maps released in [hague](https://twitter.com/HovikYerevan/status/1621224944834158593) \
+    1. Maps released in the [Hague](https://twitter.com/HovikYerevan/status/1621224944834158593)
 
 
 # Wrap-up
