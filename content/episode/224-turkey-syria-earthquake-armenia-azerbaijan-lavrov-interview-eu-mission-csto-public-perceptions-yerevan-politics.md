@@ -48,7 +48,7 @@ On Monday, a magnitude 7.8 [earthquake](https://www.cnn.com/middleeast/live-news
 
 Armenia has also [dispatched](https://armenpress.am/eng/news/1103623.html) rescuers to both Syria and Turkey. The 27-member team in Turkey is [working](https://armenpress.am/eng/news/1103700.html) in the Adiyaman region. The 29-member team to Syria  [is in Aleppo](https://armenpress.am/eng/news/1103641.html), where many Armenian deaths have been reported. Armenia also sent over [30 tons](https://verelq.am/hy/node/121782) of food supplies to Syria.
 
-Some, in Armenia, have criticized Armenia’s efforts. Deputy speaker of parliament Hakob Arshakyan [hit back](https://verelq.am/hy/node/121782) at them for this.
+Some, in Armenia, have criticized Armenia’s efforts. Deputy speaker of parliament Hakob Arshakyan [hit back](https://verelq.am/hy/node/121782) at them for this, and deputy speaker Ruben Rubinyan [explained](https://verelq.am/hy/node/121929) his take as well.
 
 
 #### Questions:
