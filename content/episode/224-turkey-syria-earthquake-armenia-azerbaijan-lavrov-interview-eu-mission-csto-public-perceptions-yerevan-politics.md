@@ -1,7 +1,7 @@
 +++
 
 Date = 2023-02-12T23:15:00-07:00
-upcoming = true
+upcoming = false
 
 title = "Earthquake in Turkey and Syria | Armenia-Azerbaijan Conflict | Lavrov Interview | EU and CSTO Missions | Shifting Public Perceptions | Yerevan Political Shuffle | Ep 224 - Feb 12, 2023"
 subtitle = "Armenian News Network Groong - Feb 12, 2023"
@@ -9,7 +9,7 @@ subtitle = "Armenian News Network Groong - Feb 12, 2023"
 podcast_file = "12240335-earthquake-in-turkey-and-syria-armenia-azerbaijan-conflict-lavrov-interview-eu-and-csto-missions-shifting-public-perceptions-political-shuffles-in-yerevan-ep-224-feb-12-2023.mp3"
 podcast_bytes = "42985693"
 podcast_duration = "3579"
-youtube = ""
+youtube = "1HICw1djqCM"
 
 episode_image = "img/episode/224/thumbnail-224.png"
 episode_banner = "img/episode/224/banner-224.png"
