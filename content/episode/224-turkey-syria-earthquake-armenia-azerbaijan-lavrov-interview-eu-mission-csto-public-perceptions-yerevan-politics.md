@@ -104,7 +104,7 @@ Late in January **MPG** polled 1100 residents of Armenia during January 2023, fo
 
 
 #### Is it OK to leave Artsakh-Armenians in Azerbaijan?
-![alt_text](images/image1.png "image_tooltip")
+![Is it OK to leave Artsakh-Armenians in Azerbaijan?](image/episode/224/mpg-slide-is-it-ok-to-leave-artsakh-armenians-in-azerbaijan.png "Is it OK to leave Artsakh-Armenians in Azerbaijan?")
 
 
 
