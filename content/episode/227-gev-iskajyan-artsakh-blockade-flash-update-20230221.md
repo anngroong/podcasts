@@ -34,7 +34,7 @@ Armenian News Network Groong - Feb 21, 2023
 * [Gev Iskajyan](/guest/giskajyan)
 
 #### Topics:
-* The Politics around Rouben Vardanyan
+* The Politics around Ruben Vardanyan
 
 Episode 227 | Recorded: February 21, 2023"""
 
