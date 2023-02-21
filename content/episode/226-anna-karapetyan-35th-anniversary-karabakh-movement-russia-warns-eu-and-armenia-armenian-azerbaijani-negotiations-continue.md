@@ -92,7 +92,7 @@ However, given Armenia’s recent assertive pro-western positioning, it is an im
 ## Armenian-Azerbaijani Negotiations Continue
 
 
-### Armenia-Azerbaijan component
+### Armenia-Azerbaijan Negotiations
 
 Talks about a “peace treaty” continue. After his visit to Turkey, Ararat Mirzoyan said that Armenia has reviewed the next successive iteration of Azerbaijani proposal and submitted its counter-proposals. 
 
@@ -133,7 +133,7 @@ Aliyev continues to rant about Ruben Vardanyan, [calling](https://en.trend.az/az
 * Many Pashinyan supporters say that direct negotiations between Baku and Stepanakert is a victory, but realistically speaking are these going to be equal negotiations? For instance, do you think that anything around the status of Artsakh could be under negotiations?
 
 
-### Artsakh component
+### Artsakh Negotiations
 
 We are now at Day 71 of the #ArtsakhBlockade, which we’re covering regularly.
 
@@ -146,8 +146,8 @@ A couple of days from now, on Feb. 22nd, the International Court of Justice is e
 * What can be expected of this? Is the scheduling of the decisions on the same day a bad omen about European both-sidism?
 
 ## Topics from the Panelists
-1. **Anna** - 
-2. **Hovik** - 
+1. **Hovik** - About all the commemorations that the Armenian Government denies its people.
+2. **Anna** - About Armenia's readiness for a major earthquake. And about [Yerablur.am](https://yerablur.am)
 
 
 # Wrap-up
