@@ -34,12 +34,7 @@ Armenian News Network Groong - Feb 21, 2023
 * [Gev Iskajyan](/guest/giskajyan)
 
 #### Topics:
-* Latest Gas & Electricity up downs
-* On the Food Stamp program
-* Why are schools reopening?
-* Deprivation from education
-* Gev loses power
-* The pain of the blockade is real
+* TBD
 
 Episode 227 | Recorded: February 21, 2023"""
 
