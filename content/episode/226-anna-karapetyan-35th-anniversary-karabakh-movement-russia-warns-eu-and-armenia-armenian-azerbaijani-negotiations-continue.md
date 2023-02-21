@@ -23,13 +23,14 @@ explicit = "no"
 
 series = ["wir"]
 categories = ["Armenia", "Politics"]
-tags = ["Anna Karapetyan", "Armenia", "Artsakh", "Nagorno Karabakh", "Azerbaijan", "South Caucasus", "Russia", "Emmanuel Macron", "Munich Security Conference", "Nikol Pashinyan", "Ruben Vardanyan", "Ilham Aliyev", "EU Mission", "Era of Peace", "Peace Negotiations", "EU", "European Union", "Anthony Blinken", "Sergey", "Lavrov", "Charles Michel"]
+tags = ["Anna Karapetyan", "Armenia", "Artsakh", "Nagorno Karabakh", "Azerbaijan", "South Caucasus", "Russia", "Emmanuel Macron", "Munich Security Conference", "Nikol Pashinyan", "Ruben Vardanyan", "Ilham Aliyev", "EU Mission", "Era of Peace", "Peace Negotiations", "EU", "European Union", "Anthony Blinken", "Sergey Lavrov", "Charles Michel"]
 
 Description = """
+
 #### Guest:
 * [Anna Karapetyan](/guest/akarapetyan)
 
-#### Topic:
+#### Topics:
 * 35th Anniversary of the Karabakh Movement
 * Russia Warns the EU and Armenia
 * Armenian Azerbaijani Negotiations Continue
@@ -62,7 +63,7 @@ Armenia seems to have further inflamed Russia, Iran and Azerbaijan with statemen
 This was refuted by the EU, and also Russia, who said that Russia had never heard Azerbaijan express concern or fear or being attacked by Russia. Russia’s State Duma speaker Vyacheslav Volodin also issued a [stern warning](https://www.azatutyun.am/a/32269711.html) to the EU and Armenia, saying that consequences of leaning towards the EU could lead to “losing the country”.
 
 
-#### Questions:
+#### Question:
 * Can you explain why Russia has issued such a dire warning?
 
 Armenia has continued rejecting CSTO missions to its borders. Last week Lavrov said that a mission could be [deployed within a day or two](https://armenpress.am/eng/news/1103157.html), but Armenia’s government has [expressed doubts](https://armenpress.am/eng/news/1103528.html) about it, and also given various excuses why the CSTO is not a desirable mission. For example, they’ve said that since the CSTO countries have not recognized Azerbaijan as the aggressor, and do not recognize Armenia’s borders, then they would not be able to carry out the mission properly.
@@ -84,7 +85,7 @@ While some circles were quick to make unverifiable accusations that Russia was r
 However, given Armenia’s recent assertive pro-western positioning, it is an important opportunity to remember that Armenia is quite dependent on cheap Russian gas, using up around 2B cubic meters per year at a price of [$165 per thousand cubic meters](https://www.azatutyun.am/a/32148842.html). This is about 1/10 of the current market price. Economist and former prime minister Hrant Bagratian [says](https://www.youtube.com/watch?v=TaC5Cfu-DU4) that if Armenia were forced to pay market price, Armenia would forfeit a “Russian subsidy equal to $2.6B dollars per year.”
 
 
-#### Questions:
+#### Question:
 * How likely is the possibility of Russia using natural gas as leverage against Armenia?
 
 
@@ -127,8 +128,7 @@ Russia [was not invited](https://www.rfi.fr/en/international/20230217-security-c
 
 Aliyev continues to rant about Ruben Vardanyan, [calling](https://en.trend.az/azerbaijan/politics/3712287.html) him a “Russian citizen, a criminal, and oligarch”. Interesting words coming from someone who is at the center of a new scandal every year, that gets published by international anti-corruption watchdogs. Aliyev said that Azerbaijan will negotiate with Armenians in Karabakh if and only if Ruben Vardanyan leaves.
 
-
-
+#### Questions:
 * What is the reason for Aliyev’s fixation with Ruben Vardanyan?
 * Many Pashinyan supporters say that direct negotiations between Baku and Stepanakert is a victory, but realistically speaking are these going to be equal negotiations? For instance, do you think that anything around the status of Artsakh could be under negotiations?
 
@@ -140,9 +140,10 @@ We are now at Day 71 of the #ArtsakhBlockade, which we’re covering regularly.
 Recently National Security Council chairman Armen Grigoryan, in talking about the latest iteration of the so-called “peace agreement” being negotiated between Armenia and Azerbaijan leaked that the Armenian draft “[Could Mention Nagorno Karabakh](https://armenpress.am/eng/news/1104121.html)”. 
 
 
+A couple of days from now, on Feb. 22nd, the International Court of Justice is expected to yield a [decision](https://armenpress.am/eng/news/1104419.html) to Armenia’s request for temporary measures against Azerbaijan, to open the Lachin/Berdzor corridor. On the same day it is also expected to release their decision about Azerbaijan’s complaint. 
+
 #### Questions:
-* A couple of days from now, on Feb. 22nd, the International Court of Justice is expected to yield a [decision](https://armenpress.am/eng/news/1104419.html) to Armenia’s request for temporary measures against Azerbaijan, to open the Lachin/Berdzor corridor. On the same day it is also expected to release their decision about Azerbaijan’s complaint. 
-    * What can be expected of this? Is the scheduling of the decisions on the same day a bad omen about European both-sidism?
+* What can be expected of this? Is the scheduling of the decisions on the same day a bad omen about European both-sidism?
 
 ## Topics from the Panelists
 1. **Anna** - 
