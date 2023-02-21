@@ -2,7 +2,7 @@
 Date = 2023-02-17T23:00:00+04:00
 upcoming = false 
 
-title = "Artsakh Blockade Flash Update with Gev Iskajyan - Ep 223, Feb 17, 2023"
+title = "Artsakh Blockade Flash Update with Gev Iskajyan - Ep 225, Feb 17, 2023"
 subtitle = "Armenian News Network Groong - Feb 9, 2023"
 
 podcast_file = "12276462-artsakh-blockade-flash-update-with-gev-feb-17-2023.mp3"
