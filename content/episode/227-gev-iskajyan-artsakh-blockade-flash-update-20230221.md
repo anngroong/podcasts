@@ -1,14 +1,14 @@
 +++
 Date = 2023-02-21T23:00:00+04:00
-upcoming = true 
+upcoming = false 
 
 title = "Artsakh Blockade Flash Update with Gev Iskajyan - Ep 227, Feb 21, 2023"
-subtitle = "Armenian News Network Groong - Feb 9, 2023"
+subtitle = "Armenian News Network Groong - Feb 21, 2023"
 
-podcast_file = ""
-podcast_bytes = ""
+podcast_file = "12300479-suren-sargsyan-artsakh-under-blockade-day-72-ep-228-feb-21-2023.mp3"
+podcast_bytes = "26726677"
 podcast_duration = ""
-youtube = ""
+youtube = "Yza8aur_OKc"
 
 episode_image = "img/episode/227/thumbnail-227.jpg"
 episode_banner = "img/episode/227/banner-227.png"
@@ -23,7 +23,7 @@ explicit = "no" # values are "yes" or "no"
 
 series = ["artsakhblockade"]
 categories = ["Politics", "Artsakh"]
-tags = ["Gev Iskajyan", "Artsakh", "Nagorno Karabakh", "Artsakh Blockade", "Schools closed", "Businesses close", "Azerbaijan", "Berdzor Corridor", "Lachin Corridor", "Gas Supply", "Gas Unreliable", "Gas Interrupted", "Gas Insufficient", "Electricity Blackout", "Electricity Brownout"]
+tags = ["Gev Iskajyan", "Artsakh", "Nagorno Karabakh", "Artsakh Blockade", "Rouben Vardanyan", "Stepanakert", "Azerbaijan", "Berdzor Corridor", "Lachin Corridor", "Ilham Aliyev"]
 
 Description = """
 Artsakh Blockade Flash Update with Gev Iskajyan - Ep 227, Feb 21, 2023
@@ -34,7 +34,7 @@ Armenian News Network Groong - Feb 21, 2023
 * [Gev Iskajyan](/guest/giskajyan)
 
 #### Topics:
-* TBD
+* The Politics around Rouben Vardanyan
 
 Episode 227 | Recorded: February 21, 2023"""
 
