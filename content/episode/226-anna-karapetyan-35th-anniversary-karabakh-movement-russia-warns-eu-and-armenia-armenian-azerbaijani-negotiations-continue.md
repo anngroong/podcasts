@@ -34,6 +34,7 @@ Description = """
 * 35th Anniversary of the Karabakh Movement
 * Russia Warns the EU and Armenia
 * Armenian Azerbaijani Negotiations Continue
+* Personal topics
 
 
 Episode 226 | Recorded: February 19, 2023"""
@@ -147,7 +148,7 @@ A couple of days from now, on Feb. 22nd, the International Court of Justice is e
 
 ## Topics from the Panelists
 1. **Hovik** - About all the commemorations that the Armenian Government denies its people.
-2. **Anna** - About Armenia's readiness for a major earthquake. And about upcoming [Yerablur.am](https://yerablur.am) website.
+2. **Anna** - About Armenia's readiness for a major earthquake. And about upcoming [Erablur.am](https://erablur.am) website.
 
 
 # Wrap-up
