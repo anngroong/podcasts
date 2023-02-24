@@ -11,13 +11,13 @@ author = "Armenian News Network - Groong"
 episode = "161"
 episode_image = "img/episode/default.jpg"
 episode_banner = "img/episode/default-banner.jpg"
+hosts = ["hovik", "asbed"]
 guests = ["aabrahamian"]
 images = ["img/episode/default-social.jpg"]
 podcast_duration = "0:37:23"
 podcast_bytes = 26971869
 podcast_file = "11224496-anna-abrahamian-the-opposition-must-impeach-ep-161-aug-29-2022.mp3"
 youtube = "u9zPGNrelpE"
-truncate = ""
 series = ["COG"]
 upcoming = false
 Description = """Armenian News Network/Groong Week in Review - August 29, 2022
@@ -29,20 +29,14 @@ Especially as we near the end of August and the protests are set to restart, we�
 
 To talk about this issue, today we have Anna Abrahamian, who is a geopolitical analyst currently splitting her time between Moscow and Athens. 
 
-Guest:  Anna Abrahamian
+Guest: [Anna Abrahamian](guest/aabrahamian)
 
 Hosts:
 
-Hovik Manucharyan TW/@HovikYerevan
-Asbed Bedrossian TW/@qubriq
+* [Hovik Manucharyan](host/hovik)
+* [Asbed Bedrossian](host/asbed)
 
-Episode 161 | Recorded: Sunday, August 29, 2022
-
-Web: https://groong.org/podcasts/CoG-20220829.html
-
-
- աննա աբրահամյան,  edgar ghazaryan
-"""
+Episode 161 | Recorded: Sunday, August 29, 2022"""
 
 +++
 
