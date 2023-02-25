@@ -15,5 +15,5 @@ YouTube = ""
 Twitch = ""
 +++
 
-Hovik Manucharyan is co-founder of the ANN/Groong podcast and a contributor to Groong news since the late 1990s.
+Hovik Manucharyan is an information security engineer who moved from Seattle to Armenia in 2022. He co-founded the ANN/Groong podcast in 2020 and has been a contributor to Groong News since the late 1990s. 
 
