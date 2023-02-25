@@ -18,7 +18,7 @@ explicit = "no"
 
 series = ["cog"]
 categories = ["Armenia", "Technology", "Media"]
-#tags = []
+tags = ["Arthur Papyan", "Armenia", "Cybersecurity", "IT", "Information Technology", "Hacking", "Websites", "InfoSec", "Information Security", "Internet Censorship", "Martial Law", "Pegasus", "NSO", "Predator", "Amnesty International", "CPJ", "Committee on Protecting Journalists", "Union of Journalists"]
 title = "Artur Papyan: Cyber Laws and Threats in Armenia"
 subtitle = "Conversations on Groong - Jan 22, 2023"
 Description = """
@@ -28,7 +28,7 @@ Topics:
   - Censoring the Internet
   - Cyberthreats and Cyberspying in Armenia
 
-Guest: [Artur Papyan](/guest/apapyan), malware researcher, digital security consultant, co-founder of CyberHub, and director of the Media Diversity Institute.
+Guest: [Artur Papyan](/guest/apapyan), malware researcher, digital security consultant, co-founder of [CyberHub](https://cyberhub.am) and director of the [Media DIversity Institute](https://mdi.am).
 
 Episode 229 | Recorded: February 24, 2023"""
 
@@ -79,7 +79,7 @@ This type of activity is associated with nation states, some [example cases](htt
 * What can you tell us about the Armenian government’s overt or covert programs to target citizens with tools such as Pegasus?
 * What is the difference between Pegasus and Predator?
 * How do you detect it? How do I check my phone?
-    * Note: the Amnesty page has good leads to DIY, but it is complicated; don’t expect your mom to help herself!
+    * Note: the Amnesty page has good leads to a DIY tool, but it is complicated; don’t expect your mom to help herself!
 
 Recently, the company Checkpoint released a [warning](https://research.checkpoint.com/2023/operation-silent-watch-desktop-surveillance-in-azerbaijan-and-armenia/) to users in Armenia about a new malware that is targeting users and apparently organized by a nation state actor.
 

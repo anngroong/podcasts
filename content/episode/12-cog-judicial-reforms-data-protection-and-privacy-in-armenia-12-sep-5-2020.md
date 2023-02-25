@@ -18,7 +18,8 @@ podcast_bytes = 30704122
 podcast_file = "5313928-cog-judicial-reforms-data-protection-and-privacy-in-armenia-12-sep-5-2020.mp3"
 youtube = "ZCdDII467-I"
 truncate = ""
-series = ["COG"]
+series = ["cog"]
+category = ["Armenia", "Judiciary", "Politics"]
 upcoming = false
 Description = """𝐉𝐮𝐝𝐢𝐜𝐢𝐚𝐥 𝐑𝐞𝐟𝐨𝐫𝐦𝐬, 𝐃𝐚𝐭𝐚 𝐏𝐫𝐨𝐭𝐞𝐜𝐭𝐢𝐨𝐧 𝐚𝐧𝐝 𝐏𝐫𝐢𝐯𝐚𝐜𝐲 - 𝟎𝟗/𝟎𝟓/𝟐𝟎𝟐𝟎
 

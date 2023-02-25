@@ -19,6 +19,7 @@ podcast_file = "5448184-cog-telecommunications-security-in-armenia-15-sep-15-202
 youtube = "26-r_lEm7XU"
 truncate = ""
 series = ["COG"]
+category = ["Armenia", "Technology"]
 upcoming = false
 Description = """Armenian News Network/Groong: 𝐓𝐞𝐥𝐞𝐜𝐨𝐦𝐦𝐮𝐧𝐢𝐜𝐚𝐭𝐢𝐨𝐧𝐬 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐢𝐧 𝐀𝐫𝐦𝐞𝐧𝐢𝐚 - 𝐒𝐞𝐩 𝟏𝟓, 𝟐𝟎𝟐𝟎)
 
