@@ -3,7 +3,7 @@ Date = 2022-11-16T04:45:01+04:00
 title = "Artur Papyan"
 Pronouns = ""
 Twitter = "ditord"
-Website = ""
+Website = "https://cyberhub.am"
 Type = "guest"
 Facebook = "ditord"
 Linkedin = ""
@@ -17,4 +17,4 @@ Twitch = ""
 #guest_group = "wir"
 +++
 
-Artur Papyan is a journalist, blogger, and IT and Media Consultant specializing in cybersecurity.
+Artur Papyan is a malware researcher, digital security consultant, co-founder of [CyberHub](https://cyberhub.am) and director of the [Media DIversity Institute](https://mdi.am).
