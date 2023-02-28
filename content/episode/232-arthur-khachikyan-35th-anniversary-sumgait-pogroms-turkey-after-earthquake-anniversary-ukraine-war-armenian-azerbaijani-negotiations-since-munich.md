@@ -1,7 +1,7 @@
 +++
 
 Date = 2023-02-28T23:15:00-07:00
-upcoming = faltruese
+upcoming = true
 
 title = "35th Anniversary of the Sumgait Pogroms | Russia Warns the EU and Armenia | Armenian Azerbaijani Negotiations Continue | Ep 232 - Feb 26, 2023"
 subtitle = "Armenian News Network Groong - Feb 26, 2023"
@@ -38,7 +38,7 @@ Description = """
 * Personal topics
 
 
-Episode 232 | Recorded: February 26, 2023"""
+Episode 232 | Recorded: February 28, 2023"""
 
 +++
 
