@@ -1,15 +1,15 @@
 +++
 
 Date = 2023-02-28T23:15:00-07:00
-upcoming = true
+upcoming = false
 
 title = "35th Anniversary of the Sumgait Pogroms | Russia Warns the EU and Armenia | Armenian Azerbaijani Negotiations Continue | Ep 232 - Feb 26, 2023"
 subtitle = "Armenian News Network Groong - Feb 26, 2023"
 
-podcast_file = ""
-podcast_bytes = ""
-podcast_duration = ""
-youtube = ""
+podcast_file = "12349378-sumgait-pogroms-turkey-after-earthquake-ukraine-armenia-azerbaijan-ep-232-feb-26-2023.mp3"
+podcast_bytes = "38458517"
+podcast_duration = "3202"
+youtube = "lopulr9GelA"
 
 episode_image = "img/episode/232/thumbnail-232.jpg"
 episode_banner = "img/episode/232/banner-232.png"
@@ -28,9 +28,11 @@ tags = ["Arthur Khachikyan", "Armenia", "Artsakh", "Nagorno Karabakh", "Azerbaij
 Description = """
 
 #### Guest:
+
 * [Arthur Khachikyan](/guest/akhachikyan)
 
 #### Topics:
+
 * 35th Anniversary of the Sumgait Pogroms
 * Turkey after the Earthquake
 * One Year Anniversary of the War in Ukraine
