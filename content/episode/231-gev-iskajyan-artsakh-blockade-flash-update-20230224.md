@@ -23,7 +23,7 @@ explicit = "no" # values are "yes" or "no"
 
 series = ["artsakhblockade"]
 categories = ["Politics", "Artsakh"]
-tags = ["Gev Iskajyan", "Artsakh", "Nagorno Karabakh", "Artsakh Blockade", "Azerbaijan", "Rouben Vardanyan", "Arayik Harutyunyan", "Samuel Babaya", "Nikol Pashinyan", "Russia", "Russian Peacekeepers", "Electricity Blackout", "Gas Cutoff", "Berdzor", "Berdzor Corridor", "Constitutional Amendment"]
+tags = ["Gev Iskajyan", "Artsakh", "Nagorno Karabakh", "Artsakh Blockade", "Azerbaijan", "Rouben Vardanyan", "Arayik Harutyunyan", "Samuel BabayaN", "Nikol Pashinyan", "Russia", "Russian Peacekeepers", "Electricity Blackout", "Gas Cutoff", "Berdzor", "Berdzor Corridor", "Constitutional Amendment"]
 
 Description = """
 Artsakh Blockade Flash Update with Gev Iskajyan - Ep 231, Feb 24, 2023
