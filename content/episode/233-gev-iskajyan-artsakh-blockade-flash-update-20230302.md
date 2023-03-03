@@ -57,7 +57,7 @@ We’ve read that the chair of the Artsakh national security council, Samvel Sha
 
 * Who are they?
 
-The Azeri side has[ presented](https://en.trend.az/azerbaijan/politics/3716953.html) these meetings as being about “reintegrating Karabakh Armenians back into Azerbaijan”. There have been multiple official[ rejections](https://armenpress.am/eng/news/1105355.html) of this view from Artsakh, and[ statements](https://armenpress.am/eng/news/1105361.html) that Artsakh is not discussing its status with Azerbaijan, and the current talks are not a replacement for peace negotiations.
+The Azeri side has [presented](https://en.trend.az/azerbaijan/politics/3716953.html) these meetings as being about “reintegrating Karabakh Armenians back into Azerbaijan”. There have been multiple official[ rejections](https://armenpress.am/eng/news/1105355.html) of this view from Artsakh, and[ statements](https://armenpress.am/eng/news/1105361.html) that Artsakh is not discussing its status with Azerbaijan, and the current talks are not a replacement for peace negotiations.
 
 * What’s the view from inside?
 
