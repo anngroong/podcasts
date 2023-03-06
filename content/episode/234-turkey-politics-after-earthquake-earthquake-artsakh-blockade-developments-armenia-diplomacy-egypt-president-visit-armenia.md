@@ -32,7 +32,7 @@ Description = """
 * [Yeghia Tashjian](/guest/ytashjian)
 
 #### Topics:
-*Turkey after the Earthquake
+* Turkey after the Earthquake
 * Artsakh Blockade and Developments
 * Armenian Diplomatic Developments
 * Egyptian President’s Visit to Armenia
@@ -70,7 +70,7 @@ As we’ve noted before, Armenia also [dispatched](https://armenpress.am/eng/new
 
 Since Ruben Vardanyan’s dismissal, both the Artsakh and Azerbaijani sides have appointed representatives and have held two discussions, in the presence of the Russian peacekeepers. While Azerbaijan has tried to paint these discussions as being about “reintegrating Karabakh back into Azerbaijan”, the Artsakh government has [rejected](https://armenpress.am/eng/news/1105355.html) this and [gave a detailed report of the meeting](https://armenpress.am/eng/news/1105493.html). They’ve also said that these talks are not a substitute for peace negotiations, which must take place in an internationally visible process.
 
-**Questions:**
+**Question:**
 * Given that there’s a disconnect on the Azeri side of why and what they’re discussing with Artsakh, can we expect much from these discussions, or are they happening to placate the international community, which has been calling for an end to the blockade?
 
 Since that meeting earlier in the week, there have been [daily reports](https://armenpress.am/eng/news/1105571.html) (6 days in a row) about Azeri violations of ceasefire, with both civilian and military being targeted. Today, a subversion group from Azerbaijan infiltrated Armenian-held territories, in contravention of the cease-fire, and attacked an Artsakh police car, killing three and injuring one police officer.
@@ -124,7 +124,7 @@ This relationship, with Egypt, but also with a lot of the Arab world, is a deepl
 
 ## Topics from the Panelists
 1. **Hovik** - Today is Vazgen Sargsyan’s birthday
-2. **Yeghia** - Lebanese currency, economy, and electricity woes
+2. **Yeghia** - Keeping hope alive in Lebanon.
 
 
 # Wrap-up
