@@ -1,15 +1,15 @@
 +++
 
 Date = 2023-03-05T23:15:00-07:00
-upcoming = true
+upcoming = false
 
 title = "Turkish Politics After the Earthquake | Artsakh Blockade Developments | Armenian Diplomacy | Egyptian President’s Visit to Armenia | Ep 234 - Mar 5, 2023"
 subtitle = "Armenian News Network Groong - Mar 5, 2023"
 
-podcast_file = ""
-podcast_bytes = ""
+podcast_file = "12382253-turkish-politics-after-earthquake-artsakh-blockade-developments-armenian-diplomacy-egyptian-president-in-armenia-ep-234-mar-5-2023.mp3"
+podcast_bytes = "32143592"
 podcast_duration = ""
-youtube = ""
+youtube = "njdWLw7z4kg"
 
 episode_image = "img/episode/234/thumbnail-234.jpg"
 episode_banner = "img/episode/234/banner-234.png"
