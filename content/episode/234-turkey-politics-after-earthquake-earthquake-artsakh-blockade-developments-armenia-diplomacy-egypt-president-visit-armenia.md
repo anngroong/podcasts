@@ -32,7 +32,7 @@ Description = """
 * [Yeghia Tashjian](/guest/ytashjian)
 
 #### Topics:
-* Turkey after the Earthquake
+* Turkish Politics after the Earthquake
 * Artsakh Blockade and Developments
 * Armenian Diplomatic Developments
 * Egyptian President’s Visit to Armenia
