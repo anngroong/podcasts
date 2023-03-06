@@ -34,9 +34,12 @@ Armenian News Network Groong - March 6, 2023
 * [Gev Iskajyan](/guest/giskajyan)
 
 #### Topics:
-* Azerbaijan Special Ops Kill 3 Artsakh Citizens
-* Arayik Harutyunyan Warns of Further Violence
-* World Response to the Killings
+* Azerbaijan Attack Kill 3 Artsakh Citizens
+* Arayik Harutyunyan rejects Azeri ultimatum, Warns of Further Aggression
+* How are people responding?
+* About the international response
+* Russian peacekeeper report and response
+* On the trilateral agreement of Nov. 2020
 
 Episode 235 | Recorded: February 24, 2023"""
 
