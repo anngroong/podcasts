@@ -41,7 +41,7 @@ Armenian News Network Groong - Mar 2, 2023
 * New State Minister Gurgen Nersesyan
 * More Azeri Shootings in Martakert and Askeran
 
-Episode 233 | Recorded: February 24, 2023"""
+Episode 233 | Recorded: March 2, 2023"""
 
 +++
 
