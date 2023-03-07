@@ -41,7 +41,7 @@ Armenian News Network Groong - March 6, 2023
 * Russian peacekeeper report and response
 * On the trilateral agreement of Nov. 2020
 
-Episode 235 | Recorded: February 24, 2023"""
+Episode 235 | Recorded: March 6, 2023"""
 
 +++
 
