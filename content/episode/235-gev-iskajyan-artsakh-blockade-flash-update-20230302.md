@@ -34,7 +34,7 @@ Armenian News Network Groong - March 6, 2023
 * [Gev Iskajyan](/guest/giskajyan)
 
 #### Topics:
-* Azerbaijan Attack Kill 3 Artsakh Citizens
+* Azerbaijan Attack Kills 3 Artsakh Citizens
 * Arayik Harutyunyan rejects Azeri ultimatum, Warns of Further Aggression
 * How are people responding?
 * About the international response
