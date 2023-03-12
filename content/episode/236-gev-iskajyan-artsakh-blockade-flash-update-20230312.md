@@ -34,16 +34,39 @@ Armenian News Network Groong - March 12, 2023
 * [Gev Iskajyan](/guest/giskajyan)
 
 #### Topics:
-* Azerbaijan Attack Kills 3 Artsakh Citizens
-* Arayik Harutyunyan rejects Azeri ultimatum, Warns of Further Aggression
-* How are people responding?
-* About the international response
-* Russian peacekeeper report and response
-* On the trilateral agreement of Nov. 2020
+* Gas cutoff again.
+* Aftermath of Azerbaijan Killing 3 Artsakh Policemen
+* Potential for New Aggression
+* No “Peace” without “Rights and Security for Artsakh”?
 
 Episode 236 | Recorded: March 12, 2023"""
 
 +++
+
+## Gas & Electricity
+
+Gas was cut off yesterday again.
+
+**Questions:**
+* What’s the state of shops and businesses?
+* Is the food situation stable?
+* What is the current regime of electricity brownouts?
+
+
+## Political Developments
+
+On our last call we discussed that Artsakh reps met with Azerbaijani government officials to discuss logistics and infrastructure, but Azerbaijan misrepresented those discussions as being about “integration of Karabakh Armenians into Azerbaijan”. That was flatly denied and rejected by both Arayik Harutyunyan, as well as the Armenian government in Yerevan.
+
+Both Arayik Harutyunyan and Pashinyan also warned of Azerbaijan preparing for further aggression and violence. This week we had the terrible shootings of three Artsakh policemen and the wounding of another by Azeri forces.
+
+**Questions:**
+* Can you describe the atmosphere in Stepanakert and Artsakh in general following this?
+
+
+Yesterday Armenia’s national security chair Armen Grigoryan said that Armenia won’t sign a peace treaty without rights and security for Artsakh.
+
+**Questions:**
+* What does this mean for Artsakh?
 
 
 # Wrap-up
