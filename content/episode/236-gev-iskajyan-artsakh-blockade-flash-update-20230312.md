@@ -5,10 +5,10 @@ upcoming = true
 title = "Artsakh Blockade Flash Update with Gev Iskajyan - Ep 236, Mar 12, 2023"
 subtitle = "Armenian News Network Groong - Mar 12, 2023"
 
-podcast_file = ""
-podcast_bytes = ""
-podcast_duration = ""
-youtube = ""
+podcast_file = "12426343-artsakh-blockade-flash-update-with-gev-mar-12-2023.mp3"
+podcast_bytes = "8771646"
+podcast_duration = "727"
+youtube = "4AWQtGz9Jl4"
 
 episode_image = "img/episode/236/thumbnail-236.jpg"
 episode_banner = "img/episode/236/banner-236.png"
@@ -23,7 +23,7 @@ explicit = "no" # values are "yes" or "no"
 
 series = ["artsakhblockade"]
 categories = ["Politics", "Artsakh"]
-tags = ["Gev Iskajyan", "Artsakh", "Nagorno Karabakh", "Artsakh Blockade", "Armenia", "Azerbaijan", "Russia", "Russian Peacekeepers", "Arayik Harutyunyan", "Azerbaijani Terrorism", "Azerbaijan Kills", "Berdzor", "Berdzor Corridor", "Policemen Shooting", "Armen Grigoryan", "Gas Cutoff", "Electricity Blackout"]
+tags = ["Gev Iskajyan", "Artsakh", "Nagorno Karabakh", "Artsakh Blockade", "Armenia", "Azerbaijan", "Russia", "Russian Peacekeepers", "Arayik Harutyunyan", "Azerbaijani Terrorism", "Azerbaijan Kills", "Berdzor", "Berdzor Corridor", "Policemen Shooting", "Armen Grigoryan", "Gas Cutoff", "Electricity Blackout", "Sarsang Reservoir"]
 
 Description = """
 Artsakh Blockade Flash Update with Gev Iskajyan - Ep 236, Mar 12, 2023
