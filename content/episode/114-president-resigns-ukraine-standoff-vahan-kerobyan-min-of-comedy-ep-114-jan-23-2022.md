@@ -20,7 +20,7 @@ podcast_file = "9955086-president-resigns-ukraine-standoff-vahan-kerobyan-min-of
 youtube = "FFiC_lt_pDU"
 truncate = ""
 series = ["WIR"]
-Tags = ["Artsakh", "Armenia", "Politics", "Poll"]
+categories = ["Artsakh", "Armenia", "Politics", "Poll"]
 upcoming = false
 Description = """ANN/Groong Week in Review - January 23, 2022
 

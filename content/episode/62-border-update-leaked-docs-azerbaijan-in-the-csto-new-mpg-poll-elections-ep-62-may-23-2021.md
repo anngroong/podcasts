@@ -17,7 +17,7 @@ podcast_bytes = 36326827
 podcast_file = "8583764-border-update-leaked-docs-azerbaijan-in-the-csto-new-mpg-poll-elections-ep-62-may-23-2021.mp3"
 youtube = "MV7AikEl_IA"
 series = ["WIR"]
-tags = ["Armenia", "Politics", "Poll"]
+categories = ["Armenia", "Politics", "Poll"]
 Description = """ANN/Groong Week in Review - May 23, 2021
 
 Topics:

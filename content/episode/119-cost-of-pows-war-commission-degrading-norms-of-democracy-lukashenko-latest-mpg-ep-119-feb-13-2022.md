@@ -20,7 +20,7 @@ youtube = "xScL5XrsPFY"
 truncate = ""
 series = ["WIR"]
 upcoming = false
-Tags = ["Artsakh", "Armenia", "Politics", "Poll"]
+categories = ["Artsakh", "Armenia", "Politics", "Poll"]
 Description = """ANN/Groong Week in Review - February 13, 2022
 
 Topics:

@@ -18,7 +18,7 @@ podcast_bytes = 29134211
 podcast_file = "8737014-aram-navasardyan-how-to-explain-the-mpg-polling-discrepancy-ep-75-june-21-2021.mp3"
 youtube = "r00vpL2GJTQ"
 series = ["COG"]
-Tags = ["In Armenian", "Armenia", "Politics", "Poll"]
+categories = ["In Armenian", "Armenia", "Politics", "Poll"]
 Description = """How to Explain The MPG Polling Discrepancy With Election Results?
 A Conversation (in Armenian) with Aram Navasardyan
 
