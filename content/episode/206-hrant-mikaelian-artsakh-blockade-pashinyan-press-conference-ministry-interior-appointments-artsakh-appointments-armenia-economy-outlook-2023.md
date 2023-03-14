@@ -23,7 +23,7 @@ guests = ["hmikaelian"]
 hosts = ["hovik","asbed"]
 
 series = ["wir"]
-categories = ["Artsakh", "Armenia", "Politics"]
+categories = ["Artsakh", "Armenia", "Politics", "Poll"]
 tags = ["Hrant Mikaelian", "Artsakh", "Nagorno Karabakh", "Karabakh", "Blockade", "Lachin", "Lachin Corridor", "Berdzor", "Berdzor Corridor", "Ilham Aliyev", "Nikol Pashinyan", "Armenia", "Azerbaijan", "Russia", "Russian Peacekeepers", "Russian Base Gyumri", "Russian Military Base", "Ministry of Interior", "Vahe Ghazaryan", "Minister appointment", "Sergey Ghazaryan", "Karabakh Foreign Minister", "Armenian Economy"]
 
 Description = """

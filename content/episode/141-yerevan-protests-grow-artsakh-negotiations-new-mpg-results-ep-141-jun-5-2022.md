@@ -1,4 +1,3 @@
-
 +++
 
 title = "Armenian News: Yerevan Protests Grow | Artsakh Negotiations | New MPG Poll | Ep #141 - Jun 5, 2022"
@@ -6,11 +5,12 @@ date = 2022-06-07T17:33:15
 draft = false
 explicit = "no"
 
-aliases = ["/141"]
 author = "Armenian News Network - Groong"
 episode = "141"
+aliases = ["/141"]
 episode_image = "img/episode/default.jpg"
 episode_banner = "img/episode/default-banner.jpg"
+hosts = ["hovik", "asbed"]
 guests = ["bpoghosyan"]
 images = ["img/episode/default-social.jpg"]
 podcast_duration = "0:45:55"
@@ -19,6 +19,7 @@ podcast_file = "10755487-yerevan-protests-grow-artsakh-negotiations-new-mpg-resu
 youtube = "3dPI9vsw6nk"
 truncate = ""
 series = ["WIR"]
+Tags = ["Artsakh", "Armenia", "Politics", "Poll"]
 upcoming = false
 Description = """Armenian News Network/Groong Week in Review - June 5, 2022
 
@@ -38,9 +39,7 @@ Host:
 
 Hovik Manucharyan TW/@HovikYerevan
 Asbed Bedrossian TW/@qubriq
-Episode 141 | Recorded: Monday, June 6, 2022
-Website: https://groong.org/podcasts/WiR-20220605.html
-"""
+Episode 141 | Recorded: Monday, June 6, 2022"""
 
 +++
 

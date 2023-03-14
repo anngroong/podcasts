@@ -15,9 +15,9 @@ episode = "237"
 aliases = ["/237"]
 youtube = "_GK3BKtn7mE"
 
-series = ["cog"]
-categories = ["Armenia", "Artsakh", "Politics"]
-tags = ["Hrant Mikaelian", "Arayik Harutyunyan", "Samvel Babayan", "Ruben Vardanyan", "Armen Grigoryan", "Toivo Klaar", "Hikmet Hajiyev", "Tigran Abrahamyan", "Armenia", "Azerbaijan", "Georgia", "South Caucasus", "Turkey", "Russia", "Corridors", "Borders", "Peace Negotiations", "United States", "EU", "European Union", "CSTO", "Baku", "Foreign Agents Registration Act", "FARA", "Foreign Agent", "Amulsar", "corruption"]
+series = ["wir"]
+categories = ["Armenia", "Artsakh", "Politics", "Poll"]
+tags = ["Hrant Mikaelian", "Arayik Harutyunyan", "Samvel Babayan", "Ruben Vardanyan", "Armen Grigoryan", "Toivo Klaar", "Hikmet Hajiyev", "Tigran Abrahamyan", "Armenia", "Azerbaijan", "Georgia", "South Caucasus", "Turkey", "Russia", "Corridors", "Borders", "Peace Negotiations", "United States", "EU", "European Union", "CSTO", "Baku", "Foreign Agents Registration Act", "FARA", "Foreign Agent", "Amulsar", "corruption", "MPG", "Gallup International"]
 title = "Armenia Azerbaijan Negs | Georgia Opposition | MPG Poll | Ep 237 "
 subtitle = "Armenian News Network Groong - Mar 5, 2023"
 Description = """
@@ -72,15 +72,12 @@ Following the Azeri shootings of three Artsakh policemen and wounding of another
 
 * Who is Grigoryan’s intended audience? Is this statement intended for the domestic audience, or Azerbaijan, or The West?
 * What does “some progress” mean? Does Grigoryan’s statement indicate a shift in Armenia’s negotiation strategy, or tactics? Or is this just posturing?
-* ~~How is Azerbaijan likely to receive this response, and what may be the symptoms, or evidence of their reaction to this?~~
-    * ~~Note: Aliyev’s usual m.o. Is, when they don’t like Armenia’s actions, to escalate their aggression and instigate violence.~~
 
 In response to today’s and previous Armenian statements about so-called “internationally visible” mechanisms for ensuring security, Hikmet Hajiyev, Ilham Aliyev’s assistant, [responded](https://report.az/ru/vneshnyaya-politika/hikmet-gadzhiev-armeniya-ne-hochet-zaklyucheniya-mirnogo-dogovora-i-pytaetsya-vyigrat-vremya/): “Azerbaijan will not discuss issues related to its sovereignty with any third parties, including the Republic of Hayastan.”
 
 **Questions**:
 
 * So what now?
-
 
 ### Armenia Downgrades Relations with CSTO
 
@@ -120,36 +117,32 @@ Meanwhile, there were also more peaceful protests in Moldova from the opposition
 
 Questions:
 
-
-
 * Why did the opposition in Georgia succeed in making the government back down, while the opposition in Armenia didn’t?
 
-
-## MPG Poll
-
+## MPG/Gallup International Poll
 
 ### Perception of change in corruption since 2018
 
-[Corruption](img/episode/237/1_Corruption.png)
+![Corruption](/img/episode/237/1_Corruption.png "Perception of change in corruption since 2018")
 
 ### Perceptions on aid to Syria and Turkey
 
-[Aid To Syria and Turkey](img/episode/2_Aid_Syria_Turkey.png)
+![Aid To Syria and Turkey](/img/episode/237/2_Aid_Syria_Turkey.png "Perceptions on aid to Syria and Turkey")
 
 ### Low level of support in institutions and media and the police
 
-[Institutions](img/episode/3_Institutions.png)
+![Institutions](/img/episode/237/3_Institutions.png "support in institutions and media and the police")
 
 ### Trust in Pashinyan about the Fire in Military Barracks (>70% no trust)
 
-[Institutions](img/episode/3_Institutions.png)
+![Fire in the Barracks](/img/episode/237/4_Fire_Barracks.png "Trust in Pashinyan about the Fire in Military Barracks")
 
+### Change in perception about exploiting Amulsar
+
+![Change in Amulsar perceptions](/img/episode/237/5_Amulsar.png "Change in perception about exploiting Amulsar")
 
 Alright, we’ll leave it there for today! Thank you everyone!
-
 
 # Wrap-up
 
 We hope you found our [Week in Review](https://podcasts.groong.org/) helpful. We invite your feedback and your suggestions, you can [find us](https://linktr.ee/groong) on most social media and podcast platforms. Thanks to Laura Osborn for the music on our podcasts.
-
-

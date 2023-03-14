@@ -1,4 +1,3 @@
-
 +++
 
 title = "Armenian News: Opposition | Brussels | Alison | Economy | Poll | Artsakh | Ep #132 - Apr 10, 2022"
@@ -11,15 +10,15 @@ author = "Armenian News Network - Groong"
 episode = "132"
 episode_image = "img/episode/default.jpg"
 episode_banner = "img/episode/default-banner.jpg"
+hosts = ["hovik","asbed"]
 guests = ["ameuse"," hmikaelian"]
 images = ["img/episode/default-social.jpg"]
 podcast_duration = "1:34:40"
 podcast_bytes = 68213525
 podcast_file = "10426796-opposition-brussels-alison-update-war-economy-new-poll-artsakh-ep-132-apr-10-2022.mp3"
 youtube = "xuIZ-ZYdUwM"
-truncate = ""
 series = ["WIR"]
-upcoming = false
+Tags = ["Artsakh", "Armenia", "Politics", "Poll"]
 Description = """Armenian News Network/Groong Week in Review - April 10, 2022
 
 Topics:

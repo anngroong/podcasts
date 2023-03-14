@@ -22,7 +22,7 @@ aliases = ["/224"]
 explicit = "no"
 
 series = ["wir"]
-categories = ["Armenia", "Politics"]
+categories = ["Armenia", "Politics", "Poll"]
 tags = ["Benyamin Poghosyan", "Armenia", "Artsakh", "Nagorno Karabakh", "Azerbaijan", "Artsakh Blockade", "South Caucasus", "Earthquake", "Turkey", "Syria", "Erdogan", "Sergey Lavrov", "Russia", "Borders", "Nikol Pashinyan", "MPG Poll", "Peace Negotiations", "United States", "Iran", "EU", "European Union"]
 
 Description = """

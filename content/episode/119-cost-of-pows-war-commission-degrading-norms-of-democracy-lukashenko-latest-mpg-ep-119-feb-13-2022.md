@@ -1,4 +1,3 @@
-
 +++
 
 title = "POWs | War Commission | Degrading Democracy | Lukashenko | MPG poll | Ep #119 - Feb 13, 2022"
@@ -11,6 +10,7 @@ author = "Armenian News Network - Groong"
 episode = "119"
 episode_image = "img/episode/default.jpg"
 episode_banner = "img/episode/default-banner.jpg"
+hosts = ["hovik","asbed"]
 guests = ["bpoghosyan"]
 images = ["img/episode/default-social.jpg"]
 podcast_duration = "1:22:25"
@@ -20,6 +20,7 @@ youtube = "xScL5XrsPFY"
 truncate = ""
 series = ["WIR"]
 upcoming = false
+Tags = ["Artsakh", "Armenia", "Politics", "Poll"]
 Description = """ANN/Groong Week in Review - February 13, 2022
 
 Topics:

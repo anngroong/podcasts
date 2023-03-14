@@ -11,15 +11,15 @@ images = ["img/episode/213/banner-213.png"]
 #upcoming = true # set to true if you want this to be listed as upcoming, etc, etc
 
 hosts = ["hovik"]
-guests = ["mhakobyan"]
+guests = ["metaxehakobyan"]
 episode = "213"
 aliases = ["/213"]
 youtube = "mBXdCOJrRb0"
 explicit = "no" # values are "yes" or "no"
 
 series = ["cog"]
-categories = ["Artsakh", "politics"]
-tags = [ "Metaxe Hakobyan", "Metakse Hakobyan", "Artsakh", "Blockade", "Lachin", "Lachin Corridor", "Berdzor", "Berdzor Corridor", "Ilham Aliyev", "Azerbaijan", "Armenia", "Nagorno Karabakh", "Berdzor", "Հակոբ Հակոբյան", "Հայաստան", "Արցախ", "Լեռնային Ղարաբաղ", "Բերձոր", "Լաչին", "Ադրբեջան"]
+categories = ["Artsakh", "politics", "In Armenian"]
+tags = ["Metaxe Hakobyan", "Metakse Hakobyan", "Artsakh", "Blockade", "Lachin", "Lachin Corridor", "Berdzor", "Berdzor Corridor", "Ilham Aliyev", "Azerbaijan", "Armenia", "Nagorno Karabakh", "Berdzor", "Հակոբ Հակոբյան", "Հայաստան", "Արցախ", "Լեռնային Ղարաբաղ", "Բերձոր", "Լաչին", "Ադրբեջան"]
 title = "Metaxe Hakobyan: Blockade of Artsakh Day 41"
 subtitle = "Armenian News Network Groong - Jan 21, 2023"
 Description = """

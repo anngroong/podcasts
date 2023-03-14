@@ -1,4 +1,3 @@
-
 +++
 
 title = "Armenia-Russia | Iran-Russia/Iran-Armenia | Election Latest Polls | Sargsyan (Ep #60) - May 2, 2021"
@@ -6,9 +5,9 @@ date = 2021-05-03T01:27:16
 draft = false
 explicit = "no"
 
-aliases = ["/60"]
 author = "Armenian News Network - Groong"
 episode = "60"
+aliases = ["/60"]
 episode_image = "img/episode/default.jpg"
 episode_banner = "img/episode/default-banner.jpg"
 guests = ["mmanucharyan","pshakarian"]
@@ -17,9 +16,8 @@ podcast_duration = "0:53:55"
 podcast_bytes = 38866244
 podcast_file = "8448365-armenia-russia-iran-russia-iran-armenia-election-latest-polls-sargsyan-ep-60-may-2-2021.mp3"
 youtube = "uX-cJvWm8qE"
-truncate = ""
 series = ["WIR"]
-upcoming = false
+tags = ["Armenia", "Politics", "Poll"]
 Description = """ANN/Groong Week in Review - May 2, 2021
 
 Topics:
@@ -36,9 +34,7 @@ Hosts:
 - Asbed Bedrossian @qubriq
 - Hovik Manucharyan @HovikYerevan
 
-Episode 60 | Recorded: May 2, 2021
-Website: https://groong.org/podcasts/WiR-20210502.html
-"""
+Episode 60 | Recorded: May 2, 2021"""
 
 +++
 

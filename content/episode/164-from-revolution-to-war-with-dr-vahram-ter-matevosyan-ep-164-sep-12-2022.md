@@ -11,6 +11,7 @@ author = "Armenian News Network - Groong"
 episode = "164"
 episode_image = "img/episode/default.jpg"
 episode_banner = "img/episode/default-banner.jpg"
+hosts = ["hovik", "asbed"]
 guests = ["vtermatevosyan"]
 images = ["img/episode/default-social.jpg"]
 podcast_duration = "1:01:29"
@@ -19,6 +20,7 @@ podcast_file = "11308976-from-revolution-to-war-with-dr-vahram-ter-matevosyan-ep
 youtube = "9RvrWlemc9k"
 truncate = ""
 series = ["COG"]
+tags = ["Artsakh", "Armenia", "Politics"]
 upcoming = false
 Description = """From ‘revolution’ to war: deciphering Armenia’s populist foreign policy-making process
 Conversation with Dr. Vahram Ter-Matevosyan

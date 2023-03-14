@@ -6,11 +6,12 @@ date = 2022-01-26T17:10:56
 draft = false
 explicit = "no"
 
-aliases = ["/114"]
 author = "Armenian News Network - Groong"
 episode = "114"
+aliases = ["/114"]
 episode_image = "img/episode/default.jpg"
 episode_banner = "img/episode/default-banner.jpg"
+hosts = ["hovik","asbed"]
 guests = ["pshakarian"]
 images = ["img/episode/default-social.jpg"]
 podcast_duration = "0:58:27"
@@ -19,6 +20,7 @@ podcast_file = "9955086-president-resigns-ukraine-standoff-vahan-kerobyan-min-of
 youtube = "FFiC_lt_pDU"
 truncate = ""
 series = ["WIR"]
+Tags = ["Artsakh", "Armenia", "Politics", "Poll"]
 upcoming = false
 Description = """ANN/Groong Week in Review - January 23, 2022
 
@@ -37,7 +39,6 @@ Hosts:
 
 Episode 114 | Recorded: Sunday, January 25, 2022
 
-https://groong.org/podcasts/WiR-20220123.html
 """
 
 +++

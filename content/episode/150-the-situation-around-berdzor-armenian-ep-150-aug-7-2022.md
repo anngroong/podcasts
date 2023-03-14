@@ -8,15 +8,15 @@ author = "Armenian News Network - Groong"
 episode = "150"
 episode_image = "img/episode/default.jpg"
 episode_banner = "img/episode/default-banner.jpg"
+hosts = ["hovik", "asbed"]
 guests = ["hhakobyan","dgalstyan"]
 images = ["img/episode/default-social.jpg"]
 podcast_duration = "0:32:34"
 podcast_bytes = 23495252
 podcast_file = "11096231-the-situation-around-berdzor-armenian-ep-150-aug-7-2022.mp3"
 youtube = "0WXDyx93h0Y"
-truncate = ""
 series = ["COG"]
-upcoming = false
+tags = ["Artsakh", "Armenia", "Politics", "In Armenian"]
 Description = """The Situation Around Berdzor with Hakob Hakobyan and Davit Galstyan
 
 Իրավիճակը Բերձորի շուրջ Հակոբ Հակոբյանի և Դավիթ Գալստյանի հետ

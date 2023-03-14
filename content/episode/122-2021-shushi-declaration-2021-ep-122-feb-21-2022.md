@@ -1,4 +1,3 @@
-
 +++
 
 title = "2021 \"Shushi Declaration\" - 2021-ի «Շուշիի Հռչակագիրը» | Ep #122 - Feb 21, 2022"
@@ -11,15 +10,15 @@ author = "Armenian News Network - Groong"
 episode = "122"
 episode_image = "img/episode/default.jpg"
 episode_banner = "img/episode/default-banner.jpg"
-guests = ["mhakobyan"]
+hosts = ["hovik", "asbed"]
+guests = ["mihranhakobyan"]
 images = ["img/episode/default-social.jpg"]
 podcast_duration = "0:56:53"
 podcast_bytes = 41011552
 podcast_file = "10113707-2021-shushi-declaration-2021-ep-122-feb-21-2022.mp3"
 youtube = "qHPCV-ksxIw"
-truncate = ""
 series = ["COG"]
-upcoming = false
+Tags = ["Artsakh", "Armenia", "In Armenian", "Politics"]
 Description = """2021-ի «Շուշիի Հռչակագիրը» - The 2021 “Shushi Declaration” by Azerbaijan and Turkey
 
 A Conversation in Armenian with Mihran Hakobyan (in Armenian)

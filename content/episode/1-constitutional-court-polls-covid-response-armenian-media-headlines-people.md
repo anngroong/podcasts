@@ -21,7 +21,8 @@ podcast_bytes = "52221363"
 youtube = "JsyPnaeyGuo"
 truncate = ""
 series = ["WIR"]
-Tags = ["Emil Sanamyan", "Asbed Kotchikian", "Alen Zamanyan", "Armenian Media", "Armenian Press", "Armenia", "Azerbaijan", "Emigration", "Border skirmish"]
+Tags = ["Emil Sanamyan", "Asbed Kotchikian", "Alen Zamanyan", "Armenian Media", "Armenian Press", "Armenia", "Azerbaijan", "Emigration", "Border skirmish", "MPG"]
+Categories =["Armenia", "Artsakh", "Politics", "Poll"]
 
 upcoming = false
 Description = """

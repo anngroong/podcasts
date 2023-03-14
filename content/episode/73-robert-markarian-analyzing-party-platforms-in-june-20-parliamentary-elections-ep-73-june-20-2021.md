@@ -19,6 +19,7 @@ podcast_file = "8728915-robert-markarian-analyzing-party-platforms-in-june-20-pa
 youtube = "b9PXIAjYgjc"
 truncate = ""
 series = ["COG"]
+tags = ["In Armenian", "Armenia", "Politics"]
 upcoming = false
 Description = """Analyzing Party Platforms in June 20 Parliamentary Elections
 

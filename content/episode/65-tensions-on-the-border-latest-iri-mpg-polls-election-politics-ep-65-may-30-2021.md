@@ -17,9 +17,8 @@ podcast_duration = "0:53:12"
 podcast_bytes = 38351515
 podcast_file = "8617147-tensions-on-the-border-latest-iri-mpg-polls-election-politics-ep-65-may-30-2021.mp3"
 youtube = "M-WH0FAT4VE"
-truncate = ""
 series = ["WIR"]
-upcoming = false
+tags = ["Armenia", "Politics", "Poll"]
 Description = """ANN/Groong Week in Review - May 30, 2021
 Topics:
 * Continued Tensions on the Eastern Border
