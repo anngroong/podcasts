@@ -12,6 +12,7 @@ episode = "56"
 episode_image = "img/episode/default.jpg"
 episode_banner = "img/episode/default-banner.jpg"
 guests = ["akotchikian","esanamyan"]
+hosts = ["asbed", "hovik"]
 images = ["img/episode/default-social.jpg"]
 podcast_duration = "0:48:25"
 podcast_bytes = 34915587
@@ -19,6 +20,7 @@ podcast_file = "8273315-kocharyan-case-electoral-reforms-new-gallup-poll-ukraine
 youtube = "Lo5UhR_BKzI"
 truncate = ""
 series = ["WIR"]
+categories = ["Armenia", "Politics", "Poll"]
 upcoming = false
 Description = """ANN/Groong Week in Review - April 4, 2021
 

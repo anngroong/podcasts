@@ -19,6 +19,7 @@ podcast_file = "10041795-continuing-ukraine-crisis-vahagn-khachatryan-for-pres-n
 youtube = "FSBMviV3o6c"
 truncate = ""
 series = ["WIR"]
+categories = ["Armenia", "Politics", "Poll"]
 upcoming = false
 Description = """ANN/Groong Week in Review - February 6, 2022
 

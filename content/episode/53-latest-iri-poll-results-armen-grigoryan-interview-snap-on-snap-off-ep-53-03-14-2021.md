@@ -19,6 +19,7 @@ podcast_file = "8147871-latest-iri-poll-results-armen-grigoryan-interview-snap-o
 youtube = "fYOHW45e-Ns"
 truncate = ""
 series = ["WIR"]
+categories = ["Armenia", "Politics", "Poll"]
 upcoming = false
 Description = """𝐀𝐍𝐍/𝐆𝐫𝐨𝐨𝐧𝐠 𝐖𝐞𝐞𝐤 𝐢𝐧 𝐑𝐞𝐯𝐢𝐞𝐰 - 𝐌𝐚𝐫𝐜𝐡 𝟏𝟒, 𝟐𝟎𝟐𝟏
 
