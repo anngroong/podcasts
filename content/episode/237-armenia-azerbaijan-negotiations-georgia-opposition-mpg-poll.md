@@ -28,7 +28,7 @@ Description = """
 
 #### Topics:
 * Armenian-Azerbaijani Negotiations
-* Gergoa Opposition Protests
+* Georgia Opposition Protests
 * MPG Poll: Amoti Sar
 
 Episode 234 | Recorded: March 12, 2023"""
