@@ -4,6 +4,7 @@ Date = 2023-03-13T23:00:00+04:00
 podcast_file = "12434786-armenia-azerbaijan-negs-georgia-opposition-mpg-poll-ep-237-march-12-2023.mp3"
 podcast_duration = "3734"
 podcast_bytes = "44850273"
+youtube = "_GK3BKtn7mE"
 
 episode_image = "img/episode/237/thumbnail-237.jpg"
 episode_banner = "img/episode/237/banner-237.jpg"
@@ -13,13 +14,12 @@ hosts = ["hovik", "asbed"]
 guests = ["hmikaelian"]
 episode = "237"
 aliases = ["/237"]
-youtube = "_GK3BKtn7mE"
 
 series = ["wir"]
 categories = ["Armenia", "Artsakh", "Politics", "Poll"]
 tags = ["Hrant Mikaelian", "Arayik Harutyunyan", "Samvel Babayan", "Ruben Vardanyan", "Armen Grigoryan", "Toivo Klaar", "Hikmet Hajiyev", "Tigran Abrahamyan", "Armenia", "Azerbaijan", "Georgia", "South Caucasus", "Turkey", "Russia", "Corridors", "Borders", "Peace Negotiations", "United States", "EU", "European Union", "CSTO", "Baku", "Foreign Agents Registration Act", "FARA", "Foreign Agent", "Amulsar", "corruption", "MPG", "Gallup International"]
-title = "Armenia Azerbaijan Negs | Georgia Opposition | MPG Poll | Ep 237 "
-subtitle = "Armenian News Network Groong - Mar 5, 2023"
+title = "Armenia Azerbaijan Negotiations | Georgia Opposition | MPG Poll | Ep 237"
+subtitle = "Armenian News Network Groong - Mar 12, 2023"
 Description = """
 
 #### Guest:
@@ -27,9 +27,12 @@ Description = """
 * [Hrant Mikaelian](/guest/hmikaelian)
 
 #### Topics:
-* Armenian-Azerbaijani Negotiations
-* Georgia Opposition Protests
-* MPG Poll: Amoti Sar
+* Armenia-Azerbaijan Negotiations Continue
+    * Developments in Artsakh
+    * No “Peace” without “Rights and Security”?
+    * Armenia Downgrades CSTO Relations
+* Georgian Law on Foreign Agents
+* Reflections on MPG Poll “AmotiSar” Results
 
 Episode 234 | Recorded: March 12, 2023"""
 
