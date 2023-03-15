@@ -32,12 +32,7 @@ Description = """
 * [Johnny G. Melikian](/guest/jMelikian)
 
 #### Topics:
-
-* 35th Anniversary of the Sumgait Pogroms
-* Turkey after the Earthquake
-* One Year Anniversary of the War in Ukraine
-* Azerbaijan-Armenian Negotiations Continue
-* Personal topics
+* On March 7, the Georgian parliament voted into law a bill that would require political actors to clarify their foreign funding sources and their activities to lobby lawmakers with such funding. This ignited large protests in Tbilisi, and on March 9 the parliament agreed to rescind the law and to release arrested opposition members. We analyze the events and the outcome.
 
 
 Episode 238 | Recorded: March 15, 2023"""
