@@ -123,4 +123,4 @@ Despite what appears to be a Pashinyan political win here, according to [polls](
 
 # Wrap-up
 
-That concludes this **Conversations On Groong** episode**. **As always we invite your feedback, Thanks to Laura Osborn for the music on our podcasts. Don’t forget to subscribe to our channel on YouTube, **Like** our pages and follow us on Twitter. On behalf of everyone in this episode, we wish you a good week, thanks for listening and we’ll talk to you soon.
+That concludes this **Conversations On Groong** episode**. **As always we invite your feedback, Thanks to Laura Osborn for the music on our podcasts. Don’t forget to subscribe to us on YouTube, Twitter, and Facebook.
