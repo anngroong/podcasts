@@ -16,7 +16,7 @@ episode_banner = "img/episode/238/banner-238.png"
 images = ["img/episode/238/banner-238.png"]
 
 hosts = ["hovik","asbed"]
-guests = ["jMelikian"]
+guests = ["jmelikian"]
 episode = "238"
 aliases = ["/238"]
 explicit = "no"
