@@ -1,7 +1,7 @@
 +++
 
 Date = 2023-02-28T23:15:00-07:00
-upcoming = false
+upcoming = true
 
 title = "Johnny Melikian on the Georgia Law on Foreign Agents, Protests and Outcome| Ep 238 - March 15, 2023"
 subtitle = "Armenian News Network Groong - March 15, 2023"
@@ -16,7 +16,7 @@ episode_banner = "img/episode/238/banner-238.png"
 images = ["img/episode/238/banner-238.png"]
 
 hosts = ["hovik","asbed"]
-guests = ["jMelikian"]
+guests = ["jmelikian"]
 episode = "238"
 aliases = ["/238"]
 explicit = "no"
@@ -29,7 +29,7 @@ Description = """
 
 #### Guest:
 
-* [Johnny G. Melikian](/guest/jMelikian)
+* [Johnny G. Melikian](/guest/jmelikian)
 
 #### Topics:
 * On March 7, the Georgian parliament voted into law a bill that would require political actors to clarify their foreign funding sources and their activities to lobby lawmakers with such funding. This ignited large protests in Tbilisi, and on March 9 the parliament agreed to rescind the law and to release arrested opposition members. We analyze the events and the outcome.
