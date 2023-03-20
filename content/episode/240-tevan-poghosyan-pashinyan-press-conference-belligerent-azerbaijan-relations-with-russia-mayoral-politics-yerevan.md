@@ -32,9 +32,12 @@ Description = """
 
 
 #### Topics:
-* TBD
+* Pashinyan’s Press Conference
+* Negotiating with Belligerent Azerbaijan
+* Mirzoyan in Moscow
+* Mayoral Politics in Yerevan
 
-Episode 240 | Recorded: March 19, 2023"""
+Episode 240 | Recorded: March 20, 2023"""
 
 +++
 
