@@ -1,14 +1,14 @@
 +++
 Date = 2023-03-19T23:00:00+04:00
-upcoming = true
+upcoming = false
 
 title = "Artsakh Blockade Flash Update with Gev Iskajyan - Ep 239, Mar 19, 2023"
 subtitle = "Armenian News Network Groong - Mar 19, 2023"
 
-podcast_file = ""
-podcast_bytes = ""
-podcast_duration = ""
-youtube = ""
+podcast_file = "12472618-artsakh-blockade-flash-update-with-gev-mar-19-2023.mp3"
+podcast_bytes = "8379844"
+podcast_duration = "694"
+youtube = "uCcfyxQGRuQ"
 
 episode_image = "img/episode/239/thumbnail-239.jpg"
 episode_banner = "img/episode/239/banner-239.png"
