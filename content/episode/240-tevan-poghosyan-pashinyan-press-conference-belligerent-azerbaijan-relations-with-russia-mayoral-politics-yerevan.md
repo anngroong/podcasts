@@ -15,7 +15,7 @@ episode_image = "img/episode/240/thumbnail-240.png"
 episode_banner = "img/episode/240/banner-240.png"
 images = ["img/episode/240/banner-240.png"]
 
-title = "Pashinyan Press Conf | Belligerent Azerbaijan | Mirzoyan in Moscow | Yerevan Mayor |  Ep 240 - Mar 19, 2023"
+title = "Pashinyan Press Conference | Belligerent Azerbaijan | Mirzoyan in Moscow | Yerevan Mayor |  Ep 240 - Mar 19, 2023"
 subtitle = "ANN Groong Week in Review - 03/19/2023"
 
 guests = ["tpoghosyan"]
@@ -23,7 +23,7 @@ hosts = ["hovik","asbed"]
 
 series = ["wir"]
 categories = ["Armenia", "Artsakh", "Politics"]
-tags = ["Tevan Poghosyan", "Armenia", "Artsakh", "Nagorno Karabakh", "Azerbaijan", "Nikol Pashinyan", "Press Conference", "South Caucasus", "Peace Treaty", "Agenda of Peace", "Era of Peace", "No Peace", "Russia", "Ararat Mirzoyan", "Moscow", "Sergey Lavrov", "Maria Zakharova", "Zangezur Corridor", "Artsakh Blockade", "Syunik", "Gegharkunik", "Hrachya Sargsyan", "Yerevan", "Mayor", "Civil Contract", "Russian Peacekeepers", "Rights and Security"]
+tags = ["Tevan Poghosyan", "Armenia", "Artsakh", "Nagorno Karabakh", "Azerbaijan", "Nikol Pashinyan", "Press Conference", "Peace Treaty", "Agenda of Peace", "Era of Peace", "No Peace", "Russia", "Ararat Mirzoyan", "Moscow", "Sergey Lavrov", "Maria Zakharova", "Zangezur Corridor", "Artsakh Blockade", "Syunik", "Gegharkunik", "Hrachya Sargsyan", "Yerevan", "Mayor", "Civil Contract", "Russian Peacekeepers", "Rights and Security", "Ruben Vardanyan", "Capitulation", "Corruption", "Aravot", "Hacking", "Taguhi Tovmasyan", "Iran"]
 
 Description = """
 
@@ -95,7 +95,7 @@ Azerbaijan has not returned Armenian POWs, they have not stayed on the Nov. 2020
 
 So we’re deducing that Pashinyan is now trying to mend its relations with Moscow because otherwise, if and when Azerbaijan attacks, in the absence of any real investment and rearming of the Armenian armed forces, there is no alternative to the Russians.
 
-**Questions:**
+**Question:**
 * Why is Mirzoyan headed for Moscow, and what do you think he’ll be discussing?
 
 
