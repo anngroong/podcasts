@@ -15,7 +15,7 @@ episode_image = "img/episode/240/thumbnail-240.png"
 episode_banner = "img/episode/240/banner-240.png"
 images = ["img/episode/240/banner-240.png"]
 
-title = "Tevan Poghosyan | Topics | Ep 240 - March 19, 2023"
+title = "Pashinyan Press Conf | Belligerent Azerbaijan | Mirzoyan in Moscow | Yerevan Mayor |  Ep 240 - Mar 19, 2023"
 subtitle = "ANN Groong Week in Review - 03/19/2023"
 
 guests = ["tpoghosyan"]
