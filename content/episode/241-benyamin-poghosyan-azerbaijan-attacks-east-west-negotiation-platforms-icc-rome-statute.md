@@ -107,10 +107,7 @@ The west has been floating the Pashinyan government since it came to power. Arme
 
 So the warnings from The West have become pretty strident, that going back to Moscow is not part of the plan for Pashinyan. He [tweeted](https://twitter.com/NikolPashinyan/status/1638885920907616256) before the weekend that:
 
-    There will be a #peace treaty between #Armenia and #Azerbaijan, and it will be based on the joint official statements adopted at the highest level. There won’t be а new escalation! The international community must strongly support this narrative.
-
-
-    _There will be a #[peace](https://twitter.com/hashtag/peace?src=hashtag_click) treaty between #[Armenia](https://twitter.com/hashtag/Armenia?src=hashtag_click) and #[Azerbaijan](https://twitter.com/hashtag/Azerbaijan?src=hashtag_click), and it will be based on the joint official statements adopted at the highest level. There won’t be а new escalation! The international community must strongly support this narrative._
+    _There will be a [#peace](https://twitter.com/hashtag/peace) treaty between [#Armenia](https://twitter.com/hashtag/Armenia) and [#Azerbaijan](https://twitter.com/hashtag/Azerbaijan), and it will be based on the joint official statements adopted at the highest level. There won’t be а new escalation! The international community must strongly support this narrative._
 
 **Questions:**
 * What is the source of Pashinyan’s confidence?
