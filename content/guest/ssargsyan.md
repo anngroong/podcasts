@@ -17,4 +17,4 @@ Twitch = ""
 #guest_group = "wir"
 +++
 
-Suren Sargsyan, who is the founder and President at the Armenian Center for American Studies, a research center based in Yerevan.
+Suren Sargsyan is the founder and President at the Armenian Center for American Studies, a research center based in Yerevan.
