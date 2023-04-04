@@ -50,15 +50,8 @@ In Armenia, on March 30 (or before), another move [aimed](https://www.azatutyun.
 
 The strategic heights in Armenia, which Azerbaijan occupied without firing a single shot, have allowed the Azerbaijani troops to come extremely close to the road that the Armenian government is now building to replace the previous one and control nearby territory. Cartographer Rouben Galichian meanwhile [says](https://www.youtube.com/watch?v=F4D90T6v6uY) that the newly constructed road has been built in such a way as to cross into and out of Azerbaijan. This could give Azerbaijan the pretense to disrupt the communications even on the new road.
 
-
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![Source: Galichian on Shant News](/img/episode/242/Galichian-map.jpeg "Rouben Galichian on Shant News")
-![Source: Galichian on Shant News](/img/episode/242/Galichian-map-details.png "Rouben Galichian on Shant News")
-
-
+![Source: Rouben Galichian on Shant News](/img/episode/242/Galichian-map.jpeg "Rouben Galichian on Shant News")
+![Source: Rouben Galichian (detail) on Shant News](/img/episode/242/Galichian-map-detail.png "Rouben Galichian (detail) on Shant News")
 Rouben Galichian on Shant News
 
 Hrant Bagratian, former prime minister of Armenia, [believes](https://www.youtube.com/watch?v=pFJFTQD71fc) that Aliyev intends to establish a checkpoint first Azerbaijani segment, thereby bypassing the zone of responsibility of Russian peacekeepers. 
@@ -89,7 +82,7 @@ While the borders of Armenia are experiencing all sorts of instability, and sold
 
 Armenia [declined](https://www.azatutyun.am/a/32342172.html) to fully endorse the summit declaration and join other states at the summit in condemning the Russian invasion of Ukraine.
 
-**Question:**
+**Questions:**
 * Was this a plus for Armenian diplomacy?
 * Is Armenia reaping any benefits from this summit? What was achieved with Pashinyan’s presence at the event?
 
@@ -138,7 +131,7 @@ Alright, let’s wrap up our topics here. I’d like to ask each of you if there
 ## Topics from the Panelists
 1. **Hovik** - Garen Megerditchian assaulted by Alen Simonyan.
     b. Suren Sargsyan’s new book “Մի կյանքից ավելի”.
-2. **Suren** - “[Մի կյանքից ավելի](https://newmag.am/book/more-than-a-lifetime)” - meaning “More than A Lifetime” available on [Newmag.am](https://newmag.am), and the operation to bring Monte Melkonian to Armenia.
+2. **Suren** - “[Մի կյանքից ավելի](https://newmag.am/book/more-than-a-lifetime)” - meaning “More than A Lifetime” is Suren's new book about his father, Armen Sargsyan's work during the years of independence, and the operation to bring Monte Melkonian to Armenia. It is available on [Newmag.am](https://newmag.am).
 
 
 # Wrap-up
