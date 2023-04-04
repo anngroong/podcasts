@@ -30,7 +30,7 @@ Description = """
 * [Suren Sargsyan](/guest/ssargsyan)
 
 #### Topic:
-* Azerbaijan Tactical Advances
+* Azerbaijan Invades, Pashinyan "Explains"
 * Armenia at the Democracy Summit
 * Armenia and the Rome Statute
 * Iran FM in Moscow, Azeri FM in Israel
