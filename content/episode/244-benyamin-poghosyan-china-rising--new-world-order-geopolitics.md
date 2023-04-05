@@ -1,15 +1,15 @@
 +++
 
 Date = 2023-04-05T00:15:00-07:00
-upcoming = true
+upcoming = false
 
 title = "Benyamin Poghosyan - China Emerging on the Global Stage | Ep 244 - April 5, 2023"
 subtitle = "Armenian News Network Groong - April 5, 2023"
 
-podcast_file = ""
-podcast_bytes = ""
-podcast_duration = ""
-youtube = ""
+podcast_file = "12597305-benyamin-poghosyan-china-emerging-on-the-global-stage-ep-244-apr-5-2023.mp3"
+podcast_bytes = "36258476"
+podcast_duration = "3018"
+youtube = "J17KwIKL8wg"
 
 episode_image = "img/episode/244/thumbnail-244.jpg"
 episode_banner = "img/episode/244/banner-244.png"
@@ -32,7 +32,14 @@ Description = """
 * [Benyamin Poghosyan](/guest/bpoghosyan)
 
 #### Topics:
-*
+
+* What agreements were reached between China and Russia?
+* What is the role of India in the new world order?
+* Consequence of moving away from a dollar-denominated global economic order?
+* China as peacemaker in Ukraine
+* China as peacemaker in the Middle East
+* China's role in Iran and South Caucasus
+* How should Armenia navigate world order changes?
 
 Episode 244 | Recorded: April 5, 2023"""
 
@@ -71,4 +78,3 @@ In fact, Iran’s FM Abdollahian was in Moscow last week and the two countries a
 # Wrap-up
 
 That concludes this **Conversations On Groong** episode**. **As always we invite your feedback, Thanks to Laura Osborn for the music on our podcasts. Don’t forget to subscribe to us on YouTube, Twitter, and Facebook.
-
