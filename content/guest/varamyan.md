@@ -17,4 +17,4 @@ Twitch = ""
 #guest_group = "cog"
 +++
 
-Mr. Vardan Aramyan is a former Minister of Finance of the Republic of Armenia, serving from 2016-2018. He is currently Senior VP of Finance and Economy at Vallex Group in Yerevan.
+Vardan Aramyan is a former Minister of Finance of the Republic of Armenia, serving from 2016-2018. He is currently Senior VP of Finance and Economy at Vallex Group in Yerevan.
