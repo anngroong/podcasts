@@ -1,6 +1,6 @@
 +++
 Date = 2022-11-16T04:45:01+04:00
-title = "Naira Hayk Melikyan"
+title = "Naira Melikyan"
 Pronouns = ""
 Twitter = ""
 Website = ""
@@ -17,4 +17,4 @@ Twitch = ""
 #guest_group = "wir"
 +++
 
-Naira Melikyan is an activist mother in Armenia. Since her son was was martyred in the 44-day war in 2020, she has fought for the rights of parents and relatives of Armenian fallen soldiers.
+Naira Melikyan is an activist mother in Armenia. Since her son, Hayk Melikyan, was was martyred in the 44-day war in 2020, she has fought for the rights of parents and relatives of Armenian fallen soldiers.
