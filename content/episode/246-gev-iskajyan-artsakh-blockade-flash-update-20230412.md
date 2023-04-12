@@ -34,15 +34,7 @@ Armenian News Network Groong - April 12, 2023
 * [Gev Iskajyan](/guest/giskajyan)
 
 #### Topics:
-* The Current Living Conditions
-    * Complete gas cutoff for 2 weeks
-    * Weather clearing, rolling blackouts alleviate
-* Young farmer [hits landmine](https://armenpress.am/eng/news/1107913.html)
-* Azeris Tighten Blockade on March 25
-* Situation with the Sarsang Reservoir
-* Artsakh FM [meets](https://armenpress.am/eng/news/1107631.html) French Delegation in Yerevan
-    * What do Western Statements mean to us?
-    * What do they signal to Azerbaijan?
+* TBD
 
 Episode 246 | Recorded: April 12, 2023"""
 
