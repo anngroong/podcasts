@@ -34,15 +34,14 @@ Armenian News Network Groong - April 12, 2023
 * [Gev Iskajyan](/guest/giskajyan)
 
 #### Topics:
-* Azeri Aggressions of April 11 near Tegh
-* Effect on the Blockade of the Lachin/Berdzor corridor
+* April 11 [Azeri Aggression](https://www.azatutyun.am/a/32359161.html) near Tegh
     * What Agency does Artsakh have in keeping links open?
-* Bothsidism of EU and Russia in the face of Azeri Aggression
+* Bothsidism of [EU](https://armenpress.am/eng/news/1108515.html) and [Russia](https://armenpress.am/eng/news/1108511.html) in the face of Azeri Aggression
 * Who is to Blame for the Continuing Losses in Armenian Life?
-* Reactions of the Armenian Government
+* Reaction of the Armenian Government
 * About the EU Mission and its Role and Effectiveness
-* Stepanakert Invites Baku to Talks
-* Artsakh Farmers to Work in Russian Presence
+* Stepanakert [invites](https://www.azatutyun.am/a/32359288.html) Baku to talks
+* Artsakh Farmers [Urged](https://armenpress.am/eng/news/1108404.html) to work in Russian Presence
 
 Episode 246 | Recorded: April 12, 2023"""
 
