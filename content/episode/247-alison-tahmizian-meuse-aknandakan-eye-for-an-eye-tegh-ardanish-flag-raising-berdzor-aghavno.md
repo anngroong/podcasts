@@ -1,7 +1,7 @@
 +++
 
 Date = 2023-04-14T00:15:00-07:00
-upcoming = true
+upcoming = false
 
 title = "Raising Flags: Alison on Recent Events in Tegh and Across Armenia | Ep 247 - Apr 14, 2023"
 subtitle = "Armenian News Network Groong - April 14, 2023"
