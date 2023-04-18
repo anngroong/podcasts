@@ -41,14 +41,11 @@ Episode 248 | Recorded: April 16, 2023"""
 
 +++
 
-# Discussion
-
 ## Introduction to Anna Kostanyan
 
 Ms. Kostanyan, since this is your first time on our show let us take a couple of minutes to introduce you to our listeners.
 
 **Questions:**
-
 * What drew you to politics?
     * What are your goals in politics? What do you hope to achieve, both for yourself as well as for our country?
 * What is your current relationship with Bright Armenia?
@@ -81,8 +78,7 @@ For example, the very recent case of parliament speaker Alen Simonyan allegedly 
 
 None of these have seen any action or follow-through by the ministry of justice.
 
-**Questions:**
-
+**Question:**
 * Can you share your thoughts on the state of the justice department under this administration?
 
 ## Azeri Attacks and Infiltrations into Armenia
@@ -109,17 +105,14 @@ A month ago on March 17, Hrachya Sargsyan [resigned](https://www.azatutyun.am/a/
 Anna, you have been a candidate for member of the Yerevan city council.
 
 **Questions:**
-
 * Can you describe the politics of the Council of Elders (Avagani) in this case and what the residents of Yerevan can expect?
 
-Alright, let’s wrap up our topics here. I’d like to ask each of you if there’s been something on your mind this past week that you want to talk about.
 
 ## Topics from the Panelists
 
-1. **Anna - **Calling on all Armenians to understand and realize the gravity of the danger the nation is facing.
-2. **Hovik - **On the Azerbaijani flag burning at the EWW event in Yerevan.
+1. __Anna -__ Calling on all Armenians to understand and realize the gravity of the danger the nation is facing.
+2. __Hovik -__ On the Azerbaijani flag burning at the EWW event in Yerevan.
 
-Alright, we’ll leave it there for today! Thank you everyone!
 
 # Wrap-up
 
