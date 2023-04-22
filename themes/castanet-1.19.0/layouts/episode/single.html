@@ -123,9 +123,9 @@
                   <div class="col-md-3">
                     {{- if and (isset .Params "thumbnail") (ne .Params.thumbnail "") -}}
                       {{- if (eq (slicestr .Params.thumbnail 0 4) "http") -}}
-                        <img alt="{{ .Title }}" src="{{ .Params.thumbnail }}" class="img-fluid" width="250px">
+                        <img alt="{{ .Title }}" src="{{ .Params.thumbnail }}" loading="lazy" class="img-fluid" width="250px">
                         {{- else -}}
-                        <img alt="{{ .Title }}" src="{{ .Params.thumbnail | absURL}}" class="img-fluid" width="250px">
+                        <img alt="{{ .Title }}" src="{{ .Params.thumbnail | absURL}}" loading="lazy" class="img-fluid" width="250px">
                       {{- end -}}
                       {{- else -}}
                       <img alt="{{ .Title }}" src="{{ "img/guest/default-guest.png" | absURL }}" class="img-fluid" width="250px"/>
