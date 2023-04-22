@@ -10,7 +10,7 @@ podcast_duration = "439"
 podcast_bytes = "5323557"
 youtube = "50pLZ6tAR5M"
 
-episode_image = "img/episode/211/thumbnail-211.jpg"
+episode_image = "img/episode/211/thumbnail-211.png"
 episode_banner = "img/episode/211/banner-211.png"
 images = ["img/episode/211/banner-211.png"]
 

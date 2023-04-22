@@ -11,7 +11,7 @@ youtube = "khu72d_Qd_A"
 episode = "240"
 aliases = ["/240"]
 
-episode_image = "img/episode/240/thumbnail-240.jpg"
+episode_image = "img/episode/240/thumbnail-240.png"
 episode_banner = "img/episode/240/banner-240.png"
 images = ["img/episode/240/banner-240.png"]
 

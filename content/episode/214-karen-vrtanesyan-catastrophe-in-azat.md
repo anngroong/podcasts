@@ -5,7 +5,7 @@ podcast_file = "12097481-karen-vrtanesyan-catastrophe-in-azat-ep-214-january-22-
 podcast_duration = "1843"
 podcast_bytes = "22157673"
 
-episode_image = "img/episode/214/thumbnail-214.jpg"
+episode_image = "img/episode/214/thumbnail-214.png"
 episode_banner = "img/episode/214/banner-214.png"
 images = ["img/episode/214/banner-214.png"]
 

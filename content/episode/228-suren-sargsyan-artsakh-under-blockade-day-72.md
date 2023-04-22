@@ -5,7 +5,7 @@ podcast_file = "12300479-suren-sargsyan-artsakh-under-blockade-day-72-ep-228-feb
 podcast_duration = "2223"
 podcast_bytes = "26733353"
 
-episode_image = "img/episode/228/thumbnail-228.jpg"
+episode_image = "img/episode/228/thumbnail-228.png"
 episode_banner = "img/episode/228/banner-228.png"
 images = ["img/episode/228/banner-228.png"]
 

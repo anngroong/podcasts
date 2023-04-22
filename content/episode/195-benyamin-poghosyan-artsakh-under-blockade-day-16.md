@@ -5,7 +5,7 @@ podcast_file = "11937973-benyamin-poghosyan-artsakh-under-blockade-day-16-ep-195
 podcast_duration = "1590"
 podcast_bytes = "19125750"
 
-episode_image = "img/episode/195/thumbnail-195.jpg"
+episode_image = "img/episode/195/thumbnail-195.png"
 episode_banner = "img/episode/195/banner-195.png"
 images = ["img/episode/195/banner-195.jpg"]
 upcoming = false
