@@ -6,8 +6,8 @@ podcast_duration = "1843"
 podcast_bytes = "22157673"
 
 episode_image = "img/episode/214/thumbnail-214.webp"
-episode_banner = "img/episode/214/banner-214.png"
-images = ["img/episode/214/banner-214.png"]
+episode_banner = "img/episode/214/banner-214.webp"
+images = ["img/episode/214/banner-214.webp"]
 
 #upcoming = true # set to true if you want this to be listed as upcoming, etc, etc
 

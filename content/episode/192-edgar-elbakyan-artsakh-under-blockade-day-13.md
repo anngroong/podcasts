@@ -5,8 +5,8 @@ podcast_file = "11928030-edgar-elbakyan-artsakh-under-blockade-day-13-ep-192-dec
 podcast_duration = "2356"
 podcast_bytes = "28301955"
 episode_image = "img/episode/192/thumbnail-192.webp"
-episode_banner = "img/episode/192/banner-192.png"
-images = ["img/episode/192/banner-192.png"]
+episode_banner = "img/episode/192/banner-192.webp"
+images = ["img/episode/192/banner-192.webp"]
 upcoming=false
 
 guests = ["eelbakyan"]

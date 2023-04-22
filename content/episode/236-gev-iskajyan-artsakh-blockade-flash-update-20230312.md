@@ -11,8 +11,8 @@ podcast_duration = "727"
 youtube = "4AWQtGz9Jl4"
 
 episode_image = "img/episode/236/thumbnail-236.webp"
-episode_banner = "img/episode/236/banner-236.png"
-images = ["img/episode/236/banner-236.png"]
+episode_banner = "img/episode/236/banner-236.webp"
+images = ["img/episode/236/banner-236.webp"]
 
 hosts = ["asbed", "hovik"]
 guests = ["giskajyan"]

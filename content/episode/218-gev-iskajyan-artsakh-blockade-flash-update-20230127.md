@@ -11,8 +11,8 @@ podcast_bytes = "6461161"
 youtube = "zFFombfuvu4"
 
 episode_image = "img/episode/218/thumbnail-218.webp"
-episode_banner = "img/episode/218/banner-218.png"
-images = ["img/episode/218/banner-218.png"]
+episode_banner = "img/episode/218/banner-218.webp"
+images = ["img/episode/218/banner-218.webp"]
 
 hosts = ["asbed", "hovik"]
 guests = ["giskajyan","hipdjian"]

@@ -6,8 +6,8 @@ podcast_duration = "2197"
 podcast_bytes = "26413255"
 
 episode_image = "img/episode/213/thumbnail-213.webp"
-episode_banner = "img/episode/213/banner-213.png"
-images = ["img/episode/213/banner-213.png"]
+episode_banner = "img/episode/213/banner-213.webp"
+images = ["img/episode/213/banner-213.webp"]
 #upcoming = true # set to true if you want this to be listed as upcoming, etc, etc
 
 hosts = ["hovik"]

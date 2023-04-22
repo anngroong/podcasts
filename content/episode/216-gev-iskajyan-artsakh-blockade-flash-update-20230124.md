@@ -10,8 +10,8 @@ podcast_bytes = "7005152"
 youtube = "WPS4_xvRJmk"
 
 episode_image = "img/episode/216/thumbnail-216.webp"
-episode_banner = "img/episode/216/banner-216.png"
-images = ["img/episode/216/banner-216.png"]
+episode_banner = "img/episode/216/banner-216.webp"
+images = ["img/episode/216/banner-216.webp"]
 #upcoming = true 
 
 hosts = ["hovik"]

@@ -6,8 +6,8 @@ podcast_duration = "2947"
 podcast_bytes = "35412549"
 
 episode_image = "img/episode/202/thumbnail-202.webp"
-episode_banner = "img/episode/202/banner-202.png"
-images = ["img/episode/202/banner-202.png"]
+episode_banner = "img/episode/202/banner-202.webp"
+images = ["img/episode/202/banner-202.webp"]
 #upcoming = false
 
 hosts = ["hovik"]

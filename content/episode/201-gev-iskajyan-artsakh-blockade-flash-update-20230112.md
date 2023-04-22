@@ -9,8 +9,8 @@ podcast_file = "12033011-artsakh-blockade-flash-update-with-gev-jan-12-2023.mp3"
 podcast_duration = "444"
 podcast_bytes = "5375745"
 episode_image = "img/episode/201/thumbnail-201.webp"
-episode_banner = "img/episode/201/banner-201.png"
-images = ["img/episode/201/banner-201.png"]
+episode_banner = "img/episode/201/banner-201.webp"
+images = ["img/episode/201/banner-201.webp"]
 
 guests = ["giskajyan"]
 hosts = ["asbed","hovik"]

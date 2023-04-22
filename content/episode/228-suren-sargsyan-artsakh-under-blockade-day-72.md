@@ -6,8 +6,8 @@ podcast_duration = "2223"
 podcast_bytes = "26733353"
 
 episode_image = "img/episode/228/thumbnail-228.webp"
-episode_banner = "img/episode/228/banner-228.png"
-images = ["img/episode/228/banner-228.png"]
+episode_banner = "img/episode/228/banner-228.webp"
+images = ["img/episode/228/banner-228.webp"]
 
 hosts = ["hovik"]
 guests = ["ssargsyan"]
