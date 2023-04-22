@@ -95,7 +95,7 @@ disqusShortname = ""
     facebook = "groong.org"
     facebook_admin = ["500557137","1234"] # This needs to be one or more page admins to get domain insights
     twitter = "groong"
-    twitter_domain = "podcasts.groong.org" # This domain shows in twitter cards as "View on `twitter_domain`"
+    twitter_domain = "groong.org" # This domain shows in twitter cards as "View on `twitter_domain`"
     instagram = "anngroong"
     youtube = "groong"
 
@@ -130,10 +130,10 @@ disqusShortname = ""
         homepage = ""
         pinterest = ""
         instagram = ""
-        youtube = ""
+        youtube = "HovikYerevan"
         twitch = ""
 
     [params.links]
       [params.links.ado]
-        name = "Armenian news Network/Groong"
+        name = "Armenian News Network/Groong"
         url = "https://www.groong.org"
