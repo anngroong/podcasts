@@ -1,6 +1,6 @@
 baseURL = 'https://podcasts.groong.org/'
 languageCode = 'en-us'
-title = 'ANN/Groong Podcast'
+title = 'Armenian News Network/Groong Podcast'
 theme = "castanet-1.19.0" 
 googleAnalytics = 'G-JNZ5XF71ZR'
 paginate = "9"
