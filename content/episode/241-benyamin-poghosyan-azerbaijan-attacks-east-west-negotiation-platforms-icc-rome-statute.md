@@ -43,8 +43,9 @@ Episode 241 | Recorded: March 26, 2023"""
 
 Over the weekend, Azerbaijan blatantly [violated](https://armenpress.am/eng/news/1107223.html) the Nov. 9, 2020 agreement, which it co-signed with Armenia and Russia, by unilaterally advancing its armed forces into the territory of Artsakh. 
 
-![Source: @NKObserver](/img/episode/241/nkobserver_map.jpg "Approximate Map of Azerbaijani Incursion into Artsakh")
-Source: @NKObserver
+![Source: @NKObserver](/img/episode/241/nkobserver_map.webp "Approximate Map of Azerbaijani Incursion into Artsakh")
+
+Source: [@NKObserver](https://twitter.com/nkobserver)
 
 The Russians [blamed](https://www.azatutyun.am/a/32334147.html) Azerbaijan for this violation. The aim of this incursion was a dirt road which was allegedly used to bypass the Azeri blockade of Artsakh since Dec.12,  2022.
 
