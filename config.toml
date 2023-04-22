@@ -78,7 +78,7 @@ spotify_subscribe = "https://open.spotify.com/show/53y8G068hkWOvE6W0LUjDK?si=75f
 google_play_subscribe = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS8xMjE1MTEzLnJzcw"
 rss_subscribe = "https://feeds.buzzsprout.com/1215113.rss"
 # stitcher_subscribe = "https://www.stitcher.com/show/armenian-news-network-groong-week-in-review"
-description = "Armenian podcast providing objective coverage on #armenia, #artsakh (#nagornokarabakh) and the #armenian diaspora. Find us and follow us everywhere on social media. Here are our links: [linktr.ee/groong](https://linktr.ee/groong)."
+description = "Armenian News Network/Groong, an Armenian podcast providing objective coverage on Armenia, Artsakh (Nagorno Karabakh) and the Armenian diaspora. Find us and follow us everywhere on social media. Here are our links: [linktr.ee/groong](https://linktr.ee/groong)."
 
 media_prefix = "https://www.buzzsprout.com/1215113/"
 disqusShortname = ""
@@ -93,8 +93,8 @@ disqusShortname = ""
   [params.social]
     facebook = "groong.org"
     facebook_admin = ["500557137","1234"] # This needs to be one or more page admins to get domain insights
-    twitter = "https://twitter.com/groong/"
-    twitter_domain = "groong.org" # This domain shows in twitter cards as "View on `twitter_domain`"
+    twitter = "groong"
+    twitter_domain = "podcasts.groong.org" # This domain shows in twitter cards as "View on `twitter_domain`"
     instagram = "anngroong"
     youtube = "groong"
 
