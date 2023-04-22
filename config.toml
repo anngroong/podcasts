@@ -103,7 +103,7 @@ disqusShortname = ""
 
     [params.authors.Asbed]
       name = "Asbed Bedrossian"
-      thumbnail = "img/host/asbed.jpg"
+      thumbnail = "img/host/asbed_sm.webp"
       Pronouns = ""
       bio = "Asbed is founder of Groong and co-founder of the ANN/Groong podcast."
       [params.authors.Asbed.social]
@@ -119,7 +119,7 @@ disqusShortname = ""
 
     [params.authors.Hovik]
       name = "Hovik Manucharyan"
-      thumbnail = "img/host/hovik.jpg"
+      thumbnail = "img/host/hovik_sm.webp"
       Pronouns = ""
       bio = "Hovik Manucharyan is co-founder of the ANN/Groong podcast and a contributor to Groong news since the late 1990s."
       [params.authors.Hovik.social]
