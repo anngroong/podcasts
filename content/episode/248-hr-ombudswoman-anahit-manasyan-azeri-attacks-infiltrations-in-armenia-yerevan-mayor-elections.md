@@ -11,9 +11,9 @@ podcast_bytes = "34106680"
 podcast_duration = "2839"
 youtube = "U0_RsfAYOJM"
 
-episode_image = "img/episode/248/thumbnail-248.jpg"
-episode_banner = "img/episode/248/banner-248.png"
-images = ["img/episode/248/banner-248.png"]
+episode_image = "img/episode/248/thumbnail-248.webp"
+episode_banner = "img/episode/248/banner-248.webp"
+images = ["img/episode/248/banner-248.webp"]
 
 hosts = ["hovik","asbed"]
 guests = ["akostanyan"]

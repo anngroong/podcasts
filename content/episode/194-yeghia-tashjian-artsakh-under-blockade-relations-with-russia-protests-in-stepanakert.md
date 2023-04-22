@@ -5,7 +5,7 @@ podcast_file = "11935940-yeghia-tashjian-artsakh-blockade-relations-with-russia-
 podcast_duration = "2313"
 podcast_bytes = "27807419"
 
-episode_image = "img/episode/194/thumbnail-194.png"
+episode_image = "img/episode/194/thumbnail-194.webp"
 episode_banner = "img/episode/194/banner-194.png"
 images = ["img/episode/194/banner-194.jpg"]
 

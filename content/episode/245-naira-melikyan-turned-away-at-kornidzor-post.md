@@ -5,7 +5,7 @@ podcast_file = "12605326-naira-melikyan-turned-away-at-kornidzor-post-ep-245-apr
 podcast_duration = "1835"
 podcast_bytes = "22065242"
 
-episode_image = "img/episode/245/thumbnail-245.jpg"
+episode_image = "img/episode/245/thumbnail-245.webp"
 episode_banner = "img/episode/245/banner-245.jpg"
 images = ["img/episode/banner-245.jpg"]
 

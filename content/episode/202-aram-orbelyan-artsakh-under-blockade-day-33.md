@@ -5,7 +5,7 @@ podcast_file = "12038253-aram-orbelian-artsakh-under-blockade-day-33-ep-202-jan-
 podcast_duration = "2947"
 podcast_bytes = "35412549"
 
-episode_image = "img/episode/202/thumbnail-202.png"
+episode_image = "img/episode/202/thumbnail-202.webp"
 episode_banner = "img/episode/202/banner-202.png"
 images = ["img/episode/202/banner-202.png"]
 #upcoming = false
