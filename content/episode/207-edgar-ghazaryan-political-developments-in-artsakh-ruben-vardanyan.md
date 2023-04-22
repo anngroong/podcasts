@@ -5,7 +5,7 @@ podcast_file = "12062175-edgar-ghazaryan-ep-207-jan-17-2023.mp3"
 podcast_duration = "1991"
 podcast_bytes = "23929971"
 
-episode_image = "img/episode/207/thumbnail-207.png"
+episode_image = "img/episode/207/thumbnail-207.jpg"
 episode_banner = "img/episode/207/banner-207.png"
 images = ["img/episode/207/banner-207.png"]
 

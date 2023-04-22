@@ -8,7 +8,7 @@ subtitle = "Armenian News Network Groong - Jan 13, 2023"
 podcast_file = "12039325-artsakh-blockade-flash-update-with-gev-jan-13-2023.mp3"
 podcast_duration = "384"
 podcast_bytes = "4656803"
-episode_image = "img/episode/203/thumbnail-203.png"
+episode_image = "img/episode/203/thumbnail-203.jpg"
 episode_banner = "img/episode/203/banner-203.png"
 images = ["img/episode/203/banner-203.png"]
 
