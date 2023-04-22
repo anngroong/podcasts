@@ -26,10 +26,10 @@ do
     fi
 
     echo WORKING on $i
-    convert -quality 35 $i $output 2>/dev/null
+    convert -quality 25 -resize 1400x1400 $i $output 2>/dev/null
     ORIG_FILESIZE=$(stat -f%z "$i")
     DEST_FILESIZE=$(stat -f%z "$output")
-    EDUCTION=$( printf %.2f $( echo "(1 - $DEST_FILESIZE/$ORIG_FILESIZE) * 100" | bc -l ) )   
+    REDUCTION=$( printf %.2f $( echo "(1 - $DEST_FILESIZE/$ORIG_FILESIZE) * 100" | bc -l ) )
     echo "INPUT: $i ORIG: $ORIG_FILESIZE DEST: $DEST_FILESIZE REDUCTION: ${REDUCTION}%"
     modify_file $i 
 done
