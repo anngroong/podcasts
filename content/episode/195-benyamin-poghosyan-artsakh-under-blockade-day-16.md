@@ -7,7 +7,7 @@ podcast_bytes = "19125750"
 
 episode_image = "img/episode/195/thumbnail-195.webp"
 episode_banner = "img/episode/195/banner-195.webp"
-images = ["img/episode/195/banner-195.jpg"]
+images = ["img/episode/195/banner-195.webp"]
 upcoming = false
 
 hosts = ["hovik"]

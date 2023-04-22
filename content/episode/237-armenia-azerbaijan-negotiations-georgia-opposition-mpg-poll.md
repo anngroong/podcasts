@@ -7,8 +7,8 @@ podcast_bytes = "44850273"
 youtube = "_GK3BKtn7mE"
 
 episode_image = "img/episode/237/thumbnail-237.webp"
-episode_banner = "img/episode/237/banner-237.jpg"
-images = ["img/episode/237/banner-237.jpg"]
+episode_banner = "img/episode/237/banner-237.webp"
+images = ["img/episode/237/banner-237.webp"]
 
 hosts = ["hovik", "asbed"]
 guests = ["hmikaelian"]

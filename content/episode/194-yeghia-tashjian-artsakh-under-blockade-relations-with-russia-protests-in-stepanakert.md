@@ -7,7 +7,7 @@ podcast_bytes = "27807419"
 
 episode_image = "img/episode/194/thumbnail-194.webp"
 episode_banner = "img/episode/194/banner-194.webp"
-images = ["img/episode/194/banner-194.jpg"]
+images = ["img/episode/194/banner-194.webp"]
 
 hosts = ["hovik", "asbed"]
 guests = ["ytashjian"]
