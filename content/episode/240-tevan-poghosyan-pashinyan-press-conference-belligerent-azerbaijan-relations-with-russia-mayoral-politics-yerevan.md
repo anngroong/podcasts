@@ -11,9 +11,9 @@ youtube = "khu72d_Qd_A"
 episode = "240"
 aliases = ["/240"]
 
-episode_image = "img/episode/240/thumbnail-240.png"
-episode_banner = "img/episode/240/banner-240.png"
-images = ["img/episode/240/banner-240.png"]
+episode_image = "img/episode/240/thumbnail-240.webp"
+episode_banner = "img/episode/240/banner-240.webp"
+images = ["img/episode/240/banner-240.webp"]
 
 title = "Pashinyan Press Conference | Belligerent Azerbaijan | Mirzoyan in Moscow | Yerevan Mayor |  Ep 240 - Mar 19, 2023"
 subtitle = "ANN Groong Week in Review - 03/19/2023"

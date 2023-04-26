@@ -11,9 +11,9 @@ youtube = "nZtxTaykdKo"
 episode = "219"
 aliases = ["/219"]
 
-episode_image = "img/episode/219/thumbnail-219.jpg"
-episode_banner = "img/episode/219/banner-219.png"
-images = ["img/episode/219/banner-219.png"]
+episode_image = "img/episode/219/thumbnail-219.webp"
+episode_banner = "img/episode/219/banner-219.webp"
+images = ["img/episode/219/banner-219.webp"]
 
 title = "Arthur G Martirosyan | Army Day in Armenia | New EU Civilian Mission to Armenia | Politics of Artsakh Blockade | Ep 219 - Jan 29, 2023"
 subtitle = "ANN Groong Week in Review - 01/29/2023"

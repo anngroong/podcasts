@@ -1,10 +1,11 @@
 baseURL = 'https://podcasts.groong.org/'
 languageCode = 'en-us'
-title = 'ANN/Groong Podcast'
+title = 'Armenian News Network/Groong Podcast'
 theme = "castanet-1.19.0" 
 googleAnalytics = 'G-JNZ5XF71ZR'
 paginate = "9"
 buildFuture = true
+enableRobotsTXT = true
 
 [taxonomies]
   category = "categories"
@@ -78,7 +79,7 @@ spotify_subscribe = "https://open.spotify.com/show/53y8G068hkWOvE6W0LUjDK?si=75f
 google_play_subscribe = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS8xMjE1MTEzLnJzcw"
 rss_subscribe = "https://feeds.buzzsprout.com/1215113.rss"
 # stitcher_subscribe = "https://www.stitcher.com/show/armenian-news-network-groong-week-in-review"
-description = "Armenian podcast providing objective coverage on #armenia, #artsakh (#nagornokarabakh) and the #armenian diaspora. Find us and follow us everywhere on social media. Here are our links: [linktr.ee/groong](https://linktr.ee/groong)."
+description = "Armenian News Network/Groong, an Armenian podcast providing objective coverage on Armenia, Artsakh (Nagorno Karabakh) and the Armenian diaspora. Find us and follow us everywhere on social media. Here are our links: [linktr.ee/groong](https://linktr.ee/groong)."
 
 media_prefix = "https://www.buzzsprout.com/1215113/"
 disqusShortname = ""
@@ -93,7 +94,7 @@ disqusShortname = ""
   [params.social]
     facebook = "groong.org"
     facebook_admin = ["500557137","1234"] # This needs to be one or more page admins to get domain insights
-    twitter = "https://twitter.com/groong/"
+    twitter = "groong"
     twitter_domain = "groong.org" # This domain shows in twitter cards as "View on `twitter_domain`"
     instagram = "anngroong"
     youtube = "groong"
@@ -102,7 +103,7 @@ disqusShortname = ""
 
     [params.authors.Asbed]
       name = "Asbed Bedrossian"
-      thumbnail = "img/host/asbed.jpg"
+      thumbnail = "img/host/asbed_sm.webp"
       Pronouns = ""
       bio = "Asbed is founder of Groong and co-founder of the ANN/Groong podcast."
       [params.authors.Asbed.social]
@@ -118,7 +119,7 @@ disqusShortname = ""
 
     [params.authors.Hovik]
       name = "Hovik Manucharyan"
-      thumbnail = "img/host/hovik.jpg"
+      thumbnail = "img/host/hovik_sm.webp"
       Pronouns = ""
       bio = "Hovik Manucharyan is co-founder of the ANN/Groong podcast and a contributor to Groong news since the late 1990s."
       [params.authors.Hovik.social]
@@ -129,10 +130,10 @@ disqusShortname = ""
         homepage = ""
         pinterest = ""
         instagram = ""
-        youtube = ""
+        youtube = "HovikYerevan"
         twitch = ""
 
     [params.links]
       [params.links.ado]
-        name = "Armenian news Network/Groong"
+        name = "Armenian News Network/Groong"
         url = "https://www.groong.org"

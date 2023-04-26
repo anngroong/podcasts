@@ -11,9 +11,9 @@ youtube = "IgPpnuykwoQ"
 episode = "217"
 aliases = ["/217"]
 
-episode_image = "img/episode/217/thumbnail-217.png"
-episode_banner = "img/episode/217/banner-217.png"
-images = ["img/episode/217/banner-217.png"]
+episode_image = "img/episode/217/thumbnail-217.webp"
+episode_banner = "img/episode/217/banner-217.webp"
+images = ["img/episode/217/banner-217.webp"]
 
 title = "Tevan Poghosyan | Catastrophic Accident in Military Barrack | New EU Civilian Mission to Armenia | Armenia-Russia Relations | Ruben Vardanyan on BBC HARDtalk | Ep 217 - Jan 22, 2023"
 subtitle = "ANN Groong Week in Review - 01/22/2023"

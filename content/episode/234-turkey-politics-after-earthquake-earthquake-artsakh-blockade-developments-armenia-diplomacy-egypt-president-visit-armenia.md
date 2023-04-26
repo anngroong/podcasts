@@ -11,9 +11,9 @@ podcast_bytes = "32143592"
 podcast_duration = ""
 youtube = "njdWLw7z4kg"
 
-episode_image = "img/episode/234/thumbnail-234.jpg"
-episode_banner = "img/episode/234/banner-234.png"
-images = ["img/episode/234/banner-234.png"]
+episode_image = "img/episode/234/thumbnail-234.webp"
+episode_banner = "img/episode/234/banner-234.webp"
+images = ["img/episode/234/banner-234.webp"]
 
 hosts = ["hovik","asbed"]
 guests = ["ytashjian"]

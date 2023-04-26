@@ -10,9 +10,9 @@ podcast_bytes = "9202485"
 podcast_duration = "763"
 youtube = "3n9tre0soGg"
 
-episode_image = "img/episode/233/thumbnail-233.jpg"
-episode_banner = "img/episode/233/banner-233.png"
-images = ["img/episode/233/banner-233.png"]
+episode_image = "img/episode/233/thumbnail-233.webp"
+episode_banner = "img/episode/233/banner-233.webp"
+images = ["img/episode/233/banner-233.webp"]
 
 hosts = ["asbed", "hovik"]
 guests = ["giskajyan"]

@@ -5,9 +5,9 @@ podcast_file = "12324750-anna-abrahamian-munich-security-conference-artsakh-ep-2
 podcast_duration = "5713"
 podcast_bytes = "68592550"
 
-episode_image = "img/episode/230/thumbnail-230.png"
-episode_banner = "img/episode/230/banner-230.png"
-images = ["img/episode/230/banner-230.png"]
+episode_image = "img/episode/230/thumbnail-230.webp"
+episode_banner = "img/episode/230/banner-230.webp"
+images = ["img/episode/230/banner-230.webp"]
 
 hosts = ["hovik", "asbed"]
 guests = ["aabrahamian"]

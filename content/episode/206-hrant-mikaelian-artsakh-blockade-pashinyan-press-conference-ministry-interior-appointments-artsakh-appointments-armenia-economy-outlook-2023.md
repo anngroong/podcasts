@@ -12,9 +12,9 @@ youtube = "CyH9aUKJKyM"
 episode = "206"
 aliases = ["/206"]
 
-episode_image = "img/episode/206/thumbnail-206.png"
-episode_banner = "img/episode/206/banner-206.png"
-images = ["img/episode/206/banner-206.png"]
+episode_image = "img/episode/206/thumbnail-206.webp"
+episode_banner = "img/episode/206/banner-206.webp"
+images = ["img/episode/206/banner-206.webp"]
 
 title = "Hrant Mikaelian | Artsakh Blockade | Pashinyan Press Conference | Ministry of Interior Appointments | Artsakh Foreign Minister | Armenia Economy Outlook 2023 | Ep 206 - Jan 15, 2023"
 subtitle = "ANN Groong Week in Review - 01/15/2023"

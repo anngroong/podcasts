@@ -8,10 +8,10 @@ Type = "host"
 Facebook = "HovikYerevan"
 Linkedin = ""
 GitHub = ""
-Thumbnail = "img/host/hovik.jpg"
+Thumbnail = "img/host/hovik.webp"
 Pinterest = ""
 Instagram = ""
-YouTube = ""
+YouTube = "@HovikYerevan"
 Twitch = ""
 +++
 
