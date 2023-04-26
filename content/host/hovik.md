@@ -11,7 +11,7 @@ GitHub = ""
 Thumbnail = "img/host/hovik.webp"
 Pinterest = ""
 Instagram = ""
-YouTube = "HovikYerevan"
+YouTube = "@HovikYerevan"
 Twitch = ""
 +++
 
