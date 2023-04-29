@@ -8,7 +8,7 @@ subtitle = "Armenian News Network Groong - Apr 28, 2023"
 podcast_file = "12745486-artsakh-blockade-flash-update-with-gev-apr-28-2023.mp3"
 podcast_bytes = "9325765"
 podcast_duration = "773"
-youtube = ""
+youtube = "AWdaHFAe88k"
 
 episode_image = "img/episode/250/thumbnail-250.jpg"
 episode_banner = "img/episode/250/banner-250.jpg"
