@@ -5,9 +5,9 @@ upcoming = false
 title = "Artsakh Blockade Flash Update with Gev Iskajyan - Ep 250, Apr 28, 2023"
 subtitle = "Armenian News Network Groong - Apr 28, 2023"
 
-podcast_file = ""
-podcast_bytes = ""
-podcast_duration = ""
+podcast_file = "12745486-artsakh-blockade-flash-update-with-gev-apr-28-2023.mp3"
+podcast_bytes = "9325765"
+podcast_duration = "773"
 youtube = ""
 
 episode_image = "img/episode/250/thumbnail-250.jpg"
@@ -34,7 +34,13 @@ Armenian News Network Groong - April 28, 2023
 * [Gev Iskajyan](/guest/giskajyan)
 
 #### Topics:
-
+* Lachin/Berdzor Corridor [Blocked](https://www.azatutyun.am/a/32375832.html) on April 23
+    * So-called “Eco-activists” Have Left.
+    * Armenian [Rejects](https://armenpress.am/eng/news/1109855.html) Discussions on Corridor Conditions
+* Does the Government have a plan?
+* Lentsov Replaces Volkov
+* Artsakh [Farmers Fired Upon](https://armenpress.am/eng/news/1109847.html) - Again
+* Would Artsakhtsis accept Azerbaijani Citizenship?
 
 Episode 250 | Recorded: April 28, 2023"""
 
