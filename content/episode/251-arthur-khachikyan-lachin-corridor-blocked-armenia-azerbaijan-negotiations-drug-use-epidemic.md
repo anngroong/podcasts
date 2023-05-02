@@ -3,7 +3,7 @@
 Date = 2023-05-01T00:15:00-07:00
 upcoming = false
 
-title = "35th Anniversary of the Sumgait Pogroms | Russia Warns the EU and Armenia | Armenian Azerbaijani Negotiations Continue | Ep 251 - Apr 30, 2023"
+title = "Azerbaijan Officially Blocks Lachin/Berdzor Corridor | Armenian-Azeri Negotiations | Drug Use Epidemic in Armenia | Ep 251 - April 30, 2023"
 subtitle = "Armenian News Network Groong - Apr 30, 2023"
 
 podcast_file = "12766577-azerbaijan-officially-blocks-corridor-armenian-azeri-talks-drug-use-epidemic-in-armenia-ep-251-april-30-2023.mp3"
@@ -32,7 +32,7 @@ Description = """
 * [Arthur Khachikyan](/guest/akhachikyan)
 
 #### Topics:
-* Berdzor/Lachin Corridor Officially Blocked
+* Azerbaijan Officially Blocks Berdzor/Lachin Corridor
 * Update on Armenian-Azeri Negotiations
 * Drug Use Epidemic in Armenia
 
@@ -173,7 +173,7 @@ Ironically this bit of “Airspace diplomacy” comes right after the 108th worl
 Incidentally, this ban happened as Aliyev visited Turkey and took well-publicized photo-ops with president and presidential candidate Erdogan, whose re-election bid at present is not a certainty.
 
 **Question:**
-* So, with all this context in mind, was this Turkish move really an “unexpected” turn of events?
+* With all this context in mind, was this Turkish move really an “unexpected” turn of events?
 
 Pashinyan’s government thinks that "normalization" with Turkey will mean that there’s a reliable partner next door that Armenia can trade with and prosper.
 
