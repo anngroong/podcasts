@@ -1,15 +1,15 @@
 +++
 Date = 2023-05-09T00:01:00+04:00
-upcoming = true
+upcoming = false
 
 title = "Hrant Mikaelian - Armenia Azerbaijan Negotiations | IRI Poll | Armenia Census 2022"
 subtitle = "ANN Groong Week in Review - May 7, 2023"
 
 
-podcast_file = ""
-podcast_duration = ""
-podcast_bytes = ""
-youtube = ""
+podcast_file = "12820577-may-9-the-triple-holiday-mirzoyan-bairamov-in-washington-dc-latest-iri-armenia-polls-results-armenian-census-2022-ep-252-may-7-2023.mp3"
+podcast_bytes = "40395132"
+podcast_duration = "3362"
+youtube = "Jy9doInwItw"
 
 episode_image = "img/episode/252/thumbnail-252.webp"
 episode_banner = "img/episode/252/banner-252.webp"
@@ -116,7 +116,7 @@ Hrant, you [performed](https://www.kavkaz-uzel.eu/blogs/83781/posts/58621) a com
 
 
 
-![alt_text](/img/episode/252/IRI_Poll_Slide_07.webp "image_tooltip")
+![Is Armenia heading in the right direction or the wrong direction](/img/episode/252/IRI_Poll_Slide_07.webp "Is Armenia heading in the right direction or the wrong direction")
 
 
 **Questions**:
@@ -131,7 +131,7 @@ Hrant, you [performed](https://www.kavkaz-uzel.eu/blogs/83781/posts/58621) a com
 
 
 
-![alt_text](/img/episode/252/IRI_Poll_Slide_21.webp "image_tooltip")
+![Satisfaction with Institutions](/img/episode/252/IRI_Poll_Slide_21.webp "Satisfaction with Institutions")
 
 
 Only church and police get more than 50% approval ratings. All others do not pass.
@@ -145,7 +145,7 @@ Only church and police get more than 50% approval ratings. All others do not pas
 
 
 
-![alt_text](/img/episode/252/IRI_Poll_Slide_25.webp "image_tooltip")
+![Satisfaction with Armed Forces](/img/episode/252/IRI_Poll_Slide_25.webp "Satisfaction with Armed Forces")
 
 
 The drop in the rating of the Army seems to be continuing to plummet. In 2019, the army had a 91% approval rating and was the #1 institution. Today, it has a 40% approval rating and a 59% antirating.
@@ -158,7 +158,7 @@ The drop in the rating of the Army seems to be continuing to plummet. In 2019, t
 
 
 
-![alt_text](/img/episode/252/IRI_Poll_Slide_22.webp "image_tooltip")
+![Satisfaction with the Police](/img/episode/252/IRI_Poll_Slide_22.webp "Satisfaction with the Police")
 
 
 **Question:**
@@ -172,7 +172,7 @@ The drop in the rating of the Army seems to be continuing to plummet. In 2019, t
 
 
 
-![alt_text](/img/episode/252/IRI_Poll_Slide_41.webp "image_tooltip")
+![Biggest Success](/img/episode/252/IRI_Poll_Slide_41.webp "Biggest Success")
 
 
 
@@ -180,7 +180,7 @@ The drop in the rating of the Army seems to be continuing to plummet. In 2019, t
 
 
 
-![alt_text](/img/episode/252/IRI_Poll_Slide_42.webp "image_tooltip")
+![Biggest Failure](/img/episode/252/IRI_Poll_Slide_42.webp "Biggest Failure")
 
 
 To the question: What are the greatest achievements of this government, three quarters of the respondents could not say what they would be. 42% said “none”, 21% said “hard to say”, and 10% said “other”. Those who mentioned achievements listed things like “diplomatic ties”, “road improvements”, etc. and all items were in the single figures.
@@ -201,7 +201,7 @@ Additionally, respondents listed these same failures as line items that need to 
 
 
 
-![alt_text](/img/episode/252/IRI_Poll_Slide_34.webp "image_tooltip")
+![Fight against Corruption](/img/episode/252/IRI_Poll_Slide_34.webp "Fight against Corruption")
 
 
 
@@ -209,7 +209,7 @@ Additionally, respondents listed these same failures as line items that need to 
 
 
 
-![alt_text](/img/episode/252/IRI_Poll_Slide_48.webp "image_tooltip")
+![What Anti-corruption Reforms do you know](/img/episode/252/IRI_Poll_Slide_48.webp "What Anti-corruption Reforms do you know")
 
 
 Slides 34 & 48: The ruling party's flagship cause is anti-corruption. Pashinyan came to power in 2018 promising a complete eradication of corruption. Last year in fact he claimed that “systemic corruption” no longer existed in Armenia: This poll indicates that 79% believe either there is no progress, or can’t say what progress there is. All progress areas are in single-figures.
@@ -225,7 +225,7 @@ Slides 34 & 48: The ruling party's flagship cause is anti-corruption. Pashinyan 
 
 
 
-![alt_text](/img/episode/252/IRI_Poll_Slide_39.webp "image_tooltip")
+![Perception of the Economy](/img/episode/252/IRI_Poll_Slide_39.webp "Perception of the Economy")
 
 
 According to the government there was a near 14% growth in the economy last year, yet people feel the economy is doing worse now.
@@ -242,7 +242,7 @@ According to the government there was a near 14% growth in the economy last year
 
 
 
-![alt_text](/img/episode/252/IRI_Poll_Slide_24.webp "image_tooltip")
+![Satisfaction with PM Office](/img/episode/252/IRI_Poll_Slide_24.webp "Satisfaction with PM Office")
 
 
 Pashinyan approval tanks from 82% to 38%, disapproval goes 17→ 61% while civil contract polls at a max of 21% in slides 18 & 19.
@@ -257,7 +257,7 @@ The questions about political parties and political figures show a continuing de
 
 
 
-![alt_text](/img/episode/252/IRI_Poll_Slide_17_Poll_Slide_17.webp "image_tooltip")
+![Who do you trust most](/img/episode/252/IRI_Poll_Slide_17_Poll_Slide_17.webp "Who do you trust most")
 
 
 
@@ -265,7 +265,7 @@ The questions about political parties and political figures show a continuing de
 
 
 
-![alt_text](/img/episode/252/IRI_Poll_Slide_18.webp "image_tooltip")
+![What Political Party or Alliance](/img/episode/252/IRI_Poll_Slide_18.webp "What Political Party or Alliance")
 
 
 **Question:**
@@ -276,7 +276,7 @@ The questions about political parties and political figures show a continuing de
 
 
 
-![alt_text](/img/episode/252/IRI_Poll_Slide_19.webp "image_tooltip")
+![What Party Would you Vote For](/img/episode/252/IRI_Poll_Slide_19.webp "What Party Would you Vote For")
 
 
 
@@ -284,7 +284,7 @@ The questions about political parties and political figures show a continuing de
 
 
 
-![alt_text](/img/episode/252/IRI_Poll_Slide_20.webp "image_tooltip")
+![What Party Would you Vote For](/img/episode/252/IRI_Poll_Slide_20.webp "What Party Would you Vote For")
 
 
 
@@ -295,7 +295,7 @@ The questions about political parties and political figures show a continuing de
 
 
 
-![alt_text](/img/episode/252/IRI_Poll_Slide_50.webp "image_tooltip")
+![Assessing Foreign Rleationships](/img/episode/252/IRI_Poll_Slide_50.webp "Assessing Foreign Rleationships")
 
 
 
@@ -303,7 +303,7 @@ The questions about political parties and political figures show a continuing de
 
 
 
-![alt_text](/img/episode/252/IRI_Poll_Slide_60.webp "image_tooltip")
+![Assessing Relations with Turkey](/img/episode/252/IRI_Poll_Slide_60.webp "Assessing Relations with Turkey")
 
 
 Hrant, the headline of the IRI Poll read as: “IRI Armenia Poll Shows Concerns over National Security, Sharp Divisions on Russia, Improving Relations with Turkey”
