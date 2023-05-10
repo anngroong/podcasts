@@ -34,7 +34,7 @@ Description = """
 * Georgian Law on Foreign Agents
 * Reflections on MPG Poll “AmotiSar” Results
 
-Episode 234 | Recorded: March 12, 2023"""
+Episode 237 | Recorded: March 12, 2023"""
 
 +++
 
