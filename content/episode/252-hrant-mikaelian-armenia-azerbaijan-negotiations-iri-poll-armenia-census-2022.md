@@ -22,7 +22,7 @@ aliases = ["/252"]
 
 series = ["wir"]
 categories = ["Armenia", "Artsakh", "Politics", "Poll"]
-tags = ["Hrant Mikaelian", "Armenia", "Artsakh", "Nagorno Karabakh", "Azerbaijan", "United States", "EU", "Ararat Mirzoyan", "Jeyhun Bairamov", "Anthony Blinken", "Nikol Pashinyan", "Ilham Aliyev", "Charles Michel", "Vladimir Putin", "Moscow", "Brussels", "Washington DC", "South Caucasus", "Turkey", "Russia", "Corridors", "Borders", "Peace Negotiations", "IRI", "International Republican Institute", "IRI Poll", "James Dewitt", "Armenia Census 2022", "Yerevan", "Mayoral Elections", "Tigran Avinyan"]
+tags = ["Hrant Mikaelian", "Armenia", "Artsakh", "Nagorno Karabakh", "Azerbaijan", "United States", "EU", "Ararat Mirzoyan", "Jeyhun Bayramov", "Anthony Blinken", "Nikol Pashinyan", "Ilham Aliyev", "Charles Michel", "Vladimir Putin", "Moscow", "Brussels", "Washington DC", "South Caucasus", "Turkey", "Russia", "Corridors", "Borders", "Peace Negotiations", "IRI", "International Republican Institute", "IRI Poll", "James Dewitt", "Armenia Census 2022", "Yerevan", "Mayoral Elections", "Tigran Avinyan"]
 Description = """
 
 #### Guest:
@@ -55,9 +55,9 @@ Undoubtedly the big story of this past week was the lightning-fast coordinated m
 Meanwhile, yesterday a summit was announced in Brussels between Aliyev, Pashinyan and EU co-president Charles Michel. And today, Pashinyan was in Moscow.
 
 
-### Mirzoyan, Bairamov, Washington DC
+### Mirzoyan, Bayramov, Washington DC
 
-The DC meeting materialized on calendars very suddenly, after Armenia had confirmed a meeting of the foreign ministers in Moscow. It happened so fast that everyone and probably including the Russian MFA were momentarily confused as to who’s meeting whom and where. Next thing we know Ararat Mirzoyan was meeting Jeyhun Bairamov in DC for 3+ days, which yielded uncertain results.
+The DC meeting materialized on calendars very suddenly, after Armenia had confirmed a meeting of the foreign ministers in Moscow. It happened so fast that everyone and probably including the Russian MFA were momentarily confused as to who’s meeting whom and where. Next thing we know Ararat Mirzoyan was meeting Jeyhun Bayramov in DC for 3+ days, which yielded uncertain results.
 
 At the end Blinken assessed the progress made as “[significant](https://www.azatutyun.am/a/32397029.html)”, while Pashinyan was less enthusiastic, assessing the distance in terms of reaching agreement between the two sides as [990 meters to the previous 1,000](https://www.azatutyun.am/a/32397763.html).
 
