@@ -25,6 +25,9 @@ aliases = ["/117"]
 explicit = "no"
 
 series = ["cog"]
+tags = ["Ruben Melikyan", "Arman Tatoyan", "Armenia", "ICJ", "International Court of Justice", "ECHR", "The Hague", "Ombudsman", "Human Rights", "Democracy", "Constitutional Council", "Constitutional Amendments", "Nikol Pashinyan", "Kristine Grigoryan", "Ashot Minasyan", "Ashot Yerkat", "Syunik"]
+
+
 
 Description = """Legal & Human Rights Developments in Armenia
 A Conversation with Ruben Melikyan

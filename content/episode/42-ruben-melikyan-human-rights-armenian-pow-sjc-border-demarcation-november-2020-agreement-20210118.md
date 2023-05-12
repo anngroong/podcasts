@@ -24,7 +24,7 @@ aliases = ["/42"]
 episode = "42"
 
 series = ["cog"]
-tags = ["Nagorno Karabakh", "Artsakh", "Ombudsman", "Armenia", "Azerbaijan", "Baku", "Human Rights", "Ruben Melikyan", "ECHR", "Europe", "European Commission", "War", "POW", "MIA", "Nikol Pashinyan", "44-day war", "Tigran Avinyan", "Gagik Jahangiryan"]
+tags = ["Ruben Melikyan", "Nagorno Karabakh", "Artsakh", "Ombudsman", "Armenia", "Azerbaijan", "Baku", "Human Rights", "Ruben Melikyan", "ECHR", "Europe", "European Commission", "War", "POW", "MIA", "Nikol Pashinyan", "44-day war", "Tigran Avinyan", "Gagik Jahangiryan"]
 
 
 
