@@ -17,4 +17,4 @@ Twitch = ""
 #guest_group = "wir,cog"
 +++
 
-Ruben Melikyan was formerly Artsakh’s Human Rights Ombudsman, and prior to that he was rector of the Justice Academy of Armenia. In 2019, Melikyan co-founded and currently leads the “Path of Law” NGO. Իրավական ուղի in Armenian.
+Ruben Melikyan was formerly Artsakh’s Human Rights Ombudsman, and prior to that he was rector of the Justice Academy of Armenia. In 2019, Melikyan co-founded and currently leads the [“Path of Law” NGO](https://www.facebook.com/path.of.law.am/). Իրավական ուղի in Armenian.
