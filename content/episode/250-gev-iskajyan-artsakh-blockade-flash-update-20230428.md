@@ -11,7 +11,7 @@ podcast_duration = "773"
 youtube = "AWdaHFAe88k"
 
 episode_image = "img/episode/250/thumbnail-250.webp"
-episode_banner = "img/episode/250/banner-250.wepb"
+episode_banner = "img/episode/250/banner-250.webp"
 images = ["img/episode/250/banner-250.webp"]
 
 hosts = ["asbed", "hovik"]
