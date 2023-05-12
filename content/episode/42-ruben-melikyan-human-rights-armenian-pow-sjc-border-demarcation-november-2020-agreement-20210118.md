@@ -8,11 +8,10 @@ upcoming = false
 title = "Former Artsakh Ombudsman Ruben Melikyan (Ep #42) - 01/18/2021"
 subtitle = "Armenian News Network Groong - January 18, 2021"
 
-podcast_file = "7347733-.mp3"
+podcast_file = "7347733-former-artsakh-ombudsman-ruben-melikyan-ep-42-01-18-2021.mp3"
 podcast_bytes = 13693105
 podcast_duration = "0:18:57"
 youtube = "Q4ns7cK5FGw"
-
 
 episode_image = "img/episode/default.jpg"
 episode_banner = "img/episode/default-banner.jpg"
