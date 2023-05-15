@@ -23,7 +23,11 @@ explicit = "no"
 
 series = ["wir"]
 categories = ["Armenia", "Politics"]
-tags = ["Benyamin Poghosyan", "Armenia", "Azerbaijan", "EU", "Nikol Pashinyan", "Ilham Aliyev", "Charles Michel", "EU", "Brussels", "Peace Negotiations", "Armenia Azerbaijan Negotiations", "29\,800", "86\,600", "89\,600", "Border Demarcations", "Turkey", "Turkish Presidential Elections", "Recept Erdogan", "Kemal Kilicdaroglu", "168 Zham", "168.am", "Davit Sargsyan", "Tigran Avinyan", "Sotk", "Norabak", "Verin Shorzha", "Armen Grigoryan", "USA", "Anthony Blinken", "State Department", "Department of State", "CSTO", "EU Monitors", "EUMA", "EU Monitor Mission"]
+tags = ["Benyamin Poghosyan", "Armenia", "Azerbaijan", "EU", "Nikol Pashinyan", "Ilham Aliyev", "Charles Michel", "EU", "Brussels", "Peace Negotiations", "Armenia Azerbaijan Negotiations", 
+"29,800",
+"86,600",
+"89,600",
+"Border Demarcations", "Turkey", "Turkish Presidential Elections", "Recept Erdogan", "Kemal Kilicdaroglu", "168 Zham", "168.am", "Davit Sargsyan", "Tigran Avinyan", "Sotk", "Norabak", "Verin Shorzha", "Armen Grigoryan", "USA", "Anthony Blinken", "State Department", "Department of State", "CSTO", "EU Monitors", "EUMA", "EU Monitor Mission"]
 
 Description = """
 #### Guest:
