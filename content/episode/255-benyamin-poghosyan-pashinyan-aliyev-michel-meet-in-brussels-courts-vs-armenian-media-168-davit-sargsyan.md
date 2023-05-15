@@ -1,9 +1,9 @@
 +++
 
-Date = 2023-05-15T00:15:00-07:00
+Date = 2023-05-15T00:15:00-04:00
 upcoming = true
 
-title = "Benyamin Poghosyan - Pashinyan, Aliyev, Michel in Brussels | Turkish Presidential Elections | Armenian Cours vs. Armenian News & Media | Ep 255 - May 14, 2023"
+title = "Benyamin Poghosyan - Pashinyan, Aliyev, Michel in Brussels | Turkish Presidential Elections | Court vs.  News & Media | Ep 255 - May 14, 2023"
 subtitle = "Armenian News Network Groong - May 14, 2023"
 
 podcast_file = ""
@@ -23,7 +23,7 @@ explicit = "no"
 
 series = ["wir"]
 categories = ["Armenia", "Politics"]
-tags = ["Benyamin Poghosyan", "Armenia", "Azerbaijan", "EU", "Nikol Pashinyan", "Ilham Aliyev", "Charles Michel", "EU", "Brussels", "Peace Negotiations", "Armenia Azerbaijan Negotiations", "29",8"00", "86",6"00", "89",6"00", "Border Demarcations", "Turkey", "Turkish Presidential Elections", "Recept Erdogan", "Kemal Kilicdaroglu", "168 Zham", "168.am", "Davit Sargsyan", "Tigran Avinyan", "Sotk", "Norabak", "Verin Shorzha", "Armen Grigoryan", "USA", "Anthony Blinken", "State Department", "Department of State", "CSTO", "EU Monitors", "EUMA", "EU Monitor Mission"]
+tags = ["Benyamin Poghosyan", "Armenia", "Azerbaijan", "EU", "Nikol Pashinyan", "Ilham Aliyev", "Charles Michel", "EU", "Brussels", "Peace Negotiations", "Armenia Azerbaijan Negotiations", "29\,800", "86\,600", "89\,600", "Border Demarcations", "Turkey", "Turkish Presidential Elections", "Recept Erdogan", "Kemal Kilicdaroglu", "168 Zham", "168.am", "Davit Sargsyan", "Tigran Avinyan", "Sotk", "Norabak", "Verin Shorzha", "Armen Grigoryan", "USA", "Anthony Blinken", "State Department", "Department of State", "CSTO", "EU Monitors", "EUMA", "EU Monitor Mission"]
 
 Description = """
 #### Guest:
