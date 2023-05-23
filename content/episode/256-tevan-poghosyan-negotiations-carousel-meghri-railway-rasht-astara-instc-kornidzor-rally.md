@@ -4,9 +4,9 @@ Date = 2023-05-22T23:30:00+04:00
 upcoming = false
 
 podcast_file = "12902163-tevan-poghosyan-negotiations-meghri-rasht-astara-kornidzor-artsakh-ep-256-may-21-2023.mp3"
-podcast_duration = "3523"
-podcast_bytes = "42311009"
-youtube = "PVrCk9jSqH8"
+podcast_duration = "3346"
+podcast_bytes = "40182552"
+youtube = "VdTgspTl2Xg"
 
 episode = "256"
 aliases = ["/256"]
