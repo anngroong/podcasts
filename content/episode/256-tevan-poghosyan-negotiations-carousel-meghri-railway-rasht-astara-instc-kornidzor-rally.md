@@ -1,12 +1,12 @@
 +++
 
-Date = 2023-05-22T00:30:00+04:00
-upcoming = true
+Date = 2023-05-22T23:30:00+04:00
+upcoming = false
 
-podcast_file = ""
-podcast_duration = ""
-podcast_bytes = ""
-youtube = ""
+podcast_file = "12902163-tevan-poghosyan-negotiations-meghri-rasht-astara-kornidzor-artsakh-ep-256-may-21-2023.mp3"
+podcast_duration = "3346"
+podcast_bytes = "40182552"
+youtube = "VdTgspTl2Xg"
 
 episode = "256"
 aliases = ["/256"]
@@ -15,7 +15,7 @@ episode_image = "img/episode/256/thumbnail-256.webp"
 episode_banner = "img/episode/256/banner-256.webp"
 images = ["img/episode/256/banner-256.webp"]
 
-title = "Negotiations Carousel | Meghri Railway | Rasht Astara Railway | Kornidror Rally | Artsakh Politics | Ep 256 - May 21, 2023"
+title = "Negotiations Carousel | Meghri Railway | Rasht-Astara Railway | Kornidzor Rally | Artsakh Politics | Ep 256 - May 21, 2023"
 subtitle = "ANN Groong Week in Review - 05/21/2023"
 
 guests = ["tpoghosyan"]
@@ -101,13 +101,12 @@ It seems that the Rasht-Astara railway is being built bilaterally by Russia and 
 
 Armenia is also part of the INSTC, but there are only plans to build roads. However, several circumstances have slowed down the multi-billion dollar project to build adequate roads in Armenia. 
 
-
 **Questions**:
+
 * How do you see this development in the context of Russia vs. West geopolitics?
 * Is this a major geopolitical blow that will further isolate Armenia?
 * What are the causes for Armenia’s slow construction of the North-South road?
 * Does Armenia have a way out of this regional isolation?
-
 
 ### Rallies in Kornidzor and Artsakh
 
@@ -116,7 +115,6 @@ On Saturday the 20th, over 5,000 people [marched](https://168.am/2023/05/20/1876
 **Questions**:
 * Hovik, you were at the rally on Saturday, can you give us a first hand report from that event?
 * Tevan, what are your thoughts on how the Armenian nation and the Armenian public can take measures against the betrayal of Artsakh?
-
 
 ## Artsakh Political Intrigue
 
@@ -134,7 +132,6 @@ Also, Rouben Vardanyan, after stepping down from being state minister, has [crea
 * Hows should we analysis of the various movements in the politics of Artsakh Republic, as well as the various protests and rallies? Is it really the time for infighting?
 * Why would Artsakh speaker Arthur Tovmasyan demand Arayik Harutyunyan’s resignation at this moment in time? What prompted this? And how realistic is the potential for Arayik’s resignation.
 * What would a State Defense Commission do? 
-
 
 ## Wrap-up
 
