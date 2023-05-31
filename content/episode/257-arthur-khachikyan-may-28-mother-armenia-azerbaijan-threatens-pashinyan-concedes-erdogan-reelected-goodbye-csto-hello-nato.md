@@ -181,6 +181,13 @@ We also had a flurry of visitors from NATO countries. Some senior NATO reps visi
 * This all hints to a potential upgrade of relations between Armenia and NATO. What is the likelihood of some form of partnership or outright accession into NATO?
 * What could the west, the US and the EU, be promising Pashinyan, that he’s willing to gamble the existence of the state of Armenia on it?
 
+
+## Topics from the Panelists
+* **Arthur**: Armenians must wake up from this surreal torpor.
+* **Hovik**: Why Artsakh is very important for Armenia.
+
+
+
 # Wrap-up
 
 We hope you found our [Week in Review](/series/wir) helpful. We invite your feedback and your suggestions, you can find us on most social media and podcast platforms. Thanks to Laura Osborn for the music on our podcasts.
