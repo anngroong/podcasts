@@ -1,15 +1,15 @@
 +++
 
 Date = 2023-05-29T00:15:00-07:00
-upcoming = true
+upcoming = false
 
 title = "Arthur Khachikyan - May 28 | Mother Armenia Movement | Aliyev Threatens, Pashinyan Concedes | Erdogan Reelected | Goodbye CSTO, Hello NATO? | Ep 257 - May 28, 2023"
 subtitle = "Armenian News Network Groong - May 28, 2023"
 
-podcast_file = ""
-podcast_bytes = ""
-podcast_duration = ""
-youtube = ""
+podcast_file = "12951479-mother-armenia-aliyev-threatens-again-erdogan-reelected-csto-nato-ep-257-may-28-2023.mp3"
+podcast_bytes = "28624094"
+podcast_duration = "2382"
+youtube = "T6nZt_CW-Lg"
 
 episode_image = "img/episode/257/thumbnail-257.webp"
 episode_banner = "img/episode/257/banner-257.webp"
@@ -181,12 +181,9 @@ We also had a flurry of visitors from NATO countries. Some senior NATO reps visi
 * This all hints to a potential upgrade of relations between Armenia and NATO. What is the likelihood of some form of partnership or outright accession into NATO?
 * What could the west, the US and the EU, be promising Pashinyan, that he’s willing to gamble the existence of the state of Armenia on it?
 
-
 ## Topics from the Panelists
 * **Arthur**: Armenians must wake up from this surreal torpor.
 * **Hovik**: Why Artsakh is very important for Armenia.
-
-
 
 # Wrap-up
 
