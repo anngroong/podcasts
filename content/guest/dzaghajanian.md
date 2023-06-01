@@ -17,4 +17,4 @@ Twitch = ""
 #guest_group = "cog"
 +++
 
-Ms. Dziunik Aghajanian has served Armenia through the ranks of the ministry of foreign affairs, and most recently as a diplomat, as Armenia’s Ambassador to such countries as the Netherlands, Malaysia, Indonesia. She received her education at Yerevan State University, Columbia University in NY, and Uppsala University in Sweden.
+Ms. Dziunik Aghajanian has served Armenia through the ranks of the Ministry of Foreign Affairs, and most recently as a diplomat, as Armenia’s Ambassador to such countries as the Netherlands, Malaysia, and Indonesia. She received her education at Yerevan State University, Columbia University in NY, and Uppsala University in Sweden.
