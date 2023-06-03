@@ -2,8 +2,8 @@
 Date = 2023-06-02T00:00:00+04:00
 upcoming = false
 
-title = "Artsakh Blockade Flash Update with Gev Iskajyan - Ep 259, May 11, 2023"
-subtitle = "Armenian News Network Groong - May 11, 2023"
+title = "Artsakh Blockade Flash Update with Gev Iskajyan - Ep 259, June 2, 2023"
+subtitle = "Armenian News Network Groong - June 2, 2023"
 
 podcast_file = "12970002-artsakh-blockade-flash-update-with-gev-june-2-2023.mp3"
 podcast_bytes = "11069243"
