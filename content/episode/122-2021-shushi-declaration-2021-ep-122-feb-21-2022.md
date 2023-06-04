@@ -18,7 +18,7 @@ podcast_bytes = 41011552
 podcast_file = "10113707-2021-shushi-declaration-2021-ep-122-feb-21-2022.mp3"
 youtube = "qHPCV-ksxIw"
 series = ["COG"]
-Tags = ["Artsakh", "Armenia", "In Armenian", "Politics"]
+categories = ["Artsakh", "Armenia", "In Armenian", "Politics"]
 Description = """2021-ի «Շուշիի Հռչակագիրը» - The 2021 “Shushi Declaration” by Azerbaijan and Turkey
 
 A Conversation in Armenian with Mihran Hakobyan (in Armenian)

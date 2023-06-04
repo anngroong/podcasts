@@ -16,7 +16,7 @@ podcast_bytes = 23495252
 podcast_file = "11096231-the-situation-around-berdzor-armenian-ep-150-aug-7-2022.mp3"
 youtube = "0WXDyx93h0Y"
 series = ["COG"]
-tags = ["Artsakh", "Armenia", "Politics", "In Armenian"]
+categories = ["Artsakh", "Armenia", "Politics", "In Armenian"]
 Description = """The Situation Around Berdzor with Hakob Hakobyan and Davit Galstyan
 
 Իրավիճակը Բերձորի շուրջ Հակոբ Հակոբյանի և Դավիթ Գալստյանի հետ

@@ -28,7 +28,7 @@ Metaxe Hakobyan: Blockade of Artsakh Day 41 | Ep 213 - Jan 21, 2023
 Armenian News Network Groong - Jan 21, 2023
 
 #### Guest/Հյուրը:
-* [Metaxe Hakobyan](/guest/mhakobyan): member of the Justice faction in the National Assembly of the Republic of Artsakh.
+* [Metaxe Hakobyan](/guest/metaxehakobyan): member of the Justice faction in the National Assembly of the Republic of Artsakh.
 
 Episode 213 | Recorded: January 21, 2023"""
 +++

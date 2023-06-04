@@ -16,7 +16,7 @@ aliases = ["/207"]
 youtube = "AEaIf1ComGQ"
 explicit = "no" # values are "yes" or "no"
 
-categories = ["Politics", "Artsakh"]
+categories = ["Politics", "Artsakh", "In Armenian"]
 series = ["cog"]
 tags = ["Edgar Ghazaryan", "Armenia", "Artsakh", "Karabakh", "Nagorno Karabakh", "Azerbaijan", "Syunik", "Blockade", "Lachin", "Berdzor", "Lachin Corridor", "Berdzor Corridor", "Ruben Vardanyan", "Arayik Harutyunyan", "Nikol Pashinyan", "Ilham Aliyev", "Arthur Tovmasyan", "Davit Babayan"]
 title = "Edgar Ghazaryan: Էդգար Ղազարյանը, Արցախում քաղաքական զարգացումների մասին"

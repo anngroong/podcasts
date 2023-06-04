@@ -19,6 +19,7 @@ podcast_file = "11210517-edgar-ghazaryan-ep-159-aug-26-2022.mp3"
 youtube = "gBh458DLb9I"
 truncate = ""
 series = ["COG"]
+categories = ["In Armenian", "Armenia", "Politics"]
 upcoming = false
 Description = """Armenian News Network / Groong
 
@@ -46,4 +47,3 @@ Show notes: https://groong.org/podcasts/CoG-20220826.html
 +++
 
 Show Notes
-
