@@ -41,7 +41,6 @@ Episode 260 | Recorded: June 5, 2023"""
 +++
 
 
-
 # Wrap-up
 
 We hope you found our [Week in Review](/series/wir) helpful. We invite your feedback and your suggestions, you can find us on most social media and podcast platforms. Thanks to Laura Osborn for the music on our podcasts.
