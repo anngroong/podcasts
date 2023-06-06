@@ -9,7 +9,7 @@ subtitle = "Armenian News Network Groong - June 4, 2023"
 podcast_file = "12986880-sergei-melkonian-chisinau-kishinev-moscow-israeli-president-in-azerbaijan-pashinyan-at-erdogan-inauguration-armenia-russia-relations-ep-260-june-4-2023.mp3"
 podcast_bytes = "35320482"
 podcast_duration = "2941"
-youtube = "7_IjbU3o8p4"
+youtube = "JQdyxujg150"
 
 episode_image = "img/episode/260/thumbnail-260.webp"
 episode_banner = "img/episode/260/banner-260.webp"
