@@ -69,7 +69,7 @@ Upon returning from Chisinau, the Pashinyan government has started talking about
 Pashinyan is presenting these issues as if they present no problems for Armenia, and trying to normalize them in order to prepare the minds of his listeners.
 
 
-![Ruben Galichian, 1926 Soviet map](img/episode/260/Galichian-Soviet-1926-map-of-Armenia-SSR.jpg "Ruben Galichian, 1926 Soviet map")
+![Ruben Galichian, 1926 Soviet map](/img/episode/260/Galichian-Soviet-1926-map-of-Armenia-SSR.jpg "Ruben Galichian, 1926 Soviet map")
 
 
 According to Ruben Galichian, this 1926 map should be used for border delimitation. The map shows Artsakh directly connected with Armenia and there are no “so-called” enclaves.
