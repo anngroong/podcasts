@@ -119,7 +119,7 @@ Map of Jerusalem 1
 ![Map of Jerusalem 2](/img/episode/261/Map-of-Jerusalem-2.jpg "Map of Jerusalem 2")
 Map of Jerusalem 2
 
-![Map of Jerusalem 3, with Legend](/img/episode/261/Map-with-Legend-of-Jerusalem-3.jpg "Map of Jerusalem 3 with Legend")
+![Map of Jerusalem 3, with Legend](/img/episode/261/Map-of-Jerusalem-with-Legend-3.jpg "Map of Jerusalem 3 with Legend")
 Map of Jerusalem 3, with Legend
 
 ![Map of Jerusalem 4](/img/episode/261/Map-of-Jerusalem-4.jpg "Map of Jerusalem 4")
