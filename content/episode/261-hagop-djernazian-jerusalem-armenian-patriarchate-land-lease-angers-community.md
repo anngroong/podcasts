@@ -114,37 +114,19 @@ Now the Armenians of Jerusalem have been demonstrating every week.
 The following maps were provided by Hagop Djernazian. Thanks to Hagop!
 
 ![Map of Jerusalem 1](/img/episode/261/Map-of-Jerusalem-1.jpg "Map of Jerusalem 1")
-
-
-
-
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
+Map of Jerusalem 1
 
 ![Map of Jerusalem 2](/img/episode/261/Map-of-Jerusalem-2.jpg "Map of Jerusalem 2")
-
-
-
-
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image3.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
+Map of Jerusalem 2
 
 ![Map of Jerusalem 3, with Legend](/img/episode/261/Map-with-Legend-of-Jerusalem-3.jpg "Map of Jerusalem 3 with Legend")
-
-
-
-
-<p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image4.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
+Map of Jerusalem 3, with Legend
 
 ![Map of Jerusalem 4](/img/episode/261/Map-of-Jerusalem-4.jpg "Map of Jerusalem 4")
-
-
-<p id="gdcalert5" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image5.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert6">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
+Map of Jerusalem 4
 
 ![Map of Jerusalem 5](/img/episode/261/Map-of-Jerusalem-5.jpg "Map of Jerusalem 5")
-
+Map of Jerusalem 5
 
 
 ## References
