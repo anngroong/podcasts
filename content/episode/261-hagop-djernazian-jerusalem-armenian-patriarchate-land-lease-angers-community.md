@@ -3,16 +3,16 @@
 date = 2023-06-10T00:16:54-07:00
 author = "Armenian News Network - Groong"
 truncate = ""
-upcoming = true
+upcoming = false
 
 title = "Hagop Djernazian - Jerusalem Armenian Patriarchate Land Lease Angers Worldwide Community | Ep. 261 - June 11, 2023"
 subtitle = "Armenian News Network Groong - June 11, 2023"
 
 
-podcast_file = ""
-podcast_bytes = ""
-podcast_duration = ""
-youtube = ""
+podcast_file = "13016491-hagop-djernazian-questionable-99-year-land-lease-by-the-armenian-patriarchate-in-jerusalem-ep-261-june-11-2023.mp3"
+podcast_bytes = "19605251"
+podcast_duration = "1630"
+youtube = "q4kDb5y8pb8"
 
 episode_image = "img/episode/261/thumbnail-261.webp"
 episode_banner = "img/episode/261/banner-261.webp"
