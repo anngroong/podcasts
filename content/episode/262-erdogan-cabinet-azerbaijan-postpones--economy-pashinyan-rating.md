@@ -1,11 +1,11 @@
 +++
 Date = 2023-06-13T18:06:59+04:00
+upcoming = false
 
 podcast_file = "13033385-erdogan-cabinet-azerbaijan-postpones-economy-pashinyan-rating-ep-262-june-11-2023.mp3"
 podcast_duration = "4042"
 podcast_bytes = "48540650"
 youtube = "Yr8OeOvlDVU"
-upcoming = true
 
 episode_image = "img/episode/262/thumbnail-262.webp"
 episode_banner = "img/episode/262/banner-262.webp"
@@ -35,13 +35,12 @@ Description = """
 * Economic Developments, More Subsidies to IT Sector
 * MPG Poll: Pashinyan's Rating is Falling 
 
-Episode 252 | Recorded: May 9, 2023"""
+Episode 252 | Recorded: June 12, 2023"""
 
 +++
 
-# Topics This Week
 
-## Turkish Cabinet Appointments
+# Turkish Cabinet Appointments
 
 The elections in Turkey are over. We’re looking to do a deeper dive into this topic with a turkologist, but Hrant, since it's fresh on our mind…
 
@@ -55,16 +54,14 @@ Erdogan’s first visit will be to Azerbaijan btw.
         * I believe his thesis was on relations with Armenia
 
 **Question**:
-
 * How do you think Turkish policy will shift during Erdogan’s third term?
 
-## Armenia-Azerbaijan Negotiations Cont’d
+
+# Armenia-Azerbaijan Negotiations Cont’d
 
 ### Azerbaijan Postpones Washington Meetings
 
 This week was marked with continuing tensions on the border and shootings in Artsakh. Azerbaijan postponed a scheduled meeting of the foreign ministers in Washington DC, which was due to take place today, June 12th. Instead Azerbaijani FM Jeyhun Bayramov presented new [reasons](https://news.am/eng/news/764078.html) why Azerbaijan is not signing a peace agreement with Armenia:
-
-
 
 1. Alleged Armenian military presence in Nagorno Karabakh;
 2. Armenia “hindering” talks between Baku and Stepanakert;
@@ -75,14 +72,11 @@ Pashinyan aide Arsen Torosyan [brushed aside](https://www.azatutyun.am/a/3244894
 There are also [reports](https://armenpress.am/eng/news/1113052.html) today that Azerbaijan may have postponed the meeting at the request of incoming Turkish foreign minister Hakan Fidan. This week Erdogan will visit Azerbaijan, and it is expected that the two countries will realign their coordinated strategies against Armenia, as Erodgan’s third term as president begins.
 
 **Questions:**
-
-
-
 * What do you think are the reasons for Azerbaijan postponing the meeting in Washington?
 * What can we guess as being the current hurdles in the negotiations, from Bayramov’s excuses?
 
 
-### Border Negotiations
+## Border Negotiations
 
 Last week we discussed how Pashinyan was signaling to Azerbaijan that the 1975 Soviet maps are an acceptable basis for border negotiations. We were surprised because these maps are not at all advantageous for Armenia, so we were wondering what Azerbaijan’s position was. Azerbaijan [rejected](https://mfa.gov.az/en/news/no30423) this.
 
@@ -91,34 +85,24 @@ It turns out that the Azeri [press](https://twitter.com/ultra_ehsan/status/16660
 As we know, during these past 3 years, Azerbaijan and Turkey have also officially welcomed irredentist movements like West Azerbaijan, Zangezur - Goycha Republic, etc… to be set up.
 
 **Questions:**
-
-
-
 * Clearly there’s no agreement on “maps”. Are border negotiations stalled?
 
 Notes:
-
-
-
 * We know that Azerbaijan’s declaration of independence mentions that it is descendant of the 1918 “Azerbaijan Democratic Republic” and not USSR
 
 
-## Economic Developments
+# Economic Developments
 
-
-### Government Subsidies for IT
+## Government Subsidies for IT
 
 The Armenian government has decided to [reduce](https://hetq.am/hy/article/157004) the taxes for the IT sector from 20% to just 5%.
 
 **Questions:**
-
-
-
 * Is this a sound policy?
 * Who is benefiting from this tax policy?
 
 
-### Western Sanctions on Russia Affecting Armenia
+## Western Sanctions on Russia Affecting Armenia
 
 As we know, Russia has been heavily sanctioned by the west since the war in Ukraine. Armenia has remained largely unscathed by these sanctions until recently. The US [called out](https://civil.ge/archives/547163) a number of countries for evading sanctions; mentioned were: Turkey, Kazakhstan, Georgia, the United Arab Emirates, and Armenia. Not mentioned: Azerbaijan, which is diverting Russian oil products and gas to Europe! We’re not talking a few millions here, like for Armenia, but rather billions with a B, in the case of Azerbaijan.
 
@@ -127,23 +111,19 @@ This is the type of selective and arbitrary favoritism which undermines the west
 Anyway, so far two Armenian companies have been affected, The government has [tightened control](https://www.azatutyun.am/a/32449231.html) on re-exporting of dozens of types of electronics products to Russia. And this week, Armenian banks began to [block transactions](https://www.kommersant.ru/doc/6028993) with certain Russian companies that import material from Armenia.
 
 **Questions:**
-
-
-
 * How serious is the US pressure, especially (in absence of pressure on Azerbaijan?
 * What effect will this have on Russia-Armenia trade?
 
 
-### New ANPP Discussions
+## New ANPP Discussions
 
 One topic that may have been discussed in Sochi, when Pashinyan met with Russian PM Mikhail Mishustin, was the Russian proposals for building a new Nuclear Power Plant for Armenia (ANPP). Russia is proposing a 1200 MW reactor, while the US has proposed [modular-reactors for Armenia](https://www.azatutyun.am/a/32450621.html), on the scale of 465 MW.
 
 **Questions:**
-
 * One of the major considerations in deciding what type of NPP to acquire is the economic one. Can Armenia find a big enough distribution market? for the electricity it might generate?
 
 
-## New MPG Poll
+# New MPG Poll
 
 Results of a new poll were released by MPG.
 
@@ -189,10 +169,9 @@ The first two questions tease out the public sentiment towards the policy of the
     * **Summary**: 8.4% Possible, 86.4% Impossible
 
 **Questions**:
-
 * So with nearly 90% of Armenians saying that it is impossible for Artsakh to be part of Azerbaijan, how is this regime planning on implementing its policy which has been expressed unequivocally by Pashinyan, Simonyan, and others?
 
-### Confidence in Government
+## Confidence in Government
 
 **Question 6**: Need for elections
 
@@ -210,7 +189,6 @@ The first two questions tease out the public sentiment towards the policy of the
 
 **Question 12**: Rating of the Prime Minister
 
-
 ![Rating of the Prime Minister](/img/episode/262/mpg-question12.webp "Rating of the Prime Minister")
 
 
@@ -225,7 +203,7 @@ The first two questions tease out the public sentiment towards the policy of the
     * **Summary**: Positive: 18.8%, Negative: 71.3%
 
 
-### East vs. West
+## East vs. West
 
 **Question 3**: EU Mission
 
@@ -255,10 +233,9 @@ The first two questions tease out the public sentiment towards the policy of the
     * Difficult to Answer 19.0%
 
 **Questions**:
-
 * We see a significant drop in trust in EU monitors, but also a significant number of people, 32.8%, still think that Pashinyan is trying to balance relations between West and Russia? Only 12.9% of people think that Pashinyan’s actions are intended to push Russia out of the region. Are these two answers contradicting each other?
 
-### Others Questions
+## Others Questions
 
 **Question 4**: Gayane Hakobyan
 
@@ -327,13 +304,6 @@ The first two questions tease out the public sentiment towards the policy of the
     * Somewhat unmet: 18.0% (2021: 10.2%, 2019: 11.4%, 2018: 7.6%)
     * Completely unmet: 52.1% (2021: 46.0%, 2019: 18.3%, 2018: 10.9%)
     * Difficult to Answer: 4.6% (2021: 7.0%, 2019: 2..3%, 2018: 3.0%)
-
-Alright, let’s wrap up our topics here. I’d like to ask each of you if there’s been something on your mind this past week that you want to talk about.
-
-
---
-
-Alright, we’ll leave it there for today! Thank you everyone!
 
 
 # Wrap-up
