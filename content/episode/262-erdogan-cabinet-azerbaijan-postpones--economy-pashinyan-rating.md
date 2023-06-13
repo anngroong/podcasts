@@ -1,10 +1,10 @@
 +++
 Date = 2023-06-13T18:06:59+04:00
 
-podcast_file = "###.mp3" # the name of the podcast file, after the media prefix.
-podcast_duration = ""
-podcast_bytes = ""
-youtube = ""
+podcast_file = "13033385-erdogan-cabinet-azerbaijan-postpones-economy-pashinyan-rating-ep-262-june-11-2023.mp3"
+podcast_duration = "4042"
+podcast_bytes = "48540650"
+youtube = "Yr8OeOvlDVU"
 upcoming = true
 
 episode_image = "img/episode/262/thumbnail-262.webp"
@@ -19,7 +19,7 @@ explicit = "no" # values are "yes" or "no"
 
 series = ["wir"]
 categories = ["Armenia", "Artsakh", "Politics", "Poll"]
-#tags = []
+tags = ["Hrant Mikaelian", "Armenia", "Artsakh", "Nagorno Karabakh", "Azerbaijan", "Washington", "Michael Carpenter", "OSCE", "CSTO", "CIS", "EAEU", "Russia", "Corridors", "Borders", "Delimitation", "Peace Negotiations", "United States", "European Union", "MPG", "Poll", "Nikol Pashinyan", "Ilham Aliyev", "Armenian Nuclear Power Plant", "Modular Nuclear Reactors", "Jeyhun Bayramov", "Ararat Mirzoyan", "Russian Sanctions", "IT Companies", "Hakan Fidan", "Ibrahim Kalin", "Arsen Torosyan", "Treaty of Batumi", "Treaty of Alexandropol"]
 
 title = "Hrant Mikaelian - Erdogan Cabinet | Azerbaijan Postpones Meeting | Economic Developments | MPG Poll on Pashinyan Rating"
 subtitle = "ANN Groong Week in Review - June 11, 2023"
@@ -339,3 +339,5 @@ Alright, we’ll leave it there for today! Thank you everyone!
 # Wrap-up
 
 We hope you found our [Week in Review](https://podcasts.groong.org/) helpful. We invite your feedback and your suggestions, you can [find us](https://linktr.ee/groong) on most social media and podcast platforms. Thanks to Laura Osborn for the music on our podcasts.
+
+
