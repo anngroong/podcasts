@@ -34,9 +34,9 @@ Description = """
 #### Topics:
 * Concrete Barriers On Hakari Bridge
 * Erdogan visit to Azerbaijan
-* Lukashenko At the CSTO
+* Lukashenko at the CSTO
 * Putin Defuses Wagnerian Opera
-* Pashinyan Gives 44-Day War Testimony in Parliament
+* Pashinyan 44-Day War Testimony in Parliament
 * HayaQve [.am]
 
 Episode 264 | Recorded: June 27, 2023"""
