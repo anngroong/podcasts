@@ -6,7 +6,7 @@ upcoming = false
 podcast_file = "13127073-tevan-poghosyan-barriers-on-hakari-erdogan-in-azerbaijan-lukashenko-at-csto-wagner-defused-pashinyan-testimony-hayaqve.mp3"
 podcast_bytes = "46923841"
 podcast_duration = "3907"
-youtube = ""
+youtube = "gGS5dZbnIUE"
 
 episode = "264"
 aliases = ["/264"]
@@ -32,12 +32,12 @@ Description = """
 
 
 #### Topics:
-* Accelerated Negotiations
-    * Negotiations Carousel
-    * Meghri Railway
-    * Russia Finances Rasht-Astara
-    * Rallies in Artsakh and Kornidzor
-* Artsakh Domestic Politics
+* Concrete Barriers On Hakari Bridge
+* Erdogan visit to Azerbaijan
+* Lukashenko At the CSTO
+* Putin Defuses Wagnerian Opera
+* Pashinyan Gives 44-Day War Testimony in Parliament
+* HayaQve [.am]
 
 Episode 264 | Recorded: June 27, 2023"""
 
