@@ -25,8 +25,7 @@ series = ["cog"]
 categories = ["Russia", "WagnerGroup"]
 tags = ["Anna Abrahamian", "Russia", "Wagner Group", "Vladimir Putin", "Yevgeny Prigozhin", "Alexander Lukashenko", "Sergei Shoigu", "Valery Gerasimov", "Sergei Surovikin", "Kremlin", "Moscow", "Belarus", "Minsk"]
 
-Description = """The Wagner Insurrection in Russia - June 2023
-
+Description = """
 #### Guest:
 * [Anna Abrahamian](/guest/aabrahamian)
 
