@@ -25,14 +25,9 @@ series = ["cog"]
 categories = ["Russia", "WagnerGroup"]
 tags = ["Anna Abrahamian", "Russia", "Wagner Group", "Vladimir Putin", "Yevgeny Prigozhin", "Alexander Lukashenko", "Sergei Shoigu", "Valery Gerasimov", "Sergei Surovikin", "Kremlin", "Moscow", "Belarus", "Minsk"]
 
-Description = """
-Today we’re going to talk with Anna Abrahamian about two or three topics.
+Description = """The Wagner Insurrection in Russia - June 2023
 
-* The Munich Security Conference 2023.
-* We’ll touch on Russian president Putin’s state of the federation address.
-* The latest political developments in Artsakh.
-
-####Guest: 
+#### Guest:
 * [Anna Abrahamian](/guest/aabrahamian)
 
 #### Topics:
@@ -43,7 +38,7 @@ Today we’re going to talk with Anna Abrahamian about two or three topics.
 * On The Western Front
 
 
-Episode 265 | Recorded: July 1, 2023"""
+Episode 265 | Recorded: June 30, 2023"""
 
 +++
 
