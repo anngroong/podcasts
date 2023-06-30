@@ -31,7 +31,7 @@ Description = """
 
 #### Topics:
 * The Wagner Group
-* Special Ops in Ukraine
+* Special Ops in Russia
 * Over at The Ministry of Defense
 * A White Russian
 * On The Western Front
