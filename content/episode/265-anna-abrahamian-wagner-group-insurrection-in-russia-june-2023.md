@@ -55,7 +55,6 @@ Prigozhin is one of the public faces behind a private army called the Wagner Gro
 Within 24-48 hours Putin had dealt with the conflict, which is pretty amazing by itself.
 
 **Questions:**
-
 * What are the origins of the Wagner Group?
 * Who is Yevgeny Prigozhin, and is he in charge of Wagner?
     * We’ve heard of other names connected with Wagner, including Lt. Col. Dmitry Utkin, Col. Konstantin Pikalov, Col. Andrei Troshev, Col. Gen. Mikhail Mizintsev but those names aren’t normally mentioned in press.
@@ -69,10 +68,9 @@ The Wagner Group became engaged in the war in Ukraine fairly early on, and was m
 The events culminated with Prigozhin announcing a March on Moscow on June 23, in which Prigozhin claimed that tens of thousands of Wagner troops took part in. There were reports of fighting with the regular army and apparently there were deaths on both sides as well as evidence of downed equipment such as helicopters.
 
 **Questions:**
-
 * Can you describe what happened in Russia almost two weeks ago?
-    * Reports vary widely from source to source.
-    * How far did The Wagner Group go, or did they intend to go? What was their intent?
+* Reports vary widely from source to source.
+* How far did The Wagner Group go, or did they intend to go? What was their intent?
 
 
 ## Over at the Ministry of Defense
@@ -80,7 +78,6 @@ The events culminated with Prigozhin announcing a March on Moscow on June 23, in
 Defense minister Sergei Shoigu and the Chief of the Generals Staff Valery Gerasimov appear to be allies. Gerasimov replaced General Sergei Surovikin, who then assumed command of the operations in Ukraine. Only in the past day, Surovikin has been [detained](https://www.npr.org/2023/06/29/1185088717/russia-general-detained-ukraine-commander). There are reports that Surovikin had advance knowledge of the Wagner insurrection.
 
 **Questions:**
-
 * Who are the different camps in the Russian military leadership?
 * Are Shoigu and Gerasimov on the same page as Putin? Who does Putin talk to, or rely on, regarding the war in Ukraine?
 * Is Surovikin’s detention the start of perhaps more purges in the defense ministry leadership ranks?
@@ -96,7 +93,6 @@ Reportedly, Belarus president Alexander Lukashenko, who personally knows Prigozh
 As part of the deal, Prigozhin went to Belarus. The Wagner Group fighters were essentially amnestied and to be absorbed in the Russian defense forces.
 
 **Questions:**
-
 * Did the two sides need a face-saving option to back down?
 * Can you discuss Lukashenko’s role here, and how he provided value to both sides?
 * With Prigozhin moving to Belarus, does the Wagner Group essentially move to Russia?
@@ -107,7 +103,6 @@ As part of the deal, Prigozhin went to Belarus. The Wagner Group fighters were e
 The west was careful to not comment while events in Russia were unfolding, but since the apparent end of events and the striking of the deal, mostly the west has tried to portray Putin as isolated and weakened. On the other hand, some also say that despite everything Putin is still the preferred leader in Russia to hold the reins of the world’s largest nuclear arsenal, because if not him, then who?
 
 **Questions:**
-
 * Some have suggested that Prigozhin may have been bought out by the west. Do you see any traces of western involvement in these events?
 
 
@@ -116,7 +111,6 @@ The west was careful to not comment while events in Russia were unfolding, but s
 With Prigozhin’s departure for Belarus and the dissolution of the Wagner Group mercenary army, it seems that for now this act of Wagner’s Russian Opera may be over.
 
 **Questions:**
-
 * Is it really?
 * Where have the Wagner events left Putin? Is he weakened, or strengthened?
 * Are Russia’s, and Putin’s, domestic troubles at an end?
@@ -127,21 +121,20 @@ With Prigozhin’s departure for Belarus and the dissolution of the Wagner Group
 
 Earlier you said that “everyone benefited from this”, including Putin.
 
+**Questions:**
 * Isn’t this appeasement? One of the things that Serzh Sargsyan is criticized for is Was this Putin’s “Sasna Tsrer” moment?
 
 ## Use of PMCs in Armenia?
 
-You mentioned that the use of private military contractors is now the norm so to say. Some call them mercenaries. You mentioned that the US popularized their use. France has its “foreign legion”. Turkey makes use of Syrian fighters. Even the United Nations makes use of PSMCs. 
+You mentioned that the use of private military contractors (PMC) is now the norm so to say. Some call them mercenaries. You mentioned that the US popularized their use. France has its “foreign legion”. Turkey makes use of Syrian fighters. Even the United Nations makes use of PMCs.
 
-Yet, the line between private military contractors and “mercenaries” is thin. And there is an international convention called the UN “Mercenary Convention” which prohibits the use of mercenaries.
+Yet, the line between PMCs and “mercenaries” is thin. And there is an international convention called the UN “Mercenary Convention” which prohibits the use of mercenaries.
 
-And guess what! Armenia signed/ratified this convention right during the 44 day war.
+And Armenia has signed and ratified this convention right during the 44 day war.
 
-Questions:
-
+**Questions:**
 * Does this mean that Armenia has signed away the ability to use PMCs in the future?
 
-Alright, we’ll leave it there for today. Thank you Anna, great talking with you.
 
 # Wrap-up
 
