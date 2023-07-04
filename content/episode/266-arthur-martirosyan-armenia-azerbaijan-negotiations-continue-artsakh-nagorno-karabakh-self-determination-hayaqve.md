@@ -14,7 +14,7 @@ episode_image = "img/episode/266/thumbnail-266.webp"
 episode_banner = "img/episode/266/banner-266.webp"
 images = ["img/episode/266/banner-266.webp"]
 
-title = "Armenian Genocide Anniversary | Artsakh In Stranglehold | Israel-Azerbaijan"
+title = "Arthur G Martirosyan - Armenia Azerbaijan Negotiations Continue | Self-Determination for Artsakh | Hayaqve [.am]"
 subtitle = "Armenian News Network Groong - July 2, 2023"
 
 guests = ["amartirosyan"]
