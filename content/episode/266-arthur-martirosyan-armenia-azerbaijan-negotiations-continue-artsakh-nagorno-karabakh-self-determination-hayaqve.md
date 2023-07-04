@@ -18,7 +18,7 @@ title = "Arthur G Martirosyan - Armenia Azerbaijan Negotiations Continue | Self-
 subtitle = "Armenian News Network Groong - July 2, 2023"
 
 guests = ["amartirosyan"]
-hosts = ["asbed", "hovik"]
+hosts = ["hovik", "asbed"]
 
 
 series = ["wir"]
