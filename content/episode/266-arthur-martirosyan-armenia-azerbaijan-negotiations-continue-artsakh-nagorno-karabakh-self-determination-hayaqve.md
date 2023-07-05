@@ -105,7 +105,7 @@ There were no statements or comments made about the third and fourth items, “u
 
 Pashinyan’s government has claimed that one of their main achievements is in returning Karabakh to the negotiating table. Not only do we not see Stepanakert around the negotiations anywhere, but Yerevan is roundly ignoring Stepanakert’s [call](https://www.azatutyun.am/a/32480649.html) to stop negotiations.
 
-**Questions:**
+**Question:**
 * Do you see any possibility for Stepanakert’s calls for the OSCE MG to come together, to provide a platform for Baku-Stepanakert dialogue?
 
 
