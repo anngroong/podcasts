@@ -1,6 +1,6 @@
 +++
-Date = 2023-07-05T23:00:00+04:00
-upcoming = true
+Date = 2023-07-04T23:00:00+04:00
+upcoming = false
 
 podcast_file = "13162482-arthur-martirosyan-armenia-azerbaijan-negotiations-in-washington-dc-ep-255-july-2-2023.mp3"
 podcast_bytes = "48146715"
@@ -24,7 +24,7 @@ hosts = ["hovik", "asbed"]
 series = ["wir"]
 categories = ["Armenia", "Artsakh", "Politics"]
 explicit = "no" # values are "yes" or "no"
-tags = ["Arthur Martirosyan", "Armenia", "Artsakh", "Nagorno Karabakh", "Hayaqve", "Hayaqve.am", "Azerbaijan", "Turkey", "Russia", "Corridors", "Borders", "Demarcation", "Peace Negotiations", "United States", "EU", "European Union"]
+tags = ["Arthur Martirosyan", "Armenia", "Artsakh", "Nagorno Karabakh", "Hayaqve", "Hayaqve.am", "Azerbaijan", "Turkey", "Russia", "Corridors", "Borders", "Demarcation", "Peace Negotiations", "United States", "EU", "European Union", "Vartan Oskanian"]
 
 Description = """
 
@@ -32,18 +32,22 @@ Description = """
 * [Arthur G. Martirosyan](/guest/amartirosyan)
 
 #### Topics:
-* Armenia-Azerbaijan Negotiations Continue in DC
-* Artsakh Self-Determination
+* Armenian Azerbaijan Negotiations Continue
+    * Negotiations in DC: chances of progress
+    * Vartan Oskanian on negotiations
+    * Rights and Security
+    * Self-Determination for Artsakh
+    * Border Demarcation
+    * No Unblocking or Guarantees
 * [Hayaqve.am](https://hayaqve.am)
+* Rants
 
 Episode 266 | Recorded: July 4, 2023
 """
 
 +++
 
-# Main Topics
-
-##  Armenia-Azerbaijan Negotiations Continue in DC
+## Armenia-Azerbaijan Negotiations Continue in DC
 
 In the past month, Azerbaijan has fired on Armenian and Artsakh border positions and villages almost daily, and in the past couple of weeks they installed [concrete barriers](https://armenpress.am/eng/news/1113990.html) on their so-called checkpoint on the Lachin/Berdzor corridor, to block all connection between the two Armenian states. Additionally, Azerbaijan’s shootings killed 4 Artsakh servicemen a week ago.
 
@@ -54,21 +58,18 @@ Authorities in Artsakh [urged](https://www.azatutyun.am/a/32480649.html) Armenia
 [Despite all this](https://www.azatutyun.am/a/32482245.html), the foreign ministers of Armenia and Azerbaijan were [again in Washington](https://www.azatutyun.am/a/32482705.html) DC this past week for talks mediated in the State Department by secretary of state Anthony Blinken. At the end of the negotiating session, Blinken announced “some progress”, around several more articles of a document that will be called “Peace and Normalization of Relations”.
 
 **Questions:**
-
-
 * From a negotiations theory perspective, would it be a good idea for Armenia to heed the call of Artsakh authorities and stop negotiations?
     * If it is important for Washington and other international powers to push forward these agreements, can’t they persuade Azerbaijan to stop killing Armenians, which seems to especially be timed around international meetings?
 * Azerbaijan’s provocations are essentially terroristic in nature, geared to spread fear, and support its diplomacy of force in the negotiations with Armenia. So despite Armenia continuing the talks, is there any chance for progress, let alone success in the current climate?
 
-Former foreign minister Vardan Oskanian said today that if only Pashinyan would leave diplomacy to expert diplomats, 3 months would be enough to achieve a significantly positive outcome. He said that in order to do this, the logic and narrative of the negotiations must change. \
+Former foreign minister [Vardan Oskanian](https://168.am/2023/07/04/1895898.html) [said](https://168.am/2023/07/04/1895913.html) today that if only Pashinyan would leave diplomacy to expert diplomats, 3 months would be enough to achieve a significantly positive outcome. He said that in order to do this, the logic and narrative of the negotiations must change. \
+
 
 **Questions:**
-
 * Do you believe this is possible?
 * How would you change the logic and narrative of negotiations, starting from the status quo we have today?
 
 There are are four major agenda items where the current disagreements reportedly lie:
-
 1. Rights and Security of Artsakh people
 2. Border demarcation details (maps, etc)
 3. Unblocking of communications and transportation in the region
@@ -84,32 +85,31 @@ Empirically, the Soviet years have shown that any existence of Armenians that is
 Now, the leadership of Azerbaijan - one that has undergone 30 years of government-sponsored anti-Armenian hate indoctrination - has explicitly [rejected](https://www.azatutyun.am/a/32472713.html) the idea of providing rights and security guarantees to the Armenians of Artsakh.
 
 **Question:**
-
 * When the Pashinyan regime officials repeat the phrase “rights and security”, what do they envision? Can such guarantees even be realized without international presence? Where does Azerbaijan’s direct rejection of “rights & security”, the main thesis of the Pashinyan so-called “era of peace” platform, leave Armenia’s diplomacy?
+
 
 ### Border Demarcation
 
 Apparently Armenia is not simply OK with using the 1975 Soviet maps as a basis for border demarcations, they actually want to use these maps. Meanwhile, Azerbaijan has so far rejected this, saying that with other countries Azerbaijan has demarcated borders “on the basis of analyses and examination of legally binding documents, rather than any specially chosen maps.”
 
 **Question:**
-
 * What does this mean? What does Azerbaijan want, is it basically trying to lock in the current line of contact as the official interstate border, meaning that its current occupation of sovereign territory inside Armenia would become de jure Azeri territory?
+
 
 ### No Unblocking or Guarantees Discussions
 
 There were no statements or comments made about the third and fourth items, “unblocking” and “guarantees”, so it appears that negotiations in DC sort of petered out. 
 
 **Question:**
-
 * What do you expect we’ll see as outcomes from DC?
 
 Pashinyan’s government has claimed that one of their main achievements is in returning Karabakh to the negotiating table. Not only do we not see Stepanakert around the negotiations anywhere, but Yerevan is roundly ignoring Stepanakert’s [call](https://www.azatutyun.am/a/32480649.html) to stop negotiations.
 
 **Questions:**
-
 * Do you see any possibility for Stepanakert’s calls for the OSCE MG to come together, to provide a platform for Baku-Stepanakert dialogue?
 
-### Artsakh: What Choices Does it Have?
+
+### What Choices Does Artsakh Have?
 
 It has been 19 days since the complete closing of the so-called “checkpoint” to even humanitarian supplies.
 
@@ -117,31 +117,29 @@ Reportedly Stepanakert last month [rejected](https://www.azatutyun.am/a/32487616
 
 Pashinyan’s policy that he recognizes Artsakh as Azerbaijan has led to other international actors standing up to support capitulation and abandon the cause of Artsakh:
 
+**Questions:**
 * US Ambassador to Armenia, Kvien, [said](https://www.youtube.com/watch?v=zMg8VDPACj0), with a straight face, that the US “believes and hopes” that Armenians of Artsakh can live in Azerbaijan with their rights and security guaranteed.
 * Meanwhile, Josep Borell, the EU Foreign affairs chief, [said](https://www.panorama.am/en/news/2023/06/14/Borrell-Pashinyan/2851421): “For the first time, and this may be relevant, Armenia has recognized Karabakh as part of Azerbaijan”
 
 Artsakh is totally surrounded and strangled with apparently even Armenian leaders slowly normalizing its abandonment. The mandate of Russian peacekeepers expires in 2 years and Azerbaijan is sending clear signals that it will not agree with a renewal of the mission for another 5 years.
 
-**Questions:**
-
+**Question:**
 * With the facts that we have above, what choices does Artsakh have?
+
 
 ## Haya-Qve
 
-This is a reminder that if you’re a citizen of Armenia and eligible to vote, then please go and sign this [citizen’s initiative](https://www.azatutyun.am/a/32487373.html). Find out more at:
+This is a reminder that if you’re a citizen of Armenia and eligible to vote, then please go and sign this [citizen’s initiative](https://www.azatutyun.am/a/32487373.html).
 
+Find out more at:
 * [https://hayaqve.am/](https://hayaqve.am/)
 * [https://www.facebook.com/hayaqve/](https://www.facebook.com/hayaqve/) 
-
-Alright, let’s wrap up our topics here. I’d like to ask each of you if there’s been something on your mind this past week that you want to talk about.
 
 
 ## Topics from the Panelists
 
 * **Arthur**: Ukraine’s [demand](https://www.rferl.org/a/emaciated-saakashvili-reiterates-innocence-trial-video-link/32487438.html) for Georgia to return Saakashvili, and Georgia’s strength to stand for its own national interests.
-* **Hovik**: Civil Contract’s “active remorse”.
-
-Alright, we’ll leave it there for today! Thank you everyone!
+* **Hovik**: Civil Contract’s “active remorse” contortions.
 
 # Wrap-up
 
