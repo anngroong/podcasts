@@ -8,7 +8,7 @@ subtitle = "Armenian News Network Groong - July 7, 2023"
 podcast_file = "13183124-artsakh-blockade-flash-update-with-gev-july-7-2023.mp3"
 podcast_bytes = "10772377"
 podcast_duration = "894"
-youtube = ""
+youtube = "H8oUE2GS0I8"
 
 episode_image = "img/episode/267/thumbnail-267.webp"
 episode_banner = "img/episode/267/banner-267.webp"
