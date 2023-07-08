@@ -1,6 +1,6 @@
 +++
 Date = 2023-07-07T00:00:00+04:00
-upcoming = true
+upcoming = false
 
 title = "Artsakh Blockade Flash Update with Gev Iskajyan - Ep 267, July 7, 2023"
 subtitle = "Armenian News Network Groong - July 7, 2023"
