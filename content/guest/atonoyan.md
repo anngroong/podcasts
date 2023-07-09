@@ -2,7 +2,7 @@
 Date = 2020-08-02T04:00:01-08:00
 title = "Artyom Tonoyan"
 Pronouns = ""
-Twitter = "artyomtonoyan"
+Twitter = "DrArtyomTonoyan"
 Website = ""
 Type = "guest"
 Facebook = ""
