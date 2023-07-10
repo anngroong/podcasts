@@ -23,7 +23,7 @@ explicit = "no"
 
 series = ["wir"]
 categories = ["Armenia", "Politics"]
-tags = ["Benyamin Poghosyan", "Armenia", "Artsakh", "Nagorno Karabakh", "Azerbaijan", "Peace Negotiations", "Armenia Azerbaijan Negotiations", "Nikol Pashinyan", "Ilham Aliyev"]
+tags = ["Benyamin Poghosyan", "Armenia", "Artsakh", "Nagorno Karabakh", "Azerbaijan", "Us", "National Security", "Nsc", "Nikol Pashinyan", "Ilham Aliyev", "Armen Grigoryan", "Jake Sullivan", "Mpg", "Mpg Poll", "War Commission", "Parliament", "Testimony", "Parliamentary Hearings", "Ruling Party", "Civil Contract", "Opposition Boycott"]
 
 Description = """
 #### Guest:
