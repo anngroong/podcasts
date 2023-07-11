@@ -33,6 +33,7 @@ Description = """
 * Armenia Azerbaijan Negotiations
 * US, Armenian NSC Advisors Meet
 * New MPG Poll
+* Haya-Qve [.am]
 
 Episode 268 | Recorded: July 10, 2023"""
 
@@ -40,7 +41,7 @@ Episode 268 | Recorded: July 10, 2023"""
 
 ## Armenia Azerbaijan Negotiations
 
-I guess we’d be remiss if we didn’t talk about Armenia Azerbaijan negotiations. There was hardly any progress reported by any of the sides two weeks ago in DC. Since then we’ve learned that a month ago in June, Artsakh authorities [rejected](https://www.azatutyun.am/a/32492198.html) a US invitation to hold Baku-Stepanakert dialog in Washington.
+There was hardly any progress reported by any of the sides two weeks ago in DC. Since then we’ve learned that a month ago in June, Artsakh authorities [rejected](https://www.azatutyun.am/a/32492198.html) a US invitation to hold Baku-Stepanakert dialog in Washington.
 
 The US agenda for this so-called dialog was evident in ambassador Kristina Kvien’s comments on Armenian Public TV, that Artsakhtsis could live under Azeri rule. Stepanakert [criticized](https://www.azatutyun.am/a/32492079.html) her for “appeasing the oppressor” and “predetermining the outcome” of the talks. Kvien tried to explain her words, but a lot of damage has been done to her political capital.
 
@@ -57,27 +58,14 @@ For example:
 **Question**:
 * How is it that the Pashinyan regime continues to negotiate with mediators who are reportedly pressuring them into concessions that degrade Armenian national security and interests?
 
-As we just mentioned, Azerbaijan does not accept France as a mediator at this point, because they consider them “too pro-Armenian”. French FM Catherine Colonna has recently made [strong statements](https://www.azatutyun.am/a/32493862.html) that any peace accord must contain “firm security guarantees” ensured by “international mechanisms”, but they have also been clear that they can not help militarily.
+As noted, Azerbaijan does not accept France as a mediator at this point because they consider them “too pro-Armenian”. French FM Catherine Colonna has recently made [strong statements](https://www.azatutyun.am/a/32493862.html) that any peace accord must contain “firm security guarantees” ensured by “international mechanisms”, but they have also been clear that they can not help militarily.
 
 France is not the only Western power that is not able to help Armenia in military matters. This week, Alen Simonyan announced that Armenia [was denied](https://www.azatutyun.am/a/32489142.html) military aid from a special fund available for boosting EU partners’ defense capacity.
 
 **Questions**:
-
 * Can we unequivocally say that the collective West, for example members of NATO and members of EU won’t be providing Armenia military aid anytime soon, especially as this war in Ukraine continues?
 * Why is there so little appetite in the west to support Armenians? Is it due to the US’s zero-sum game vs. Russia in the Caucasus?
 * Is it wise for Armenians, especially those in the Western-funded NGO circles, to present the west as a potential replacement for Russian weapons?
-
-Pashinyan periodically repeats his “[commitment](https://www.azatutyun.am/a/32491959.html) to the peace agenda”. We have come to consider this some kind of code he’s sending to Aliyev that negotiations can continue per agreements reached in closed meetings, to which we’re not privy. He’s saying “disregard my populist comments that slam Azerbaijan for this or that criminal behavior, really we continue with our business as usual”.
-
-These repeated re-assertions are very bizarre, especially because sometimes they come on the heels of egregious violence against Armenia and Armenians.
-
-**Question**:
-* What is your take on these bizarre “commitment to peace” proclamations? They border on the surreal.
-
-Former FM Vartan Oskanian has recently [said](https://168.am/2023/07/04/1895913.html) that if only skilled people were to take over Armenian diplomacy and negotiations, then Armenia’s positions could strengthen in 2-3 months time, and the [potential for violence](https://168.am/2023/07/04/1895898.html) would go down.
-
-**Question**:
-* What are your thoughts on what these possible avenues of success could be?
 
 
 ## US and Armenian NSC chairs Meet
