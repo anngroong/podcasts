@@ -29,14 +29,7 @@ Description = """
 #### Guest:
 * [Hrant Mikaelian](/guest/hmikaelian)
 
-#### Topics:/Users/asbed/Downloads/thumbnail-269.webp
-/Users/asbed/Downloads/banner-269.webp
-/Users/asbed/Downloads/banner-269.jpg
-/Users/asbed/Downloads/banner-269.png
-/Users/asbed/Downloads/art-269.jpg
-/Users/asbed/Downloads/art-269.png
-/Users/asbed/Downloads/thumbnail-269.jpg
-/Users/asbed/Downloads/thumbnail-269.png
+#### Topics:
 * Latest on Armenian Azerbaijani Negotiations
 * Economic State in Armenia
 * September Yerevan Mayoral Elections
