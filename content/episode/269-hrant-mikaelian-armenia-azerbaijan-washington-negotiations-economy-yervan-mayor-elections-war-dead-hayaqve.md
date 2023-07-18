@@ -1,11 +1,11 @@
 +++
 Date = 2023-07-17T18:06:59+04:00
-upcoming = true
+upcoming = false
 
 podcast_file = "13243555-hrant-mikaelian-latest-on-armenian-azerbaijani-negotiations-economic-state-in-armenia-september-yerevan-mayoral-elections-estimating-the-war-dead-hayaqve-am.mp3"
 podcast_bytes = "49090998"
 podcast_duration = "4088"
-youtube = ""
+youtube = "bS-wQ1ICIuw"
 
 episode_image = "img/episode/269/thumbnail-269.webp"
 episode_banner = "img/episode/269/banner-269.webp"
@@ -238,7 +238,7 @@ Find out more at:
 ## Topics from the Panelists
 * **Hrant**: Armavir and other archaeological sites left dilapidated
 * **Hovik**: Armen Grigoryan’s death in court; Taguhi Tovmasyan dismissed
-* Asbed: Thinking Vardevar, not thinking Artsakh
+* **Asbed**: Thinking Vardevar, not thinking Artsakh
 
 
 # Wrap-up
