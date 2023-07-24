@@ -3,7 +3,7 @@
 Date = 2023-07-25T00:15:00-07:00
 upcoming = true
 
-title = "Sergei Melkonian - Armenian Azerbaijani Negotiations | Armenian and the Rome Statute | US-Armenian Relations | Ep 271 - July 23, 2023"
+title = "Sergei Melkonian - Armenian Azerbaijani Negotiations | Armenia and the Rome Statute | US-Armenian Relations | Ep 271 - July 23, 2023"
 subtitle = "Armenian News Network Groong - July 23, 2023"
 
 podcast_file = ""
