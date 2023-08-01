@@ -117,7 +117,7 @@ Ceremoniously, the convoy of trucks was publicized starting their route near the
 
 The only problem is that the cargo stopped right on the border near Kornidzor and hasn’t moved an inch for five days. The Azerbaijanis announced that the truck convoy would be seen as a provocation. Even the embassies appeared to know something was up and sent only deputy-level officials. Not a single head of mission appears to have been part of the group. The US, for instance, sent the head of USAID in Armenia as part of the delegation.
 
-**Questions**:
+**Question**:
 * What was Yerevan’s goal in organizing this media and PR stunt about sending aid, if it appears that it hadn’t received agreement ahead of time that the aid would be allowed to go through?
 
 
@@ -127,7 +127,7 @@ Not only has Azerbaijan been persistently blocking any supplies via Kornidzor to
 
 Critic of the government Edgar Ghazaryan [says](https://www.youtube.com/watch?v=9WvCRaMIyb8) that this means nobody who fought in any of the wars, even those that were drafted and even women who may have served government posts in Artsakh would be immune. This would essentially be true even if people decided to use Aghdam for passing through.
 
-**Questions**:
+**Question**:
 * Where is this all heading? Is there  a way out of this situation?
 
 
@@ -150,7 +150,6 @@ Find out more at:
 * [https://hayaqve.am/](https://hayaqve.am/)
 * [https://www.facebook.com/hayaqve/](https://www.facebook.com/hayaqve/) 
 
-Alright, let’s wrap up our topics here. I’d like to ask each of you if there’s been something on your mind this past week that you want to talk about.
 
 
 ## Topics from the Panelists
