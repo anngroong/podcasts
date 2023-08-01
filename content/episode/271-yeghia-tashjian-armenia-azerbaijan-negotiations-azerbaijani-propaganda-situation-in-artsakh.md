@@ -143,7 +143,7 @@ This week, the [citizen’s initiative](https://www.azatutyun.am/a/32487373.html
 The petition is still open for joining, in order to ensure there is enough buffer to account invalid signatures.
 
 **Question**
-* Hovik, if you’re a citizen of Armenia and living abroad, like in Los Angeles, or wherever, can you vote on this initiative? How?
+* Can you vote on this initiative if you're a citizen living abroad'? How?
     * See [Armenian e-regulations](https://armenia.eregulations.org/procedure/36?l=en)
 
 Find out more at:
