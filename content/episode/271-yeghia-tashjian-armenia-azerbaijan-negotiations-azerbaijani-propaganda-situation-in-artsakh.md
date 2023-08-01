@@ -1,15 +1,14 @@
 +++
 
 Date = 2023-08-01T00:15:00+04:00
-upcoming = true
 
 title = "Yeghia Tashjian - Armenian Azerbaijani Negotiations | Azerbaijani Propaganda in Shushi | Situation In Artsakh | Ep 271 - July 30, 2023"
 subtitle = "Armenian News Network Groong - July 30, 2023"
 
-podcast_file = ""
-podcast_bytes = ""
-podcast_duration = ""
-youtube = ""
+podcast_file = "13329433-yeghia-tashjian-armenia-azerbaijan-negotiations-propaganda-in-shushi-situation-in-artsakh-ep-271-july-30-2023.mp3"
+podcast_bytes = "39328935"
+podcast_duration = "3273"
+youtube = "oQwDR0xAvAU"
 
 episode_image = "img/episode/271/thumbnail-271.webp"
 episode_banner = "img/episode/271/banner-271.webp"
