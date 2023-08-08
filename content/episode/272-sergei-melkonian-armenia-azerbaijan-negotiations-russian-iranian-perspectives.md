@@ -31,8 +31,8 @@ Description = """
 * [Sergei Melkonian](/guest/smelkonian)
 
 #### Topics:
-* Armenian Azerbaijani Negotiations Continue
-    * Russian and Iranian perspectives on the geopolitics of the Armenian-Azeri negotiations around Artsakh and their mutual borders.
+* Armenian Azerbaijani Negotiations
+    * Russian and Iranian perspectives on the geopolitics of the Armenian-Azeri talks around Artsakh and their mutual borders.
 * Thoughts from the Participants
 
 Episode 272 | Recorded: August 7, 2023"""
