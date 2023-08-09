@@ -154,7 +154,7 @@ Alright, let’s wrap up our topics here. I’d like to ask each of you if there
 
 ## Topics from the Panelists
 * **Sergei**: Wine festival in Yerevan, in such dire times for Armenia.
-* **Hovik**: Gayane Hakpyan will remain incarcerated.
+* **Hovik**: Gayane Hakopyan will remain incarcerated.
 
 
 # Wrap-up
