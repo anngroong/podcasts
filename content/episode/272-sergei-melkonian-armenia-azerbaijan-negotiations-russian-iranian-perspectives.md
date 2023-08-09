@@ -105,6 +105,10 @@ A few days ago Artsakh parliament speaker Arthur Tovmasyan resign.
 * Why did Artsakh parliament speaker Arthur Tovmasyan [resign](https://armenpress.am/eng/news/1116346.html)?
 * What are the options and prospects for electing a new speaker this week?
 
+## Topics from the Panelists
+* **Hovik**: Pashinyan at the Gyumri pan-Armenian games.
+* **Sergei**: Artsakh defeats pro-Turkish narrative. Also, last week's MPG polls yield encouraging results.
+
 
 
 # Wrap-up
