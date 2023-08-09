@@ -2,7 +2,7 @@
 Date = 2023-06-05T04:45:01+04:00
 title = "Sergei Melkonian"
 Pronouns = ""
-Twitter = ""
+Twitter = "MelkonianSergei"
 Website = ""
 Type = "guest"
 Facebook = "sergei.melkonian"
