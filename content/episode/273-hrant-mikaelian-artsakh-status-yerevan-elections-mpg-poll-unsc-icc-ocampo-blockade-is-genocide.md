@@ -32,7 +32,10 @@ Description = """
 #### Topics:
 * Status of Artsakh
 * Yerevan Elections Heating Up
-* July MPG Poll Outtakes
+* July MPG Survey Outtakes
+* August MPG Survey Outtakes
+* Baku Poll
+* Thoughts on the Economy
 
 Episode 273 | Recorded: August 15, 2023"""
 
