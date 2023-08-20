@@ -6,9 +6,9 @@ title = "Artsakh Blockade Flash Update with Gev Iskajyan - Ep 274, August 19, 20
 subtitle = "Armenian News Network Groong - August 19, 2023"
 
 podcast_file = "13435446-artsakh-blockade-flash-update-with-gev-august-19-2023.mp3"
-podcast_bytes = ""
-podcast_duration = ""
-youtube = ""
+podcast_bytes = "11069851"
+podcast_duration = "918"
+youtube = "qopFcYTnXpA"
 
 episode_image = "img/episode/274/thumbnail-274.webp"
 episode_banner = "img/episode/274/banner-274.webp"
