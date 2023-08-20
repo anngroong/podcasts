@@ -34,16 +34,16 @@ Armenian News Network Groong - August 19, 2023
 * [Gev Iskajyan](/guest/giskajyan)
 
 #### Topics:
-* Continuing Azeri Aggression
-    * Daily shootings, mortar fire
-    * Constant shooting at farmers in the fields
-    * Level of hardship
-    * Level of determination
-* Azerbaijan claims Armenians can use road through Aghdam
-    * Chales Michel welcomes this!?!?!?!?
-* “National Movement” Launched on August 14, 2023
-    * What is the message to the world, and goals?
-* HayaQve [(.am)](https://hayaqve.am/)
+* Latest Developments around Artsakh
+    * Kidnapping of People at Checkpoints
+    * Cases of Starvation, Miscarriages
+* UNSC Discussion of Artsakh 
+    * Lack of a Resolution and Follow-Through
+    * Armenia’s Diplomatic Failures
+* New Artsakh parliament speaker David Ishkhanyan
+* Internet Stoppage, Food, Gas, Electricity Shortages
+* Continuing Azeri Aggression, troop movements and Buildup
+
 
 Episode 274 | Recorded: August 19, 2023"""
 +++
