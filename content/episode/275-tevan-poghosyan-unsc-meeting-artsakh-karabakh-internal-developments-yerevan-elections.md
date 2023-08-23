@@ -41,8 +41,8 @@ Episode 275 | Recorded: August 22, 2023"""
 +++
 
 ## Topics from the Panelists
-* **Tevan**: Fly the Artsakh Flag everywhere on Sep. 2, Artsakh Independence Day!
-* **Hovik**: AUgust 23
+* **Tevan**: August 23 - Declaration of Independence day in Armenia. And Sep 2, Independence Day in Artsakh. Fly the Artsakh Flag everywhere on Sep. 2!
+* **Hovik**: AUgust 23 - The essence and beauty of the Armenian declaration of independence.
 
 
 ## Wrap-up
