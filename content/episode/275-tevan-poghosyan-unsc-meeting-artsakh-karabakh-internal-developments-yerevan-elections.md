@@ -22,13 +22,12 @@ hosts = ["hovik","asbed"]
 
 series = ["wir"]
 categories = ["Armenia", "Artsakh", "Politics"]
-tags = ["Tevan Poghosyan", "Armenia", "Azerbaijan", "Georgia", "South Caucasus", "Turkey", "Russia"]
+tags = ["Tevan Poghosyan", "Armenia", "Azerbaijan", "Artsakh", "Nagorno Karabakh", "Armenia Declaration of Independence", "Declaration of Independence", "Declaration of State Sovereignty", "August 23", "Peace Negotiations", "UN Security Council", "Ararat Mirzoyan", "Lachin Corridor", "Berdzor Corridor", "Kashatagh Corridor", "Arayik Harutyunyan", "Ruben Vardanyan", "Karen Matevosyan", "Artsakh Militia", "Bako Sahakyan", "Arkady Ghukasyan", "Artsakh Independence", "Karabakh Independence", "Arshavir Gharamyan", "Yerevan Elections", "Haik Marutyuan", "Suren Petrosyan", "Mane Tandilyan", "Mayr Hayastan", "September 17"]
 
 Description = """
 
 #### Guest:
 * [Tevan Poghosyan](/guest/tpoghosyan)
-
 
 #### Topics:
 * UNSC Meeting on Artsakh
@@ -100,17 +99,13 @@ The militia that raided and threatened politicians in Stepanakert has also claim
 
 * What would you say have been Arayik Harutyunyan’s responsibilities during his tenure?
 
-
 ### August 23
 
 Tomorrow is the 32nd anniversary of the declaration of independence of Armenia. 
 
 **Question:**
 
-
-
 * How is the current leadership of Armenia guiding the country vis-a-vis the points set forth in the declaration?
-
 
 ## Yerevan Elections
 
@@ -118,14 +113,11 @@ The Yerevan mayoral elections will be held on September 17. Campaigning will sta
 
 **Questions:**
 
-
-
 * What are the latest developments in the race for city council, and therefore mayor?
 * What can we expect from these elections, are they likely to be “free and fair”, given the heavy meddling by Pashinyan’s Civil Contract, and its history of dirty campaigning since 2020?
 * The election results will likely be seen as a referendum on Pashinyan himself, due to the size of the Yerevan electorate. A third of the country’s voter base is in the capital. What should the opposition do, to ensure that the people who vote for a city leader who can pick up their trash and ensure transportation safety, and other municipal concerns, are not seen as approving of Pashinyan’s policies of giving Artsakh, and Armenian sovereign territory to Azerbaijan?
 
 Alright, let’s wrap up our topics here. I’d like to ask each of you if there’s been something on your mind this past week that you want to talk about.
-
 
 ## Topics from the Panelists
 
@@ -133,3 +125,7 @@ Alright, let’s wrap up our topics here. I’d like to ask each of you if there
 * **Hovik**: The essence and beauty of the Armenian Declaration of Independence, August 23.
 
 Alright, we’ll leave it there for today! Thank you everyone!
+
+# Wrap-up
+
+We hope you found our [Week in Review](https://podcasts.groong.org/) helpful. We invite your feedback and your suggestions, you can [find us](https://linktr.ee/groong) on most social media and podcast platforms. Thanks to Laura Osborn for the music on our podcasts.
