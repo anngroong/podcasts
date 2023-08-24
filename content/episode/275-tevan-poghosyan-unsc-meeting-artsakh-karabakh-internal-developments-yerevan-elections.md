@@ -1,12 +1,11 @@
 +++
-
 Date = 2023-08-22T00:30:00+04:00
 upcoming = false
 
-podcast_file = ""
-podcast_bytes = ""
-podcast_duration = ""
-youtube = ""
+podcast_file = "13460295-tevan-poghosyan-unsc-meeting-on-karabakh-artsakh-internal-developments-yerevan-elections-ep-275-august-20-2023.mp3"
+podcast_bytes = "31557147"
+podcast_duration = "918"
+youtube = "zPTjhP7IXWI"
 
 episode = "275"
 aliases = ["/275"]
@@ -112,4 +111,3 @@ The Yerevan mayoral elections will be held on September 17. Campaigning will sta
 ## Wrap-up
 
 We hope you found our [Week in Review](https://podcasts.groong.org/) helpful. We invite your feedback and your suggestions. You can [find us](https://linktr.ee/groong) on most social media and podcast platforms. Thanks to Laura Osborn for the music on our podcasts.
-
