@@ -39,10 +39,7 @@ Episode 275 | Recorded: August 22, 2023"""
 
 +++
 
-
-
 # Topics This Week
-
 
 ## UN Security Council Meeting
 
@@ -53,8 +50,6 @@ The UNSC [discussed](https://www.azatutyun.am/a/32548591.html) the situation in 
 However, the US invited Turkey to attend the meeting, and of course Turkey gave full support to the Azeri stance.
 
 **Questions:**
-
-
 
 * Why would the US invite Turkey to the UNSC meeting, when technically the issue discussed had nothing to do with them?
 * Why didn’t Armenia, or another Security Council member invite Iran, a neighbor as related to this conflict as Turkey is, to the meeting?
