@@ -20,7 +20,6 @@ episode = "274"
 aliases = ["/274"]
 explicit = "no" # values are "yes" or "no"
 
-
 series = ["artsakhblockade"]
 categories = ["Politics", "Artsakh"]
 tags = ["Gev Iskajyan", "Artsakh", "Nagorno Karabakh", "Artsakh Blockade", "Armenia", "Azerbaijan", "Lachin Corridor", "Berdzor Corridor", "Death from Famine", "Starvation", "Miscarriage", "UNSC", "United Nations", "Security Council", "Resolutions", "ARF", "Dashnaktsutyun", "David Iskhanyan", "Artsakh Speaker", "Parliament Speaker", "Arayik Harutyunyan", "Arthur Tovmasyan", "Stepanakert", "Internet Stoppage", "Food Shortage", "Electricity Shortage", "Gas Cutoff"]
@@ -47,8 +46,6 @@ Armenian News Network Groong - August 19, 2023
 
 Episode 274 | Recorded: August 19, 2023"""
 +++
-
-
 
 # Wrap-up
 
