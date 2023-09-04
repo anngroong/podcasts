@@ -22,7 +22,7 @@ aliases = ["/277"]
 explicit = "no"
 
 series = ["wir"]
-categories = ["Armenia", "Politics"]
+categories = ["Armenia", "Politics", "Poll"]
 tags = ["Arthur Khachikyan", "Artsakh", "Nagorno Karabakh", "Armenia", "Yerevan", "Yerevan Elections", "Mayor Elections", "Azerbaijan", "Arayik Harutyunyan", "Karabakh President", "Artsakh President", "Samvel Shahramanyan", "Andranik Tevanyan", "Mayr Hayastan", "Hayk Marutyan", "Mane Tandilyan", "Charles Michel"]
 
 Description = """
@@ -69,6 +69,22 @@ Other major candidates running for mayor are the ruling party’s Tigran Avinyan
 **Questions:**
 
 * What are your thoughts about these candidates?
+
+## MPG Survey on Yerevan Elections
+
+Here we reproduce the survey which we referenced in our discussion:
+
+![mpg-0](/img/episode/277/City-mafia-August-MPG-GIA-0.webp "mpg-0")
+![mpg-1](/img/episode/277/City-mafia-August-MPG-GIA-1.webp "mpg-1")
+![mpg-2](/img/episode/277/City-mafia-August-MPG-GIA-2.webp "mpg-2")
+![mpg-3](/img/episode/277/City-mafia-August-MPG-GIA-3.webp "mpg-3")
+![mpg-4](/img/episode/277/City-mafia-August-MPG-GIA-4.webp "mpg-4")
+![mpg-5](/img/episode/277/City-mafia-August-MPG-GIA-5.webp "mpg-5")
+![mpg-6](/img/episode/277/City-mafia-August-MPG-GIA-6.webp "mpg-6")
+![mpg-7](/img/episode/277/City-mafia-August-MPG-GIA-7.webp "mpg-7")
+![mpg-8](/img/episode/277/City-mafia-August-MPG-GIA-8.webp "mpg-8")
+![mpg-9](/img/episode/277/City-mafia-August-MPG-GIA-9.webp "mpg-9")
+![mpg-10](/img/episode/277/City-mafia-August-MPG-GIA-10.webp "mpg-10")
 
 ## Artsakh Domestic Developments
 
