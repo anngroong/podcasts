@@ -83,5 +83,11 @@
         </div>
         {{ end }}
     </div>
+    {{ with .Site.GetPage "donate.md" }}
+      <div class="d-flex justify-content-end">
+        <a href="{{ .RelPermalink }}" role="button" class="btn btn-success m-4 custom-btn">{{ .Title }}</a>
+      </div>
+    {{ end }}
 </div>
 </div>
+
