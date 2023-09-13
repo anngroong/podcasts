@@ -1,6 +1,6 @@
 +++
 
-Date = 2023-07-10T00:15:00-04:00
+Date = 2023-09-10T00:15:00-04:00
 upcoming = false
 
 title = "Benyamin Poghosyan - Developments in Artsakh | Geopolitics in the South Caucasus | Ep 278 - Sep 10, 2023"
@@ -19,7 +19,6 @@ hosts = ["hovik","asbed"]
 guests = ["bpoghosyan"]
 episode = "278"
 aliases = ["/278"]
-explicit = "no"
 
 series = ["wir"]
 categories = ["Armenia", "Politics"]
