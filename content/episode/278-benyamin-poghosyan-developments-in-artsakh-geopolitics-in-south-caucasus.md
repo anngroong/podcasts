@@ -9,7 +9,7 @@ subtitle = "Armenian News Network Groong - September 10, 2023"
 podcast_file = "13582536-benyamin-poghosyan-developments-in-artsakh-geopolitics-in-the-south-caucasus-ep-278-sep-10-2023.mp3"
 podcast_bytes = "38485615"
 podcast_duration = "2368"
-youtube = ""
+youtube = "3bE_WWRwSJo"
 
 episode_image = "img/episode/278/thumbnail-278.webp"
 episode_banner = "img/episode/278/banner-278.webp"
