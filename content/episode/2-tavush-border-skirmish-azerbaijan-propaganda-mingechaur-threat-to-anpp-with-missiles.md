@@ -1,7 +1,6 @@
-
 +++
 
-title = "Clashes on Tavush Border | Debunking Azerbaijani Propaganda About Armenia Flooding Mingechaur Reservoir | Azerbaijani Missile Threat to Armenian Nuclear Ppower Plant | July 19, 2020"
+title = "Clashes on Tavush Border | Debunking Azerbaijani Propaganda About Armenia Flooding Mingechaur Reservoir | Azerbaijani Missile Threat to Armenian Nuclear Power Plant | July 19, 2020"
 subtitle = "ANN/Groong Week in Review | Ep 2 - 07/19/2020"
 date = 2020-07-19T16:11:57
 draft = false
