@@ -34,8 +34,6 @@ Description = """
 
 +++
 
-# Topics
-
 ## Armenia’s Diplomacy at the UN
 
 ### UNSC Meeting On August 16
@@ -45,12 +43,10 @@ On August 16, at the request of Armenia, the UN Security Council held a hearing 
 In the past, you’ve held various important roles at the MFA including heading the international organization division there, so we’re excited at the opportunity here to ask you about these developments directly:
 
 **Questions:**
-
 * First, how would you evaluate the results of the UNSC meeting?
 * A day earlier, Vartan Oskanian in one of his [video recordings](youtu.be/ZHY0X54p8kc) warned about potential negative repercussions from a resolution, namely that there would be attempts to include statements in there that recognize Azerbaijani sovereignty over Artsakh. Do you believe in the current international geopolitical climate, it will be easy to avoid some booby traps?
 
 Notes:
-
 * The [agenda](https://www.eeas.europa.eu/delegations/un-new-york/eu-statement-un-security-council-armenia-pr-letter-13-september-2022_en?s=63) for the meeting said that the meeting was based on the Sep 13, 2022 letter to the UNSC, which as we all know is about the Azerbaijani attack on Armenia proper, not about Artsakh and definitely not about the blockade. Why?
 
 ### Rumors of French Resolution
@@ -60,7 +56,6 @@ A week later, on August 24, Le Figaro [reported](https://www.lefigaro.fr/interna
 Those rumors about a potential French resolution were more than 10 days ago, while the crisis in Artsakh is deepening by the day. 
 
 Questions:
-
 * Do you have any updates on if/when France plans to submit a resolution?
 * What is your assessment of these behind-the-scenes games and allegations?
 * Do you see any scenario where the UNSC in the current political climate could come up with a resolution that has teeth and is not a double-edged sword for Armenia?
@@ -70,7 +65,6 @@ Questions:
 Samvel Shahramanyan is now president of Artsakh.
 
 **Questions**:
-
 * What are your thoughts about the changes? What do they mean?
 * Should there be parity between Aghdam/Akna and Lachin/Berdzor?
 * How far can that trust in the new government take them and how long will that trust last, if the Artsakh regime is openly being betrayed by Pashinyan?
@@ -78,7 +72,6 @@ Samvel Shahramanyan is now president of Artsakh.
 ## Yerevan Mayoral Elections 2023
 
 This coming Sunday, September 17, is the date of the Yerevan Mayoral, or more technically speaking, Yerevan Council of Elders (Avakanou) elections. An MPG poll this past weekend [yielded](https://twitter.com/HovikYerevan/status/1699800824854020275) the following results:
-
 1. Civil Contract (Tigran Avinyan) 16.3%
 2. National Progress (Hayk Marutyan) 11.8%
 3. Mayr Hayastan (Andranik Tevanyan) 5.1%
@@ -87,10 +80,8 @@ This coming Sunday, September 17, is the date of the Yerevan Mayoral, or more te
 
 About 22.8% said that they are undecided while 20% said they refuse to disclose.
 
-The last time that you were with us on this show, we discussed why you had joined the Mayr Hayastan movement. At that time, I believe there was no formal announcement about participating in the elections, but many months have passed since then and there is now less than a week left until the end of campaigning. 
 
 **Questions**:
-
 * Are you actively participating in the campaign?
 * What are your present thoughts about these elections? First of all, do you think we’re having free and fair campaigning and will the results be free and fair?
 * There is an important contingent, 23% of polled respondents who are undecided. What’s your read of this group? How can Mayr Hayastan pull these people into its camp?
@@ -99,11 +90,8 @@ The last time that you were with us on this show, we discussed why you had joine
 Andranik Tevanyan has made it clear, and has made the primary topic of his campaign, the removal of the current ruling party, and Pashinyan, from office.
 
 **Questions**:
-
-* Do you think with 5% support is an indication of success? How is Mayr Hayastan adjusting its strategy, in order to win the election?
+* Do you think that 5% support is an indication of success? How is Mayr Hayastan adjusting its strategy, in order to win the election?
 * Will the results of this election become grounds for the ruling party to continue its politics of abandoning Artsakh, by claiming that their policies were affirmed by their win?
-
-Alright, we’ll leave it there for today! Thank you Ambassador Aghajanian.
 
 # Wrap-up
 
