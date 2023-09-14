@@ -22,7 +22,7 @@ hosts = ["hovik", "asbed"]
 
 explicit = "no"
 series = ["cog", "video"]
-categories = ["Russia", "WagnerGroup"]
+categories = ["Russia"]
 tags = ["Anna Abrahamian", "Russia", "Wagner Group", "Vladimir Putin", "Yevgeny Prigozhin", "Alexander Lukashenko", "Sergei Shoigu", "Valery Gerasimov", "Sergei Surovikin", "Kremlin", "Moscow", "Belarus", "Minsk"]
 
 Description = """

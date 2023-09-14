@@ -25,6 +25,7 @@ aliases = ["/258"]
 explicit = "no"
 
 series = ["cog"]
+categories = ["Armenia", "Artsakh", "Politics", "Relations"]
 tags = ["Dziunik Aghajanian", "Armenia", "Artsakh", "Nagorno Karabakh", "Ministry of Foreign Affairs", "MFA", "Foreign Ministry", "Ambassador Aghajanian", "Garnik Nanagoulian", "Vartan Oskanian", "Arman Kirakossian", "Jivan Tabibian", "Armenian Genocide", "Turkish Armenian Normalization", "Nemesis Monument", "Armenian Genocide Monument", "Tsitsernakabert", "Ծիծեռնակաբերդ", "Zareh Sinanyan", "High Commissioner for Diaspora Affairs", "Armenian Diaspora", "Peace Agreement", "44-day war", "Karabakh War", "Azerbaijan", "Nakhijevan", "Nakhichevan", "Security Strategy of Armenia", "Right and Security", "Self Determination", "Republic of Artsakh", "Shavarsh Kocharian", "Zohrab Mnatsakanian", "Ara Ayvazian", "Russia", "Turkey", "Azerbaijan", "EU", "Europe", "USA", "United States", "Iran", "Netherlands", "Indonesia", "Malaysia", "Singapore", "ASEAN"]
 
 
