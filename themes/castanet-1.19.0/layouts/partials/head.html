@@ -10,3 +10,6 @@
 </title>
 <link rel="canonical" href="{{ .Permalink }}">
 {{ partial "head_includes.html" . }}
+{{ range .Site.Params.groong_css -}}
+    <link rel="stylesheet" href="{{ . | absURL }}">
+{{- end }}

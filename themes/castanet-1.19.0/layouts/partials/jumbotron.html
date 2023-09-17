@@ -82,12 +82,12 @@
           <a class="btn btn-default" href="{{"blog/index.xml" | absURL }}"><i class="fa fa-rss"></i>&nbsp;Blog RSS</a>
         </div>
         {{ end }}
+        {{ with .Site.GetPage "donate.md" }}
+          <div class = "d-flex p-2 subscribe_buttons col-md-auto">
+            <a href="{{ .RelPermalink }}" role="button" class="btn donate"><i class="fas fa-donate"></i> {{ .Title }}</a>
+          </div>
+        {{ end }}
     </div>
-    {{ with .Site.GetPage "donate.md" }}
-      <div class="d-flex justify-content-end">
-        <a href="{{ .RelPermalink }}" role="button" class="btn btn-success m-4 custom-btn">{{ .Title }}</a>
-      </div>
-    {{ end }}
 </div>
 </div>
 
