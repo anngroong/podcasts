@@ -260,7 +260,7 @@
     {{ $.Scratch.Set "show" (seq 1 $total) }}
   {{ end }}
 
-<ul class="pagination pagination-lg">
+<ul class="pagination">
 	<!-- first page button -->
   {{if $paginator.HasPrev }}
     {{ if gt $paginator.PageNumber 2 }}

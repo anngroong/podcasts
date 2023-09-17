@@ -20,6 +20,10 @@ enableRobotsTXT = true
 	blog = "/:filename/"
 
 
+[markup.goldmark.renderer]
+  unsafe = true
+
+
 # The theme supports menus with up to one submenu per menu item
 # The menu name must be "Main"
 # The menus are sorted based upon their identifier
@@ -27,6 +31,11 @@ enableRobotsTXT = true
     name = "About"
     identifier = "about"
     url = "/about"
+
+[[Menu.Main]]
+    name = "Donate"
+    identifier = "donate"
+    url = "/donate"
 
 [[Menu.Main]]
     name = "Contact"
@@ -59,6 +68,7 @@ enableRobotsTXT = true
     url = "/blog"
 
 [params]
+groong_css = ["css/groong.css"]
 mainSections = ["episode"]
 episode_number_style  = "brackets"
 episode_number_prefix = "EP"
