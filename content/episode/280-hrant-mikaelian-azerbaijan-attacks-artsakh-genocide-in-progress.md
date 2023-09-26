@@ -5,7 +5,7 @@ upcoming = false
 podcast_file = "13662577-hrant-mikaelian-azerbaijan-attacks-artsakh-genocide-in-progress-ep-280-sep-24-2023.mp3"
 podcast_bytes = "36984090"
 podcast_duration = "3079"
-youtube = ""
+youtube = "Ukyt5h3i7oo"
 
 episode_image = "img/episode/280/thumbnail-280.webp"
 episode_banner = "img/episode/280/banner-280.webp"
@@ -18,7 +18,7 @@ aliases = ["/280"]
 
 series = ["wir"]
 categories = ["Armenia", "Artsakh", "Politics", "Poll"]
-tags = ["Hrant Mikaelian", "Artsakh", "Nagorno Karabakh", "Genocide", "Armenia", "Azerbaijan", "Russia", "Turkey", "Russia", "Exodus", "Stepanakert", "Peace Negotiations", "United States", "Iran", "EU", "European Union", "France", "Artsakh Defense Forcesm Yevlakh", "Nikol Pashinyan", "Traitor", "Ararat Mirzoyan", "Turkish Agent"]
+tags = ["Hrant Mikaelian", "Artsakh", "Nagorno Karabakh", "Genocide", "Armenia", "Azerbaijan", "Russia", "Turkey", "Russia", "Exodus", "Stepanakert", "Peace Negotiations", "United States", "Iran", "EU", "European Union", "France", "Artsakh Defense Forces", "Yevlakh", "Nikol Pashinyan", "Traitor", "Ararat Mirzoyan", "Turkish Agent", "Yuri Kim"]
 
 title = "Hrant Mikaelian - Azerbaijan Attacks Artsakh - Genocide in Progress | Ep 280 - Sep 24, 2023"
 subtitle = "ANN Groong Week in Review - September 24, 2023"
