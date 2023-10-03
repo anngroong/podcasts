@@ -1,11 +1,11 @@
 +++
 Date = 2023-10-02T23:00:00+04:00
-upcoming = true
+upcoming = false
 
-podcast_file = ""
-podcast_bytes = ""
-podcast_duration = ""
-youtube = ""
+podcast_file = "13705386-arthur-g-martirosyan-artsakh-surrenders-armenia-watches-what-peace-treaty-in-granada-arrested-artsakh-leaders-held-hostage.mp3"
+podcast_bytes = "38191627"
+podcast_duration = "3179"
+youtube = "YcAcCYNwv0c"
 
 episode = "281"
 aliases = ["/281"]
@@ -24,7 +24,7 @@ hosts = ["hovik", "asbed"]
 series = ["wir"]
 categories = ["Armenia", "Artsakh", "Politics"]
 explicit = "no" # values are "yes" or "no"
-tags = ["Arthur G Martirosyan", "Artsakh", "Nagorno Karabakh", "Armenia", "Azerbaijan", "Russia", "Turkey", "Genocide", "Exodus", "Dispossession", "Indigenous People", "Armenians Flee", "Samvel Shahramanyan", "USA", "United States", "EU", "European Union", "Charles Michel", "Nikol Pashinyan", "Granada", "Peace Treaty", "Hostage"]
+tags = ["Arthur G Martirosyan", "Artsakh", "Nagorno Karabakh", "Armenia", "Azerbaijan", "Russia", "Turkey", "Genocide", "Exodus", "Dispossession", "Indigenous People", "Armenians Flee", "Samvel Shahramanyan", "Arayik Harutyunyan", "USA", "United States", "EU", "European Union", "Charles Michel", "Nikol Pashinyan", "Granada", "Peace Treaty", "Hostage", "John Bolton", "Jirair Libaridian"]
 
 Description = """
 
