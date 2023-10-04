@@ -1,11 +1,11 @@
 +++
 Date = 2023-10-04T22:00:00+04:00
-upcoming = true
+upcoming = false
 
-podcast_file = ""
-podcast_duration = ""
-podcast_bytes = ""
-youtube = ""
+podcast_file = "13714109-arthur-g-martirosyan-the-game-of-alternatives-is-armenia-negotiating-effectively-ep-282-oct-4-2023.mp3"
+podcast_duration = "25802822"
+podcast_bytes = "2147"
+youtube = "BfKS27wsVKM"
 
 
 episode_image = "img/episode/282/thumbnail-282.webp"
@@ -24,7 +24,7 @@ aliases = ["/282"]
 series = ["cog"]
 categories = ["Armenia", "Politics", "Negotiations"]
 explicit = "no" # values are "yes" or "no"
-tags = ["Arthur G. Martirosyan", "Alternative Game", "Game Theory", "Armenia", "Artsakh", "Azerbaijan", "USA", "EU", "European Union"]
+tags = ["Arthur G. Martirosyan", "Alternative Game", "Game Theory", "Armenia", "Artsakh", "Azerbaijan", "USA", "EU", "European Union", "Harvard Negotiation Project", "Roger Fisher", "Howard Raiffa"]
 
 Description = """
 
