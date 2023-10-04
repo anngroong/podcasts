@@ -28,14 +28,17 @@ tags = ["Arthur G. Martirosyan", "Alternative Game", "Game Theory", "Armenia", "
 
 Description = """
 
+#### Guest:
+* [Arthur G. Martirosyan](/guest/amartirosyan)
+
+
 #### Topics:
 * The Game of Alternatives
 * How does it apply to Negotiations?
 * Is Armenia Negotiating Effectively?
 
-
-#### Guest:
-* [Arthur G. Martirosyan](/guest/amartirosyan)
+Episode 281 | Recorded: October 1, 2023
+"""
 
 +++
 
@@ -51,7 +54,7 @@ Today, we’d like to discuss with the calculations that Armenia's authorities a
 
 ## The Game of Alternatives
 
-Arthur, in your previous interviews with us and other media, you frequently refer to the concept of the “alternative game”.
+Arthur, in your previous interviews with us and other media, you frequently refer to the concept of the 'alternative game'.
 
 **Question:**
 * Can you describe in more detail what you mean by this and how it applies to decision making processes?
