@@ -24,7 +24,7 @@ aliases = ["/283"]
 series = ["cog"]
 categories = ["Armenia", "Politics", "Negotiations"]
 explicit = "no" # values are "yes" or "no"
-tags = ["Benyamin Poghosyan", "Armenia", "Azerbaijan", "South Caucasus", "Turkey", "Russia", "Corridors", "Borders", "Peace Negotiations", "United States", "Iran", "Eu", "European Union", "Samvel Shahramanyan"]
+tags = ["Benyamin Poghosyan", "Armenia", "Artsakh", "Nagorno Karabakh", "Azerbaijan", "Granada", "Spain", "France", "EU", "USA", "Turkey", "Emmanuel Macron", "Olaf Scholtz", "Charles Michel", "Nikol Pashinyan", "Ilham Aliyev", "Attacks on Armenia", "Borders", "The Armenian Weekly", "Hairenik", "Yerevan", "Syunik", "Russia-US Confrontation", "Ukraine"]
 
 Description = """
 
