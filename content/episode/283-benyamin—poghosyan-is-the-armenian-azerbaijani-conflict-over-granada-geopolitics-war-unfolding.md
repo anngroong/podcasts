@@ -1,11 +1,11 @@
 +++
 Date = 2023-10-05T22:00:00+04:00
-upcoming = true
+upcoming = false
 
-podcast_file = ""
-podcast_duration = ""
-podcast_bytes = ""
-youtube = ""
+podcast_file = "13726144-benyamin-poghosyan-is-the-armenian-azerbaijani-conflict-over-ep-283-oct-5-2023.mp3"
+podcast_duration = "15259278"
+podcast_bytes = "1269"
+youtube = "v9LAkOB5MFA"
 
 
 episode_image = "img/episode/283/thumbnail-283.webp"
