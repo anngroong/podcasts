@@ -1,28 +1,30 @@
 +++
 
-Date = 2023-08-08T00:15:00-07:00
+Date = 2023-10-09T00:15:00-07:00
+upcoming = false
 
-title = "Sergei Melkonian - Armenian Azerbaijani Negotiations - Russian and Iranian Perspectives | Ep 271 - August 6, 2023"
-subtitle = "Armenian News Network Groong - August 6, 2023"
 
-podcast_file = "13373414-sergei-melkonian-russia-iran-armenia-azerbaijan-negotiations-artsakh-ep-272-aug-6-2023.mp3"
-podcast_bytes = "39328935"
-podcast_duration = "3273"
-youtube = "wJOfUi447Uw"
+title = "Sergei Melkonian - Israel-Palestine | Future of Artsakhtsis | Armenia Azerbaijani Negotiations | Ep 284, Oct 8, 2023"
+subtitle = "Armenian News Network Groong - October 8, 2023"
 
-episode_image = "img/episode/272/thumbnail-272.webp"
-episode_banner = "img/episode/272/banner-272.webp"
-images = ["img/episode/272/banner-272.webp"]
+podcast_file = "13748999-sergei-melkonian-israel-palestine-future-of-artsakhtsis-armenian-azerbaijani-negotiations-ep-284-oct-8-2023.mp3"
+podcast_bytes = "42649456"
+podcast_duration = "3551"
+youtube = ""
+
+episode_image = "img/episode/284/thumbnail-284.webp"
+episode_banner = "img/episode/284/banner-284.webp"
+images = ["img/episode/284/banner-284.webp"]
 
 hosts = ["hovik","asbed"]
 guests = ["smelkonian"]
-episode = "272"
-aliases = ["/272"]
+episode = "284"
+aliases = ["/284"]
 explicit = "no"
 
 series = ["wir"]
-categories = ["Armenia", "Politics"]
-tags = ["Sergei Melkonian", "Armenia", "Artsakh", "Nagorno Karabakh", "Azerbaijan", "South Caucasus", "Peace Negotiations", "Nikol Pashinyan", "Ilham Aliyev", "Russia", "Iran"]
+categories = ["Armenia", "Israel", Politics"]
+tags = ["Sergei Melkonian", "Artsakh", "Nagorno Karabakh", "Armenia", "Azerbaijan", "Karabakh Refugees", "IDPs", "Genocide", "Ethnic Cleansing", "Dispossession", "Dispersion", "South Caucasus", "Turkey", "Russia", "Corridors", "Borders", "Peace Negotiations", "United States", "Iran", "Iranian Gas", "LNG", "Pipelines", "EU", "European Union", "Israel", "Palestine", "Fateh", "Hamas", "Israeli War", "Two State Solution", "Middle East", "Palestinian Cause", "Syria", "Syrian War", "2011", "Arab Spring"]
 
 Description = """
 
@@ -30,86 +32,98 @@ Description = """
 * [Sergei Melkonian](/guest/smelkonian)
 
 #### Topics:
+* Israeli-Palestinian Conflict Flares Up
+* The Future of Artsakh and Artsakhtsis
+* Armenian-Azerbaijani Negotiations
 
-* War of Words with Russia
-* Iran’s Diplomatic Perspective
-* Armenian Azerbaijani Negotiations
-    * Russian and Iranian perspectives on the geopolitics of the Armenian-Azeri talks around Artsakh and their mutual borders.
-* Artsakh: New Parliament Speaker
-* Thoughts from the Participants
-
-Episode 272 | Recorded: August 7, 2023"""
+Episode 284 | Recorded: October 9, 2023"""
 
 +++
 
-## War of Words with Russia
+## Israeli Palestinian Conflict Flares Up
 
-Anyone who follows the politics around the South Caucasus knows that the relations between Armenia and Russia have significantly deteriorated. Earlier this week Russian MFA spox Maria Zakharova [chided](https://www.azatutyun.am/a/32531235.html) the Armenian government, specifically Pashinyan, for saying that Russia has scaled back its involvement, etc etc. Russia also bristled at Pashinyan’s suggestion that a “productive dialogue” between Baku and Stepanakert could lead to the withdrawal of the Russian peacekeepers. She responded to Pashnyan by asking “is this a wish”?
-
-Just to highlight how ridiculous Pashinyan’s statement is, by the way, let’s remind that this is happening at the same time that Azerbaijan is [kidnapping Armenians](https://www.azatutyun.am/a/32531362.html) at border checkpoints, taking them to Baku for sham trials and holding them as war criminals on fabricated charges.
+On Saturday, Hamas and Israel clashed on the border of the Gaza strip. At the time of our recording, over 800 Israelis are reportedly dead, with over 2000 injured. The Palestinians report over 350 dead and over 2300 injured. It was a very uncharacteristic war, where Palestinian guerillas achieved unexpected results in their offensives, although Israel is now striking back and recovering some of the lost positions and villages.
 
 **Questions:**
-* We know Russia is busy in Ukraine. Can you discuss Russia’s evolving foreign policy calculations in the South Caucasus? What is important for Russia in Armenia and Artsakh, and Azerbaijan?
-* Are the Russians being viewed more suspiciously now by the Artsakh government and population? Are they being accused of being more aligned with the Azeri government?
-* Is Turkey trying to negotiate with Russia to inject its own peacekeepers in Artsakh as a condition for extension of the 2025 deadline?
-* What is Armenia’s room for maneuver in this scenario?
+* What brought on this round of violence? Who started it and why?
+* What dangers might this conflict bring to our region? How big is the possibility of escalation into a larger regional war involving Iran?
 
-This past week a simmering issue again came to the front of the new, that’s the [row between Armenia and the CSTO](https://www.azatutyun.am/a/32533044.html). The CSTO again stated that it expected a positive response from Yerevan so that they may deploy help “to the maximum benefit” of Armenia; and Pashinyan again stated that CSTO members must first condemn Azerbaijan as an aggressor in the conflict, before a positive response. At the same time, the Pashinyan regime again declined to participate in yet another CSTO joint exercise, this time in Belarus.
+There are Israeli reports that they’ve apprehended Turkish supplies and logistics targeted to the Palestinians. Meanwhile the Azeris are pro-Israel.
 
 **Questions:**
-* Do you think this whole issue is a PR standoff where both sides are trying to show up the other, or is one side more justified in their point than the other?
-* How does Russia view the argument that Armenia doesn’t want to allow a military deployment along the Armenian Azeri border, when the CSTO political leadership hasn’t clarified whether they’re defending Armenia from Azerbaijan, or Azerbaijan from Armenia?
-
-Russian-Turkish relations and plans for the peacekeepers beyond 2025
+* How are the Turks, and by that we mean both Turkey and Azerbaijan, playing this issue?
+* How should Armenia react to these affairs?
 
 
-## Iran’s Diplomatic Perspective
+## The Future of Artsakh & Artsakhtsis
 
-Sergey, recently you and other members of the Armenian Project visited Iran, so let’s turn our attention Southward for a bit.
-
-Many analysts believe that the only reason why Azerbaijan has not yet attacked Armenia to take Syunik is due to Iran’s strong resistance to the so-called “Zangezur corridor”. Many also believe that because of Ukraine Russia has quietly outsourced this component of security to Iran. 
-
-However, Iran has recently called on Russia to wake up in the South Caucasus and deal with critical security matters before it is too late.
+Since the depopulation of Artsakh, when 100,000 Armenians were forcibly removed from their indigenous homeland, we’ve been asking our analyst this same question.
 
 **Questions:**
-* What is Iran alluding to, as issues in a critical red zone?
-* Is Russian adjacency to Iran, through Armenia, an important strategic vector for Russian and Iranian foreign policies? If so, what are they doing to secure it? Are they on the same page about this issue, or do they have different goals and or methodologies for their security here?
+* Is the Artsakh conflict over?
+* What is the future of Artsakh?
 
-On July 28, Iran’s [newly appointed](https://en.mfa.ir/portal/newsview/715765) ambassador to Armenia, Mehdi Sobhani, [presented](https://www.president.am/en/press-release/item/2023/07/28/President-Vahagn-Khachaturyan-received-newly-appointed-Ambassador-of-Iran/) his credentials to Vahagn Khachaturyan. Sobhani has a rich resume with many important appointments including most recently as ambassador to Syria.
+The government of Artsakh was disbanded by president Samvel Shahramanyan, on Sep. 28.
+
+**Questions:**
+* Should Artsakh reconstitute as a government-in-exile?
+* Would Armenia host such a government?
+
+In the past 2 weeks over 100,000 Artsakh refugees flooded into Armenia. This is on top of the additional 40-plus thousands who were already in Armenia since the war in 2020.
+
+**Questions:**
+* What options do these refugees have? Can they ever return to their homeland? And should they even, at the cost of living under Azerbaijani rule, as an oppressed minority?
+* What is Armenia’s perspective on these refugees? Are they being viewed purely through a humanitarian lens, or also a political lens?
+    * Are they being classified as refugees, or IDPs?
+    * Does the current government want them in Armenia, or not in Armenia?
+
+
+## Armenian Azerbaijani Negotiations
+
+The Grenada meeting last week was in some ways disappointing and in other ways, even more disappointing. First, Azerbaijani president Aliyev did not show up. He wanted Turkish president Erdogan to attend his summit with Pashinyan, but European leaders rejected it, so neither Aliyev nor Erdogan showed up in Spain. Second, Aliyev’s absence did not prevent Pashinyan from signing something that he had said only verbally so far; he signed under a written statement formalizing his recognition of Azerbaijan’s sovereignty, specifying the 86,600 sq km of land area.
+
+Immediately after the signing, Azerbaijani [diplomats](https://twitter.com/NasimiAghayev/status/1710735177213763796) and media began circulating older demands that Armenia is in control of “8 villages” (referring to enclaves) which should be relinquished immediately.
+
+**Questions:**
+* Why did Pashinyan sign a written statement when Aliyev was not even present?
+* Does Aliyev’s “boycott” mean that the risk of war is higher (because we know that Aliyev is not satisfied 
+
+
+Earlier you mentioned the topic of enclaves.
+
+**Questions:**
+* Are enclaves also included?
+* Can you tell us the details on this enclave issue? What are these enclaves, where are they, and what is their significance?
+    * Note: even today, Armenian cartography expert Ruben Galichian has asserted that there is no legal or historical basis for the Azeri enclave demands on Armenia.
+* If the enclaves are officially recognized as Azerbaijan, doesn’t this give Aliyev more pretext for another war?
+    * Is Pashinyan likely to compromise on the issue of enclaves?
+        * Note: It seems he has in at least one interview said that yes, the enclaves are part of the 86.6k sq km, but also added that Artsvashen is part of Armenia.
+
+There are signs that Aliyev may be looking to move the negotiations platform away from Europe. On Sunday, Aliyev [said](https://www.rferl.org/a/azerbaijan-aliyev-armenia-talks-georgia-karabakh/32628325.html) that he would start talks in Georgia immediately, with Armenia. Additionally, today Russia has also [offered to organize](https://armenpress.am/eng/news/1121507.html) a meeting of the three foreign ministers in Bishkek, and possibly [in collaboration](https://armenpress.am/eng/news/1121514.html) with the US and the EU, saying that  the Armenian Azerbaijani conflict is [not resolved](https://armenpress.am/eng/news/1121510.html) yet.
+
+Russian experts are also predicting that Aliyev will try to move negotiations back to Russia, or somewhere away from the West.
 
 **Question**:
-* What does this appointment signify in Iran-Armenia relations? 
+* Is Aliyev trying to dump the Western platforms, and move negotiations back to Russia, or Georgia, or the 3+3?
+* Should Pashinyan accept moving the negotiations back to Russia or Georgia?
+* What  are the pros and cons of such shuffling of the platforms at this point in time?
 
-If you remember, last year Iran held multiple large-scale military exercises on the border with Azerbaijan, which came at the apex of tensions between Azerbaijan and Iran. Iran has also stated at numerous times that changing existing state borders is a red line. More recently, however, Azerbaijan has praised a “balanced” approach by Iran to the Karabakh conflict.
-
-**Questions:**
-* If Pashinyan announces that he believes that an extra-territorial corridor through the country is acceptable to Armenia, what could Iran do?
-* What’s Iran’s strategy of appeasing Azerbaijan, while ensuring its own security concerns?
-* What are Iran’s concerns regarding Azerbaijan’s provocations in Iran’s northern provinces, which Azerbaijan calls “South Azerbaijan”? How is it dealing with this issue?
-* Are Iranians generally aware of the threats along their northern borders, and what is their public’s disposition towards Armenia and Armenians in general?
-
-## Armenia Azerbaijan Talks
-
-As a final section of our show today, let’s talk about the current state of the talks between Armenia and Azerbaijan. Late last week Pashinyan [warned](https://www.azatutyun.am/a/32532680.html) that a reason why Azerbaijan is not signing a “peace treaty” is because it’s trying to make it possible to have future claims against sovereign Armenian territory.
-
-To most Armenians, I dare say that the main issue is that the Artsakh blockade is at a catastrophic point, and the lack of international reaction to it is now putting their cause towards self-determination in a deep hole. But with Pashinyan, we’re a thousand steps behind the curve, defending Armenia’s own sovereignty.
+With the concern that Pashinyan has agreed to give away the enclaves, which will be a chokehold on Armenia’s major communication arteries, it seems that the only “red line” left for Armenia would be its sovereignty over Syunik despite the demand from Turkey and Azerbaijan of multiple passageways through Armenia’s south, or what they call the “Zangezur corridor”. Armenia has repeatedly stated that it would retain sovereignty over any such road and has accused Turkey and Azerbaijan of claiming an ex-territorial corridor. Iran has stated firmly that Armenia’s borders and any geopolitical changes are a red line for them. The nuance here is that in point 9 of the Nov 2020 statement it states: “control over transport communication shall be exercised by the Border Guard Service bodies of the FSS of Russia”, so in a sense people are arguing that Armenia already ceded sovereignty.
 
 **Questions:**
-* Is Armenia doing anything for Artsakh anymore?
-* What are the Artsakh government’s prospects, given the blockade, the Russian peacekeepers, and a west that is deaf to its calls for a fair solution?
+* With all the remaining points of the Nov 9/10 statement being apparently moot, does it make sense for Armenia to even stay as a signatory of that statement? Could Armenia withdraw from the statement?
 
-
-A few days ago Artsakh parliament speaker Arthur Tovmasyan resign.
+In the past few days, Iran stepped up its diplomatic activities around reducing tensions in the south of Armenia, to prevent an outbreak of violence or possibly even war. Reportedly Iran and Azerbaijan have agreed to a railroad through Iran to connect Azerbaijan and Nakhijevan, which Turks have said is an alternative to the railroad through Meghri (part of the “Zangezur corridor”). Additionally, Azerbaijan and Iran have announced joint military exercises. Their diplomatic row over the attack on the Azerbaijani consulate in Tabriz also seems to be on the mend.
 
 **Questions:**
-* Why did Artsakh parliament speaker Arthur Tovmasyan [resign](https://armenpress.am/eng/news/1116346.html)?
-* What are the options and prospects for electing a new speaker this week?
+* Can you expand on the geopolitics around this road? What are Iran’s goals, and how is it achieving them?
+* Does this mean that Turkey and Azerbaijan will give up on Syunik?
+* It was a common talking point that Armenia was refraining from military cooperation with Iran because of potential western prohibitions. How can Azerbaijan get away with getting arms from the US for use against Iran, while at the same time cooperating militarily with Iran on training exercises?
+
 
 ## Topics from the Panelists
-* **Hovik**: Pashinyan at the Gyumri pan-Armenian games.
-* **Sergei**: Artsakh defeats pro-Turkish narrative. Also, last week's MPG polls yield encouraging results.
-
-
+* **Hovik**: The effect of Artsakh’s  demise on our kids
+* **Sergei**: Make Artsakh Refugees at home in Armenia, and do not give up hope.
 
 # Wrap-up
 
