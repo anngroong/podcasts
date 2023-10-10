@@ -1,5 +1,4 @@
 +++
-
 Date = 2023-10-09T00:15:00-07:00
 upcoming = false
 
@@ -23,7 +22,7 @@ aliases = ["/284"]
 explicit = "no"
 
 series = ["wir"]
-categories = ["Armenia", "Israel", Politics"]
+categories = ["Armenia", "Israel", "Politics"]
 tags = ["Sergei Melkonian", "Artsakh", "Nagorno Karabakh", "Armenia", "Azerbaijan", "Karabakh Refugees", "IDPs", "Genocide", "Ethnic Cleansing", "Dispossession", "Dispersion", "South Caucasus", "Turkey", "Russia", "Corridors", "Borders", "Peace Negotiations", "United States", "Iran", "Iranian Gas", "LNG", "Pipelines", "EU", "European Union", "Israel", "Palestine", "Fateh", "Hamas", "Israeli War", "Two State Solution", "Middle East", "Palestinian Cause", "Syria", "Syrian War", "2011", "Arab Spring"]
 
 Description = """
