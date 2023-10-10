@@ -9,7 +9,7 @@ subtitle = "Armenian News Network Groong - October 8, 2023"
 podcast_file = "13748999-sergei-melkonian-israel-palestine-future-of-artsakhtsis-armenian-azerbaijani-negotiations-ep-284-oct-8-2023.mp3"
 podcast_bytes = "42649456"
 podcast_duration = "3551"
-youtube = ""
+youtube = "B_pddi9ti1c"
 
 episode_image = "img/episode/284/thumbnail-284.webp"
 episode_banner = "img/episode/284/banner-284.webp"
