@@ -12,7 +12,7 @@ episode_image = "img/episode/285/thumbnail-285.webp"
 episode_banner = "img/episode/285/banner-285.webp"
 images = ["img/episode/285/banner-285.webp"]
 
-title = "Aram Orbelyan - Genocide Consequences | Artsakh POWs | Legal Status | Gov in Exile | 1991 Alma Ata Decl | Ep 285 - Oct 12, 2023"
+title = "Aram Orbelyan - Genocide & Consequences | Artsakh POWs & Refugees | Legal Status | Gov in Exile | 1991 Alma-Ata Decl | Ep 285 - Oct 12, 2023"
 subtitle = "Conversations on Groong - 10/12/2023"
 
 guests = ["aorbelyan"]
