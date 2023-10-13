@@ -1,12 +1,11 @@
 +++
-Date = 2023-10-12T22:00:00+04:00
-upcoming = true
+Date = 2023-10-13T22:00:00+04:00
+upcoming = false
 
-podcast_file = ""
-podcast_duration = ""
-podcast_bytes = ""
-youtube = ""
-
+podcast_file = "13772663-aram-orbelyan-genocide-consequences-artsakh-leadership-government-in-exile-ep-285-october-13-2023.mp3"
+podcast_duration = "3627"
+podcast_bytes = "43559653"
+youtube = "ZOD9GU8XmIQ"
 
 episode_image = "img/episode/285/thumbnail-285.webp"
 episode_banner = "img/episode/285/banner-285.webp"
@@ -33,8 +32,7 @@ Description = """
 
 #### Topics:
 * Genocide & Consequences
-* Legal Status of Former Artsakh Presidents
-* Legal Status of Artsakh Refugees
+* Legal Status of Former Artsakh Leadership
 * Artsakh Government in Exile
 
 Episode 285 | Recorded: October 11, 2023
