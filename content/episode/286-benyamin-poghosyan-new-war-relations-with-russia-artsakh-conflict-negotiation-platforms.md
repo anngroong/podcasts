@@ -1,15 +1,15 @@
 +++
 
 Date = 2023-10-17T00:15:00-04:00
-upcoming = true
+upcoming = false
 
 title = "Benyamin Poghosyan - At the Brink of a New War? | Armenia Russia Relations | Platform Shuffle: Brussels vs Moscow | Yerevan Mayor | Ep 286, Oct 15, 2023"
 subtitle = "Armenian News Network Groong - October 15, 2023"
 
-podcast_file = ""
-podcast_bytes = ""
-podcast_duration = ""
-youtube = ""
+podcast_file = "13800000-benyamin-poghosyan-at-the-brink-of-a-new-war-armenia-russia-relations-platform-shuffle-brussels-vs-moscow-yerevan-mayor-ep-286-oct-15-2023.mp3"
+podcast_bytes = "42524278"
+podcast_duration = "3541"
+youtube = "GxjbWAs-U9Q"
 
 episode_image = "img/episode/286/thumbnail-286.webp"
 episode_banner = "img/episode/286/banner-286.webp"
@@ -22,7 +22,7 @@ aliases = ["/286"]
 
 series = ["wir"]
 categories = ["Armenia", "Politics"]
-tags = ["Benyamin Poghosyan", "Armenia", "Artsakh", "Nagorno Karabakh", "Azerbaijan", "Peace Treaty", "Zangezur Corridor", "Enclaves", "Alma Ata", "1991 Alma Ata Declaration", "Granada", "Russia", "Moscow", "Brussels", "EU", "Corridors", "Borders", "Peace Negotiations", "United States", "Iran", "European Union", "Yerevan Mayor", "Tigran Avinyan", "Ailham Aliyev", "Nikol Pashinyan"]
+tags = ["Benyamin Poghosyan", "Armenia", "Artsakh", "Nagorno Karabakh", "Azerbaijan", "Genocide", "Ethnic Cleansing", "Peace Treaty", "Zangezur Corridor", "Enclaves", "Alma Ata", "1991 Alma Ata Declaration", "Granada", "Russia", "Moscow", "Brussels", "EU", "Corridors", "Borders", "Peace Negotiations", "United States", "Iran", "European Union", "Yerevan Mayor", "Tigran Avinyan", "Ailham Aliyev", "Nikol Pashinyan"]
 
 Description = """
 #### Guest:
