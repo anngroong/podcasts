@@ -14,7 +14,7 @@ Instagram = ""
 YouTube = ""
 Twitch = ""
 #Aka = []
-#guest_group = "wir"
+#guest_group = "cog"
 +++
 
-Ehsan Movahedian, is ...
+Dr. Ehsan Movahedian is an International Relations specialist, ATU University, in Tehran, Iran. He focuses on multidisciplinary research about Digital Diplomacy and politics.
