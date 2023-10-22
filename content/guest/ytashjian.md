@@ -10,11 +10,11 @@ Linkedin = ""
 GitHub = ""
 Thumbnail = "img/guest/ytashjian.jpg"
 Pinterest = ""
-Instagram = ""
+Instagram = "yeghia.tashjian"
 YouTube = ""
 Twitch = ""
 #Aka = []
 #guest_group = "wir"
 +++
 
-Yeghia Tashjian, is a regional analyst and researcher based in Beirut, with expertise in China, Iran and the Persian Gulf. Tashjian is Associate Fellow at the Issam Fares Institute for Public Policy and International Affairs at the American University of Beirut and a part-time instructor in International Affairs at the American University for Science and Technology.
+Yeghia Tashjian is a regional analyst and researcher based in Beirut, with expertise in China’s geopolitical and energy security interests in Iran and the Persian Gulf. Currently he is an instructor in International Affairs at the American University of Science and Technology and Senior Research Assistant at the Issam Fares Institute for Public Policy and International Affairs at the American University of Beirut.
