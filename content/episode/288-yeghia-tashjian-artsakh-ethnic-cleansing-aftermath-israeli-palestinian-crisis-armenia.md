@@ -39,7 +39,18 @@ Episode 288 | Recorded: October 22, 2023"""
 
 +++
 
+# Subscribe to us, Follow us!
 
+Here are the links we mentioned at the start of our show today:
+* On Youtube our channel is [@Groong](https://www.youtube.com/c/Groong/videos).
+* On Twitter we’re [@Groong](https://twitter.com/groong).
+* On Instagram and Threads are at [@ANNGroong](https://www.instagram.com/anngroong).
+
+Our News Feeds are available on
+* Facebook in [our Facebook Group](https://www.facebook.com/groups/groong?sorting_setting=CHRONOLOGICAL)
+* Our website at [groong.org/news](https://groong.org/news/).
+
+##All of our links in our [LinkTree](https://linktr.ee/groong).
 
 
 # Wrap-up
