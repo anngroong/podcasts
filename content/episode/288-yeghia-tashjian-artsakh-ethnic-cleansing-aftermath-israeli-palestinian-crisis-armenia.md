@@ -1,16 +1,16 @@
 +++
 
 Date = 2023-10-22T00:15:00+04:00
-upcoming = true
+upcoming = false
 
 
-title = "Yeghia Tashjian - Artsakh Ethnic Cleansing Aftermath | Israeli-Palestinian Crisis & Ripples | Ep. 288 - Oct 22, 2023"
+title = "Yeghia Tashjian - Aftermath of the Ethnic Cleansing of Artsakh | Israeli-Palestinian Crisis & Ripples | Ep. 288 - Oct 22, 2023"
 subtitle = "Armenian News Network Groong - Oct 22, 2023"
 
 podcast_file = "13826842-yeghia-tashjian-aftermath-of-artsakh-ethnic-cleansing-israeli-palestinian-crisis-ripples-effects-to-the-south-caucasus-ep-288-oct-22-2023.mp3"
 podcast_bytes = "40877020"
 podcast_duration = "3404"
-youtube = ""
+youtube = "ccuggTNHPZA"
 
 episode_image = "img/episode/288/thumbnail-288.webp"
 episode_banner = "img/episode/288/banner-288.webp"
@@ -23,7 +23,7 @@ aliases = ["/288"]
 
 series = ["wir"]
 categories = ["Armenia", "Politics"]
-tags = ["Yeghia Tashjian", "Armenia", "Artsakh", "Nagorno Karabakh", "Israel", "Gaza", "Palestinian Cause", "Samvel Shahramanyan", "INSTC", "IMEEC", "Belt & Road Initiative", "North South Corridor", "East West Corridor", "Syunik", "Zangezur Corridor", "Russia", "Turkey", "Iran", "Azerbaijan", "Middle East", "Abraham Accords", "Saudi Arabia", "China", "India"]
+tags = ["Yeghia Tashjian", "Armenia", "Artsakh", "Nagorno Karabakh", "Israel", "Gaza", "Palestinian Cause", "Hamas", "Hezbollah", "Muslim Brotherhood", "Samvel Shahramanyan", "INSTC", "IMEC", "Belt & Road Initiative", "North South Corridor", "East West Corridor", "Syunik", "Zangezur Corridor", "Russia", "Turkey", "Iran", "Azerbaijan", "Middle East", "Benyamin Netanyahu", "Abraham Accords", "Saudi Arabia", "China", "India"]
 
 Description = """
 
@@ -31,8 +31,14 @@ Description = """
 * [Yeghia Tashjian](/guest/ytashjian)
 
 #### Topics:
-Artsakh Ethnic Cleansing Aftermath
-Israeli-Palestinian Conflict
+* Aftermath of the Ethnic Cleansing of Artsakh
+    * Shahramanyan meets Protesters
+    * “Rights & Security”
+    * Government-in-Exile
+* Israeli-Palestinian Conflict
+    * Ripple Effects to the South Caucasus
+    * Effects in the Middle East
+    * Lebanon & the Armenian Community
 
 
 Episode 288 | Recorded: October 22, 2023"""
@@ -50,7 +56,7 @@ Our News Feeds are available on
 * Facebook in [our Facebook Group](https://www.facebook.com/groups/groong?sorting_setting=CHRONOLOGICAL)
 * Our website at [groong.org/news](https://groong.org/news/).
 
-###All of our links in our [LinkTree](https://linktr.ee/groong).
+### All of our links in our [LinkTree](https://linktr.ee/groong).
 
 
 ## Aftermath of the Ethnic Cleansing of Artsakh
