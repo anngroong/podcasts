@@ -131,15 +131,15 @@ The Palestinian cause has been a pivotal issue since the second world war and a 
 <p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![INSTC](img/episode/288/INSTC-reddit-mapporn-1.jpg "image_tooltip")
+![INSTC](/img/episode/288/INSTC-reddit-mapporn-1.jpg "image_tooltip")
 Fig: 1: Map of International North-South Trade Corridor (INSTC), Source: [Reddit/r/MapPorn](https://www.reddit.com/r/MapPorn/comments/upxk8z/indias_international_northsouth_transport/)
 
 
-![IMEC](img/episode/288/IMEC-hindu-businessline-1.jpg "image_tooltip")
+![IMEC](/img/episode/288/IMEC-hindu-businessline-1.jpg "image_tooltip")
 Fig: 2: Map of the India-Middle East-Europe Corridor (IMEC), Source: [The Hindu BusinessLine](https://www.thehindubusinessline.com/opinion/a-corridor-of-immense-promise/article67296263.ece)
 
 
-![BRI](img/episode/288/Belt-and-Road-clindael-1.png "image_tooltip")
+![BRI](/img/episode/288/Belt-and-Road-clindael-1.png "image_tooltip")
 Fig: 3: Map of China’s Belt and Road Initiative, Source: [Clingendael](https://www.clingendael.org/publication/new-map-belt-and-road-initiative)
 
 
