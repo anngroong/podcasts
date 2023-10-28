@@ -5,10 +5,10 @@ upcoming = true
 title = "Aghasi Yenokyan - Armenian News & Media | Azatutyun | Fake News | Press Freedom | Armenia | Artsakh | Global Conflicts | Ep 289 - Oct 28, 2023"
 subtitle = "Conversations on Groong - 10/28/2023"
 
-podcast_file = ""
-podcast_duration = ""
-podcast_bytes = ""
-youtube = ""
+podcast_file = "13862598-aghasi-yenokyan-armenian-news-media-azatutyun-fake-news-press-freedom-armenia-artsakh-global-conflicts-ep-289-oct-28-2023.mp3"
+podcast_duration = "3363"
+podcast_bytes = "40392257"
+youtube = "a9GTBF2Q38g"
 
 episode_image = "img/episode/289/thumbnail-289.webp"
 episode_banner = "img/episode/289/banner-289.webp"
@@ -23,7 +23,7 @@ aliases = ["/289"]
 series = ["cog"]
 categories = ["Armenia", "Artsakh", "Armenian Media"]
 explicit = "no" # values are "yes" or "no"
-tags = ["Aghasi Yenokyan", "Armenia", "Artsakh", "Nagorno Karabakh", "Azerbaijan", "RFE RL", "Azatutyun", "Radio Free EUrope", "Radio Liberty", "Armenian Media", "Fake News", "CivilNet", "Perfect TV", "Factor TV", "Media Independence", "USAID", "Free Press", "Nikol Pashinyan", "Velvet Revolution", "Artsakh Refugees", "Genocide", "Dispossession", "Samvel Shahramanyan", "Rights and Security", "Israel", "Hamas", "Ukraine", "Ukraine War", "Russia", "NATO", "South Caucasus", "Iran"]
+tags = ["Aghasi Yenokyan", "Armenia", "Artsakh", "Nagorno Karabakh", "Azerbaijan", "RFE RL", "Azatutyun", "Radio Free Europe", "Radio Liberty", "Armenian Media", "Fake News", "CivilNet", "ՊՈԱԿ", "POAK", "IPRC", "Public Relations and Information Center", "Perfect TV", "Factor TV", "Media Advocate", "Media Independence", "USAID", "Free Press", "Nikol Pashinyan", "Velvet Revolution", "Artsakh Refugees", "Genocide", "Dispossession", "Samvel Shahramanyan", "Rights and Security", "Israel", "Hamas", "Ukraine", "Ukraine War", "Russia", "NATO", "South Caucasus", "Iran"]
 
 Description = """
 
@@ -126,7 +126,6 @@ In 2018 you had [predicted](https://arka.am/en/news/politics/armenian_analyst_sa
 * Is democracy even possible in a region where the major players are autocracies or dictatorships?
 * What are your thoughts about the level of sophistication and media literacy of the Armenian public?
 
-
 ## Artsakh
 
 We’re all aware of the loss of Artsakh last month, and the dispossession of the people of Artsakh from their homeland of millenia. Over 101,000 people were forcibly evicted in two week’s time at the end of September 2023.
@@ -138,7 +137,6 @@ Given the current situation in Armenia with the leadership of Artsakh, for examp
 * Should they seek their right of return? Compensation?
 * Why doesn’t Pashinyan meet with them to figure out next steps together?
 
-
 ## Global Conflicts - Israel, Ukraine
 
 Earlier this month a very significant crisis flared up in Israel, thousands are dead and injured without an end in sight at present. A greater and more immediate conflict is still playing out in Ukraine, which is a battleground for a war between Russia and NATO.
@@ -149,7 +147,6 @@ Importantly, both of these conflicts have repercussions all the way back to the 
 * What dangers and opportunities do you see for Armenia in these crises?
 * How should Armenia navigate through them?
 * What tools do we have in FP that we are not using?
-
 
 # Wrap-up
 
