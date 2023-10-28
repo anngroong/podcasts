@@ -21,7 +21,7 @@ episode = "289"
 aliases = ["/289"]
 
 series = ["cog"]
-categories = ["Armenia", "Artsakh", "Armenian Media"]
+categories = ["Armenia", "Artsakh", "Armenian Media", "Israel"]
 explicit = "no" # values are "yes" or "no"
 tags = ["Aghasi Yenokyan", "Armenia", "Artsakh", "Nagorno Karabakh", "Azerbaijan", "RFE RL", "Azatutyun", "Radio Free Europe", "Radio Liberty", "Armenian Media", "Fake News", "CivilNet", "ՊՈԱԿ", "POAK", "IPRC", "Public Relations and Information Center", "Perfect TV", "Factor TV", "Media Advocate", "Media Independence", "USAID", "Free Press", "Nikol Pashinyan", "Velvet Revolution", "Artsakh Refugees", "Genocide", "Dispossession", "Samvel Shahramanyan", "Rights and Security", "Israel", "Hamas", "Ukraine", "Ukraine War", "Russia", "NATO", "South Caucasus", "Iran"]
 

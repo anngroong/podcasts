@@ -22,7 +22,7 @@ aliases = ["/260"]
 explicit = "no"
 
 series = ["wir"]
-categories = ["Armenia", "Politics"]
+categories = ["Armenia", "Politics", "Israel"]
 tags = ["Sergei Melkonian", "Armenia", "Artsakh", "Nagorno Karabakh", "Azerbaijan", "South Caucasus", "Peace Negotiations", "Nikol Pashinyan", "Ilham Aliyev", "Charles Michel", "Emmanuel Macron", "Olaf Scholtz", "Recep Tayyip Erdogan", "Chisinau", "Kishinev", "Moldova", "Prague", "Moscow", "Mher Grigoryan", "Alexey Overchuk", "Isaac Herzog", "Israel", "Iran"]
 
 Description = """
