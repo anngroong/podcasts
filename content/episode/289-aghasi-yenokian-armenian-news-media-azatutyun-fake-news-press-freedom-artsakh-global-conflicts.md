@@ -1,6 +1,6 @@
 +++
 Date = 2023-10-28T22:00:00+04:00
-upcoming = true
+upcoming = false
 
 title = "Aghasi Yenokyan - Armenian News & Media | Azatutyun | Fake News | Press Freedom | Armenia | Artsakh | Global Conflicts | Ep 289 - Oct 28, 2023"
 subtitle = "Conversations on Groong - 10/28/2023"
