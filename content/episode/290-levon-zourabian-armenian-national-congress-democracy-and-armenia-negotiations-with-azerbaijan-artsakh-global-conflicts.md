@@ -1,14 +1,14 @@
 +++
 Date = 2023-10-29T22:00:00+04:00
-upcoming = true
+upcoming = false
 
 title = "Levon Zourabian - Armenian National Congress | Democracy and Armenia | Negotiations with Azerbaijan | Artsakh | Global Conflicts | Ep 290 - Oct 29, 2023"
 subtitle = "Conversations on Groong - 10/29/2023"
 
-podcast_file = ""
-podcast_duration = ""
-podcast_bytes = ""
-youtube = ""
+podcast_file = "13864887-levon-zourabian-armenian-national-congress-democracy-and-armenia-negotiations-with-azerbaijan-artsakh-global-conflicts-ep-290-oct-29-2023.mp"
+podcast_duration = "4715"
+podcast_bytes = "56615836"
+youtube = "KyURu6rnlyc"
 
 episode_image = "img/episode/290/thumbnail-290.webp"
 episode_banner = "img/episode/290/banner-290.webp"
@@ -110,9 +110,7 @@ After the war, and especially after the various Azerbaijani invasions into Armen
 * What is Pashinyan’s ultimate policy as it relates to external geopolitical orientation?
 * How realistic is the idea that the West can replace Russia as a strategic ally of Armenia?
 
-
 ## Global Conflicts
-
 
 ### Israel - Palestine
 
@@ -125,7 +123,6 @@ This conflict has repercussions all the way back to the South Caucasus, because 
 * How should Armenia navigate through it?
 * What tools do we have in FP that we are not using?
 
-
 ### War in Ukraine
 
 While Israel-Hamas is the latest flare-up, the greater and longer-term issues in the global geopolitical rearrangement is still playing out in Ukraine, which is the battleground for a Russia vs. NATO war.
@@ -135,7 +132,6 @@ While Israel-Hamas is the latest flare-up, the greater and longer-term issues in
 * What scenarios arise if Russia "wins"? Can Russia lose?
 * What dangers and opportunities do you see for Armenia in this conflict?
 * How should Armenia navigate through it?
-
 
 # Wrap-up
 
