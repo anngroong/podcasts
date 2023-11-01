@@ -1,6 +1,6 @@
 +++
 Date = 2023-10-29T00:30:00+04:00
-upcoming = false
+upcoming = true
 
 podcast_file = ""
 podcast_bytes = ""
@@ -40,6 +40,7 @@ Episode 291 | Recorded: October 29, 2023"""
 
 +++
 
+![Crossroads of Peace](/img/episode/291/Crossroads-of-Peace-GovAM-20231026.JPG "Crossroads of Peace")
 
 
 # Wrap-up
