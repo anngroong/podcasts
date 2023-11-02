@@ -36,7 +36,7 @@ Description = """
 * Defense Deal with France
 * Artsakh Status
 
-Episode 291 | Recorded: October 29, 2023"""
+Episode 291 | Recorded: October 31, 2023"""
 
 +++
 
