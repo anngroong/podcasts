@@ -31,9 +31,7 @@ Description = """
 * [Aram Orbelyan](/guest/aorbelyan)
 
 #### Topics:
-* Genocide & Consequences
-* Legal Status of Former Artsakh Leadership
-* Artsakh Government in Exile
+* The 1991 Alma-Ata Declaration
 
 Episode 292 | Recorded: November 8, 2023
 """
