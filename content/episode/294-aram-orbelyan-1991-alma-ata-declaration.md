@@ -1,5 +1,5 @@
 +++
-Date = 2023-11-08T22:00:00+04:00
+Date = 2023-11-14T22:00:00+04:00
 upcoming = true
 
 podcast_file = ""
@@ -7,21 +7,21 @@ podcast_duration = ""
 podcast_bytes = ""
 youtube = ""
 
-episode_image = "img/episode/292/thumbnail-292.webp"
-episode_banner = "img/episode/292/banner-292.webp"
-images = ["img/episode/292/banner-292.webp"]
+episode_image = "img/episode/294/thumbnail-294.webp"
+episode_banner = "img/episode/294/banner-294.webp"
+images = ["img/episode/294/banner-294.webp"]
 
-title = "Aram Orbelyan - The 1991 Alma-Ata Declaration | Ep 292 - Nov 9, 2023"
-subtitle = "Conversations on Groong - 11/09/2023"
+title = "Aram Orbelyan - The 1991 Alma-Ata Declaration | Ep 294 - Nov 14, 2023"
+subtitle = "Conversations on Groong - 11/14/2023"
 
 guests = ["aorbelyan"]
 hosts = ["asbed","hovik"]
 
-episode = "292"
-aliases = ["/292"]
+episode = "294"
+aliases = ["/294"]
 
 series = ["cog"]
-categories = ["Armenia", "Artsakh" "Azerbaijan"]
+categories = ["Armenia", "Artsakh", "Azerbaijan"]
 explicit = "no" # values are "yes" or "no"
 tags = ["Aram Orbelyan", "Armenia", "Artsakh", "Nagorno Karabakh", "Autonomous Oblast", "1991", "Alma Ata", "Alma Ata Declaration", "Levon Ter-Petrosyan", "Azerbaijan", "Nkao", "Soviet Union", "Russia", "Nikol Pashinyan"]
 
@@ -33,7 +33,7 @@ Description = """
 #### Topics:
 * The 1991 Alma-Ata Declaration
 
-Episode 292 | Recorded: November 8, 2023
+Episode 294 | Recorded: November 13, 2023
 """
 
 +++
