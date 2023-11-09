@@ -8,7 +8,7 @@ Type = "guest"
 Facebook = "kegham.balian"
 Linkedin = ""
 GitHub = ""
-Thumbnail = "img/guest/Kegham-Balian-1.jpg"
+Thumbnail = "img/guest/Kegham-Balian-CU-1.png"
 Pinterest = ""
 Instagram = ""
 YouTube = ""
@@ -17,4 +17,4 @@ Twitch = ""
 #guest_group = "cog"
 +++
 
-__Kegham Balian__ is a Jerusalemite Armenian activist, he writes for various Armenian media outlets such as the Hairenik Armenian Weekly, and 301.
+__Kegham Balian__ is a Jerusalemite Armenian writer. He is a columnist at The Armenian Weekly and also writes for This Week in Palestine.
