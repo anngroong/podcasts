@@ -12,7 +12,7 @@ subtitle = "Armenian News Network Groong - November 9, 2023"
 podcast_file = "13943449-setrag-balian-hagop-djernazian-jerusalem-patriarchate-and-armenian-quarters-under-threat-by-israeli-investor-and-armed-settlers.mp3"
 podcast_bytes = "13107031"
 podcast_duration = "1089"
-youtube = ""
+youtube = "60PjPBdJ2WQ"
 
 episode_image = "img/episode/292/thumbnail-292.webp"
 episode_banner = "img/episode/292/banner-292.webp"
