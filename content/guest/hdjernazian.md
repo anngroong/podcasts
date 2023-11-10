@@ -17,4 +17,4 @@ Twitch = ""
 #guest_group = "wir"
 +++
 
-Hagop Djernazian is an activist and lives in Jerusalem. He studies International relations and middle east studies at the Hebrew University of Jerusalem.
+Hagop Djernazian is an activist and co-founder of the [Save The ArQ](https://www.facebook.com/profile.php?id=61550949422912&mibextid) movement. He lives in Jerusalem and studies International relations and middle east studies at the Hebrew University of Jerusalem.

@@ -17,4 +17,4 @@ Twitch = ""
 #guest_group = "cog"
 +++
 
-__Setrag Balian__ is a Jerusalemite Armenian activist and co-founder of the [Save The ArQ](https://www.facebook.com/profile.php?id=61550949422912&mibextid) movement
+__Setrag Balian__ is a Jerusalemite Armenian activist and co-founder of the [Save The ArQ](https://www.facebook.com/profile.php?id=61550949422912&mibextid) movement.
