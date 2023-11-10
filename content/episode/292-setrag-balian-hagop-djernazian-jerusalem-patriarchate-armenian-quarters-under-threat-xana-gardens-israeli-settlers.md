@@ -90,6 +90,7 @@ Here are articles from Groong on this topic:
 * [Jerusalem's Armenians claim Gaza war is shielding a land grab](https://www.youtube.com/watch?v=-Qh26OKb6CI) - 11/06/2023
 * [A group of Israeli extremists enter Armenian Gardens in Jerusalem, claim ownership](https://en.armradio.am/2023/11/06/a-group-of-israeilis-enter-armenian-quarter-in-jerusalem-claim-ownership/) - 11/06/2023
 * [Investor Storms Jerusalem Patriarchate Garden in Defiance of Real Estate Deal Cancelation](https://asbarez.com/investor-storms-jerusalem-patriarchate-garden-in-defiance-of-real-estate-deal-cancelation/) - 11/06/2023
+* [Investor ignores Armenian Patriarchate of Jerusalem’s cancellation of land deal and starts demolition works](https://armenpress.am/eng/news/1123604.html) - 11/06/2023
 * [Jerusalem Patriarchate Vows to Protect Armenian Church’s Interests](https://asbarez.com/jerusalem-patriarchate-vows-to-protect-armenian-churchs-interests/) - 05/12/2023
 * [Jordan, Palestine no longer recognize Armenian Patriarch Nourhan Manougian](https://www.jordannews.jo/Section-109/News/Jordan-Palestine-no-longer-recognize-Armenian-Patriarch-Nourhan-Manougian-28607) - 05/13/2023
 * [Goverou Bardez: Saving the Oldest Armenian Diaspora in the World](https://armenianweekly.com/2023/05/24/goverou-bardez-saving-the-oldest-armenian-diaspora-in-the-world/?fbclid=IwAR2guMYJdzUMZlqSOGs4mpv3XPzlb7ElDQK3pflCBXd6vEgOn8nUfTOXf4c) - 05/24/2023
