@@ -18,8 +18,8 @@ episode_image = "img/episode/292/thumbnail-292.webp"
 episode_banner = "img/episode/292/banner-292.webp"
 images = ["img/episode/292/banner-292.webp"]
 
-hosts = ["kpeltekian", "asbed","hovik"]
-guests = ["hdjernazian"]
+hosts = ["asbed"]
+guests = ["sbalian", "hdjernazian"]
 episode = "292"
 aliases = ["/292"]
 explicit = "no"
@@ -41,6 +41,7 @@ Description = """Setrag Balian & Hagop Djernazian - Jerusalem Patriarchate and A
 * Further Issues on November 9
 * Are the Lease Agreement and its Cancellation Legal?
 * What do Israeli Settlers have to do with the Lease Deal?
+* What Next?
 
 Episode 292 | Recorded on Wednesday, November 9 2023"""
 
