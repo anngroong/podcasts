@@ -1,11 +1,11 @@
 +++
 Date = 2023-11-14T22:00:00+04:00
-upcoming = true
+upcoming = false
 
-podcast_file = ""
-podcast_duration = ""
-podcast_bytes = ""
-youtube = ""
+podcast_file = "13968065-aram-orbelyan-the-1991-alma-ata-declaration-what-did-armenia-sign-ep-293-november-14-2023.mp3"
+podcast_duration = "32446977"
+podcast_bytes = "2701"
+youtube = "u1gRTINqJkY"
 
 episode_image = "img/episode/293/thumbnail-293.webp"
 episode_banner = "img/episode/293/banner-293.webp"
