@@ -7,18 +7,18 @@ podcast_duration = ""
 podcast_bytes = ""
 youtube = ""
 
-episode_image = "img/episode/294/thumbnail-294.webp"
-episode_banner = "img/episode/294/banner-294.webp"
-images = ["img/episode/294/banner-294.webp"]
+episode_image = "img/episode/293/thumbnail-293.webp"
+episode_banner = "img/episode/293/banner-293.webp"
+images = ["img/episode/293/banner-293.webp"]
 
-title = "Aram Orbelyan - The 1991 Alma-Ata Declaration | Ep 294 - Nov 14, 2023"
+title = "Aram Orbelyan - The 1991 Alma-Ata Declaration | Ep 293 - Nov 14, 2023"
 subtitle = "Conversations on Groong - 11/14/2023"
 
 guests = ["aorbelyan"]
 hosts = ["asbed","hovik"]
 
-episode = "294"
-aliases = ["/294"]
+episode = "293"
+aliases = ["/293"]
 
 series = ["cog"]
 categories = ["Armenia", "Artsakh", "Azerbaijan"]
@@ -33,12 +33,45 @@ Description = """
 #### Topics:
 * The 1991 Alma-Ata Declaration
 
-Episode 294 | Recorded: November 13, 2023
+Episode 293 | Recorded: November 13, 2023
 """
 
 +++
 
+# The 1991 Alma Ata Declaration
 
+
+## Armenia and the 1991 Alma-Ata Protocols
+
+The [1991 Alma-Ata](https://en.wikipedia.org/wiki/Alma-Ata_Protocol) [protocols](https://www.venice.coe.int/webforms/documents/?pdf=CDL(1994)054-e) were the founding documents for the Commonwealth of Independent States, the CIS, and were signed on December 21, 1991. The founding of the CIS then led to the dissolution of the Soviet Union on December 26.
+
+A key argument (or excuse) that Pashinyan throws around as part of his “I didn’t do it” defense in losing Artsakh, is that by signing the 1991 Alma-Ata protocols, Armenia had already recognized Artsakh as part of Azerbaijan.
+
+There has been a lot of confusion over what has been signed, what hasn’t been signed, what has been ratified, and what has been signed but not ratified by both Armenia and Azerbaijan.
+
+**Questions:**
+* Can you help us understand what first president Levon Ter-Petrosyan signed on behalf of Armenia in Alma-Ata? And also: what did the legislatures of Armenia and Azerbaijan ratify, and when?
+* What is considered the legal founding date of the Republic of Armenia? Is it in line with the CIS treat(ies) or is it a different date? Is the difference between these dates relevant to the cause of Artsakh?
+
+It has been said that Armenia signed the CIS treaty “with reservations'', which included the Nagorno Karabakh Autonomous Oblast (NKAO) in its agreement. We’ve read that these reservations [have not been found](https://news.am/eng/news/725757.html),
+
+**Questions:**
+* Where are these reservations? Were these remarks made implicitly, or explicitly about the NKAO?
+* Why would Pashinyan ignore these reservations?
+* How relevant is the declaration and the subsequent CIS treaties for the adjudication of the Artsakh conflict? Why did Pashinyan agree to use it as a basis?
+* Ter-Petrosyan [said](https://mediamax.am/en/news/special-file/49779/) at the time that “the autonomies of the Russian Federation would be the kind that would completely satisfy NKAO people”. Was he talking about autonomy inside Azerbaijan, or about an independent or autonomous state member of the CIS?
+
+In its 33 years of de facto independence, self-determination and self-government, no state recognized Artsakh as an independent state.
+
+**Questions:**
+* Looking back, should Armenia have recognized Artsakh as a state at some point during the past 3 decades?
+* Since the complete dispossession of Artsakh in September 2023, where does it leave the cause for an independent Artsakh? How should Armenia pursue it on the international scene?
+
+
+## References
+* The [Luys Foundation review](https://www.luys.am/img/artpic/small/e7847e4c093e53db538a%D4%B1%D5%AC%D5%B4%D5%A1%D4%B1%D5%A9%D5%A1%D5%B5%D5%AB%D5%B0%D5%BC%D5%B9%D5%A1%D5%AF%D5%A1%D5%A3%D5%AB%D6%80%D5%A8.pdf) of the case - which Aram referred to. (in Armenian)
+* [Ալմա Աթայի հռչակագիրը և Արցախի տարածքային պատկանելիության հարցը](https://168.am/2023/10/10/1942600.html) (Declaration of Alma Ata and the issue of territorial belonging to Artsakh)
+* [Arlis.am](https://arlis.am) about Armenian reservations, which Aram referred to.
 
 # Wrap-up
 
