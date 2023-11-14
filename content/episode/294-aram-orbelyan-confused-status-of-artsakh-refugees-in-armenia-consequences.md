@@ -2,16 +2,16 @@
 Date = 2023-11-14T22:12:00+04:00
 upcoming = true
 
-podcast_file = ""
-podcast_duration = ""
-podcast_bytes = ""
+podcast_file = "13973128-aram-orbelyan-the-confused-status-of-artsakh-refugees-in-armenia-and-consequences-ep-294-nov-14-2023.mp3"
+podcast_duration = "17551583"
+podcast_bytes = "1460"
 youtube = ""
 
 episode_image = "img/episode/294/thumbnail-294.webp"
 episode_banner = "img/episode/294/banner-294.webp"
 images = ["img/episode/294/banner-294.webp"]
 
-title = "Aram Orbelyan - The Confused State of Artskah Refugees in Armenia and Consequences| Ep 294 - Nov 14, 2023"
+title = "Aram Orbelyan - The Confused Status of Artskah Refugees in Armenia and Consequences| Ep 294 - Nov 14, 2023"
 subtitle = "Conversations on Groong - 11/14/2023"
 
 guests = ["aorbelyan"]
