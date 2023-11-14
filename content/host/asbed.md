@@ -15,5 +15,5 @@ YouTube = ""
 Twitch = ""
 +++
 
-Asbed is founder of Groong and co-founder of the ANN/Groong podcast.
+Asbed is founder of the Armenian News Network Groong and co-founder of the ANN/Groong podcast.
 
