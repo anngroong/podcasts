@@ -23,7 +23,7 @@ aliases = ["/293"]
 series = ["cog"]
 categories = ["Armenia", "Artsakh", "Azerbaijan"]
 explicit = "no" # values are "yes" or "no"
-tags = ["Aram Orbelyan", "Armenia", "Artsakh", "Nagorno Karabakh", "Autonomous Oblast", "1991", "Alma Ata", "Alma Ata Declaration", "Levon Ter-Petrosyan", "Azerbaijan", "Nkao", "Soviet Union", "Russia", "Nikol Pashinyan"]
+tags = ["Aram Orbelyan", "Armenia", "Artsakh", "Nagorno Karabakh", "Autonomous Oblast", "1991", "Alma Ata", "Alma Ata Declaration", "Levon Ter-Petrosyan", "Azerbaijan", "NKAO", "Soviet Union", "Russia", "Nikol Pashinyan", "Montevideo Treaty", "Shahumyan", "December 10", "September 21", "Genocide", "Pogroms", "Baku", "Sumgait", "Serbia", "Montenegro"]
 
 Description = """
 
@@ -31,9 +31,18 @@ Description = """
 * [Aram Orbelyan](/guest/aorbelyan)
 
 #### Topics:
-* The 1991 Alma-Ata Declaration
+* What is the 1991 Alma Ata Declaration?
+* What is the CIS Based on?
+* About Borders, Treaties, and Declarations
+* Armenia’s explicit reservation affecting Artsakh in the Treaty
+* Why would Pashinyan ignore the Reservations?
+* Territorial Integrity and Use of Force
+* What Autonomy was LTP Envisioning?
+* Where does 2023 Leave the Cause of Artsakh?
+* How should Armenia Pursue it on the International Scene?
 
 Episode 293 | Recorded: November 13, 2023
+
 """
 
 +++
