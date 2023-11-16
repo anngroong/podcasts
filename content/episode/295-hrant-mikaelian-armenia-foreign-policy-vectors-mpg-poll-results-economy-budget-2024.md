@@ -37,18 +37,16 @@ Episode 295 | Recorded: Nov 15, 2023"""
 
 +++
 
-## Pashinyan’s Vector Roulette
+# Pashinyan’s Vector Roulette
 
-What’s your vector, Victor?
+"What’s our vector, Victor?"
 
 
-### The Western Vector
+## The Western Vector
 
 First, let’s begin with Armenia-West relations.
 
 Armenia’s Foreign Policy seems like it’s all about attending conferences in the west and hosting European MP’s to tell them about Pashinyan’s Crossroads of Peace. and avoiding important ministerial and summit meetings on the Russian side. Armenian authorities made serious efforts to find any conference in the West that they could attend, so that they’d have an excuse not to attend a CSTO event.
-
-
 
 * Pashinyan attends “Paris Peace Forum” 
     * The only foreign head of state that attended
@@ -58,8 +56,6 @@ Armenia’s Foreign Policy seems like it’s all about attending conferences in 
 * Etc.
 
 Following Azerbaijan’s abrupt and dismissive boycott of western mediation in Granada then Brussels, the EU has amped up its language against Azerbaijan. Joseph Borell said that in the case of violation of territorial integrity of Armenia, the EU will review its relationship with Azerbaijan. A little stronger language than guaranteeing ahead of time that they won’t do anything. Germany’s foreign minister Baerbock visited Armenia, and in the past few days the council of foreign ministers of the EU showed [strong support](https://www.azatutyun.am/a/32683155.html) for Armenia. The EU announced:
-
-
 
 * Increase of monitoring mission (EUMA)
 * More opportunities for military aid funding
@@ -93,14 +89,14 @@ Russia is still talking about controlling a corridor through Armenia. At this po
 * Is Pashinyan’s Crossroads of Peace, the so-called “Խաղաղության խաչմերուկ”, basically his plan to socialize Point 9 domestically?
 
 
-## Latest MPG Poll Results
+# Latest MPG Poll Results
 
 We should note that these poll results may seem very paradoxal at first glance. 
 
 Whether you disagree with the sentiments expressed in this poll, it is important to try to analyze and understand these results and take informed action based on this data.
 
 
-### Armenians “Rosy” Present and Future
+## Armenians “Rosy” Present and Future
 
 Multiple questions in this poll were asked about Armenians’ opinions about the quality of their life today and their hope for the future. 
 
@@ -112,7 +108,7 @@ While it can’t be compared with the euphoric atmosphere of 2019, when more tha
 * How big of an effect are government-controlled media having on the sentiment of the public? 
 
 
-### Pashinyan’s Approval Rating
+## Pashinyan’s Approval Rating
 
 On the question of “How much do you trust Nikol Pashinyan”:
 * 20.4% - very much
@@ -144,7 +140,7 @@ Given the aftermath of the genocide in Artsakh:
 * Is Armenia doing enough to secure the rights of Artsakhtsis who wish to be integrated into life in Armenia?
 
 
-### Political Prisoners
+## Political Prisoners
 
 More than half of the respondents said that they believe Armenia has political prisoners.
 
@@ -158,7 +154,7 @@ Specifically:
 * Why doesn’t this concern about fundamental freedoms affect the optimism of the people?
 
 
-### Full Results
+## Full Results
 
 
 #### Methodology
@@ -233,7 +229,7 @@ If there were Parliamentary elections next Sunday, which party or bloc would you
 
 
 
-## Armenian Budget and Economy
+# Armenian Budget and Economy
 
 In the past month, the parliament [passed](https://armenpress.am/eng/news/1123724.html) a national budget for 2024. Key aspects:
 
@@ -264,7 +260,7 @@ The reliance on Russia is also a cause for concern, particularly because it seem
 Alright, let’s wrap up our topics here. I’d like to ask each of you if there’s been something on your mind this past week that you want to talk about.
 
 
-## Topics from the Panelists
+# Topics from the Panelists
 
 * **Hovik**:
 * **Hrant**: 
