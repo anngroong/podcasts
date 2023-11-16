@@ -33,7 +33,7 @@ Description = """
 * Latest MPG Poll Result Analysis
 * Armenian Economy and 2024 Budget
 
-Episode 295 | Recorded: Nov 12, 2023"""
+Episode 295 | Recorded: Nov 15, 2023"""
 
 +++
 
@@ -193,14 +193,14 @@ Specifically:
 #### Towards which country or countries do you think Armenia's integration vector should be directed?
 
 ![Integration Vector](/img/episode/295/MPG-Gallup-Nov-2023-6.webp "Integration Vector")
-Multiple answers allowed.
+__Multiple answers allowed.__
 
 
 
 #### From which countries can our country obtain military and political help?
 
 ![Military Help](/img/episode/295/MPG-Gallup-Nov-2023-7.webp "Military Help")
-Multiple answers allowed
+__Multiple answers allowed__
 
 
 
