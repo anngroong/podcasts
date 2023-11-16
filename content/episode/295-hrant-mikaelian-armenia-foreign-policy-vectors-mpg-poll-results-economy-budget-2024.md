@@ -1,11 +1,10 @@
 +++
 Date = 2023-11-15T00:06:59+04:00
-upcoming = true
 
-podcast_file = ""
-podcast_bytes = ""
-podcast_duration = ""
-youtube = ""
+podcast_file = "13982167-hrant-mikaelian-armenian-foreign-policy-vectors-mpg-poll-results-economy-and-2024-budget-ep-295-nov-12-2023.mp3"
+podcast_bytes = "49896401"
+podcast_duration = "4155"
+youtube = "YoUEe79_HEo"
 
 episode_image = "img/episode/295/thumbnail-295.webp"
 episode_banner = "img/episode/295/banner-295.webp"
@@ -262,8 +261,7 @@ Alright, let’s wrap up our topics here. I’d like to ask each of you if there
 
 # Topics from the Panelists
 
-* **Hovik**:
-* **Hrant**: 
+  * Does awareness that there are political prisoners in Armenia, who are in jail simply for their opinions and speech, affect the non-response bias of the polls? A word about Armenia’s political prisoners and judicial harassment.
 
 
 # Wrap-up
