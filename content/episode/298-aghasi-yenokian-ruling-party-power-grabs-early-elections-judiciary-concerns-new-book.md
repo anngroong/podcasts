@@ -60,7 +60,7 @@ There have been other instances around the country since 2021 including in [Gori
 
 In October 2021 there were municipal elections in Gyumri. In a humongous surprise, the Balasanyan alliance, which [got first place](https://hetq.am/en/article/136835) but not majority, decided to enter a power-sharing deal not with the Republican Party, nor the Zartonk party, nor Aprelu Yerkir (all of which can be seen as oppositional). Instead, Balasanyan went into a power-sharing deal with Civil Contract, against whom it was campaigning. 
 
-Well, now, about 2 years later, Civil Contract announced last week that they will be [annulling](https://www.azatutyun.am/a/32718827.html) that power sharing deal. It [remains to be seen](https://www.azatutyun.am/a/32726001.html) what the result of this action will be, but many speculate that Civil Contract will continue to use pressure to trigger a vote of no confidence.
+Well, now, about 2 years later, Civil Contract announced last week that they will be [annulling](https://www.azatutyun.am/a/32718827.html) that power sharing deal. It [remains to be seen](https://www.azatutyun.am/a/32726001.html) what the result of this action will be, but many speculate that Civil Contract will continue to use pressure to trigger a vote of no confidence. Mayor Balasanyan has so far [refused](https://www.azatutyun.am/a/32729392.html) to step down.
 
 **Questions:**
 * What is going on in this country?
