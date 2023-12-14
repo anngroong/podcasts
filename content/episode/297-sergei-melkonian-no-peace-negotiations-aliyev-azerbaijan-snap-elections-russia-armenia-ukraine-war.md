@@ -121,7 +121,7 @@ Interestingly, just last week we were talking with Benyamin Poghosyan, and he no
 
 ## Russia - Armenia Relations
 
-Russia was one of the last to “congratulate” the sides on the prisoner swap deal.
+Russia was [one of the last](https://www.azatutyun.am/a/32722278.html) to “congratulate” the sides on the prisoner swap deal.
 
 The Russian-Armenian relationship remains a major concern for us as it seems that the Pashinyan administration is talking about “allied relations” with Russia but walking in a completely different direction. At stake is Armenia’s membership in the CSTO, the EAEU, the CIS, Russia’s military base in Armenia, favorable energy prices (gas, nuclear fuel), 50% of Armenia’s exports, and a third of the economy, just to name a few of the issues.
 
