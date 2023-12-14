@@ -1,14 +1,14 @@
 +++
 Date = 2023-12-14T22:00:00+04:00
-upcoming = true
+upcoming = false
 
 title = "Aghasi Yenokian - Ruling Party Power Grabs | Early Elections | Judiciary Concerns | Ալտերնատիվ պատմություն Հայոց | Ep 298, Dec. 14, 2023"
 subtitle = "Conversations on Groong - 12/14/2023"
 
-podcast_file = ""
-podcast_duration = ""
-podcast_bytes = ""
-youtube = ""
+podcast_file = "14146140-aghasi-yenokian-ruling-party-power-grabs-early-elections-judiciary-concerns-ep-298-dec-14-2023.mp3"
+podcast_duration = "11691615"
+podcast_bytes = "971"
+youtube = "JCMYigK3oxo"
 
 episode_image = "img/episode/298/thumbnail-298.webp"
 episode_banner = "img/episode/298/banner-298.webp"
