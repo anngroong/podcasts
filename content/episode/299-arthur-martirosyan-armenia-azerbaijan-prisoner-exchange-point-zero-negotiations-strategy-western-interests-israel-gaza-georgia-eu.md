@@ -6,7 +6,6 @@ podcast_file = "14172355-arthur-g-martirosyan-negotiations-point-zero-western-in
 podcast_bytes = "40603199"
 podcast_duration = "3380"
 youtube = "FhxUTi4_2HY"
-=======
 
 episode = "299"
 aliases = ["/299"]
@@ -86,7 +85,7 @@ Meanwhile, after the news of the release, the family of the murdered security gu
 
 The exchange of prisoners was presented with great fanfare in government-controlled media, and as a great success in the west. Even Turkey, Russia, Iran and others joined the US and dozens of EU countries in congratulating it. Pashinyan took it a step further and dubbed the exchange in [his own words](https://www.azernews.az/nation/218895.html) as the new “point zero” in negotiations.
 
-**Questions:**
+**Question:**
 * We were at ground zero in 2018, we’re still at zero now. But really, what does it mean to have a so-called “point zero” in negotiations? Does it mean you ignore everything that came before?
 
 Following Pashinyan’s announcement, Ararat Mirzoyan on December 13 said that Armenia and Azerbaijan were in talks to [withdraw ](https://arka.am/en/news/politics/yerevan_and_baku_discuss_possibility_of_mirror_withdrawal_of_troops_from_border_areas_foreign_minist/)from the border in a mirrored fashion. Despite this positive announcement and for all the talk about “point zero”, Azerbaijan [rejected](https://www.azatutyun.am/a/32732542.html) withdrawing their forces until a final agreement.
