@@ -9,7 +9,7 @@ subtitle = "Armenian News Network Groong - December 31, 2023"
 podcast_file = "14223732-benyamin-poghosyan-shahramanyan-annuls-artsakh-dissolution-insecurity-without-borders-pashinyan-in-st-petersburgh-year-end-predictions-ep-300-dec-31-2023.mp3"
 podcast_bytes = "45521115"
 podcast_duration = "3790"
-youtube = ""
+youtube = "BMxual3xX1U"
 
 episode_image = "img/episode/300/thumbnail-300.webp"
 episode_banner = "img/episode/300/banner-300.webp"
