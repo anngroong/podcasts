@@ -127,7 +127,7 @@ As this is the last show of 2023, let’s review like we did a year ago for our 
 In that show we looked back over 2022, and we each made one high, one medium, and one low probability prediction for 2023.
 
 
-### Asbed
+#### Asbed
 * **High**: Political resolution to war in Ukraine: ❎
 * **Medium**: Kremlin power struggle that would cost defense minister and other military types their jobs. ❎
     * Note: there **was** a [putsch attempt](https://en.wikipedia.org/wiki/Wagner_Group_rebellion) in June of 2023 by the **Wagner Group**, but it was unsuccessful. ✅
@@ -135,13 +135,13 @@ In that show we looked back over 2022, and we each made one high, one medium, an
     * Note: Putin dealt with the Wagner putsch within 36 hours, and the group was disbanded, while Prigozhin and his leadership team went to Belarus. Two months later they were [killed](https://www.pbs.org/newshour/world/russia-officially-confirms-wagner-leader-yevgeny-prigozhin-died-in-plane-crash) in a plane “accident”.
 
 
-### Benyamin
+#### Benyamin
 * **High**: There will be escalations of violence and threats by Azerbaijan. ✅
 * **Medium**: The war in Ukraine will continue. No change in Artsakh Status. ✅❎
 * **Low**: Armenia will not capitulate. There won’t be a putsch against Putin. There won’t be a Ukraine-Russia peace treaty. ✅❎✅
 
 
-### Hovik
+#### Hovik
 * **High**: There will be escalations of violence and threats by Azerbaijan. ✅
 * **Medium**: Pashinyan’s motorcade will grow in 2023. ✅
 * **Low**: Pashinyan will be tried for treason. ❎
@@ -152,19 +152,19 @@ In that show we looked back over 2022, and we each made one high, one medium, an
 Make three predictions for 2024, one that you think is high probability of happening, a medium, and low probability.
 
 
-### Asbed
+#### Asbed
 * **High**: The Armenian real estate market may experience a significant downturn.
 * **Medium**: Trump may get elected US president again.
 * **Low**: The Israel-Gaza war may expand to engulf other regional powers.
 
 
-### Benyamin
+#### Benyamin
 * **High**: Some sort of Armenia-Azerbaijan agreement will be signed, but threats on Armenia will continue.
 * **Medium**: Conflict in Ukraine will be frozen. Maybe a ceasefire level agreement.
 * **Low**: Some Armenians may return to Artsakh.
 
 
-### Hovik
+#### Hovik
 * **High**: Some meaningless Armenia-Azerbaijan “treaty” will be signed. Enclaves may be captured by Azerbaijan.
 * **Medium**: Pashinyan will take more dictatorial steps to cling to power. The West will turn a blind eye.
 * **Low**: The Armenian opposition will figure out how to struggle more effectively.
