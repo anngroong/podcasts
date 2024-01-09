@@ -22,7 +22,7 @@ hosts = ["hovik","asbed"]
 
 series = ["wir"]
 categories = ["Armenia", "Artsakh", "Politics"]
-tags = ["Tevan Poghosyan", "Armenia", "Artsakh", "Nagorno Karabakh", "Azerbaijan", "Crossroads Of Peace", "Zangezur Corridor", "Georgia", "Tbilisi", "Silk Road Forum", "Pashinyan", "Aliyev", "3+3", "Iran", "Russia", "Turkey", "France", "Defense Deal", "India", "Shorad", "Mistral", "Grand Master 200"]
+tags = ["Tevan Poghosyan", "Armenia", "Catholicos", "Garegin II", "Public TV", "Artsakh", "Nagorno Karabakh", "Azerbaijan", "Marzpet", "Governor", "Zangezur Corridor", "Peace Treaty", "US", "EU", "Charles Michel", "Toivo Klaar", "Ինադու", "Inadu", "փոդքաթ", "Podcut", "Vazgen Saghatelyan", "Narek Samsonyan", "Imnemnimi"]
 
 Description = """
 
