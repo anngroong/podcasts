@@ -5,7 +5,7 @@ upcoming = false
 podcast_file = "14277451-tevan-poghosyan-canceling-the-catholicos-governor-shuffle-zangezur-corridor-peace-treaty-redux-ep-301-jan-7-2024.mp3"
 podcast_bytes = "39081724"
 podcast_duration = "3254"
-youtube = ""
+youtube = "MPRCHS4g6k4"
 
 episode = "301"
 aliases = ["/301"]
