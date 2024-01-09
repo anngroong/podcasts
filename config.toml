@@ -29,11 +29,6 @@ enableRobotsTXT = true
     url = "/about"
 
 [[Menu.Main]]
-    name = "Contact"
-    identifier = "contact"
-    url = "/contact"
-
-[[Menu.Main]]
     name = "Categories"
     identifier = "categories"
     url = "/categories"
