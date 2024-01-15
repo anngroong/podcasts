@@ -14,7 +14,7 @@ episode_image = "img/episode/302/thumbnail-302.webp"
 episode_banner = "img/episode/302/banner-302.webp"
 images = ["img/episode/302/banner-302.webp"]
 
-title = "Tevan Poghosyan - Crossroads of Peace | Iran | Russia | French Weapons | Artsakh | Ep 302 - January 14, 2023"
+title = "Karen Vrtanesyan - Illusion of Normalcy | Political Prisoners & Judicial Harassment | Negotiations | Military Capacity | What Next | Ep 302 - January 14, 2023"
 subtitle = "ANN Groong Week in Review - 01/14/2023"
 
 guests = ["kvrtanesyan"]
