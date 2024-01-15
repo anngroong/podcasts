@@ -13,8 +13,8 @@ episode_image = "img/episode/302/thumbnail-302.webp"
 episode_banner = "img/episode/302/banner-302.webp"
 images = ["img/episode/302/banner-302.webp"]
 
-title = "Karen Vrtanesyan - Illusion of Normalcy | Political Prisoners & Judicial Harassment | Negotiations | Military Capacity | What Next | Ep 302 - January 14, 2023"
-subtitle = "ANN Groong Week in Review - 01/14/2023"
+title = "Karen Vrtanesyan - Illusion of Normalcy | Political Prisoners & Judicial Harassment | Negotiations | Military Capacity | What Next | Ep 302 - January 14, 2024"
+subtitle = "ANN Groong Week in Review - 01/14/2024"
 
 guests = ["kvrtanesyan"]
 hosts = ["hovik","asbed"]
@@ -36,7 +36,7 @@ Description = """
 * What Need to be Done?
 * Thoughts from the Participants
 
-Episode 302 | Recorded: January 14, 2023"""
+Episode 302 | Recorded: January 14, 2024"""
 
 +++
 
