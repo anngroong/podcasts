@@ -17,5 +17,5 @@ Twitch = ""
 #guest_group = "wir"
 +++
 
-Karen Vrtanesyan is an expert on military and warfare strategies with a focus on Armenia and its neighboring region. He is also co-founder of the website [razm.info](https://razm.info).
+Karen Vrtanesyan is an expert on military and warfare strategies with a focus on Armenia and its neighboring region. He is the former coordinator of the website [razm.info](https://razm.info).
 
