@@ -1,11 +1,10 @@
 +++
 Date = 2024-01-15T00:30:00+04:00
-upcoming = true
 
-podcast_file = ""
-podcast_bytes = ""
-podcast_duration = ""
-youtube = ""
+podcast_file = "14314192-karen-vrtanesyan-illusion-of-normalcy-political-prisoners-judicial-harassment-negotiations-military-capacity-what-next-ep-302-january-14-2024.mp3"
+podcast_bytes = "44364873"
+podcast_duration = "3694"
+youtube = "HhTm-p1GHxc"
 
 episode = "302"
 aliases = ["/302"]
@@ -126,7 +125,6 @@ A number of things have been tried by the opposition in Armenia over the past 3 
 * How does your idea of “rational nationalism” fit into the picture of a solution?
 
 Alright, let’s wrap up our topics here. I’d like to ask each of you if there’s been something on your mind this past week that you want to talk about.
-
 
 ## Topics from the Participants
 * **Karen**: Ruling party attacks against the church and Catholicos of all Armenians.
