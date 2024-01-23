@@ -63,9 +63,9 @@ Since you left Yerevan a year and a half ago, you’ve lived in St. Petersburg.
 
 ### Russia & Ukraine
 
-Let’s talk about one of our favorite non-Armenian topics: Ukraine. This is an event that’s had immense consequences on Armenia’s geopolitical fate; but it’s not just that, this is a worldwide event with global consequences. Most observers are waiting to see how the war in Ukraine will shake out, because they expect that its outcome will determine the so-called “new world order”.
+This is an event that’s had immense consequences on Armenia’s geopolitical fate; but it’s not just that, this is a worldwide event with global consequences. Most observers are waiting to see how the war in Ukraine will shake out, because they expect that its outcome will determine the so-called “new world order”.
 
-Pietro, during the war and up to about 6-7 months ago, people like former British Prime Minister Boris Johnson were [visiting Kiev](https://responsiblestatecraft.org/2022/09/02/diplomacy-watch-why-did-the-west-stop-a-peace-deal-in-ukraine/) and making sure that Zelensky would not hold any peace talks aimed at ending or even “freezing” the conflict. Since then, a lot has happened. As we noted earlier, $10’s of billions later, western support for the war is on the rocks.
+About 6-7 months ago, people like former British Prime Minister Boris Johnson were [visiting Kiev](https://responsiblestatecraft.org/2022/09/02/diplomacy-watch-why-did-the-west-stop-a-peace-deal-in-ukraine/) and making sure that Zelensky would not hold any peace talks aimed at ending or even “freezing” the conflict. Since then, a lot has happened. As we noted earlier, tens of billions of dollars later, western support for the war is on the rocks.
 
 **Questions:**
 * Where does the war stand today? Who’s winning, who’s losing, or maybe it’d be more politically correct to ask: are there winners and losers in this war?
@@ -76,11 +76,8 @@ Pietro, during the war and up to about 6-7 months ago, people like former Britis
 
 In the past year many new world events are developing, some expected and some not. For example, the US elections are upon us, and even though most people would think it’s something for 2024, we’ve been feeling its tremors since the middle of 2023. Meanwhile, the Israel-Gaza war was an unexpected turn of events in October, 2023.
 
-Let’s do a lightning round on some of these.
-
 **Questions:**
 * Regarding the US election, first of all how is the election year affecting US support for Ukraine? And perhaps the bigger question is: how will a potential Trump presidency affect this conflict, and more generally maybe all of the world, because it reflects through the prism of a totally different relationship between Russia and the US under Trump.
-    * How likely is a Trump presidency (in your opinion)?
 * How is the war in Gaza affecting the war in Ukraine, and perhaps more specifically, western solidarity with Ukraine? It seems to me either the West’s attention, or resources, have been split between these two crises, and now the west doesn’t have the same diplomatic and war bandwidth as before.
 
 Just in the past couple of weeks Iran has flexed its muscle and escalated its political profile in the Middle East by striking at the US consulate in Iraq, and Sunni militants in Pakistan. Iran and Russia have grown nearly to the point of strategic partnership since the war in Ukraine, and with Iran entering BRICS as of January 1, its economic integration with the non-western world becomes a prominent plus for it.
