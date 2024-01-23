@@ -8,7 +8,7 @@ subtitle = "Conversations on Groong - 01/22/2024"
 podcast_file = "14358988-pietro-shakarian-an-armenian-in-st-petersburg-russia-ukraine-armenia-artsakh-in-geopolitical-context-ep-303-jan-22-2024.mp3"
 podcast_bytes = "41347428"
 podcast_duration = "3441"
-youtube = ""
+youtube = "wCdnn5l3noQ"
 
 episode_image = "img/episode/303/thumbnail-303.webp"
 episode_banner = "img/episode/303/banner-303.webp"
