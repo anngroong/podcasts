@@ -27,6 +27,9 @@ tags = ["Armenian News", "Artsakh", "Nagorno Karabakh", "Azerbaijan", "Yeghia Ta
 
 Description = """
 
+#### Groong Links:
+* [linktr.ee/Groong](https://linktr.ee/groong)
+
 #### Guest:
 * [Yeghia Tashjian](/guest/ytashjian)
 
