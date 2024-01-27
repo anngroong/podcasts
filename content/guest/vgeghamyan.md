@@ -17,4 +17,4 @@ Twitch = ""
 #guest_group = "wir,cog"
 +++
 
-Varuzhan Geghamyan is an assistant professor at Yerevan State University and teaches on Turkey’s modern history and the history of Azerbaijan.
+Prof. Varuzhan Geghamyan is assistant professor at Yerevan State University's Department of Oriental Studies, teaching courses on Turkey’s modern history, History of Azerbaijan; Sociocultural anthropology of Azerbaijan; Political ideologies and parties in Modern Turkey &  History of the Turkish Republic.

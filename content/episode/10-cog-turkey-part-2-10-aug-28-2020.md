@@ -1,53 +1,64 @@
-
 +++
 
-title = "Turkey - Part 2 - (Ep #10) - 08/28/2020"
-date = 2020-08-28T23:47:14
-draft = false
+date = 2020-08-28T00:55:50
+upcoming = false
+
+title = "Turkey - Part 2 - Zero Problems? | Ep. 10 - Aug 28, 2020"
+subtitle = "Conversations on Groong - 08/28/2020"
+author = "Armenian News Network - Groong"
+
+
+podcast_file = "5195833-cog-turkey-part-2-10-aug-28-2020.mp3"
+podcast_bytes = "31873277"
+podcast_duration = "0:44:12"
+youtube = "cKq4ziiRZjA"
+
+episode_image = "img/episode/10/thumbnail-10.webp"
+episode_banner = "img/episode/10/banner-10.webp"
+images = ["img/episode/10/banner-10.webp"]
+
+guests = ["vgeghamyan","dyayloyan","vtermatevosyan","asanjian"]
+hosts = ["akotchikian", "asbed", "hovik"]
+
+episode = "10"
+aliases = ["/10"]
+
+series = ["COG"]
+truncate = ""
 explicit = "no"
 
-aliases = ["/10"]
-author = "Armenian News Network - Groong"
-episode = "10"
-episode_image = "img/episode/default.jpg"
-episode_banner = "img/episode/default-banner.jpg"
-guests = ["vgeghamyan","dyayloyan","vtermatevosyan","asanjian"]
-images = ["img/episode/default-social.jpg"]
-podcast_duration = "0:44:12"
-podcast_bytes = 31873277
-podcast_file = "5195833-cog-turkey-part-2-10-aug-28-2020.mp3"
-youtube = "cKq4ziiRZjA"
-truncate = ""
-series = ["COG"]
-upcoming = false
-Description = """𝐓𝐮𝐫𝐤𝐞𝐲 - 𝐏𝐚𝐫𝐭 𝟐 - 𝟎𝟖/𝟐𝟖/𝟐𝟎𝟐𝟎
+categories = ["Turkey", "Armenia"]
+tags = ["Turkey", "Armenia", "Genocide", "Ara Sanjian", "Vahram Ter-Matevosyan", "Varuzhan Geghamyan", "Diana Yayloyan", "Asbed Kotchikian"]
 
-Conversations on Groong
 
-In this second part of our Conversation on Turkey, we continue to explore Turkey’s transformation throughout the twentieth century and into the twenty first, and the underlying dynamics powering these changes.
+Description = """
 
-Topics:
-- Turkey: Zero Problems?
-- Azerbaijan: The Myth of Brotherly Relations?
-- Armenia: From Diplomatic Overtures to a Mini Cold War
+#### Topics:
+* Turkey: Zero Problems?
+* Azerbaijan: The Myth of Brotherly Relations?
+* Armenia: From Diplomatic Overtures to a Mini Cold War
 
-Host: 𝐀𝐬𝐛𝐞𝐝 𝐊𝐨𝐭𝐜𝐡𝐢𝐤𝐢𝐚𝐧
+#### Guests:
+* [Varuzhan Geghamyan](/guest/vgeghamyan)
+* [Ara Sanjian](/guest/asanjian)
+* [Vahram Ter-Matevosyan](/guest/asanjian)
+* [Diana Yayloyan](/guest/dyayloyan)
 
-Panelists:
-- 𝐕𝐚𝐫𝐮𝐳𝐡𝐚𝐧 𝐆𝐞𝐠𝐡𝐚𝐦𝐲𝐚𝐧
-- 𝐀𝐫𝐚 𝐒𝐚𝐧𝐣𝐢𝐚𝐧
-- 𝐕𝐚𝐡𝐫𝐚𝐦 𝐓𝐞𝐫-𝐌𝐚𝐭𝐞𝐯𝐨𝐬𝐲𝐚𝐧
-- 𝐃𝐢𝐚𝐧𝐚 𝐘𝐚𝐲𝐥𝐨𝐲𝐚𝐧
 
-Produced by:
-- 𝐇𝐨𝐯𝐢𝐤 𝐌𝐚𝐧𝐮𝐜𝐡𝐚𝐫𝐲𝐚𝐧
-- 𝐀𝐬𝐛𝐞𝐝 𝐁𝐞𝐝𝐫𝐨𝐬𝐬𝐢𝐚𝐧
+#### Host:
+* [Asbed Kotchikian](/guest/akotchikian)
 
-Website: https://groong.org/podcasts/CoG-Turkey-20200828.html
-Episode 10 | Recorded on --
+
+Episode 10 | Recorded: August 2020
 """
 
 +++
 
-Show Notes
+## Overview
 
+In this second part of our Conversation on Turkey, we continue to explore Turkey’s transformation throughout the twentieth century and into the twenty first, and the underlying dynamics powering these changes.
+
+
+# Wrap-up
+
+All right, that’s our [show](https://podcasts.groong.org/), we hope you found it useful. Please find us on [Social Media](https://lintr.ee/groong) and follow us everywhere you get your Armenian news, the links are in the show notes. Thanks to **Laura Osborn** for the music on our podcasts. We’ll talk to you soon!
