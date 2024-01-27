@@ -13,9 +13,9 @@ podcast_bytes = "24636207"
 podcast_duration = "0:34:09"
 youtube = "HmKx6fUpiEU"
 
-episode_image = "img/episode/thumbnail-9.webp"
-episode_banner = "img/episode/banner-9.webp"
-images = ["img/episode/banner-9.webp"]
+episode_image = "img/episode/9/thumbnail-9.webp"
+episode_banner = "img/episode/9/banner-9.webp"
+images = ["img/episode/9/banner-9.webp"]
 
 guests = ["vgeghamyan","dyayloyan","vtermatevosyan","asanjian"]
 hosts = ["akotchikian", "asbed", "hovik"]
@@ -59,18 +59,6 @@ Episode 9 | Recorded: August 2020
 In 2002, Turkey’s Justice and Development Party (AKP) won a sweeping victory in the country’s general elections, dominating and shaping domestic and foreign policies of Turkey for nearly two decades to this date. Outwardly, under Erdogan’s and AKP’s leadership, Turkey has transformed from a country with a stated and acclaimed foreign policy seeking “zero problems with neighbors” to one that is actively engaged in economic, political and military rivalry with its Middle East and other regional neighbors, as well as balancing global players. Armenia is deeply affected by the quality of relationships that Turkey conducts with each of its neighbors.
 
 In this first part of our Conversation on Groong about Turkey, we explore Continuity and Change in Political Culture and Foreign Policy in Turkey covering transition from Kemalism to Islamism, as defined by the AKP. We look at how recent events fit together within the framework of continuous, yet changing, state policies. We also discuss Turkey’s foreign policy in the Middle East and Eastern Mediterranean.
-
-
-
-Joining us today are
-
-●      Professor Ara Sanjian who is an Associate Professor of History and the Director of the Armenian Research Center at University of Michigan, Dearborn. His research interests focus on the post-World War I history of Armenia, Turkey and the Arab states of Western Asia.
-
-●      Prof. Varuzhan Geghamyan is assistant professor at Yerevan State University (Department of Oriental Studies) teaching courses on Turkey’s modern history, History of Azerbaijan; Sociocultural anthropology of Azerbaijan; Political ideologies and parties in Modern Turkey &  History of the Turkish Republic.
-
-●      Prof. Vahram Ter-Matevosyan who is associate Professor and Chair of the Political Science and International Affairs Program at AUA. His research interests focus on Turkish politics, Kemalism, Political Islam & Security in the South Caucasus
-
-●      Diana Yayloyan is an Ankara-based Research Associate, working on Armenian-Turkish Normalisation Projects, supported by the EU. Diana is also a Ph.D. Candidate at the Middle East Technical University, focusing on Gender Theory and Peacebuilding.
 
 
 ## Analysis and Discussion
