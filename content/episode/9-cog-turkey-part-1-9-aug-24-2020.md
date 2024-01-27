@@ -13,9 +13,9 @@ podcast_bytes = "24636207"
 podcast_duration = "0:34:09"
 youtube = "HmKx6fUpiEU"
 
-episode_image = "img/episode/default.jpg"
-episode_banner = "img/episode/Title-Slide-9.webp"
-images = ["img/episode/default-social.jpg"]
+episode_image = "img/episode/thumbnail-9.webp"
+episode_banner = "img/episode/banner-9.webp"
+images = ["img/episode/banner-9.webp"]
 
 guests = ["vgeghamyan","dyayloyan","vtermatevosyan","asanjian"]
 hosts = ["akotchikian", "asbed", "hovik"]
