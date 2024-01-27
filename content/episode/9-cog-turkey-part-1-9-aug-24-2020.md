@@ -14,7 +14,7 @@ podcast_duration = "0:34:09"
 youtube = "HmKx6fUpiEU"
 
 episode_image = "img/episode/default.jpg"
-episode_banner = "img/episode/default-banner.jpg"
+episode_banner = "img/episode/Title-Slide-9.webp"
 images = ["img/episode/default-social.jpg"]
 
 guests = ["vgeghamyan","dyayloyan","vtermatevosyan","asanjian"]
@@ -27,8 +27,8 @@ series = ["COG"]
 truncate = ""
 explicit = "no"
 
-categories = ["Turkey", Armenia"]
-tags = ["Turkey", "Armenia", "Genocide", "Ara Sanjian", "Vahram Ter-Matevosyan", "Varuzhan Geghamyan", "Diana Yayloyan"]
+categories = ["Turkey", "Armenia"]
+tags = ["Turkey", "Armenia", "Genocide", "Ara Sanjian", "Vahram Ter-Matevosyan", "Varuzhan Geghamyan", "Diana Yayloyan", "Asbed Kotchikian"]
 
 
 Description = """
