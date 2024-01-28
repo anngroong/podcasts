@@ -18,7 +18,7 @@ images = ["img/episode/20/banner-20.webp"]
 
 
 guests = ["vgeghamyan","akotchikian","mmanucharyan","esanamyan"]
-hosts = ["akotchikian", "asbed", "hovik"]
+hosts = ["hovik", "asbed"]
 
 episode = "20"
 aliases = ["/20"]
@@ -51,7 +51,7 @@ Episode 20 | Recorded: Oct 3, 2020
 
 +++
 
-## The Only Topic This Week: War on Artsakh!
+## War: Azerbaijan attacks Artsakh!
 
 This episode of the podcast was fully devoted to the war in Artsakh. It was recorded on the morning of Saturday, Oct 3 Pacific time while one of our guests, Varuzhan Geghamyan was in Stepanakert as the city was undergoing constant bombardment.
 
@@ -59,7 +59,8 @@ Unfortunately, the air assault on Stepanakert and other civilian areas of Artsak
 
 The use of cluster munitions, let alone targeting of civilian structures, is prohibited by international law and it seems that the dictator in Baku, Ilham Aliyev, is intent to level the city to the ground. As of this time, according to the Artsakh foreign ministry, 19 civilians have been killed, 80 wounded, and over 2700 property and civilian infrastructure has been damaged. We’re worried about the safety of Artsakh’s peaceful civilian population and urge you to raise awareness of this travesty among your non-Armenian friends and elected representatives.
 
-SHARE THIS ARTICLE: https://www.telegraph.co.uk/news/2020/10/05/azerbaijan-dropping-cluster-bombs-civilian-areas-war-armenia
+Share this article from The Telegraph, UK:
+* [Azerbaijan dropping cluster bombs on civilian areas in war with Armenia](https://www.telegraph.co.uk/news/2020/10/05/azerbaijan-dropping-cluster-bombs-civilian-areas-war-armenia)
 
 
 For a week now, our focus here at Groong has been the war. What started in the early morning of Sunday 27th of September as an all out attack on the line of contact quickly escalated into a large scale war, with Azerbaijan attacking civilian targets in both Artsakh and in Armenia.
