@@ -16,7 +16,7 @@ episode_image = "img/episode/81/thumbnail-81.webp"
 episode_banner = "img/episode/81/banner-81.webp"
 images = ["img/episode/81/banner-81.webp"]
 
-guests = ["vgeghamyan","hmikalian"]
+guests = ["vgeghamyan","hmikaelian"]
 hosts = ["hovik", "asbed"]
 
 episode = "81"
