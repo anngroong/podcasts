@@ -11,9 +11,9 @@ podcast_bytes = 40770682
 podcast_duration = "0:56:33"
 youtube = "wyGiEJeHetI"
 
-episode_image = "img/episode/default.jpg"
-episode_banner = "img/episode/default-banner.jpg"
-images = ["img/episode/default-social.jpg"]
+episode_image = "img/episode/30/thumbnail-30.webp"
+episode_banner = "img/episode/30/banner-30.webp"
+images = ["img/episode/30/banner-30.webp"]
 
 guests = ["akotchikian","vgeghamyan"]
 hosts = ["hovik", "asbed"]
@@ -36,6 +36,10 @@ Description = """ANN/Groong Week in Review Episode 30 - Dec 6, 2020
 * Armenia’s Political Opposition Uniting
 * Does Putin support Pashinyan?
 * Robert Kocharyan Interview
+
+#### Guests:
+* [Varuzhan Geghamyan](/guest/vgeghamyan)
+* [Asbed Kotchikian](/guest/akotchikian)
 
 Episode 30 | Recorded: Dec 6, 2020
 """
