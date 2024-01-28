@@ -2,23 +2,33 @@
 
 Date = 2022-12-05T23:00:00-07:00
 recordedDate = 2022-12-05T23:00:00-07:00
+upcoming = false
+
+
+title = "Armenia's Rocky Relationship with the CSTO | Ep. 180 - Dec 5, 2022"
+subtitle = "Conversations on Groong - Dec 5, 2022"
+author = "Armenian News Network - Groong"
+
 podcast_file = "11822339-armenia-s-rocky-relationship-with-the-csto.mp3"
-podcast_duration = "1072"
 podcast_bytes = "12911528"
-episode_image = "img/episode/default.jpg"
-#episode_banner = ""
+podcast_duration = "1072"
+youtube = "yAdYo-hR-sc"
+
+episode_image = "img/episode/180/thumbnail-180.webp"
+episode_banner = "img/episode/180/banner-180.webp"
+images = ["img/episode/180/banner-180.webp"]
+
 guests = ["akarapetyan"]
 hosts = ["asbed", "hovik"]
+
 episode = "180"
-title = "Armenia's Rocky Relationship with the CSTO"
-subtitle = "Conversations on Groong - Dec 5, 2022"
-images = ["img/episode/default-social.jpg"]
 aliases = ["/180"]
-youtube = "yAdYo-hR-sc"
-explicit = "no"
-categories = ["Armenia", "Politics"]
+
 series = ["cog"]
-tags = ["Anna Karapetyan", "Armenia", "CSTO", "Russia", "Azerbaijan", "CSTO", "CSTO Summit", "Yerevan", "Nikol Pashinyan", "Vladimir Putin", "Aleksandr Lukashenko", "Belarus", "Stanislav Zas", "Azerbaijan", "Ilham Aliyev", "NATO", "EU", "OSCE", "OSCE Monitors"]
+explicit = "no"
+
+categories = ["Armenia", "Politics"]
+tags = ["Armenia", "Artsakh", "Nagorno Karabakh", "Azerbaijan", "Anna Karapetyan", "CSTO", "Russia", "CSTO", "Yerevan", "Nikol Pashinyan", "Vladimir Putin", "Aleksandr Lukashenko", "Belarus", "Stanislav Zas", "Ilham Aliyev", "NATO", "EU", "OSCE Monitors"]
 
 Description = """
 #### Guest: 
