@@ -3,7 +3,7 @@ date = 2020-12-07T03:07:26
 upcoming = false
 
 title = "Turkey & Azerbaijan Connecting | Opposition Uniting | Putin support? | Kocharyan Interview Ep. 30 - Dec. 6, 2020"
-subtitle = "Groong Week in Review - 12/0064/2020"
+subtitle = "Groong Week in Review - 12/06/2020"
 author = "Armenian News Network - Groong"
 
 podcast_file = "6729955-turkey-and-azerbaijan-connecting-armenia-s-political-opposition-uniting-does-putin-support-pashinyan-robert-kocharyan-interview-ep-30.mp3"
@@ -29,7 +29,7 @@ explicit = "no"
 categories = ["Armenia", "Artsakh", "Azerbaijan"]
 tags = ["Armenia", "Artsakh", "Nagorno Karabakh", "Azerbaijan", "Turkey", "Varuzhan Geghamyan", "Asbed Kotchikian", "Robert Kocharyan"]
 
-Description = """ANN/Groong Week in Review Episode 30 - Dec 6, 2020
+Description = """ANN/Groong Week in Review - Dec 6, 2020
 
 #### Topics:
 * Turkey and Azerbaijan Connecting
@@ -94,7 +94,8 @@ Some points from the interview:
 * Mentioned deeper integration with Russia, particularly in the area of defense.
 * Mentioned that the July fighting was provoked by Armenia.
 * In the context of Armenian-Russian relations, RK mentioned that several months before the war a new head of national security was appointed whose task was to flush out the pro-Russian elements from Armenia’s government. (He was most likely referring to Argishti Kyaramyan, who was appointed to that position in June 2020. --Groong note)
-* He promised to be involved in rebuilding of Armenia saying: «անմաս չեմ մնալու անկասկած». What do you think this means?
+* He promised to be involved in rebuilding of Armenia saying: «անմաս չեմ մնալու անկասկած».
+
 
 # Wrap-up
 
