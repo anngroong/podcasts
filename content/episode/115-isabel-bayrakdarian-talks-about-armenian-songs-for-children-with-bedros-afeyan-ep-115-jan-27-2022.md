@@ -12,9 +12,9 @@ podcast_bytes = 56057231
 podcast_duration = "1:17:47"
 youtube = "AtZcJcDyLk0"
 
-episode_image = "img/episode/default.jpg"
-episode_banner = "img/episode/default-banner.jpg"
-images = ["img/episode/default-social.jpg"]
+episode_image = "img/episode/115/thumbnail-115.webp"
+episode_banner = "img/episode/115/banner-115.webp"
+images = ["img/episode/115/banner-115.webp"]
 
 guests = ["ibayrakdarian"]
 hosts = ["bafeyan", "asbed"]
@@ -26,6 +26,9 @@ series = ["COG"]
 truncate = ""
 draft = false
 explicit = "no"
+
+categories = ["Arts", "Diaspora", "Lebanon"]
+
 
 Description = """__Armenian Songs for Children__
 Bedros Afeyan talks with Isabel Bayrakdarian
