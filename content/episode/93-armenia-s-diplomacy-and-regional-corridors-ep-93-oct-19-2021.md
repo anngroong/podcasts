@@ -28,7 +28,7 @@ draft = false
 explicit = "no"
 
 categories = ["Armenia", "Artsakh", "Azerbaijan"]
-tags = ["Armenia", "Artsakh", "Nagorno Karabakh", "Varuzhan Geghamnyan ",A"zerbaijan", "44-day war", "Iran", "Turkey", "East-West Corridor", "North-SOuth Corridor", "Syunik", "Zangezur Corridor", "November Agreement", "Economy", "India", "Subramanyam Jaishankar", "International North-South Transport Corridor (INSTC). Nikol Pashinyan", "Ararat Mirzoyan", "Foreign Minister", "External Affairs Minister"]
+tags = ["Armenia", "Artsakh", "Nagorno Karabakh", "Varuzhan Geghamnyan ", "Azerbaijan", "44-day war", "Iran", "Turkey", "East-West Corridor", "North-South Corridor", "Syunik", "Zangezur Corridor", "November Agreement", "Economy", "India", "Subramanyam Jaishankar", "International North-South Transport Corridor", "INSTC", "Nikol Pashinyan", "Ararat Mirzoyan", "Foreign Minister", "External Affairs Minister"]
 
 Description = """Armenia’s Diplomacy and Corridor Politics
 
