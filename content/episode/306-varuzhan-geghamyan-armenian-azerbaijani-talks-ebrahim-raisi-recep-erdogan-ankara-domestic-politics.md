@@ -8,7 +8,7 @@ subtitle = "Groong Week in Review - 02/04/2024"
 author = "Armenian News Network - Groong"
 
 podcast_file = ""
-podcast_bytes = 
+podcast_bytes = ""
 podcast_duration = ""
 youtube = ""
 
@@ -38,7 +38,7 @@ Description = """Armenian News Network/Groong Week in Review - Feb 4, 2024
 #### Guest:
 * [Varuzhan Geghamyan](/guest/vgeghamyan)
 
-Episode 306 | Recorded: February 4, 2024
+Episode 306 | Recorded: February 2, 2024
 """
 
 +++
