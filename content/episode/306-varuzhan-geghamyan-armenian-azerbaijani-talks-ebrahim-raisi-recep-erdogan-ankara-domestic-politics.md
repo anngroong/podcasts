@@ -1,6 +1,6 @@
 +++
 
-date = 2024-02-04T15:04:40
+Date = 2024-02-04T01:00:00+04:00
 upcoming = true
 
 title = "Varuzhan Geghamyan - Armenian Azerbaijani Talks | Raisi Erdogan meet in Ankara | Politics | Ep 306 - Feb 4, 2024"
@@ -28,7 +28,7 @@ draft = false
 explicit = "no"
 
 categories = ["Armenia", "Artsakh", "Azerbaijan"]
-tags = ["Armenia", "Artsakh", "Nagorno Karabakh", "Azerbaijan", "Varuzhan Geghamyan", "Armenian Project", "South Caucasus", "Turkey", "Russia", "Communication Links", "Corridors", "Borders", "Peace Negotiations", "EU", "European Union"]
+tags = ["Armenia", "Artsakh", "Nagorno Karabakh", "Azerbaijan", "Varuzhan Geghamyan", "Zangezur Corridor", "Borders", "Peace Negotiations", "South Caucasus", "Turkey", "Russia", "Communication Links", "EU", "European Union"]
 
 Description = """Armenian News Network/Groong Week in Review - Feb 4, 2024
 
@@ -38,7 +38,7 @@ Description = """Armenian News Network/Groong Week in Review - Feb 4, 2024
 #### Guest:
 * [Varuzhan Geghamyan](/guest/vgeghamyan)
 
-Episode 306 | Recorded: Monday, Febryary 4, 2024
+Episode 306 | Recorded: February 4, 2024
 """
 
 +++
