@@ -17,4 +17,4 @@ Twitch = ""
 #guest_group = ""
 +++
 
-Marine Manucharyan (no relation to Hovik Manucharyan) is president of the Civic Forum NGO. Her areas of focus include Artsakh, the Armenian Armed Forces, National Security and Foreign Policy.
+__Marine Manucharyan__ (no relation to Hovik Manucharyan) is president of the Civic Forum NGO. Her areas of focus include Artsakh, the Armenian Armed Forces, National Security and Foreign Policy.
