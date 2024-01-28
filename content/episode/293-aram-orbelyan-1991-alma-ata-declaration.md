@@ -27,6 +27,9 @@ tags = ["Aram Orbelyan", "Armenia", "Artsakh", "Nagorno Karabakh", "Autonomous O
 
 Description = """
 
+#### Groong Links:
+* [linktr.ee/Groong](https://linktr.ee/groong)
+
 #### Guest:
 * [Aram Orbelyan](/guest/aorbelyan)
 

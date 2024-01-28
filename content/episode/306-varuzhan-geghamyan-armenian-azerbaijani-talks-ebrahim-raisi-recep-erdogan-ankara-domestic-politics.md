@@ -32,11 +32,14 @@ tags = ["Armenia", "Artsakh", "Nagorno Karabakh", "Azerbaijan", "Varuzhan Gegham
 
 Description = """Armenian News Network/Groong Week in Review - Feb 4, 2024
 
-#### Topics:
-* TBD
+#### Groong Links:
+* [linktr.ee/Groong](https://linktr.ee/groong)
 
 #### Guest:
 * [Varuzhan Geghamyan](/guest/vgeghamyan)
+
+#### Topics:
+* TBD
 
 Episode 306 | Recorded: February 2, 2024
 """

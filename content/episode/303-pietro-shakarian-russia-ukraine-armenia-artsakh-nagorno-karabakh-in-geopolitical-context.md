@@ -27,6 +27,9 @@ tags = ["Ukraine", "Russia", "Armenia", "Artsakh", "Nagorno Karabakh", "Pietro S
 
 Description = """
 
+#### Groong Links:
+* [linktr.ee/Groong](https://linktr.ee/groong)
+
 #### Guest:
 * [Dr. Pietro Shakarian](/guest/pshakarian)
 

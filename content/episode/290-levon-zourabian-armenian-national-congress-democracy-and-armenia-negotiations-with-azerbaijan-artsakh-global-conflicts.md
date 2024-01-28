@@ -27,6 +27,9 @@ tags = ["Levon Zourabian", "Armenia", "Artsakh", "Nagorno Karabakh", "Armenian N
 
 Description = """
 
+#### Groong Links:
+* [linktr.ee/Groong](https://linktr.ee/groong)
+
 #### Guest:
 * [Levon Zourabian](/guest/lzourabian)
 

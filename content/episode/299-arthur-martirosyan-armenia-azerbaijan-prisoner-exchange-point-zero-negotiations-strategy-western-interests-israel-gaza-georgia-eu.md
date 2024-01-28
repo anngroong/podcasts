@@ -27,6 +27,9 @@ tags = ["Arthur Martirosyan", "Armenia", "Azerbaijan", "Georgia", "South Caucasu
 
 Description = """
 
+#### Groong Links:
+* [linktr.ee/Groong](https://linktr.ee/groong)
+
 #### Guest:
 * [Arthur G. Martirosyan](/guest/amartirosyan)
 

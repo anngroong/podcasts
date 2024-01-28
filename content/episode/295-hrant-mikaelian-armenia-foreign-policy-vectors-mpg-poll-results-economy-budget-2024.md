@@ -24,6 +24,9 @@ subtitle = "ANN Groong Week in Review - November 12, 2023"
 
 Description = """
 
+#### Groong Links:
+* [linktr.ee/Groong](https://linktr.ee/groong)
+
 #### Guest:
 * [Hrant Mikaelian](/guest/hmikaelian)
 

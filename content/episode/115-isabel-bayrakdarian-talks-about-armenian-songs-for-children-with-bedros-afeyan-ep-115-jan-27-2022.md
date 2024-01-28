@@ -33,6 +33,9 @@ categories = ["Arts", "Diaspora", "Lebanon"]
 Description = """__Armenian Songs for Children__
 Bedros Afeyan talks with Isabel Bayrakdarian
 
+#### Groong Links:
+* [linktr.ee/Groong](https://linktr.ee/groong)
+
 #### Topics:
 * Journey Back to Armenian Music
 * Musical Harmony Between Armenian Music and Classical Canon

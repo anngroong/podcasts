@@ -25,6 +25,9 @@ tags = ["Armenian News", "Armenia", "Artsakh", "Nagorno Karabakh", "Karen Vrtane
 
 Description = """
 
+#### Groong Links:
+* [linktr.ee/Groong](https://linktr.ee/groong)
+
 #### Guest:
 * [Karen Vrtanesyan](/guest/kvrtanesyan)
 

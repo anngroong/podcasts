@@ -26,6 +26,9 @@ tags = ["Tevan Poghosyan", "Armenia", "Catholicos", "Garegin II", "Public TV", "
 
 Description = """
 
+#### Groong Links:
+* [linktr.ee/Groong](https://linktr.ee/groong)
+
 #### Guest:
 * [Tevan Poghosyan](/guest/tpoghosyan)
 

@@ -27,6 +27,10 @@ categories = ["Armenia", "Azerbaijan", "Russia", "Politics"]
 tags = ["Sergei Melkonian", "Artsakh", "Nagorno Karabakh", "Armenia", "Azerbaijan", "Genocide", "Ethnic Cleansing", "Peace Negotiations", "South Caucasus", "Russia", "Ukraine", "War", "Ilham Aliyev", "Presidential Election", "Snap Election", "Election 2024", "February 7", "Corridors", "Borders", "United States", "Europe", "EU", "European Union", "Turkey"]
 
 Description = """
+
+#### Groong Links:
+* [linktr.ee/Groong](https://linktr.ee/groong)
+
 #### Guest:
 * [Sergei Melkonian](/guest/smelkonian)
 

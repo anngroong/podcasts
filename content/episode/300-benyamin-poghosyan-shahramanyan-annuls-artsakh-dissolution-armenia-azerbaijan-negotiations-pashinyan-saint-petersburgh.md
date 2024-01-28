@@ -25,6 +25,10 @@ categories = ["Armenia", "Artsakh", "Politics"]
 tags = ["Benyamin Poghosyan", "Artsakh", "Nagorno Karabakh", "Armenia", "Azerbaijan", "Samvel Shahramanyan", "Vladimir Grigoryan", "Russia", "Borders", "demarcation", "delimitation", "Peace Negotiations", "United States", "Iran", "EU", "European Union", "Ukraine", "War in Ukraine", "Ukraine War", "CSTO", "CIS", "EAEU", "EEU", "Eurasian Economic Union", "NATO"]
 
 Description = """
+
+#### Groong Links:
+* [linktr.ee/Groong](https://linktr.ee/groong)
+
 #### Guest:
 * [Benyamin Poghosyan](/guest/bpoghosyan)
 

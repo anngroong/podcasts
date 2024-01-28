@@ -29,6 +29,9 @@ tags = ["Aghasi Yenokyan", "Armenia", "Artsakh", "Nagorno Karabakh", "Aprelu Yer
 
 Description = """
 
+#### Groong Links:
+* [linktr.ee/Groong](https://linktr.ee/groong)
+
 #### Guest:
 * [Aghasi Yenokyan](/guest/ayenokyan)
 

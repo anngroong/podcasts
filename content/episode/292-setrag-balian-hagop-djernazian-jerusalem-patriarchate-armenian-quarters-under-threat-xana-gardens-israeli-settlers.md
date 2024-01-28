@@ -32,6 +32,9 @@ tags = ["Hagop Djernazian", "Setrag Balian", "Save the ArQ", "Jerusalem", "Gover
 
 Description = """Setrag Balian & Hagop Djernazian - Jerusalem Patriarchate and Armenian Quarters under Threat by Israeli Investors and Armed Settlers 
 
+#### Groong Links:
+* [linktr.ee/Groong](https://linktr.ee/groong)
+
 #### Guest: 
 * [Setrag Balian](/guest/sbalian)
 * [Hagop Djernazian](/guest/hdjernazian)

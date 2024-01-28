@@ -25,6 +25,10 @@ categories = ["Armenia", "Politics"]
 tags = ["Benyamin Poghosyan", "Armenia", "Artsakh", "Nagorno Karabakh", "Azerbaijan", "Ethnic Cleansing", "Peace Treaty", "South Caucasus", "Turkey", "Russia", "Zangezur Corridor", "Enclaves", "USA", "Washington", "Brussels", "Moscow", "OSCE", "CSTO", "CIS", "EEU", "EAEU", "Iran", "European Union", "EU"]
 
 Description = """
+
+#### Groong Links:
+* [linktr.ee/Groong](https://linktr.ee/groong)
+
 #### Guest:
 * [Benyamin Poghosyan](/guest/bpoghosyan)
 

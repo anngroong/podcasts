@@ -30,6 +30,9 @@ tags = ["Armenia", "Artsakh", "Nagorno Karabakh", "Azerbaijan", "Anna Karapetyan
 
 Description = """
 
+#### Groong Links:
+* [linktr.ee/Groong](https://linktr.ee/groong)
+
 #### Guest:
 * [Anna Karapetyan](/guest/akarapetyan)
 
