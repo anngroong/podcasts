@@ -1,42 +1,48 @@
 +++
 Date = 2022-12-23T04:57:22+04:00
 PublishDate = 2022-12-23T04:57:22+04:00
+
+title = "Varuzhan Geghamyan: Artsakh Under Blockade: Day 11"
+subtitle = "Conversations on Groong - Dec 22, 2022"
+
+
 podcast_file = "11921228-varuzhan-geghamyan-artsakh-under-blockade-day-11-ep-191-dec-22-2022.mp3" 
-podcast_duration = "2446"
 podcast_bytes = "29401634"
+podcast_duration = "2446"
+youtube = "s6Frrhg647Y"
+
 episode_image = "img/episode/191/thumbnail-191.webp"
 episode_banner = "img/episode/191/banner-191.webp"
 images = ["img/episode/191/banner-191.webp"]
+
 guests = ["vgeghamyan"]
 hosts = ["hovik"]
+
 episode = "191"
 aliases = ["/191"]
-youtube = "s6Frrhg647Y"
-explicit = "no" # values are "yes" or "no"
-#truncate = ""
-series = ["cog","video"]
-categories = ["Artsakh", "Politics", "168am"]
-tags = ["Varuzhan Geghamyan", "168am", "Ankara", "Ararat Mirzoyan", "Armen Grigoryan", "Armenia", "Armenian News", "Artsakh", "Azerbaijan", "Baku", "Berdzor Corridor", "Berdzor", "Blockade", "Dmitry Peskov", "Drmbon", "Erdogan", "Ilham Aliyev", "Karabakh", "Kashen Mine", "Lachin Corridor", "Lachin", "Nagorno-Karabakh", "News From Armenia", "Russia", "Russian Peacekeepers", "Stepanakert", "Turkey", "UN Security Council", "United Nations"]
-title = "Varuzhan Geghamyan: Artsakh Under Blockade: Day 11"
-subtitle = "Armenian News Network - Conversations on Groong - Dec 22, 2022"
-Description = """
 
+series = ["cog","video"]
+truncate = ""
+draft = false
+explicit = "no"
+
+categories = ["Artsakh", "Politics", "168am"]
+tags = ["Armenia", "Armenian News", "Artsakh", "Azerbaijan", "Varuzhan Geghamyan", "168am", "Ankara", "Ararat Mirzoyan", "Armen Grigoryan", "Baku", "Berdzor Corridor", "Berdzor", "Blockade", "Dmitry Peskov", "Drmbon", "Erdogan", "Ilham Aliyev", "Karabakh", "Kashen Mine", "Lachin Corridor", "Lachin", "Nagorno-Karabakh", "News From Armenia", "Russia", "Russian Peacekeepers", "Stepanakert", "Turkey", "UN Security Council", "United Nations"]
+
+Description = """
 > ***"Turkish threats are going to disappear only when there is no Armenia" - Varuzhan Geghamyan***
 
 #### Guest:
-* [Varuzhan Geghamyan](/guest/vgeghamyan), an assistant professor at Yerevan State University and teaches on Turkey’s modern history and the history of Azerbaijan.
+* [Varuzhan Geghamyan](/guest/vgeghamyan)
 
 #### Topic:
+* We continue our coverage of the crisis in Artsakh by developments in the UN Security Council as well as Turkish and Iranian concerns in the region.
+* More than 120 thousand people, including 30 thousand children, are under siege. Today is the 11th day of the crisis.
+* This interview is a continuation of the collaboration between __ANN/Groong__ and __168 Hours__ aiming to bring you more English-language coverage on the developments of this very serious humanitarian crisis in progress.
 
-We continue our coverage of the crisis in Artsakh by developments in the UN Security Council as well as Turkish and Iranian concerns in the region.
-
-More than 120 thousand people, including 30 thousand children, are under siege. Today is the 11th day of the crisis.
-
-This interview is a continuation of the collaboration between Groong and 168 Hours aiming to bring you more English-language coverage on the developments of this very serious humanitarian crisis in progress.
-
-Links:
-  -  168 Hours: [https://168.am](https://168.am)
-   - Groong: [https://podcasts.groong.org](https://podcasts.groong.org)
+#### Links:
+* 168 Hours: [https://168.am](https://168.am)
+* ANN/Groong: [https://podcasts.groong.org](https://podcasts.groong.org)
 
 Episode 191 | Recorded: December 22, 2022"""
 +++

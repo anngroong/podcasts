@@ -27,6 +27,9 @@ truncate = ""
 draft = false
 explicit = "no"
 
+categories = ["Armenia", "Artsakh", "Azerbaijan"]
+tags = ["Armenia", "Artsakh", "Nagorno Karabakhm Aerbaijan", "Varuzhan Geghamyan", "Armenian Project", "South Caucasus", "Turkey", "Russia", "Communication Links", "Corridors", "Borders", "Peace Negotiations", "EU", "European Union"]
+
 Description = """Armenian News Network/Groong Week in Review - March 27, 2022
 
 #### Topics:

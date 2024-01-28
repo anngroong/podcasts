@@ -27,7 +27,7 @@ draft = false
 explicit = "no"
 
 categories = ["Armenia", "Artsakh", "Azerbaijan"]
-tags = ["Armenia", "Artsakh", "Nagorno Karabakhm Aerbaijan", "Varuzhan Geghamyan", "Armenian Project", "South Caucasus", "Turkey", "Turkish Armenian Normalization", "Eurovision", "Malena", "Turkish Armenian Reconciliation", "TARC", "Russia", "Communication Links", "Corridors", "Borders", "Peace Negotiations", "EU", "European Union"]
+tags = ["Armenia", "Artsakh", "Nagorno Karabakhm Aerbaijan", "Varuzhan Geghamyan", "Armenian Project", "South Caucasus", "Turkey", "Russia", "Communication Links", "Corridors", "Borders", "Peace Negotiations", "EU", "European Union"]
 
 Description = """ANN/Groong Week in Review - December 19, 2021
 
