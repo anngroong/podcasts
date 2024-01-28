@@ -36,7 +36,7 @@ Description = """Armenian News Network/Groong Week in Review - March 27, 2022
 * Pax Azeriana
 
 #### Guest:
-* Varuzhan Geghamyan TW/@GVaruzhan
+* [Varuzhan Geghamyan](/guest/vgeghamyan)
 
 Episode 130 | Recorded: Monday, March 28, 2022
 """

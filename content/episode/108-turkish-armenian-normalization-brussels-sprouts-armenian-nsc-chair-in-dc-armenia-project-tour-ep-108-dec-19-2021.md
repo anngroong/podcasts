@@ -39,7 +39,7 @@ Description = """ANN/Groong Week in Review - December 19, 2021
 * Analyst Rants
 
 #### Guest:
-* Varuzhan Geghamyan TW/@GVaruzhan
+* [Varuzhan Geghamyan](/guest/vgeghamyan)
 
 Episode 108 | Recorded: December 20, 2021
 """
@@ -79,14 +79,22 @@ Background:
 
 Pashinyan and President Aliyev met twice. Once with Charles Michel, and once with Emmanuel Macron.
 
-**Questions:**
+**Question:**
 * What was achieved in Brussels?
-* Aliyev’s statement about equating Berdzor/Lachin corridor with the “Zangezur corridor” & threatening to put checkpoints there. Why did he say this in Brussels, but not in Sochi?
-* The entire analytical community expected this meeting to be around humanitarian issues such as return of POWs, mine maps, etc… Yet in reality it appears that they touched on geopolitical issues, including apparently coming to an agreement on a rail route going through Meghri.
-* There was an alternative rail route from Ijevan to Qazakh.
-    * Can you describe the difference between the southern route through Meghri and the northern route, which at one point was touted by Pashinyan?
-    * What is the advantage and disadvantage of each?
-    * Ijevan-Qazakh seems to already be mostly there.
+
+Note [Aliyev’s statement](https://en.trend.az/azerbaijan/politics/3526874.html) about equating Berdzor/Lachin corridor with the “Zangezur corridor” & threatening to put checkpoints there.
+
+**Questions:**
+* Why did he say this in Brussels, but not in Sochi?
+
+The entire analytical community expected this meeting to be around humanitarian issues such as return of POWs, minefield maps, etc… Yet in reality it appears that they touched on geopolitical issues, including apparently coming to an agreement on a rail route going through Meghri.
+
+There was an alternative rail route from Ijevan to Qazakh.
+
+**Questions:**
+* Can you describe the difference between the southern route through Meghri and the northern route, which at one point was touted by Pashinyan?
+* What is the advantage and disadvantage of each?
+* Ijevan-Qazakh seems to already be mostly there.
 * Details about the train route
 
 
