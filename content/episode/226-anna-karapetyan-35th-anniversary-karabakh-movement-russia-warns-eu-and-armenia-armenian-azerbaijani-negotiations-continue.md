@@ -5,6 +5,7 @@ upcoming = false
 
 title = "35th Anniversary of the Karabakh Movement | Russia Warns the EU and Armenia | Armenian Azerbaijani Negotiations Continue | Ep 226 - Feb 19, 2023"
 subtitle = "Armenian News Network Groong - Feb 19, 2023"
+author = "Armenian News Network - Groong"
 
 podcast_file = "12295856-35th-anniversary-of-karabakh-movement-russia-warns-the-eu-and-armenia-armenian-azerbaijani-negotiations-ep-226-feb-19-2023.mp3"
 podcast_bytes = "33481783"

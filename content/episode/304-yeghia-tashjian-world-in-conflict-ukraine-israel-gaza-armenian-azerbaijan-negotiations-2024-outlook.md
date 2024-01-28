@@ -5,6 +5,7 @@ upcoming = false
 
 title = "Yeghia Tashjian - World in Conflict | Armenian Azerbaijani Negotiations | 2024 Outlook | Ep. 304 - Jan 21, 2024"
 subtitle = "Armenian News Network Groong - Jan 21, 2024"
+author = "Armenian News Network - Groong"
 
 podcast_file = "14367520-yeghia-tashjian-world-in-conflict-armenian-azerbaijani-negotiations-2024-outlook-ep-304-jan-21-2024.mp3"
 podcast_bytes = "30640364"
@@ -17,6 +18,7 @@ images = ["img/episode/304/banner-304.webp"]
 
 hosts = ["hovik","asbed"]
 guests = ["ytashjian"]
+
 episode = "304"
 aliases = ["/304"]
 
