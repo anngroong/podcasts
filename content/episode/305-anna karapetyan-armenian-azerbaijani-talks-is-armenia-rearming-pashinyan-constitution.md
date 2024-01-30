@@ -74,7 +74,7 @@ Some quotes…
 * Carl von Clausewitz:"Courage, above all things, is the first quality of a warrior."
 
 Meanwhile
-* Pashinyan: “maybe our biggest mistake was in trusting the army”
+* __Pashinyan: “maybe our biggest mistake was in trusting the army”__
 
 **Question:**
 * What is being done by Armenian leadership to improve the morale in the army? Isn’t this as important as acquiring new weapons?
@@ -154,8 +154,6 @@ BACKGROUND NOTES:
 * In December 2021, Pashinyan held a closed door meeting with the members of the Constitutional court (sans Hrair Tovmasyan and Arevik Petrosyan, who objected to the legality). Weeks later, he created a commission on changing the constitution. A
 * Mid-year 2022, the commission’s mandate expired. Pashinyan didn’t accept their recommendations. He formed a new commission. Important to note that in all public statements, there was only talk about amending the constitution not forming a new one.
 * January 2024, Pashinyan says we need a completely new constitution and not amendments.
-
-There is talk about changing the constitution to not demand that the prime minister be backed by the majority of the parliament, so the new constitution is considering a so-called “[minority rule](https://www.azatutyun.am/a/32787144.html)” provision.
 
 
 ## Topics from the Panelists
