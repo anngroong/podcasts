@@ -15,5 +15,6 @@ YouTube = ""
 Twitch = ""
 +++
 
-Bedros Afeyan is a theoretical physicist who loves music and often quotes Nietzsche who said, without (serious) music, life would be a mistake. 
+
+__Dr. Bedros Afeyan__ is a theoretical physicist who works and lives in the Bay Area with his wife Marine. He writes in Armenian and in English, and also paints and sculpts. He is the current editor of [The Literary Groong](https://groong.org/tlg/).
 
