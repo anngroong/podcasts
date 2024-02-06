@@ -1,16 +1,16 @@
 +++
 
 Date = 2024-02-04T01:00:00+04:00
-upcoming = true
+upcoming = false
 
 title = "Varuzhan Geghamyan - Armenian Azerbaijani Talks | Raisi Erdogan meet in Ankara | Politics | Ep 306 - Feb 4, 2024"
 subtitle = "Groong Week in Review - 02/04/2024"
 author = "Armenian News Network - Groong"
 
-podcast_file = ""
-podcast_bytes = ""
-podcast_duration = ""
-youtube = ""
+podcast_file = "14447332-varuzhan-geghamyan-diplomatic-flurry-aliyev-constitution-for-armenia-opposition-ep-306-feb-4-2024.mp3"
+podcast_bytes = "35175799"
+podcast_duration = "2927"
+youtube = "Lp3T0LcS65s"
 
 episode_image = "img/episode/306/thumbnail-306.webp"
 episode_banner = "img/episode/306/banner-306.webp"
