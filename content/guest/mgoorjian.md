@@ -2,7 +2,7 @@
 Date = 2024-01-31T01:45:01+04:00
 title = "Michael Goorjian"
 Pronouns = ""
-Twitter = ""
+Twitter = "https://twitter.com/MichaelGoorjian"
 Website = ""
 Type = "guest"
 Facebook = "michael.goorjian"

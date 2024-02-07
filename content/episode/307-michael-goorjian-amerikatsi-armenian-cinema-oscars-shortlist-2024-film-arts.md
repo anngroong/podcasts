@@ -1,6 +1,6 @@
 +++
 Date = 2024-02-07T00:00:00+04:00
-upcoming = true
+upcoming = false
 
 title = "Michael Goorjian - Amerikatsi: Michael A. Goorjian's Odyssey | Ep 307, Feb. 6, 2024"
 subtitle = "Conversations on Groong - 02/06/2023"
@@ -9,7 +9,7 @@ author = "Armenian News Network - Groong"
 podcast_file = "14453728-amerikatsi-michael-goorjian-s-odyssey-ep-307-feb-6-2024.mp3"
 podcast_duration = "54747937"
 podcast_bytes = "4559"
-youtube = ""
+youtube = "ESPfHpjVomA"
 
 episode_image = "img/episode/307/thumbnail-307.webp"
 episode_banner = "img/episode/307/banner-307.webp"
