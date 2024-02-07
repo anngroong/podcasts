@@ -17,7 +17,7 @@ aliases = ["/309"]
 
 series = ["wir"]
 categories = ["Armenia", "Politics", "Poll"]
-tags = ["Hrant Mikaelian", "Artsakh", "Nagorno Karabakh", "Genocide", "Armenia", "Azerbaijan", "Russia", "Russia", "Peace Negotiations", "Nikol Pashinyan"]
+tags = ["Armenian News", "Azerbaijan Elections", "Artsakh", "Nagorno Karabakh", "MPG Polls", "Hrant Mikaelian", "Ilham Aliyev", "Russia", "Corridors", "Borders", "Peace Negotiations", "United States", "Iran", "Nikol Pashinyan"]
 
 title = "Hrant Mikaelian - MPG Poll Results | Armenian Constitution | Economy | Talks with Azerbaijan | Ep 309 - Feb 11, 2024"
 subtitle = "ANN Groong Week in Review - February 11, 2024"
