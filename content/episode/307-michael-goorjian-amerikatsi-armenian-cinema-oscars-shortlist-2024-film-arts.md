@@ -45,7 +45,7 @@ Episode 307 | Recorded: February 5, 2024
 
 +++
 
-## Ares of Discussion
+## Topics of Conversation
 
 #### Intro to show with Michael Goorjian
 #### Artistic influences
