@@ -259,12 +259,11 @@ The reliance on Russia is also a cause for concern, particularly because it seem
 * There are some indications that the real-estate market is cooling, as some Russian, Ukrainian migrants who came after the war in Ukraine started, may be leaving. What are your thoughts about this sector of the economy?
 * Given how heavily the Armenian economy has benefited and expanded and relies on the war in Ukraine, it’s not out of place to ask: What is your view on the state of that conflict? Is there an end in sight? How should Armenia navigate it?
 
-Alright, let’s wrap up our topics here. I’d like to ask each of you if there’s been something on your mind this past week that you want to talk about.
 
-
-# Topics from the Panelists
-
-  * Does awareness that there are political prisoners in Armenia, who are in jail simply for their opinions and speech, affect the non-response bias of the polls? A word about Armenia’s political prisoners and judicial harassment.
+## Topics from the Panelists
+* **Hovik**: Does awareness that there are political prisoners in Armenia, who are in jail simply for their opinions and speech, affect the non-response bias of the polls?
+    * A word about Armenia’s political prisoners and judicial harassment.
+* **Hrant**: Political Prisoners and their rising numbers in Armenia.
 
 
 # Wrap-up
