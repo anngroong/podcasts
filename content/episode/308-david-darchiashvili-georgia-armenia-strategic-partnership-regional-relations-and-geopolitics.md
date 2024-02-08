@@ -9,7 +9,7 @@ author = "Armenian News Network - Groong"
 podcast_file = ""
 podcast_duration = ""
 podcast_bytes = ""
-youtube = ""
+youtube = "LHxHh7aZTm8"
 
 episode_image = "img/episode/308/thumbnail-308.webp"
 episode_banner = "img/episode/308/banner-308.webp"
@@ -35,7 +35,11 @@ Description = """
 * [Dr. David Darchiashvili](/guest/ddarchiashvili)
 
 #### Topics:
-* TBD
+* Georgia’s search for a modern national identity
+* Politics in Context
+* EU accession process and outlook
+* Armenia-Georgia Strategic Partnership
+
 
 Episode 308 | Recorded: February 7, 2024
 """
