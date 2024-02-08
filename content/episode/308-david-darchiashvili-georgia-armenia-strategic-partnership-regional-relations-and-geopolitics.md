@@ -6,9 +6,9 @@ title = "David Darchiashvili - Georgia's Search for a Modern National Identity |
 subtitle = "Conversations on Groong - 02/08/2023"
 author = "Armenian News Network - Groong"
 
-podcast_file = ""
-podcast_duration = ""
-podcast_bytes = ""
+podcast_file = "14463769-david-darchiashvili-georgia-in-political-and-geopolitical-context-ep-308-feb-8-2024.mp3"
+podcast_duration = "36415633"
+podcast_bytes = "3031"
 youtube = "LHxHh7aZTm8"
 
 episode_image = "img/episode/308/thumbnail-308.webp"
