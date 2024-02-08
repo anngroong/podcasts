@@ -38,7 +38,7 @@ Description = """
 * Amerikatsi: Motifs, Aspects and Character of the Film
 * Goorjian’s Style, Influences, and Interests
 * The Oscar Shortlisting journey
-* Bedros & Asbed Afterthoughts on the Covnersation
+* Bedros & Asbed Afterthoughts on the Conversation
 
 Episode 307 | Recorded: February 5, 2024
 """
