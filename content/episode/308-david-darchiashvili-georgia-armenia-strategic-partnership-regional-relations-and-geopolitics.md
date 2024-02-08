@@ -1,6 +1,6 @@
 +++
 Date = 2024-02-08T00:00:00+04:00
-upcoming = true
+upcoming = false
 
 title = "David Darchiashvili - Georgia's Search for a Modern National Identity | Strategic Partnership with Armenia | Ep 308, Feb. 8, 2024"
 subtitle = "Conversations on Groong - 02/08/2023"
