@@ -37,7 +37,7 @@ Description = """
 * Armenia-Georgia Strategic Partnership
 * Latest MPG Poll Review
 
-Episode 309 | Recorded: Feb 9, 2024"""
+Episode 309 | Recorded: Feb 11, 2024"""
 
 +++
 
@@ -130,6 +130,13 @@ A couple of simple questions, because we’re going to run out of time.
 
 ![Methodology](/img/episode/309/yeritsuk-MPG-Gallup-Int-1.webp "Methodology")
 
+### 2: The number of representatives of different countries, particularly from India and Pakistan, is growing rapidly in the Republic of Armenia. How do you feel about this phenomenon?
+
+Հայաստանի հանրապետությունում սրընթաց աճում են տարբեր երկրների ներկայացուցիչների թիվը, մասնավորապես Հնդկաստանից եւ Պակիստանից: Ինչպե՞ս եք վերաբերվում այս երեւույթին
+
+![Immigrants](/img/episode/309/yeritsuk-MPG-Gallup-Int-2.webp "Immigrants")
+
+
 ### Foreign Policy Vector & Military Supplies
 
 The next two questions we want to focus on are related to the respondent’s perception about Armenia’s foreign policy “integration” vector as well as military partnership. Both questions show a dramatic drop in Russia’s standing.
@@ -145,11 +152,6 @@ Responses to this question indicate that Russia, traditionally Armenia’s prima
 * In one way this sounds nice, sort of like the “complementary” foreign policy under Vartan Oskanian. However, can a small, severely weakened Armenia even afford to think about this? 
     * NOTE: Frankly, for instance, Armen Grigoryan (national security council director) is talking about Armenia formally having “neutrality”. 
 
-### 2: The number of representatives of different countries, particularly from India and Pakistan, is growing rapidly in the Republic of Armenia. How do you feel about this phenomenon?
-
-Հայաստանի հանրապետությունում սրընթաց աճում են տարբեր երկրների ներկայացուցիչների թիվը, մասնավորապես Հնդկաստանից եւ Պակիստանից: Ինչպե՞ս եք վերաբերվում այս երեւույթին
-
-![Immigrants](/img/episode/309/yeritsuk-MPG-Gallup-Int-2.webp "Immigrants")
 
 ### 3: In your opinion, to which country or countries should Armenia's integration vector be directed?
 
