@@ -18,7 +18,7 @@ aliases = ["/309"]
 
 series = ["wir"]
 categories = ["Armenia", "Politics", "Poll"]
-tags = ["Armenian News", "Azerbaijan Elections", "Artsakh", "Nagorno Karabakh", "MPG Polls", "Hrant Mikaelian", "Ilham Aliyev", "Russia", "Corridors", "Borders", "Peace Negotiations", "United States", "Iran", "Nikol Pashinyan"]
+tags = ["Armenian News", "Azerbaijan Elections", "Artsakh", "Nagorno Karabakh", "MPG Polls", "Hrant Mikaelian", "Ilham Aliyev", "Russia", "Corridors", "Borders", "Peace Negotiations", "United States", "Iran", "Nikol Pashinyan", "Georgia"]
 
 title = "Hrant Mikaelian - Yerevan Politics | Aliyev “Elections”| Armenia & Georgia | MPG Polls | Ep 309 - Feb 11, 2024"
 subtitle = "ANN Groong Week in Review - February 11, 2024"
@@ -130,6 +130,21 @@ A couple of simple questions, because we’re going to run out of time.
 
 ![Methodology](/img/episode/309/yeritsuk-MPG-Gallup-Int-1.webp "Methodology")
 
+### Foreign Policy Vector & Military Supplies
+
+The next two questions we want to focus on are related to the respondent’s perception about Armenia’s foreign policy “integration” vector as well as military partnership. Both questions show a dramatic drop in Russia’s standing.
+
+#### In your opinion, to which country or countries should Armenia's integration vector be directed?
+
+Ձեր կարծիքով ո՞ր երկիր, կամ երկրներ պետք է ուղղվի Հայաստանի ինտեգրման վեկտորը
+
+Responses to this question indicate that Russia, traditionally Armenia’s primary geopolitical partner is listed as #3. The #1 response, 48% of respondents was that Armenia should have equal relations between centers of influence. This is a stark difference from January 2023, when 29% of the people felt this way.
+
+**Questions**:
+* Thoughts about this question?
+* In one way this sounds nice, sort of like the “complementary” foreign policy under Vartan Oskanian. However, can a small, severely weakened Armenia even afford to think about this? 
+    * NOTE: Frankly, for instance, Armen Grigoryan (national security council director) is talking about Armenia formally having “neutrality”. 
+
 ### 2: The number of representatives of different countries, particularly from India and Pakistan, is growing rapidly in the Republic of Armenia. How do you feel about this phenomenon?
 
 Հայաստանի հանրապետությունում սրընթաց աճում են տարբեր երկրների ներկայացուցիչների թիվը, մասնավորապես Հնդկաստանից եւ Պակիստանից: Ինչպե՞ս եք վերաբերվում այս երեւույթին
@@ -146,10 +161,26 @@ A couple of simple questions, because we’re going to run out of time.
 
 Ո՞ր երկրներից կարելի է ռազմաքաղաքական օգնություն ստանալ մեր երկրի համար (Մի քանի պատասխան)
 
+In this category, Russia is #4 (after France, India, and USA). This is again a marked difference from January 2023 (a year ago), when Russia was #2 and Iran was #1.
+
+**Question**:
+* How do you explain this shift in sentiment?
+
 ![Military Aid](/img/episode/309/yeritsuk-MPG-Gallup-Int-4.webp "Military Aid")
 
-### 5: If there is a war, will you be ready to fight for Armenia?
+### Pashinyan’s Rating and Sentiment About Political Parties
 
+**Key takeaways:**
+* Pashinyan’s rating has dropped even lower, 29.0% compared to 33.6%.
+* Growing number of people (50.1%) want early parliamentary elections.
+* Civil contract support would be 16.1%.
+
+
+#### How much do you trust RA Prime Minister Nikol Pashinyan?
+Որքանո՞վ եք վստահում ՀՀ վարչապետ Նիկոլ Փաշինյանին
+
+
+### 5: If there is a war, will you be ready to fight for Armenia?
 Եթե պատերազմ լինի, պատրաստ կլինե՞ք պայքարել Հայաստանի համար
 
 ![Readiness to Fight for Armenia](/img/episode/309/yeritsuk-MPG-Gallup-Int-5.webp "Readiness to Fight for Armenia")
@@ -165,7 +196,6 @@ If there are any, state who are the political prisoners (Several answers)
 ![Political Prisoners](/img/episode/309/yeritsuk-MPG-Gallup-Int-6.webp "Political Prisoners")
 
 ### 7: How much do you trust RA Prime Minister Nikol Pashinyan?
-
 Որքանո՞վ եք վստահում ՀՀ վարչապետ Նիկոլ Փաշինյանին
 
 ![Trust in Pashinyan](/img/episode/309/yeritsuk-MPG-Gallup-Int-7.webp "Trust in Pashinyan")
@@ -191,6 +221,12 @@ Do you think it is necessary to make changes or adopt a completely new constitut
 Եթե առաջիկա կիրակի օրը լինեն Խորհրդարանական ընտրությունների, ո՞ր կուսակցության կամ դաշինքի օգտին կքվեարկեք
 
 ![Supported Party](/img/episode/309/yeritsuk-MPG-Gallup-Int-10.webp "Supported Party")
+
+
+## Thoughts from the Panelists
+
+* __Hovik:__ Hypocrisy of EU slamming and congratulating election of a dictator - Aliyev
+* __Hrant:__ Armenia’s constitution can not be changed with a push from Azerbaijan
 
 # Wrap-up
 
