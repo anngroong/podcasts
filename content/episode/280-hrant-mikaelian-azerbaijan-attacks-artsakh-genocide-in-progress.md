@@ -17,7 +17,7 @@ episode = "280"
 aliases = ["/280"]
 
 series = ["wir"]
-categories = ["Armenia", "Artsakh", "Politics", "Poll"]
+categories = ["Armenia", "Artsakh", "Politics"]
 tags = ["Hrant Mikaelian", "Artsakh", "Nagorno Karabakh", "Genocide", "Armenia", "Azerbaijan", "Russia", "Turkey", "Russia", "Exodus", "Stepanakert", "Peace Negotiations", "United States", "Iran", "EU", "European Union", "France", "Artsakh Defense Forces", "Yevlakh", "Nikol Pashinyan", "Traitor", "Ararat Mirzoyan", "Turkish Agent", "Yuri Kim"]
 
 title = "Hrant Mikaelian - Azerbaijan Attacks Artsakh - Genocide in Progress | Ep 280 - Sep 24, 2023"
