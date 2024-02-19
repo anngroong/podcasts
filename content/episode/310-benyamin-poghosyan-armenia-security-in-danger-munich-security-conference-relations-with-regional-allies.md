@@ -37,7 +37,8 @@ Description = """
 * Munich Security Conference
 * Relations with Regional Allies
 
-Episode 310 | Recorded: February 18, 2024"""
+Episode 310 | Recorded: February 18, 2024
+"""
 
 +++
 
@@ -98,7 +99,7 @@ Another Armenian official, Yeghishe Kirakosyan, who represents Armenia on the in
 
 Iran has been very clear and vocal in its redlines. Iran has warned Azerbaijan and Turkey that it will not tolerate any border or sovereignty changes to Armenia. They’ve also [warned](https://www.azatutyun.am/a/32821255.html) Armenia that non-Regional actors are not welcome. Specifically the EUMA is a cause for concern to them.
 
-**Questions:**
+**Question:**
 * How are Armenia’s relations with Iran evolving since the Azeri ethnic cleansing of Artsakh in September 2023?
 
 
@@ -106,7 +107,7 @@ Iran has been very clear and vocal in its redlines. Iran has warned Azerbaijan a
 
 Since Armenia dumped Artsakh and degraded its relations with Russia, Russia has realigned its strategy in the South Caucasus to have a tighter partnership with Azerbaijan. Russia is talking with Azerbaijan to arrange a right of return for Armenians of Artsakh back to their land. 
 
-**Questions:**
+**Question:**
 * Is this a realistic dialog, or just a self-serving effort to keep Russian forces in Artsakh?
 
 
