@@ -3,8 +3,7 @@
 Date = 2024-02-18T00:15:00-04:00
 upcoming = false
 
-title = "Benyamin Poghosyan - Armenia Security in Danger | Munich Security Conference | Relations with Regional Allies | Ep 310 - Feb 18, 2024
-"
+title = "Benyamin Poghosyan - Armenia Security in Danger | Munich Security Conference | Relations with Regional Allies | Ep 310 - Feb 18, 2024"
 subtitle = "Armenian News Network Groong - February 31, 2023"
 
 podcast_file = "14527843-benyamin-poghosyan-armenia-security-in-danger-munich-security-conference-relations-with-regional-allies-ep-310-feb-18-2024.mp3"
