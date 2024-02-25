@@ -29,14 +29,19 @@ enableRobotsTXT = true
     url = "/about"
 
 [[Menu.Main]]
-    name = "Categories"
-    identifier = "categories"
-    url = "/categories"
+    name = "Blog"
+    identifier = "blog"
+    url = "/blog"
 
 [[Menu.Main]]
     name = "Bios"
     identifier = "bios"
     url = "/bios"
+
+[[Menu.Main]]
+    name = "Donate"
+    identifier = "donate"
+    url = "/donate"
 
 [[Menu.Main]]
     name = "Hosts"
@@ -51,14 +56,33 @@ enableRobotsTXT = true
     url = "/guest"
 
 [[Menu.Main]]
+    name = "Content"
+    identifier = "content"
+    url = "/content"
+
+[[Menu.Main]]
+    name = "Categories"
+    identifier = "categories"
+    parent = "content"
+    url = "/categories"
+
+[[Menu.Main]]
+    name = "Series"
+    identifier = "series"
+    parent = "content"
+    url = "/series"
+
+[[Menu.Main]]
+    name = "Tags"
+    identifier = "tags"
+    parent = "content"
+    url = "/tags"
+
+[[Menu.Main]]
+[[Menu.Main]]
     name = "Upcoming"
     identifier = "upcoming"
     url = "/upcoming"
-
-[[Menu.Main]]
-    name = "Blog"
-    identifier = "blog"
-    url = "/blog"
 
 [params]
 mainSections = ["episode"]
