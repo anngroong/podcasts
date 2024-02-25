@@ -108,7 +108,7 @@ rss_subscribe = "https://feeds.buzzsprout.com/1215113.rss"
 description = "Armenian News Network/Groong, an Armenian podcast providing objective coverage on Armenia, Artsakh (Nagorno Karabakh) and the Armenian diaspora. Find us and follow us everywhere on social media. Here are our links: [linktr.ee/groong](https://linktr.ee/groong)."
 
 media_prefix = "https://www.buzzsprout.com/1215113/"
-disqusShortname = ""
+disqusShortname = "groong-podcast"
 
   [params.realfavicongenerator] # https://realfavicongenerator.net/
     mask_icon_color="#5bbad5"
