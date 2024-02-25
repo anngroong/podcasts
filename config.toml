@@ -34,17 +34,24 @@ enableRobotsTXT = true
     url = "/categories"
 
 [[Menu.Main]]
+    name = "Bios"
+    identifier = "bios"
+    url = "/bios"
+
+[[Menu.Main]]
     name = "Hosts"
     identifier = "hosts"
+    parent = "bios"
     url = "/host"
 
 [[Menu.Main]]
     name = "Guests"
     identifier = "guests"
+    parent = "bios"
     url = "/guest"
 
 [[Menu.Main]]
-    name = "Upcoming Episodes"
+    name = "Upcoming"
     identifier = "upcoming"
     url = "/upcoming"
 
