@@ -14,7 +14,7 @@ aliases = ["/relaunching-podcasts-groong-org"]
 
 +++
 
-We're thrilled to post-factum announce launch of our website, bringing you an enhanced experience to dive deeper into the world of Armenian news and discussions. Over the past three years, we've been hard at work, delivering top-notch content with an average of two episodes per week. From our very first episode amidst the Tavush conflict on July 12, 2020, to providing insights during the 2020 Artsakh war, we've strived to keep you informed during tumultuous times.
+We're thrilled to announce the relaunch of our website, bringing you an enhanced experience to dive deeper into the world of Armenian news and discussions. Over the past three years, we've been hard at work, delivering top-notch content with an average of two episodes per week. From our very first episode amidst the Tavush conflict on July 12, 2020, to providing insights during the 2020 Artsakh war, we've strived to keep you informed during tumultuous times.
 
 Our revamped website not only offers seamless navigation and access to our extensive podcast archive but also introduces a brand-new [Donate page](/donate). As a volunteer-driven effort, your support is crucial in helping us expand our reach and improve the quality of our content. Whether it's automating tasks, investing in essential tools, or boosting social media promotion, your contributions enable us to do more.
 
@@ -23,4 +23,5 @@ While you explore our website, don't forget to connect with us on social media v
 Thank you for being part of our journey and for your continued support. Visit our Donate page today and show us some love. Together, let's amplify the impact of Groong Podcast and empower more voices to be heard.
 
 Happy listening!
+
 The Groong Podcast Team
