@@ -29,29 +29,60 @@ enableRobotsTXT = true
     url = "/about"
 
 [[Menu.Main]]
-    name = "Categories"
-    identifier = "categories"
-    url = "/categories"
+    name = "Blog"
+    identifier = "blog"
+    url = "/blog"
+
+[[Menu.Main]]
+    name = "Bios"
+    identifier = "bios"
+    url = "/bios"
+
+[[Menu.Main]]
+    name = "Donate"
+    identifier = "donate"
+    url = "/donate"
 
 [[Menu.Main]]
     name = "Hosts"
     identifier = "hosts"
+    parent = "bios"
     url = "/host"
 
 [[Menu.Main]]
     name = "Guests"
     identifier = "guests"
+    parent = "bios"
     url = "/guest"
 
 [[Menu.Main]]
-    name = "Upcoming Episodes"
-    identifier = "upcoming"
-    url = "/upcoming"
+    name = "Content"
+    identifier = "content"
+    url = "/content"
 
 [[Menu.Main]]
-    name = "Blog"
-    identifier = "blog"
-    url = "/blog"
+    name = "Categories"
+    identifier = "categories"
+    parent = "content"
+    url = "/categories"
+
+[[Menu.Main]]
+    name = "Series"
+    identifier = "series"
+    parent = "content"
+    url = "/series"
+
+[[Menu.Main]]
+    name = "Tags"
+    identifier = "tags"
+    parent = "content"
+    url = "/tags"
+
+[[Menu.Main]]
+[[Menu.Main]]
+    name = "Upcoming"
+    identifier = "upcoming"
+    url = "/upcoming"
 
 [params]
 mainSections = ["episode"]
@@ -77,7 +108,7 @@ rss_subscribe = "https://feeds.buzzsprout.com/1215113.rss"
 description = "Armenian News Network/Groong, an Armenian podcast providing objective coverage on Armenia, Artsakh (Nagorno Karabakh) and the Armenian diaspora. Find us and follow us everywhere on social media. Here are our links: [linktr.ee/groong](https://linktr.ee/groong)."
 
 media_prefix = "https://www.buzzsprout.com/1215113/"
-disqusShortname = ""
+disqusShortname = "groong-podcast"
 
   [params.realfavicongenerator] # https://realfavicongenerator.net/
     mask_icon_color="#5bbad5"
