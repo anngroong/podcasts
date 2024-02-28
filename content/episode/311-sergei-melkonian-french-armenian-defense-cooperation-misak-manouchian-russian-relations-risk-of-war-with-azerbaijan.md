@@ -10,7 +10,7 @@ subtitle = "Armenian News Network Groong - February 25, 2024"
 podcast_file = "14591953-sergei-melkonian-french-connection-russian-armenian-dialog-negotiations-risk-of-war-ep-311-feb-25-2024.mp3"
 podcast_bytes = "30028529"
 podcast_duration = "2500"
-youtube = "rzBI5XV_Zh4"
+youtube = "GlPVBFSZwT8"
 
 episode_image = "img/episode/311/thumbnail-311.webp"
 episode_banner = "img/episode/311/banner-311.webp"
