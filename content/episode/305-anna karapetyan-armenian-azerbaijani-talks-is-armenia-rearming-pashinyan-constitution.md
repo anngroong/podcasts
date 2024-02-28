@@ -10,7 +10,7 @@ author = "Armenian News Network - Groong"
 podcast_file = "14404682-anna-karapetyan-is-armenia-finally-rearming-armenia-georgia-strategic-partnership-armenian-azerbaijani-talks-pashinyan-and-the-constitution-ep-305-jan-28-2024.mp3"
 podcast_bytes = "42318779"
 podcast_duration = "3524"
-youtube = "hdW6BbtF8xA"
+youtube = "7Pvev4iamms"
 
 episode_image = "img/episode/305/thumbnail-305.webp"
 episode_banner = "img/episode/305/banner-305.webp"
