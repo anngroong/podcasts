@@ -4,7 +4,7 @@ Date = 2024-02-27T00:15:00-07:00
 upcoming = false
 
 
-title = "Sergei Melkonian - French Connection | Russian-Armenian Dialog | Negotiations & Risk of War | Ep 311, Feb 25, 2024"
+title = "Sergei Melkonian - French Connection | Russian-Armenian Exoerts Dialog | Negotiations & Risk of War | Ep 311 - Feb 25, 2024"
 subtitle = "Armenian News Network Groong - February 25, 2024"
 
 podcast_file = "14591953-sergei-melkonian-french-connection-russian-armenian-dialog-negotiations-risk-of-war-ep-311-feb-25-2024.mp3"
