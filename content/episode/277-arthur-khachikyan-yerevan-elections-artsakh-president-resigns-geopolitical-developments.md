@@ -144,14 +144,12 @@ Obviously the Ukrainian grain deal will occupy the top of the list but apparentl
 
 * What to expect from the meeting?
 
-Alright, let’s wrap up our topics here. I’d like to ask each of you if there’s been something on your mind this past week that you want to talk about.
 
 ## Topics from the Panelists
 
 * **Hovik**: How many Snoop Doggs is a drone worth?
 * **Arthur**: Armenian apathy towards their own fate.
 
-Alright, we’ll leave it there for today! Thank you everyone!
 
 # Wrap-up
 
