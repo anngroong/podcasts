@@ -19,7 +19,7 @@ images = ["img/episode/311/banner-311.webp"]
 hosts = ["hovik","asbed"]
 guests = ["smelkonian"]
 episode = "311"
-aliases = ["/311"]
+aliases = ["/311", "/latest"]
 explicit = "no"
 
 series = ["wir"]

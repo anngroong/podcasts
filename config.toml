@@ -1,6 +1,6 @@
 baseURL = 'https://podcasts.groong.org/'
 languageCode = 'en-us'
-title = 'Armenian News Network/Groong Podcast'
+title = 'Groong Podcast'
 theme = "castanet-1.19.0" 
 googleAnalytics = 'G-JNZ5XF71ZR'
 paginate = "9"
@@ -25,64 +25,63 @@ enableRobotsTXT = true
 # The menus are sorted based upon their identifier
 [[Menu.Main]]
     name = "About"
-    identifier = "about"
+    identifier = "01about"
     url = "/about"
 
 [[Menu.Main]]
     name = "Blog"
-    identifier = "blog"
+    identifier = "02blog"
     url = "/blog"
 
 [[Menu.Main]]
     name = "Bios"
-    identifier = "bios"
+    identifier = "03bios"
     url = "/bios"
 
 [[Menu.Main]]
-    name = "Donate"
-    identifier = "donate"
-    url = "/donate"
-
-[[Menu.Main]]
     name = "Hosts"
-    identifier = "hosts"
-    parent = "bios"
+    identifier = "04hosts"
+    parent = "03bios"
     url = "/host"
 
 [[Menu.Main]]
     name = "Guests"
-    identifier = "guests"
-    parent = "bios"
+    identifier = "05guests"
+    parent = "03bios"
     url = "/guest"
 
 [[Menu.Main]]
     name = "Content"
-    identifier = "content"
+    identifier = "06content"
     url = "/content"
 
 [[Menu.Main]]
     name = "Categories"
-    identifier = "categories"
-    parent = "content"
+    identifier = "07categories"
+    parent = "06content"
     url = "/categories"
 
 [[Menu.Main]]
     name = "Series"
-    identifier = "series"
-    parent = "content"
+    identifier = "08series"
+    parent = "06content"
     url = "/series"
 
 [[Menu.Main]]
     name = "Tags"
-    identifier = "tags"
-    parent = "content"
+    identifier = "09tags"
+    parent = "06content"
     url = "/tags"
 
 [[Menu.Main]]
-[[Menu.Main]]
     name = "Upcoming"
-    identifier = "upcoming"
+    identifier = "10upcoming"
     url = "/upcoming"
+
+[[Menu.Main]]
+    name = "Donate ❤️"
+    identifier = "11donate"
+    url = "/donate"
 
 [params]
 mainSections = ["episode"]
