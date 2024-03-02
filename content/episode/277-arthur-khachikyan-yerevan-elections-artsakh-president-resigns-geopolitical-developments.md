@@ -8,7 +8,7 @@ subtitle = "Armenian News Network Groong - Sep 3, 2023"
 
 podcast_file = "13522431-arthur-khachikyan-yerevan-elections-artsakh-geopolitics-ep-277-sep-3-2023.mp3"
 podcast_bytes = "28444981"
-podcast_duration = "277"
+podcast_duration = "2368"
 youtube = "dSoYYZ95XzU"
 
 episode_image = "img/episode/277/thumbnail-277.webp"
@@ -36,7 +36,7 @@ Description = """
 * Artsakh Domestic Developments
 * Developments in Geopolitics and Negotiations
 
-Episode 277 | Recorded: May 1, 2023"""
+Episode 277 | Recorded: Sep 3, 2023"""
 
 +++
 
@@ -146,7 +146,7 @@ Obviously the Ukrainian grain deal will occupy the top of the list but apparentl
 
 Alright, let’s wrap up our topics here. I’d like to ask each of you if there’s been something on your mind this past week that you want to talk about.
 
-## Topics from the Panelistsv
+## Topics from the Panelists
 
 * **Hovik**: How many Snoop Doggs is a drone worth?
 * **Arthur**: Armenian apathy towards their own fate.
