@@ -1,12 +1,16 @@
 +++
 Description = ""
-Date = 2024-02-26T01:41:22+04:00
-PublishDate = 2024-02-26T01:41:22+04:00 # this is the datetime for the when the epsiode was published. This will default to Date if it is not set. Example is "2016-04-25T04:09:45-05:00"
+Date = 2024-02-28T01:41:22+04:00
+PublishDate = 2024-02-28T01:41:22+04:00 # this is the datetime for the when the epsiode was published. This will default to Date if it is not set. Example is "2016-04-25T04:09:45-05:00"
 title = "Are the US CIA and UK MI6 helping overseeing the creation of the new Armenian External Intelligence Service?"
 #blog_banner = ""
 blog_image = "img/episode/310/spy-agency.webp"
 images = ["img/episode/310/spy-agency.webp"]
 Author = "hovik"
+
+series = ["Blog"]
+categories = ["Armenia", "NATO", "Russia", "Politics", "Clip"]
+tags = ["Richard Moore", "richard moore mi6", "william burns", "william burns cia", "Nikol Pashinyan", "Armenia", "Foreign Intelligence Service", "CIA", "MI6", "munich", "intelligence"]
 
 +++
 
@@ -72,3 +76,5 @@ Inviting foreign countries to tear down your existing intel service and build on
 These types of deals require preparation and trust. Was all this preparation and trust built up after 2018? Or...
 
 And what exactly are the Brits and the Americans doing. In the case of Ukraine, they seem to have gone all in and created dozens of secret intelligence bases, equipped Ukraine to the fullest. Are they investing at a similar scale in Armenia?
+
+
