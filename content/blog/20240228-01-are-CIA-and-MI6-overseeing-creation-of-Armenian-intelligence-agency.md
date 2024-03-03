@@ -1,5 +1,7 @@
 +++
-Description = ""
+Description = """
+In [episode 310](https://podcasts.groong.org/310), we talked about the potential that the US CIA and the UK MI6 are overseeing the creation of Armenia's new intelligence service.
+"""
 Date = 2024-02-28T01:41:22+04:00
 PublishDate = 2024-02-28T01:41:22+04:00 # this is the datetime for the when the epsiode was published. This will default to Date if it is not set. Example is "2016-04-25T04:09:45-05:00"
 title = "Are the US CIA and UK MI6 helping overseeing the creation of the new Armenian External Intelligence Service?"
@@ -9,7 +11,7 @@ images = ["img/episode/310/spy-agency.webp"]
 Author = "hovik"
 
 series = ["Blog"]
-categories = ["Armenia", "NATO", "Russia", "Politics", "Clip"]
+categories = ["Armenia", "Politics", "Clip"]
 tags = ["Richard Moore", "richard moore mi6", "william burns", "william burns cia", "Nikol Pashinyan", "Armenia", "Foreign Intelligence Service", "CIA", "MI6", "munich", "intelligence"]
 
 +++
@@ -76,5 +78,3 @@ Inviting foreign countries to tear down your existing intel service and build on
 These types of deals require preparation and trust. Was all this preparation and trust built up after 2018? Or...
 
 And what exactly are the Brits and the Americans doing. In the case of Ukraine, they seem to have gone all in and created dozens of secret intelligence bases, equipped Ukraine to the fullest. Are they investing at a similar scale in Armenia?
-
-

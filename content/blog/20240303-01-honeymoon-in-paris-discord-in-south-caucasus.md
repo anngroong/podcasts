@@ -1,5 +1,5 @@
 +++
-Description = ""
+Description = "The following is a transcript of a clip from [episode 311](https://podcasts.groong.org/311), where we address the blooming romance (at least as it appears externally) between the Armenia and France, NATO and the collective West."
 Date = 2024-03-03T22:00:00+04:00
 title = "Transcript: A honeymoon in Paris or discord in South Caucasus? Russia's Reaction to French Weapon Deliveries!"
 #blog_banner = ""
@@ -8,8 +8,8 @@ images = ["img/episode/311/french-honeymoon.webp"]
 Author = "hovik"
 
 series = ["Blog"]
-categories = ["Armenia", "France", "NATO", "Russia", "Politics", "Clip", "Transcript"]
-tags = ["Groong Podcast", "Sergei Melkonian", "Russia", "France", "South Caucasus", "Geopolitics", "International Relations", "Armenia", "Iran", "NATO", "Security", "Weapon Deliveries", "Western Influence", "CSTO", "Intelligence Sharing", "Political Maneuvering", "Post-Soviet Space", "Military Cooperation", "Radar Systems", "Diplomacy", "Strategic Alliances", "Arms Procurement", "State Secrets", "Security Architecture"]
+categories = ["Armenia", "Politics", "Clip", "Transcript"]
+tags = ["Groong Podcast", "Sergei Melkonian", "Russia", "France", "South Caucasus", "Geopolitics", "International Relations", "Armenia", "Iran", "NATO", "Security", "Weapon Deliveries", "Western Influence", "CSTO", "Intelligence Sharing", "Political Maneuvering", "Post-Soviet Space", "Military Cooperation", "Radar Systems", "Diplomacy", "Strategic Alliances", "Arms Procurement", "State Secrets", "Security Architecture", "Artsakh", "Nagorno Karabakh"]
 
 +++
 
