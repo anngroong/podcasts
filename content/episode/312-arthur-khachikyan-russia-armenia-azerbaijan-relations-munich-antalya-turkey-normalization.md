@@ -1,15 +1,15 @@
 +++
 
 Date = 2024-03-03T00:15:00-07:00
-upcoming = true
+upcoming = false
 
 title = "Arthur Khachikyan - Russian Armenian Relations | Armenia Azerbaijan Negotiations | Ep 312 - Mar 3, 2024"
 subtitle = "Armenian News Network Groong - Mar 3, 2024"
 
-podcast_file = ""
-podcast_bytes = ""
-podcast_duration = ""
-youtube = ""
+podcast_file = "14627842-arthur-khachikyan-russian-armenian-experts-dialog-exit-from-csto-armenian-azerbaijani-negotiations-edmon-marukyan-resigns-ep-312-mar-3-2024.mp3"
+podcast_bytes = "36867156"
+podcast_duration = "3069"
+youtube = "uxFFuEvj6XM"
 
 episode_image = "img/episode/312/thumbnail-312.webp"
 episode_banner = "img/episode/312/banner-312.webp"
