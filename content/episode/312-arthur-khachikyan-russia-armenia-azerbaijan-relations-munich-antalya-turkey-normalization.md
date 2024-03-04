@@ -3,7 +3,7 @@
 Date = 2024-03-03T00:15:00-07:00
 upcoming = false
 
-title = "Arthur Khachikyan - Russian Armenian Relations | Armenia Azerbaijan Negotiations | Ep 312 - Mar 3, 2024"
+title = "Arthur Khachikyan - Russian-Armenian Experts Dialog | Exit from CSTO? | Armenian-Azerbaijani Negotiations | Edmon Marukyan Resigns | Ep 312 - Mar 3, 2024"
 subtitle = "Armenian News Network Groong - Mar 3, 2024"
 
 podcast_file = "14627842-arthur-khachikyan-russian-armenian-experts-dialog-exit-from-csto-armenian-azerbaijani-negotiations-edmon-marukyan-resigns-ep-312-mar-3-2024.mp3"
@@ -22,7 +22,7 @@ aliases = ["/312"]
 explicit = "no"
 
 series = ["wir"]
-categories = ["Armenia", "Politics", "Poll"]
+categories = ["Armenia", "Politics"]
 tags = ["Armenian News", "Artsakh", "Nagorno Karabakh", "Azerbaijan", "Munich", "Antalya", "Turkey", "Arthur Khachikyan", "Ararat Mirzoyan", "Jeyhun Bayramov", "Sergei Lavrov", "Diplomacy Forum", "Negotiations", "Edmon Marukyan", "Vardan Ghukasyan", "Border", "Turkish Armenian Normalization", "Armenian Constitution", "Treaty", "Alexandropol", "Armenian Emigration", "Outmigration", "Le Figaro", "France", "Bastion", "APC", "Armored Personnel Carriers", "MI6", "CIA", "Richard Moore", "Georgia", "Kurds", "Fake Opposition", "Nikol Pashinyan", "Alen Simonyan"]
 
 Description = """
