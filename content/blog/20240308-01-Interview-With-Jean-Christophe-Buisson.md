@@ -8,6 +8,11 @@ title = "Transcript: On Interview with Jean-Christophe Buisson (Deputy Editor of
 blog_image = "img/episode/312/le-figaro.webp"
 images = ["img/episode/312/le-figaro.webp"]
 Author = "hovik"
+
+series = ["Blog"]
+categories = ["Armenia", "Politics", "Clip", "Transcript"]
+tags = ["Le Figaro", "France", "Armenia", "Macron", "Turkey", "Russia", "Azerbaijan", "Jean-Christophe Buisson", "geopolitics", "military intervention", "armed personnel carriers", "interview", "podcast"]
+
 +++
 
 In this clip from [episode 312](https://podcasts.groong.org/312), Arthur Khachikyan discusses his [recent interview](https://youtu.be/U8bIk9f-1Qw) with Jean-Christophe Buisson, deputy editor of Le Figaro, a highly influential French newspaper with close ties to Macron and other French leaders. Arthur, the interviewer, highlights the deputy editor's strong support for the Armenian people but underscores France's unwillingness to intervene militarily in conflicts involving Armenia due to domestic and geopolitical constraints. 
