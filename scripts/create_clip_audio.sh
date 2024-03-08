@@ -1,4 +1,4 @@
-#!/bin/bash -x
+#!/bin/bash
 
 # Generate an audio by combining 3 input audio files.
 # Apply crossfade in between.
