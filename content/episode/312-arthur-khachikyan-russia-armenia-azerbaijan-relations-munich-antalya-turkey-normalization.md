@@ -27,6 +27,10 @@ tags = ["Armenian News", "Artsakh", "Nagorno Karabakh", "Azerbaijan", "Munich", 
 
 Description = """
 
+#### Groong Links:
+* [linktr.ee/Groong](https://linktr.ee/groong)
+* [DONATE to GROONG](https://podcasts.groong.org/donate)
+
 #### Guest:
 
 * [Arthur Khachikyan](/guest/akhachikyan)

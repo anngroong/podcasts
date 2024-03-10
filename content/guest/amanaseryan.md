@@ -17,3 +17,4 @@ Twitch = ""
 #guest_group = "cog"
 +++
 
+Tatul Manaseryan is an economist and academic, as well as a political actor in Armenia. Previously he was an MP in the national assembly. He appears regularly in media and speaks on economic matters.
