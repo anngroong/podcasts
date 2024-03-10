@@ -1,6 +1,10 @@
 +++
+
 Date = 2024-03-12T01:00:00+04:00
 upcoming = true
+
+title = "Dziunik Aghajanian - Armenia Stalled | Economic Diversification | Fish Rots from Head | Ep 313 - MAR 10, 2024"
+subtitle = "Conversations on Groong - 03/10/2023"
 
 podcast_file = ""
 podcast_bytes = ""
@@ -15,13 +19,11 @@ hosts = ["hovik", "asbed"]
 guests = ["dzaghajanian"]
 episode = "313"
 aliases = ["/313"]
+explicit = "no"
 
-series = ["cog"]
-categories = ["Armenia", "Artsakh", "Politics", "Relations"]
+series = ["wir"]
+categories = ["Armenia"]
 tags = ["Armenian News", "Armenia", "Artsakh", "Nagorno Karabakh", "Azerbaijan", "Dziunik Aghajanian", "South Caucasus", "Turkey", "Russia", "Nikol Pashinyan", "Corruption", "Ilham Aliyev", "Corridors", "Borders", "Peace Negotiations", "United States", "Iran", "EU", "European Union"]
-
-title = "Dziunik Aghajanian: UN Security Council | Artsakh | Yerevan Elections | Ep 313 - Sep 13, 2023"
-subtitle = "Conversations on Groong - 09/13/2023"
 
 Description = """
 
@@ -29,15 +31,15 @@ Description = """
 * [linktr.ee/Groong](https://linktr.ee/groong)
 * [DONATE to GROONG](https://podcasts.groong.org/donate)
 
+#### Guest:
+  * [Dziunik Aghajanian](/guest/dzaghajanian)"""
+
 #### Topics:
 * Armenia Stalled
     * Stalled with Enemies
     * Stalled with Allies
 * Economic Diversification
 * Fish Rots from the Head
-
-#### Guest:
-  * [Dziunik Aghajanian](/guest/dzaghajanian)"""
 
 Episode 313 | Recorded: Mar 11, 2024"""
 
