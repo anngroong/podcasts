@@ -3,7 +3,7 @@
 Date = 2024-03-12T01:00:00+04:00
 upcoming = true
 
-title = "Dziunik Aghajanian - Armenia Stalled | Economic Diversification | Fish Rots from Head | Ep 313 - MAR 10, 2024"
+title = "Dziunik Aghajanian - Armenia Stalled | Economic Diversification | Fish Rots from Head | Ep 313 - Mar 10, 2024"
 subtitle = "Conversations on Groong - 03/10/2023"
 
 podcast_file = ""
@@ -32,7 +32,7 @@ Description = """
 * [DONATE to GROONG](https://podcasts.groong.org/donate)
 
 #### Guest:
-  * [Dziunik Aghajanian](/guest/dzaghajanian)"""
+  * [Dziunik Aghajanian](/guest/dzaghajanian)
 
 #### Topics:
 * Armenia Stalled
