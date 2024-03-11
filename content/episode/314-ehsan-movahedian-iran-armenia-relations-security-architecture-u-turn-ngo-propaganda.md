@@ -27,6 +27,10 @@ tags = ["Iran", "Armenia", "Ehsan Movahedian", "National Security", "Foreign Pol
 
 Description = """
 
+#### Groong Links:
+* [linktr.ee/Groong](https://linktr.ee/groong)
+* [DONATE to GROONG](https://podcasts.groong.org/donate)
+
 #### Guest:
 * [Dr. Ehsan Movahedian](/guest/emovahedian)
 
