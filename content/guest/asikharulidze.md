@@ -1,6 +1,6 @@
 +++
 Date = 2024-03-09T04:45:01+04:00
-title = "Archil Sikhaluridze"
+title = "Archil Sikharulidze"
 Pronouns = ""
 Twitter = "achosikha"
 Website = ""
