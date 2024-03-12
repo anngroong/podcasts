@@ -21,7 +21,7 @@ aliases = ["/313"]
 explicit = "no"
 
 series = ["wir"]
-categories = ["Armenia"]
+categories = ["Armenia", "Artsakh", "Corruption"]
 tags = ["Armenian News", "Armenia", "Artsakh", "Nagorno Karabakh", "Azerbaijan", "Dziunik Aghajanian", "South Caucasus", "Turkey", "Russia", "Nikol Pashinyan", "Ilham Aliyev", "Corridors", "Borders", "Peace Negotiations", "United States", "Iran", "EU", "European Union"]
 
 Description = """

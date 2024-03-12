@@ -21,7 +21,7 @@ episode = "314"
 aliases = ["/314"]
 
 series = ["cog"]
-categories = ["Armenia", "Artsakh", "Iran", "Israel"]
+categories = ["Iran", "Armenia"]
 explicit = "no" # values are "yes" or "no"
 tags = ["Iran", "Armenia", "Ehsan Movahedian", "National Security", "Foreign Policy", "Middle East", "Daniel Ioannisyan", "Union of Informed Citizens", "South Caucasus", "Nagorno Karabakh", "Artsakh", "Azerbaijan", "North South Corridor", "INSTC", "Russia", "East West Corridor", "Turkey", "India", "Georgia", "Black Sea", "US", "Europe", "CSTO", "EAEU", "NATO"]
 
