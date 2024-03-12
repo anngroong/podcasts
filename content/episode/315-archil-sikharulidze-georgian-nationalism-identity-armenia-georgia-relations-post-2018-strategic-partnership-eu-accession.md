@@ -14,16 +14,16 @@ images = ["img/episode/315/banner-315.webp"]
 title = "Archil Sikharulidze - Georgian Nationalism and Identity | Georgia, Armenia, post 2018 | Accession to the EU | Strategic Partnership | Ep 315 - Mar 13, 2024"
 subtitle = "Conversations on Groong - 03/13/2024"
 
-guests = ["emovahedian"]
-hosts = ["asbed","hovik"]
+guests = ["asikharulidze"]
+hosts = ["Hovik","asbed"]
 
 episode = "315"
 aliases = ["/315"]
 
 series = ["cog"]
-categories = ["Armenia", "Artsakh", "Iran", "Israel"]
+categories = ["Georgia", "Armenia"]
 explicit = "no" # values are "yes" or "no"
-tags = ["Iran", "Armenia", "Ehsan Movahedian", "National Security", "Foreign Policy", "Middle East", "Daniel Ioannisyan", "Union of Informed Citizens", "South Caucasus", "Nagorno Karabakh", "Artsakh", "Azerbaijan", "North South Corridor", "INSTC", "Russia", "East West Corridor", "Turkey", "India", "Georgia", "Black Sea", "US", "Europe", "CSTO", "EAEU", "NATO"]
+tags = ["Armenia", "Georgia", "Strategic Partnership", "Archil Sikharulidze", "EU", "Azerbaijan", "Turkey", "Defense Cooperation", "Russia", "NATO", "Rose Revolution", "Velvet Revolution", "Nationalism", "Conservatism", "North-South Corridor", "INSTC", "India"]
 
 Description = """
 
