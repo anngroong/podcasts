@@ -111,7 +111,7 @@ As far as economic relations are concerned, Iran and Russia have made strides in
 
 ## Anti-Iranian Propaganda by NGOs
 
-Over the past 2 weeks, the **Union of Informed Citizens, **one of the most powerful and well-financed foreign-supported NGOs in Armenia, has been engaged in anti-Iranian propaganda, including social media postings as well as videos.
+Over the past 2 weeks, the __Union of Informed Citizens__, one of the most powerful and well-financed foreign-supported **NGO**s in Armenia, has been engaged in anti-Iranian propaganda, including social media postings as well as videos.
 
 This NGO is led by Daniel Ioannisyan, who seems to enjoy the sponsorship of the Pashinyan regime, as the Armenian government has frequently engaged Ioannisyan in various projects, the most prominent being the “rewrite” of the Armenian constitution.
 
