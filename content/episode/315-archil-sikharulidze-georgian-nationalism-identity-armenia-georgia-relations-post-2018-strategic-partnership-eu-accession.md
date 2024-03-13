@@ -1,11 +1,11 @@
 +++
 Date = 2024-03-13T02:00:00+04:00
-upcoming = true
+upcoming = false
 
 podcast_file = "14682358-archil-sikharulidze-georgia-armenia-partnership-politics-in-the-south-caucasus-ep-315-mar-13-2024.mp3"
 podcast_bytes = "46428009"
 podcast_duration = "3866"
-youtube = ""
+youtube = "rGojvoNLV4M"
 
 episode_image = "img/episode/315/thumbnail-315.webp"
 episode_banner = "img/episode/315/banner-315.webp"
@@ -15,7 +15,7 @@ title = "Archil Sikharulidze - Georgia, Armenia, Partnership & Politics in the S
 subtitle = "Conversations on Groong - 03/13/2024"
 
 guests = ["asikharulidze"]
-hosts = ["Hovik","asbed"]
+hosts = ["hovik","asbed"]
 
 episode = "315"
 aliases = ["/315"]
