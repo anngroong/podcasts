@@ -179,4 +179,7 @@ Make three predictions for 2024, one that you think is high probability of happe
 __HAPPY NEW YEAR EVERYONE__, we hope that 2024 is a better year for Armenians around the world than 2023 was, and we look forward to continuing our podcasts and our stimulating interactions with you, our listeners around the world.
 
 
-We hope you found our [Week in Review](/series/wir) helpful. We invite your feedback and your suggestions, you can find us on most social media and podcast platforms. Thanks to Laura Osborn for the music on our podcasts.
+# Wrap-up
+
+That's our [Week in Review](https://podcasts.groong.org/), we hope you found it helpful. We invite your feedback and your suggestions, you can [find us](https://linktr.ee/groong) on most social media and podcast platforms.
+Thanks to __Laura Osborn__ for the music on our podcasts.

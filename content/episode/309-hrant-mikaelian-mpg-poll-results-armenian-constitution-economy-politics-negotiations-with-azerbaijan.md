@@ -187,4 +187,5 @@ Key takeaways:
 
 # Wrap-up
 
-We hope you found our [Week in Review](https://podcasts.groong.org/) helpful. We invite your feedback and your suggestions, you can [find us](https://linktr.ee/groong) on most social media and podcast platforms. Thanks to Laura Osborn for the music on our podcasts.
+That's our [Week in Review](https://podcasts.groong.org/), we hope you found it helpful. We invite your feedback and your suggestions, you can [find us](https://linktr.ee/groong) on most social media and podcast platforms.
+Thanks to __Laura Osborn__ for the music on our podcasts.
