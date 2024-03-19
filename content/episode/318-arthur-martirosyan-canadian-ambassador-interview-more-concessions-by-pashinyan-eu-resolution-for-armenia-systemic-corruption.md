@@ -5,7 +5,7 @@ upcoming = false
 podcast_file = "14722718-arthur-g-martirosyan-impressions-of-canada-amb-interview-more-concessions-eu-resolution-systemic-corruption-ep-318-mar-18-2024.mp3"
 podcast_bytes = "35439433"
 podcast_duration = "2950"
-youtube = ""
+youtube = "8xWyjC-5MQw"
 
 episode = "318"
 aliases = ["/318"]
@@ -23,7 +23,7 @@ hosts = ["hovik", "asbed"]
 series = ["wir"]
 categories = ["Armenia", "Artsakh", "Politics"]
 explicit = "no" # values are "yes" or "no"
-tags = ["Arthur Martirosyan", "Armenia", "Azerbaijan", "Georgia", "South Caucasus", "Turkey", "Russia", "Corridors", "Borders", "Peace Negotiations", "United States", "Iran", "EU", "European Union", "Israel", "Gaza", "Palestinians", "Benyamin Netanyahu", "Nikol Pashinyan", "Strategy"]
+tags = ["Armenian News", "Artsakh", "Nagorno Karabakh", "Azerbaijan", "Arthur Martirosyan", "Corruption", "Tavush", "Negotiations", "Concessions", "Turkey", "Russia", "Corridors", "Borders", "Peace Negotiations", "United States", "Iran", "Gas Pipelines", "EU", "European Union", "Nikol Pashinyan", "Tigran Avinyan", "Civil Contract", "OCCRP", "CivilNet", "Infocom.am", "Foreign Policy"]
 
 Description = """
 
