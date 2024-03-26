@@ -22,7 +22,7 @@ hosts = ["hovik","asbed"]
 
 series = ["wir"]
 categories = ["Armenia", "Artsakh", "Politics"]
-tags = ["Armenian News", "Armenia", "Tavush", "Enclaves", "Political Prisoners", "Tevan Poghosyan", "Free Speech", "Media Crackdown", "Hooliganism", "Narek Samsonyan", "Vazgen Saghatelyan", "Imnemnimi", "Podcast", "Artsakh", "Nagorno Karabakh", "Concessions", "Borders", "Delimitation", "Jens Stoltenberg", "NATO", "South Caucasus", "Yerevan", "Tbilisi", "Baku"]
+tags = ["Armenian News", "Armenia", "Tavush", "Enclaves", "Political Prisoners", "Tevan Poghosyan", "Free Speech", "Media Crackdown", "Hooliganism", "Narek Samsonyan", "Vazgen Saghatelyan", "Imnemnimi", "Podcast", "Moscow", "Moscow Terrorist Attack 2024", "crocus city hall новости", "Artsakh", "Nagorno Karabakh", "Azerbaijan", "Turkey", "Concessions", "Borders", "Delimitation", "Jens Stoltenberg", "NATO", "South Caucasus", "Yerevan", "Tbilisi", "Baku", "Russia", "Iran"]
 
 Description = """
 
@@ -112,12 +112,9 @@ And apparently we don’t have a single person in Armenia whom the west clearly 
 
 ## Fearmongering by Pashinyan and Repercussions
 
-### Pashinyan Tavush Visit
-
 Pashinyan visited Tavush. He took with him this cutout piece of plastic he calls Armenia.
 
 ![Armenia in Swiss Cheese](/img/episode/320/nikol-map.webp "Armenia in Swissh Cheese")
-
 He spoke to the residents of the 4 villages that Azerbaijan wants ceded immediately. Reportedly, they were very tense discussions. Despite the meetings lasting more than 3 hours, the Pashinyan team finally released an [edited video](https://www.youtube.com/watch?v=gHe-ucjDCtY) of segments from that meeting, only about 40 minutes in length. 
 
 
