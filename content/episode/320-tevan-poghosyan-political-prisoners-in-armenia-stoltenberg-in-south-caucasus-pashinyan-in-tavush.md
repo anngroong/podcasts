@@ -38,7 +38,7 @@ Description = """
 * Terror Attack in Moscow
 * Growing List of Political Prisoners in Armenia
     * Narek Samsonyan & Vazgen Saghatelyan brutally arrested
-    * Narek Malyan still dragged through courts
+    * Narek Malyan Exonerated, Remains Jailed
 * Pashinyan in Tavush
 * Stoltenberg’s in the South Caucasus
 
