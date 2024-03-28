@@ -5,7 +5,7 @@ podcast_file = "14708478-hrant-mikaelian-analysis-of-recent-mpg-and-iri-poll-res
 podcast_duration = "2844"
 podcast_bytes = "34168320"
 
-episode_image = "img/episode/317/banner-317.webp"
+episode_image = "img/episode/317/thumbnail-317.webp"
 episode_banner = "img/episode/317/banner-317.webp"
 images = ["img/episode/317/banner-317.webp"]
 
