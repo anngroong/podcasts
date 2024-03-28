@@ -17,4 +17,4 @@ Twitch = ""
 #guest_group = "cog"
 +++
 
-Dr. Tatul Manaseryan is an economist and academic, as well as a political actor in Armenia. Previously he was an MP in the national assembly. He appears regularly in media and speaks on economic matters.
+Dr. Tatul Manaseryan, is an economist and academic, as well as a national and state actor in Armenia. Dr. Manaseryan is an MP from the 3rd convocation of the national assembly (2003-2007). He appears regularly in the media and speaks on economic matters.
