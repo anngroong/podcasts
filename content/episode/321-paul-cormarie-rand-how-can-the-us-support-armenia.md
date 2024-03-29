@@ -4,7 +4,7 @@ Date = 2024-03-27T20:00:00+04:00
 podcast_file = "14784378-paul-cormarie-can-the-us-guarantee-armenia-s-security-ep-321-mar-27-2024.mp3"
 podcast_bytes = "38735095"
 podcast_duration = "3225"
-youtube = "https://youtu.be/5D5NxTLAI-k"
+youtube = "5D5NxTLAI-k"
 
 episode_image = "img/episode/321/thumbnail-321.webp"
 episode_banner = "img/episode/321/banner-321.webp"
