@@ -2,7 +2,7 @@
 Date = 2024-03-23T01:45:01+04:00
 title = "Markus Ritter"
 Pronouns = ""
-Twitter = ""
+Twitter = "EUmARMENIA"
 Website = "https://www.eeas.europa.eu/euma/dr-markus-ritterhead-mission-european-union-mission-armenia_en"
 Type = "guest"
 Facebook = ""
