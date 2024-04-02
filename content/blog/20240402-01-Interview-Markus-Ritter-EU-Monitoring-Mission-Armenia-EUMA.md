@@ -530,7 +530,7 @@ This is what we are not doing and I'm not allowed to do this.
 
 We'd like to remind our listeners to go to our donate page, podcasts.groong.org or just
 go to podcasts.groong.org and there is a donate link there and consider buying us a coffee
-or better yet become a sustaining member of Grung through our Patreon link and give us
+or better yet become a sustaining member of Groong through our Patreon link and give us
 monthly.
 
 **Hovik**: You know there aren't that many shows like us who digest Armenian news weekly and bring
@@ -544,7 +544,7 @@ world around Armenians and Armenians and sharing their understanding with you.
 **Asbed**: So we will continue to do our work as we always have but your support will help us expand
 our reach to more people who are interested in Armenian affairs around the world.
 
-**Hovik**: So please visit our donate page again podcasts.grung.org or such donate and consider supporting
+**Hovik**: So please visit our donate page again podcasts.groong.org or such donate and consider supporting
 us.
 
 Thank you in advance.
@@ -840,7 +840,7 @@ with a monthly contribution. Thank you in advance for that.
 We've been talking to Dr. Markus Ritter, who is the head of the mission of the European Union
 Observers in Armenia, EUMA. For short, he is a senior police officer with extensive experience on
 the national and international scene. For more on Dr. Ritter, please check out our show notes on
-podcast.grung.org.
+podcast.groong.org.
 
 I'm Asbed Bedrossian
 
