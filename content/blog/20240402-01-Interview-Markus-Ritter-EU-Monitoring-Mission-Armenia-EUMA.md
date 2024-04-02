@@ -709,25 +709,26 @@ shooting, but we heard you say today that you were not targeted. Can you tell us
 more detail on that specific incident and whether you were indeed targeted or not, and why there's a
 discrepancy between the Armenian government and your report?
 
-**Ritter**: Okay, first it was not on the 25th, but on the 15th, because I know this by cause, I
+**Ritter**: Okay, first it was not on the 25th, but on the 15th, because I know this because, I
 have so often now been asked about this incident that if you awake me in the night, I can tell you
 exactly what happened. I would say that it's the most interesting, but first and at all, we never
-had been targeted or attacked by Azerbaijan.  What happened on that day is that we have been on an
- escorted patrol in the east of Sotk, and around noon, we were in an area where there was an exchange of fire between
-Armenians and Azerbaijanis. The patrol leader called me and said, we are here at the moment,
-and there's an active shooting.
+had been targeted or attacked by Azerbaijan.
 
-Should we stay and witness or should we leave? I asked them,
-are you under attack or not? He said, no, we are not under attack. Good. Then I say, stay. Then we
-will report tonight to Brussels that there was a shooting incident. Good. After one hour, they
-told us they will continue now this patrol. I said, okay, do it. They go somewhere else,
-and please come in later in the late afternoon to make. I want to have all the knowledge. We want
-to make a special report because it was one of our rare situations when we really were
-eye-witnessing from not too far away what's going on.
+What happened on that day is that we have been on an escorted patrol in the east of Sotk, and
+around noon, we were in an area where there was an exchange of fire between Armenians and Azerbaijanis.
+The patrol leader called me and said, we are here at the moment, and there's an active shooting.
 
-Around 15:00, I suddenly my phone, all my phone started ringing in all of my staff members, and we
-got calls from Europe, from the media, from the embassies, how we heard you are under attack.
+Should we stay and witness or should we leave? I asked them, are you under attack or not? He said, no,
+we are not under attack. Good. Then I say, stay. Then we will report tonight to Brussels that there
+was a shooting incident. Good.
 
+After one hour, they told us they will continue now this patrol. I said, okay, do it. They go 
+somewhere else, and please come in later in the late afternoon to make. I want to have all the
+knowledge. We want to make a special report because it was one of our rare situations when we
+really were eye-witnessing from not too far away what's going on.
+
+Around 15:00, I suddenly my phone, all my phones started ringing in all of my staff members, and
+we got calls from Europe, from the media, from the embassies, how we heard you are under attack.
 What happened? I said, no, we are not under attack. I sent an email to all the embassies here,
 that we have been in an area where there was shooting, and that, yes, the shooting took place,
 but not against us. But this did not stop. It got more and more and more because then we heard
@@ -735,15 +736,16 @@ that the Ministry of Defense had made a press release and said, EUMA is under at
 
 Okay, that was when all the media, everybody was really, they were storming us, and also
 Brussels, the member state capitals, they were all concerned about their staff members here
-in the mission and wanted to know what happened. So I said, what we have to do now, we have to make
-emergency breaks. So we make a tweet, false information, we have not been under attack.
+in the mission and wanted to know what happened. So I said, what we have to do now, we have to
+make emergency breaks. So we make a tweet, false information, we have not been under attack.
 
 Then the Ministry of Foreign Affairs informed me, but you have been under attack because we have
 an evidence, we have a video. Okay, so I asked my team leader, the patrol leader, everybody,
 who was taking a video because normally we don't make videos. And they said, no, there was no video,
-whatever. I said, can it be that our escorts took videos of us? And then I got from one of the
-embassy, they called me and said, we have seen the video. It seems that one of your guys took,
-out of the mission, took the video. And I watched the video.
+whatever. I said, can it be that our escorts took videos of us? They said no.
+
+And then I got from one of the embassy, they called me and said, we have seen the video. It seems
+that one of your guys took, out of the mission, took the video. And I watched the video.
 
 It was like one of my team members made a private video with a helmet on because he made it for his
 home to be more interesting, whatever. So we are under attack and he was shouting into the camera.
@@ -752,16 +754,16 @@ gave his mobile phone to one of the Armenian escorts, asked him to film him. And
 was done, the escort asked if he can also have a copy of it. And he said, only if you promise to use it
 only for private reasons. And he promised and what immediately he sent it to the Ministry of Defense.
 
-So I was told that I was not very diplomatic to say that it was a false information, so I
-should delete this because it's an offense against host country.
+So I was told that I was not very diplomatic to say that it was a false information, so I should
+delete this because it's an offense against host country.
 
 And what we did then, we said, yes, we can testify that there was a shooting. That is our second
 tweet on that day, not that we were under attack. The next day we had then some emergency meetings
-with the Ministry of Foreign Affairs, with the Ministry of Defense. And I think it was very
-clear for both sides that one side made a mistake, taking a private video as an official video from
-EUMA and to post it. And we agreed, and I think that was good that we had the chance to talk about this,
-that in future we should not release any tweets or whatever that are not
-somehow coordinated. Both sides learned a lot of this and it never happened again.
+with the Ministry of Foreign Affairs, with the Ministry of Defense. And I think it was very clear
+for both sides that one side made a mistake, taking a private video as an official video from EUMA
+and to post it. And we agreed, and I think that was good that we had the chance to talk about this,
+that in future we should not release any tweets or whatever that are not somehow coordinated.
+Both sides learned a lot of this and it never happened again.
 
 But also I made all sides clear that it's a huge difference if EUMA patrol is eye-witnessing
 a shooting or if EUMA patrol itself is under attack, because that means that would change the whole
@@ -774,9 +776,10 @@ important that we know there's transparency and understanding in the incident.
 
 **Ritter**: To be honest, we have a very good relationship with our escorts and also with the Ministry
 of Foreign Affairs, the Ministry of Defense. And after this, we even came closer because both sides,
-as I said, learned and we learned what it doesn't mean. If without any coordination and cooperation,
-things are spread and that's why things are much better working since last August. Both sides
-learned a lot.
+as I said, learned and we learned what it doesn't mean if without any coordination and cooperation,
+things are spread and that's why things are much better working since last August.
+
+Both sides learned a lot.
 
 ### Nerkin Hand (February 2024)
 
@@ -790,19 +793,22 @@ when you drive to the village, it goes down into a valley. And there was a lot o
 don't know which one is the official language from EUMA. But apparently, there was reports that the
 Russian peacekeepers did not allow the EUMA staff to observe what happened. Unfortunately,
 that incident four Armenians were killed by Azerbaijan. But at the same time, so we wanted
-to get your side of the story. Was EUMA prevented from doing its work? Did you need to actually go
-into the valley portion of the Nerkin Hand in order to observe? Or could you have conducted
-your observation also from the nearby road? And there's like, we've seen like photographic evidence,
-like photos that have been geolocated. I don't know how accurate they are that
-show that EUMA has been observing that portion of the border from the road itself, which is
-higher than the village, which probably would be more advantageous from a perspective of monitoring.
+to get your side of the story.
+
+Was EUMA prevented from doing its work? Did you need to actually go into the valley portion of the
+Nerkin Hand in order to observe? Or could you have conducted your observation also from the nearby
+road? And there's like, we've seen like photographic evidence, like photos that have been geolocated,
+I don't know how accurate they are, that show that EUMA has been observing that portion of the border
+from the road itself, which is higher than the village, which probably would be more advantageous
+from a perspective of monitoring.
+
 So please tell us what, in your own words, what happened that day?
 
-**Ritter**: I cannot tell you what happened on that day. I can tell you that
-to this valley and to Nerkin Hand itself, we had only one access that was June last year.
-Because before you reach this valley, you have on the right side of the road, you have a huge base
-of the Russian Federation border guards, and they stopped us regularly there,
-blocking the road and said we cannot continue because of security reasons.
+**Ritter**: I cannot tell you what happened on that day. I can tell you that to this valley and to
+Nerkin Hand itself, we had only one access that was June last year.  Because before you reach this
+valley, you have on the right side of the road, you have a huge base of the Russian Federation
+border guards, and they stopped us regularly there, blocking the road and said we cannot continue
+because of security reasons.
 
 Last June, we have been there with an escort of the Armenian military, even then we have been
 stopped. And only after two hours and after a high ranking general from the Armenian army
