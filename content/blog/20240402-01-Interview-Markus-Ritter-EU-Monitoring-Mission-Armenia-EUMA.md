@@ -3,7 +3,7 @@ Description = """
 The following is a transcript from [Episode 322](https://podcasts.groong.org/302) where we conduct an in-depth interview with Dr. Markus Ritter, the head of the European Union Monitoring Mission (EUMA) in Armenia. Dr. Ritter provides detailed explanations regarding the mission's activities, its role in calming tensions along the Armenia-Azerbaijan border, and the challenges it faces amidst regional dynamics. Covering specific incidents and addressing criticisms, Dr. Ritter offers transparency on the mission's operations, emphasizing its commitment to contributing to peace and stability in the region.
 """
 Date = 2024-04-02T05:18:31+04:00
-title = "Full Transcript: Markus Ritter - The EU Mission of Observers in Armenia | Ep 322"
+title = "Full Transcript: Markus Ritter - European Union Mission in Armenia | Ep 322"
 
 blog_image = "img/episode/322/banner-322.webp"
 images = ["img/episode/322/banner-322.webp"]
