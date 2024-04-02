@@ -49,6 +49,8 @@ Episode 322 | Recorded: March 26, 2024
 """
 +++
 
+The transcript for this episode can be found here: [Markus Ritter - The EU Mission of Observers in Armenia | Ep 322 - Mar 29, 2024](https://podcasts.groong.org/20240402-01-interview-markus-ritter-eu-monitoring-mission-armenia-euma/).
+
 # The EU Mission of Observers in Armenia
 
 Dr. Ritter, you have a rich career as a law enforcement official and reading your bio, we learned that you have also participated in five international deployments. Since this is your first visit to our podcast, and hopefully not the last, would you mind telling our listeners a little more about your background? 
