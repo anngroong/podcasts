@@ -12,9 +12,11 @@ series = ["Blog"]
 categories = ["EU", "Armenia"]
 tags = ["Armenian News", "Armenia", "EU Observer Mission", "EUMA", "Markus Ritter", "Artsakh", "Nagorno Karabakh", "Azerbaijan", "Nerkin Hand", "Iran", "Russia", "EUMA (European Union Monitoring Mission)", "European Union", "European diplomacy", "Foreign policy", "Caucasus region", "Geopolitics", "Regional stability", "Conflict management", "Conflict resolution", "Peace talks", "Peacekeeping", "Military conflict", "Security", "Border monitoring", "Border security", "Civilian missions", "Observers", "Diplomatic immunity", "Public diplomacy"]
 
+aliases = ["2024-04-02-interview-markus-ritter-eu-monitoring-mission-armenia-euma"]
+
 +++
 
-The following is a transcript from [Episode 322](https://podcasts.groong.org/302) where we conduct an in-depth interview with Dr. Markus Ritter, the head of the European Union Monitoring Mission (EUMA) in Armenia. Dr. Ritter provides detailed explanations regarding the mission's activities, its role in calming tensions along the Armenia-Azerbaijan border, and the challenges it faces amidst regional dynamics. Covering specific incidents and addressing criticisms, Dr. Ritter offers transparency on the mission's operations, emphasizing its commitment to contributing to peace and stability in the region.
+The following is a transcript from [Episode 322](https://podcasts.groong.org/322) where we conduct an in-depth interview with Dr. Markus Ritter, the head of the European Union Monitoring Mission (EUMA) in Armenia. Dr. Ritter provides detailed explanations regarding the mission's activities, its role in calming tensions along the Armenia-Azerbaijan border, and the challenges it faces amidst regional dynamics. Covering specific incidents and addressing criticisms, Dr. Ritter offers transparency on the mission's operations, emphasizing its commitment to contributing to peace and stability in the region.
 
 Don't miss out on this engaging discussion that offers valuable insights into the EUMA mission and its impact on the Armenia-Azerbaijan conflict landscape.
 
