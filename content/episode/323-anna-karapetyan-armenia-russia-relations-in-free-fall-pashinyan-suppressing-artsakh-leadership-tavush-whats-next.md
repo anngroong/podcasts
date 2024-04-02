@@ -3,7 +3,7 @@
 Date = 2024-04-03T00:15:00-07:00
 upcoming = true
 
-title = "Anna Karapetyan - Armenian Azerbaijani Talks | Is Armenia Rearming? | Pashinyan and the Constitution | Ep 323 - Jan 28, 2024"
+title = "Anna Karapetyan - Relations with Russia in Free fall | Pashinyan Suppressing Artsakh Leadership | Tavush: What has Pashinyan Promised | Ep 323 - Mar 31, 2024"
 subtitle = "Armenian News Network Groong - March 31, 2024"
 author = "Armenian News Network - Groong"
 
