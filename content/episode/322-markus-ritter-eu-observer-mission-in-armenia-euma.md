@@ -11,7 +11,7 @@ episode_image = "img/episode/322/thumbnail-322.webp"
 episode_banner = "img/episode/322/banner-322.webp"
 images = ["img/episode/322/banner-322.webp"]
 
-title = "Markus Ritter - The EU Mission of Observers in Armenia | Ep 322 - Mar 29, 2024"
+title = "Markus Ritter - The European Union Mission in Armenia | Ep 322 - Mar 29, 2024"
 subtitle = "Conversations on Groong"
 
 guests = ["mritter"]
@@ -49,9 +49,9 @@ Episode 322 | Recorded: March 26, 2024
 """
 +++
 
-The transcript for this episode can be found here: [Markus Ritter - The EU Mission of Observers in Armenia | Ep 322 - Mar 29, 2024](https://podcasts.groong.org/20240402-01-interview-markus-ritter-eu-monitoring-mission-armenia-euma/).
+The transcript for this episode can be found here: [Markus Ritter - The European Union Mission in Armenia | Ep 322 - Mar 29, 2024](https://podcasts.groong.org/20240402-01-interview-markus-ritter-eu-monitoring-mission-armenia-euma/).
 
-# The EU Mission of Observers in Armenia
+# The European Union Mission in Armenia
 
 Dr. Ritter, you have a rich career as a law enforcement official and reading your bio, we learned that you have also participated in five international deployments. Since this is your first visit to our podcast, and hopefully not the last, would you mind telling our listeners a little more about your background? 
 
@@ -162,4 +162,5 @@ We can talk about the Nerkin Hand [incident](https://twitter.com/HovikYerevan/st
 # Wrap-up
 
 All right, that’s our [show](https://podcasts.groong.org/), we hope you found it useful. Please find us on [Social Media](https://lintr.ee/groong) and follow us everywhere you get your Armenian news.
+
 Thanks to **Laura Osborn** for the music on our podcasts.

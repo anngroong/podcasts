@@ -3,7 +3,7 @@ Description = """
 The following is a transcript from [Episode 322](https://podcasts.groong.org/302) where we conduct an in-depth interview with Dr. Markus Ritter, the head of the European Union Monitoring Mission (EUMA) in Armenia. Dr. Ritter provides detailed explanations regarding the mission's activities, its role in calming tensions along the Armenia-Azerbaijan border, and the challenges it faces amidst regional dynamics. Covering specific incidents and addressing criticisms, Dr. Ritter offers transparency on the mission's operations, emphasizing its commitment to contributing to peace and stability in the region.
 """
 Date = 2024-04-02T05:18:31+04:00
-title = "Full Transcript: Markus Ritter - The EU Mission of Observers in Armenia | Ep 322"
+title = "Full Transcript: Markus Ritter - European Union Mission in Armenia | Ep 322"
 
 blog_image = "img/episode/322/banner-322.webp"
 images = ["img/episode/322/banner-322.webp"]
@@ -102,20 +102,15 @@ Okay.
 
 **Ritter**: And I'm still happily married.
 
-My children are on university in the meantime now and a lot of my friends who never left
-the town or the city are divorced now, I'm still happily married.
+My children are in university in the meantime now and a lot of my friends who never left
+the town or the city are divorced now, I'm still happily married. So it seems that there
+are other reasons if people get divorced.
 
-So it seems that there are other reasons if people get divorced.
-
-Yes, that's right.
-
-**Asbed**: That's no easy task.
-
-Let's not take it for granted.
+**Asbed**: Yes, that's right. That's no easy task. Let's not take it for granted.
 
 ## Mission Details
 
-**Asbed**: So the EU mission recently celebrated its one-year anniversary in Armenia.
+**Hovik**: So the EU mission recently celebrated its one-year anniversary in Armenia.
 
 I believe it was established in February of 2023 and time seems to fly very quickly nowadays.
 
@@ -127,7 +122,7 @@ The mission seems to have six forward operating bases, including Kapan and Goris
 Yeghegnazor, Martuni and Ijevan.
 
 So can you tell us a little bit more details about the goal of the mission and anything
-else I missed in terms of introducing sort of the mission so far?
+else I missed in terms of introducing the mission so far?
 
 **Ritter**: Yeah.
 
@@ -213,7 +208,7 @@ So I think it's a success.
 
 So I understand that you are operating only on the territory of Armenia, but do you have
 some kind of even informal understanding with the Azerbaijani side on some of the other
-goals such as the confidence building measures, what exactly, what is the sort of understanding
+goals such as the confidence building measures, what exactly, what is the understanding
 with the Azerbaijani side in terms of your operational procedures and so forth, if you
 can tell us a little bit more about that.
 
@@ -457,7 +452,7 @@ maps provided by the European Union.
 **Asbed**: Okay.
 
 **Hovik**: Dr. Ritter, you told us that you essentially act as the eyes and ears of the EU and what
-sort of reports, for instance, does the EUMA generate?
+reports, for instance, does the EUMA generate?
 
 Is it just sort of, you know, daily incident reports, for instance, some peacekeeping and
 observing missions have, you know, more summary reports that they release to the public.
