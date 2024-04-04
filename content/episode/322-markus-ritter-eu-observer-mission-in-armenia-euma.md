@@ -139,7 +139,7 @@ That cover up caused even Armenian citizens to lose some trust in the mission.
 
 First the Armenian Defense Ministry reported that the EUMA was targeted. The EUMA immediately issued a “Fake News” report:
 
-![MoD Tweet](/img/episode/322/MoD-tweet.png "MoD Tweet")
+![MoD Tweet](/img/episode/322/MoD-tweet.webp "MoD Tweet")
 
 Then a video [was released](https://twitter.com/vermedianetwork/status/1691466730319609856) proving they were shot at and the EUMA guys hiding:
 
@@ -153,10 +153,10 @@ We can talk about the Nerkin Hand [incident](https://twitter.com/HovikYerevan/st
     * Why do they need to go into the valley of Nerkin Hand, when it would be better observed from the road? There are geolocated photos of the EUMA [actually](https://twitter.com/Aeternum7/status/1763202051402518757) doing monitoring from this position (see location marked as EUMA) in September 2023.
 
 
-![Nerkin Hand](/img/episode/322/Nerkin-Hand.png "Nerkin Hand")
+![Nerkin Hand](/img/episode/322/Nerkin-Hand.webp "Nerkin Hand")
 
 
-![EU Observer](/img/episode/322/observer.png "EU Observer")
+![EU Observer](/img/episode/322/observer.webp "EU Observer")
 
 
 # Wrap-up
