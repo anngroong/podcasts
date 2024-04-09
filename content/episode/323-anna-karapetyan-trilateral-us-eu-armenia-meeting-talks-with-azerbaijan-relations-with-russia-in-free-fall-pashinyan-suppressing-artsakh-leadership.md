@@ -101,12 +101,13 @@ Artak Beglaryan, a former state minister of Artsakh, correctly stated that Pashi
 
 **Questions:**
 * First, let’s not forget that there are 150,000 Artsakh refugees in Armenia, a result of 3.5 years of forced ethnic cleansing by Azerbaijan. What’s their condition in Armenia?
+* What's going on with the aid?
 * Why is Pashinyan so adamant on silencing the Artsakh leadership?
 
 
 ## Topics from the Panelists
 * **Hovik**: The EU Mission: See no evil, hear no evil, are they just a PR stunt?
-* **Anna**: When Western leaders are silent on Pashinyan's failures in democracy, trust erodes
+* **Anna**: When Western leaders are silent on Pashinyan's failures in democracy, trust in them erodes.
 
 
 # Wrap-up
