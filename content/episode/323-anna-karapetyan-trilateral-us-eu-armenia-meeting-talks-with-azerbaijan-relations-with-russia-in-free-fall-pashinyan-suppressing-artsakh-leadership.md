@@ -26,11 +26,12 @@ series = ["wir"]
 explicit = "no"
 
 categories = ["Armenia", "Politics"]
-tags = ["Armenian News", "Armenia", "Artsakh", "Nagorno Karabakh", "Anna Karapetyan", "Azerbaijan", "Tavush", "Enclaves", "Border", "Samvel Shahramanyan", "Nikol Pashinyan", "Artak Beglaryan", "Ilham Aliyev", "Rights and Security", "Right of Return"]
+tags = ["Armenian News", "Armenia", "Artsakh", "Nagorno Karabakh", "Anna Karapetyan", "Azerbaijan", "Tavush", "Villages", "Enclaves", "Border", "Russia", "USA", "EU", "Anthony Blinken", "Ursula von der Leyen", "NATO", "CSTO", "Samvel Shahramanyan", "Nikol Pashinyan", "Artak Beglaryan", "Ilham Aliyev", "Rights and Security", "Right of Return", "Armenian Democracy", "Imnemnimi", "Political Prisoners", "Narek Samsonyan", "Vazgen Saghatelyan"]
 
 Description = """
 
 #### Groong Links:
+* [DONATE to GROONG](https://podcasts.groong.org/donate)
 * [linktr.ee/Groong](https://linktr.ee/groong)
 
 #### Guest:
@@ -48,7 +49,7 @@ Episode 323 | Recorded: April 8, 2024"""
 
 +++
 
-## Tri-Lateral US-EU-Armenia Meeting
+## Trilateral US-EU-Armenia Meeting
 
 Onn April 5 between the US, the EU and Armenia held a Trilateral meeting. Pashinyan met with Anthony Blinken and Ursula von der Leyen on Friday and [agreements](https://neighbourhood-enlargement.ec.europa.eu/news/joint-eu-us-armenia-high-level-meeting-support-armenias-resilience-2024-04-05_en) were signed for a combined $350 million aid package aimed at the “ resilience of the Armenian economy”.
 
@@ -113,4 +114,5 @@ Artak Beglaryan, a former state minister of Artsakh, correctly stated that Pashi
 # Wrap-up
 
 That's our [Week in Review](https://podcasts.groong.org/), we hope you found it helpful. We invite your feedback and your suggestions, you can [find us](https://linktr.ee/groong) on most social media and podcast platforms.
+
 Thanks to __Laura Osborn__ for the music on our podcasts.
