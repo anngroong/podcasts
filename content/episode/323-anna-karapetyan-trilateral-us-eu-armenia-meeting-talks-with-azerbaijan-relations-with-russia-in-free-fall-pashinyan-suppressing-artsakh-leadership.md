@@ -76,7 +76,7 @@ Meanwhile the talks with Azerbaijan continue to be stalled. Mirzoyan [stated](ht
 
 Somewhere along the line after the 44-day war, the so-called “negotiations” became about Armenian territory, rather than about Artsakh. Even though the November 9, 2020 agreement said that all sides must stay on the line of contact as per November 9, Pashinyan had promised to give up a lot more than he admitted to the people of Armenia. Karvajar, Berdzor, all of Artsakh, a section of the Goris-Kapan road, and now it’s apparent that he may have also promised sections of Tavush.
 
-**Questions:**
+**Question:**
 * On what basis is Pashinyan saying that the four villages in Armenia are Azerbaijani territory, especially when the Azerbaijani side has not agreed on a basis for border discussions?
 
 
@@ -96,9 +96,6 @@ A week ago the Armenian government [banned](https://www.azatutyun.am/a/32883676.
 In the middle of March “hundreds” of Artsakhtsis demonstrated in Yerevan because [the government has not been allocating necessary aid](https://www.azatutyun.am/a/32870589.html) appropriately, but more specifically, it hasn’t been seeking or pursuing their right of return to their homeland.
 
 Artsakh president Samvel Shahramanyan [confirmed](https://www.azatutyun.am/a/32883592.html) that the declaration of dissolution of the Artsakh government had no merit or basis, and that his government continues to exist in exile. Pashinyan was pissed off and [warned](https://www.azatutyun.am/a/32881240.html) that such statements serve Russian interests, and they threaten the security of Armenia.
-
-
-    ~~Let’s be honest here: the only reason why he says that is because Aliyev has threatened that Pashinyan must kill Artsakh for good, or there will be war. And Pashinyan is the loser of the war with Aliyev.~~
 
 Artak Beglaryan, a former state minister of Artsakh, correctly stated that Pashinyan is threatening the Artsakh leadership, and no actions against them can be excluded.
 
