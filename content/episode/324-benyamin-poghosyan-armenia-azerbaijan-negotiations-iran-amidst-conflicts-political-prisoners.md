@@ -27,10 +27,10 @@ tags = ["Armenian news", "Artsakh", "Nagorno Karabakh", "Azerbaijan", "Benyamin 
 Description = """
 
 #### Groong Links:
+* [GIVE to GROONG](https://podcasts.groong.org/donate)
 * [linktr.ee/Groong](https://linktr.ee/groong)
 
 #### Guest:
-* [GIVE to GROONG](https://podcasts.groong.org/donate)
 * [Benyamin Poghosyan](/guest/bpoghosyan)
 
 #### Topics:
