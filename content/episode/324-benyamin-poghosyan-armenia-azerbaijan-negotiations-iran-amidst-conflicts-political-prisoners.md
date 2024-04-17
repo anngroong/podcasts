@@ -3,13 +3,13 @@
 Date = 2024-04-17T00:15:00-04:00
 upcoming = false
 
-title = "Benyamin Poghosyan - Armenia Azerbaijan Talks | Iran Amidst Conflicts | Political Prisoners | Ep 324 - Apr 14, 2024"
+title = "Benyamin Poghosyan - Genocide Denial by the Armenian Government | Armenia Azerbaijan Talks | Iran Amidst Conflicts | Political Prisoners | Ep 324 - Apr 14, 2024"
 subtitle = "Armenian News Network Groong - April 14, 2024"
 
 podcast_file = "14908095-benyamin-poghosyan-genocide-denial-by-the-armenian-government-armenia-azerbaijan-talks-iran-amidst-conflicts-political-prisoners-ep-324-apr-14-2024.mp3"
 podcast_bytes = "47545707"
 podcast_duration = "3959"
-youtube = ""
+youtube = "6lY4od8B7Fc"
 
 episode_image = "img/episode/324/thumbnail-324.webp"
 episode_banner = "img/episode/324/banner-324.webp"
