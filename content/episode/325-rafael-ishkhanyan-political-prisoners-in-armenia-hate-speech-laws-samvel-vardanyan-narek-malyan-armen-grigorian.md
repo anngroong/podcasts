@@ -43,7 +43,7 @@ Description = """
 #### Guest:
 * [Rafael Ishkhanyan](/guest/rishkhanyan)
 
-Episode 325 | Recorded: April 22, 2024
+Episode 325 | Recorded: April 20, 2024
 """
 
 +++
