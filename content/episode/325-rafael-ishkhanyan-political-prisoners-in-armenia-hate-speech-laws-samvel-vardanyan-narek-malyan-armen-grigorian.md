@@ -4,7 +4,7 @@ upcoming = true
 
 
 title = "Rafael Ishkhanyan - Political Prisoners in Armenia | Armenia’s Hate Speech Laws | Cases: Samuel Vardanyan. Narek Malyan. Armen Grigorian | Ep 325 - Apr 22, 2024"
-subtitle = "ANN Groong - Focus on Silence"
+subtitle = "ANN Groong - Spotlight on Silence"
 
 podcast_file = ""
 podcast_bytes = ""
@@ -22,8 +22,8 @@ episode = "325"
 aliases = ["/325"]
 explicit = "no" # values are "yes" or "no"
 
-series = ["fos"]
-categories = ["Armenia", "Focus on Silence", "Political Prisoners"]
+series = ["sos"]
+categories = ["Armenia", "Spotlight on Silence", "Political Prisoners"]
 tags = ["Armenian News", "Political Prisoners", "Rafael Ishkhanyan", "Armenia", "Democracy", "Rule of Law", "Police Brutality", "Constitutional Court", "Azerbaijan", "POW", "War", "Corruption"]
 
 Description = """
