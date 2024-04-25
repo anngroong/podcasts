@@ -51,10 +51,9 @@ Episode 325 | Recorded: April 20, 2024
 
 Rafael, six years have passed since the so-called “Velvet Revolution”. Our impression is that most countries, especially western countries that have human rights on their foreign agenda, pay lip service to “Armenia’s democracy.” But is that really the case?
 
-The organization you’re part of, the Helsinki Committee of Armenia recently issued a [report](https://armhels.com/wp-content/uploads/2024/02/Ditord-2023arm.pdf), called simply: “Human rights in Armenia, 2023”. We have a link in the show notes for those interested.
+The organization you’re part of, the Helsinki Committee of Armenia recently issued a [report](https://armhels.com/wp-content/uploads/2024/02/Ditord-2023arm.pdf), called simply: “Human rights in Armenia, 2023”.
 
 In the report, you focus on several areas, including:
-
 * Judicial system
 * Freedom of peaceful assembly
 * Torture and violence
@@ -62,14 +61,12 @@ In the report, you focus on several areas, including:
 * Electoral rights
 
 **Questions**:
-
 * Can you tell us about the areas that your report focuses on?
 * What do you think about the current state of human rights in Armenia, as reflected in your report?
 
 Your report goes into detail about political persecution. We often think of persecution as simply political imprisonment. But that is not the case, right? 
 
 **Questions**:
-
 * Can you tell us more about the types of political persecution you’ve examined when preparing your report?
 
 
@@ -81,14 +78,12 @@ Today let’s talk about three cases of political persecution and political impr
 
 The criminal code was modified by the Civil Contract parliament in 2021, during the Covid lockdown period. The existing law on incitement of hate speech (for things such as race) was [amended](https://track.unodc.org/uploads/documents/BRI-legal-resources/Armenia/21_-Criminal_Code_of_RA_2003_-_EN.pdf) to include additional categories, including “worldview, political or other views”.
 
-We’ve put a link in the show notes
-
+**Questions**:
 * Can you tell us more about this law, what’s the purpose of this law to start with? How have the 2021 amendments changed it?
 * How tough of a prison sentence does the law prescribe?
 
 
 ## Cases
-
 
 ### Samvel Vardanyan
 
@@ -107,7 +102,6 @@ So let’s talk about this first case, which is the most recent, involving Samve
 * The Human Rights Defender's office calls for the Prosecutor's Office to investigate the case, but again, several days later.
 
 **Questions**:
-
 * What can you tell us about this case?
 * What selective prosecution or double standards can you point to?
 
@@ -133,7 +127,6 @@ So let’s talk about this first case, which is the most recent, involving Samve
 * **More details:** [https://armhels.com/wp-content/uploads/2024/02/Ditord-2023arm.pdf](https://armhels.com/wp-content/uploads/2024/02/Ditord-2023arm.pdf) 
 
 **Questions**:
-
 * What can you tell us about this case?
 * What selective prosecution or double standards can you point to?
 
@@ -151,12 +144,8 @@ So let’s talk about this first case, which is the most recent, involving Samve
 * Former head of National Security Service suggested Grigoryan's year-long freedom without crime should have prevented his detention.
 
 **Questions**:
-
 * What can you tell us about this case?
 * What selective prosecution or double standards can you point to?
-
-Alright, we’ll leave it there for today! Thank you Rafael, we look forward to further conversations.
-
 
 
 # Wrap-up
