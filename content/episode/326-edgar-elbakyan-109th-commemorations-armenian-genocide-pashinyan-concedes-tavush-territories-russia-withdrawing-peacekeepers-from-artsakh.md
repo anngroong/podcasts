@@ -9,7 +9,7 @@ subtitle = "Week in Review - April 21, 2024"
 podcast_file = "14959236-edgar-elbakyan-109th-commemorations-of-the-armenian-genocide-pashinyan-concedes-tavush-territories-russia-withdrawing-peacekeepers-from-artsakh-ep-326-apr-21-2024.mp3"
 podcast_bytes = "30404866"
 podcast_duration = "2531"
-youtube = ""
+youtube = "v1gRKYxwB3c"
 
 episode_image = "img/episode/326/thumbnail-326.webp"
 episode_banner = "img/episode/326/banner-326.webp"
