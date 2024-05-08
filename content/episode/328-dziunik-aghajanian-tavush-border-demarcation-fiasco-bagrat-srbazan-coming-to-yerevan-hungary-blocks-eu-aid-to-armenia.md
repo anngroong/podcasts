@@ -1,14 +1,13 @@
 +++
 
-Date = 2024-05-07T01:00:00+04:00
-upcoming = true
+Date = 2024-05-08T20:00:00+04:00
 
 title = "Dziunik Aghajanian - Tavush Demarcation and Delimitation | Bagrat Srbazan Heads to Yerevan | Hungary Blocks EU Aid to Armenia | Ep 328 - May 5, 2024"
 subtitle = "Week in Review - 05/05/2024"
 
-podcast_file = ""
-podcast_bytes = ""
-podcast_duration = ""
+podcast_file = "15001534-benyamin-poghosyan-rananjay-anand-indian-armenian-relations-in-2024-ep-327-may-2-2024.mp3"
+podcast_bytes = "48449350"
+podcast_duration = "4034"
 youtube = ""
 
 episode_image = "img/episode/328/thumbnail-328.webp"
@@ -43,6 +42,8 @@ Description = """
 Episode 328 | Recorded: May 5, 2024"""
 
 +++
+
+# TOPICS THIS WEEK
 
 ## Armenia Continues One-Sided Demarcation Under Duress
 
@@ -116,15 +117,8 @@ Without rehashing a lot of history, let’s remember that after the brutal __ax 
     * I mean: is this a planned, or built-in, “failure” within the system?
 * How should Armenia continue relations with Hungary?
 
-
-
-## Topics from the Panelists
-* **Dziunik**: 
-* **Hovik**: 
-
-
-
 # Wrap-up
 
 That's our [Week in Review](https://podcasts.groong.org/), we hope you found it helpful. We invite your feedback and your suggestions, you can [find us](https://linktr.ee/groong) on most social media and podcast platforms.
+
 Thanks to __Laura Osborn__ for the music on our podcasts.
