@@ -8,7 +8,7 @@ subtitle = "Week in Review - 05/05/2024"
 podcast_file = "15001534-benyamin-poghosyan-rananjay-anand-indian-armenian-relations-in-2024-ep-327-may-2-2024.mp3"
 podcast_bytes = "48449350"
 podcast_duration = "4034"
-youtube = ""
+youtube = "dMtKlvGU32Y"
 
 episode_image = "img/episode/328/thumbnail-328.webp"
 episode_banner = "img/episode/328/banner-328.webp"
