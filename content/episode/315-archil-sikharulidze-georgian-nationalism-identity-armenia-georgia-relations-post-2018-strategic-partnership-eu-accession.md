@@ -5,7 +5,7 @@ upcoming = false
 podcast_file = "14682358-archil-sikharulidze-georgia-armenia-partnership-politics-in-the-south-caucasus-ep-315-mar-13-2024.mp3"
 podcast_bytes = "46428009"
 podcast_duration = "3866"
-youtube = ""
+youtube = "rGojvoNLV4M"
 
 episode_image = "img/episode/315/thumbnail-315.webp"
 episode_banner = "img/episode/315/banner-315.webp"
