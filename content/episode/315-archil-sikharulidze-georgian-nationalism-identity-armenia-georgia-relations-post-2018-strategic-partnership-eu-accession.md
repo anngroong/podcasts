@@ -1,6 +1,6 @@
 +++
 Date = 2024-03-13T02:00:00+04:00
-upcoming = true
+upcoming = false
 
 podcast_file = "14682358-archil-sikharulidze-georgia-armenia-partnership-politics-in-the-south-caucasus-ep-315-mar-13-2024.mp3"
 podcast_bytes = "46428009"
@@ -128,4 +128,5 @@ During the 44 day war, Georgia actually blocked military supplies from Russia to
 
 # Wrap-up
 
-All right, that’s our [show](https://podcasts.groong.org/), we hope you found it useful. Please find us on [Social Media](https://lintr.ee/groong) and follow us everywhere you get your Armenian news, the links are in the show notes. Thanks to **Laura Osborn** for the music on our podcasts. We’ll talk to you soon!
+That’s our [show](https://podcasts.groong.org/), we hope you found it useful. Please find us on [Social Media](https://lintr.ee/groong) and follow us everywhere you get your Armenian news, the links are in the show notes.
+Thanks to **Laura Osborn** for the music on our podcasts. We’ll talk to you soon!
