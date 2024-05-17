@@ -18,7 +18,7 @@ aliases = ["/331"]
 
 series = ["wir"]
 categories = ["Armenia", "Politics", "Poll"]
-tags = ["Armenian News", "Tavush for the Homeland". Artsakh", "Nagorno Karabakh", "MPG Polls", "Hrant Mikaelian"]
+tags = ["Armenian News", "Tavush for the Homeland", "Artsakh", "Nagorno Karabakh", "MPG Polls", "Hrant Mikaelian"]
 
 title = "Hrant Mikaelian - Tavush Protests Gain Momentum | Pashinyan Pressing Ahead with Land Concessions | Poll Results on Protests | Ep 331 - May 19, 2024"
 subtitle = "Week in Review - May 19, 2024"
