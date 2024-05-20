@@ -103,7 +103,7 @@ The latest poll results from MPG came out just a couple of days ago. Let’s dis
 
 ### Slide 12: If there are parliamentary elections next Sunday, which party or alliance of parties will you vote for?
 
-![Who would you vote for?](/img/episode/331/IRI-202312/mpg-srbazan-may24-slide-12.webp "Who would you vote for?")
+![Who would you vote for?](/img/episode/331/mpg-srbazan-may24-slide-12.webp "Who would you vote for?")
 
 
 
@@ -114,7 +114,7 @@ The latest poll results from MPG came out just a couple of days ago. Let’s dis
 
 ### Slide 3: How do you assess Bagrat Srbazan’s **Tavush for the Homeland** Movement?
 
-![Assess the Tavush Movement](/img/episode/331/IRI-202312/mpg-srbazan-may24-slide-3.webp "Assess the Tavush Movement")
+![Assess the Tavush Movement](/img/episode/331/mpg-srbazan-may24-slide-3.webp "Assess the Tavush Movement")
 
 
 Bagrat Srbazan has an overall positive rating of 52.9%. However, a significant portion of respondents (33.5%) responded negatively to this question.
@@ -127,7 +127,7 @@ Bagrat Srbazan has an overall positive rating of 52.9%. However, a significant p
 
 ### Slide 4: How do you follow the Unfolding Events during the "Tavush for the Motherland" movement?
 
-![How do you follow the Tavush Movement](/img/episode/331/IRI-202312/mpg-srbazan-may24-slide-4.webp "How do you follow the Tavush Movement")
+![How do you follow the Tavush Movement](/img/episode/331/mpg-srbazan-may24-slide-4.webp "How do you follow the Tavush Movement")
 
 
 Responses:
@@ -142,9 +142,7 @@ Responses:
 
 ### Slide 5: How have you participated in the "Tavush for the Motherland" movement?
 
-
-![Have you participated in the movement?](/img/episode/331/IRI-202312/mpg-srbazan-may24-slide-5.webp "Have you participated in the movement?")
-
+![Have you participated in the movement?](/img/episode/331/mpg-srbazan-may24-slide-5.webp "Have you participated in the movement?")
 
 People listed various ways they participated in the movement, from the benign “I am following it on Facebook” to “I closed off streets”. Nearly 72%, however, said that they are not participating. 
 
@@ -152,13 +150,13 @@ People listed various ways they participated in the movement, from the benign �
 ### Slide 6: How do you rate the behavior of the protesters?
 
 
-![Rate Behavior of Protesters](/img/episode/331/IRI-202312/mpg-srbazan-may24-slide-6.webp "Rate Behavior of Protesters")
+![Rate Behavior of Protesters](/img/episode/331/mpg-srbazan-may24-slide-6.webp "Rate Behavior of Protesters")
 
 
 In summary, 52.1% positive and 37.4% negative. For reference, in 2018, this same pollster asking this same exact question got 98.3% positive.
 
 
-![DESC](/img/episode/331/IRI-202312/mpg-srbazan-may24-slide-13.webp "DESC")
+![Same Question in 2018](/img/episode/331/mpg-2018-slide-6.webp "Same Question in 2018")
 
 
 **Questions:**
@@ -168,7 +166,7 @@ In summary, 52.1% positive and 37.4% negative. For reference, in 2018, this same
 ### Slide 7: How do you evaluate the actions of the RA Police during the "Tavush for the Homeland" movement?
 
 
-![Assess Police Response](/img/episode/331/IRI-202312/mpg-srbazan-may24-slide-7.webp "Assess Police Response")
+![Assess Police Response](/img/episode/331/mpg-srbazan-may24-slide-7.webp "Assess Police Response")
 
 
 35.8% assess the movement positively, while 46.5% assess it negatively. 
@@ -177,13 +175,13 @@ In summary, 52.1% positive and 37.4% negative. For reference, in 2018, this same
 ### Slide 8: In your opinion, is it appropriate that the protesters are blocking roads and intersections?
 
 
-![Should Protesters Block Roads?](/img/episode/331/IRI-202312/mpg-srbazan-may24-slide-8.webp "Should Protesters Block Roads?")
+![Should Protesters Block Roads?](/img/episode/331/mpg-srbazan-may24-slide-8.webp "Should Protesters Block Roads?")
 
 
 This is an interesting question. Only 38% responded positively to this question, while 55.7% responded negatively. I think it’s important to recall 2018 again, when 87% of the people responded positively to this same question.
 
 
-![DESC](/img/episode/331/IRI-202312/mpg-srbazan-may24-slide-13.webp "DESC")
+![Same Question in 2018](/img/episode/331/mpg-2018-slide-6.webp "Same Question in 2018")
 
 
 **Questions:**
@@ -193,19 +191,19 @@ This is an interesting question. Only 38% responded positively to this question,
 ### Slide 9: How do you see the method of removal of Nikol Pashinyan?
 
 
-![Method of Removal of Pashinyan](/img/episode/331/IRI-202312/mpg-srbazan-may24-slide-9.webp "Method of Removal of Pashinyan")
+![Method of Removal of Pashinyan](/img/episode/331/mpg-srbazan-may24-slide-9.webp "Method of Removal of Pashinyan")
 
 
 ### Slide 10: Who do you see as the head of the Transitional Government/ Prime Minister of Armenia?
 
 
-![Who should be PM?](/img/episode/331/IRI-202312/mpg-srbazan-may24-slide-10.webp "Who should be PM?")
+![Who should be PM?](/img/episode/331/mpg-srbazan-may24-slide-10.webp "Who should be PM?")
 
 
 ### Slide 11: Appreciate the work of RA Prime Minister Nikol Pashinyan
 
 
-![Assess Pashinyan as PM](/img/episode/331/IRI-202312/mpg-srbazan-may24-slide-12.webp "Assess Pashinyan as PM")
+![Assess Pashinyan as PM](/img/episode/331/mpg-srbazan-may24-slide-12.webp "Assess Pashinyan as PM")
 
 
 ## Thoughts from the Panelists
