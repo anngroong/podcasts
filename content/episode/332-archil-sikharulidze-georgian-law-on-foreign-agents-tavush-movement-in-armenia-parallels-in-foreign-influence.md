@@ -15,7 +15,7 @@ title = "Archil Sikharulidze - Georgian Law on Foreign Agents | Tavush Movement 
 subtitle = "Conversations on Groong - 05/26/2024"
 
 guests = ["asikharulidze"]
-hosts = ["Hovik","asbed"]
+hosts = ["hovik","asbed"]
 
 episode = "332"
 aliases = ["/332"]

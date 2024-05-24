@@ -15,7 +15,7 @@ title = "Archil Sikharulidze - Georgia, Armenia, Partnership & Politics in the S
 subtitle = "Conversations on Groong - 03/13/2024"
 
 guests = ["asikharulidze"]
-hosts = ["Hovik","asbed"]
+hosts = ["hovik","asbed"]
 
 episode = "315"
 aliases = ["/315"]
