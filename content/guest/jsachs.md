@@ -1,9 +1,9 @@
 +++
-Date = 2024-03-09T04:45:01+04:00
+Date = 2024-05-30T04:45:01+04:00
 title = "Jeffrey Sachs"
 Pronouns = ""
 Twitter = ""
-Website = "https://www.sipa.columbia.edu/communities-connections/faculty/jeffrey-sachs"
+Website = "https://csd.columbia.edu/sachs"
 Type = "guest"
 Facebook = "jeffrey.sachs"
 Linkedin = ""
