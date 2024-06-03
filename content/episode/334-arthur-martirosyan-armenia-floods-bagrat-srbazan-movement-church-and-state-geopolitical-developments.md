@@ -28,16 +28,16 @@ tags = ["Armenian News", "Artsakh", "Nagorno Karabakh", "Azerbaijan", "Arthur Ma
 Description = """
 
 #### Groong Links:
+* [GIVE to GROONG](https://podcasts.groong.org/donate)
 * [linktr.ee/Groong](https://linktr.ee/groong)
 
 #### Guest:
 * [Arthur G. Martirosyan](/guest/amartirosyan)
 
 #### Topics:
-* Reactions to Interview with Canadian Ambassador
-* More Concessions Signaled by Pashinyan
-* EU Parliament Resolution on Armenia
-* Fish Rots from the Head
+* Heavy Rainstorms Flood Northern Armenia
+* Srbazan Movement: Church and State
+* Geopolitical Developments
 
 Episode 334 | Recorded: June 3, 2024
 """
