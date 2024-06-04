@@ -36,8 +36,10 @@ Description = """
 
 #### Topics:
 * Heavy Rainstorms Flood Northern Armenia
-* Srbazan Movement: Church and State
+* Bagrat Srbazan Movement
+    * Church and State
 * Geopolitical Developments
+* Rights and Security for Artsakh Armenians
 
 Episode 334 | Recorded: June 3, 2024
 """
@@ -107,7 +109,7 @@ Pashinyan’s buzzword is legitimacy. He says that a peace treaty will give Arme
 * What is this intangible legitimacy that he’s talking about?
 
 
-### The Rights of Artsakhtsis
+### The Rights and Security of Artsakhtsis
 
 Vardan Oskanian, former FM of Armenia, says that even in this situation there is a solution for the rights of Artsakhtsis. Yet, he doesn’t reveal his cards. 
 
