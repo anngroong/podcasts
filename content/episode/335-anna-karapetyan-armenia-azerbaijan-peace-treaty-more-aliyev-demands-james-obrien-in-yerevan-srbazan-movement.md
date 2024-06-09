@@ -1,6 +1,6 @@
 +++
 
-Date = 2024-06-10T00:15:00-07:00
+Date = 2024-06-11T00:15:00-07:00
 upcoming = true
 
 title = "Anna Karapetyan | Peace Treaty and more Aliyev Demands | James O’Brien in Yerevan | Srbazan Movement | Ep 335 - June 9, 2024"
@@ -31,7 +31,7 @@ tags = ["Armenian News", "Armenia", "Artsakh", "Nagorno Karabakh", "Anna Parapet
 Description = """
 
 #### Groong Links:
-* [DONATE to GROONG](https://podcasts.groong.org/donate)
+* [GIVE to GROONG](https://podcasts.groong.org/donate)
 * [linktr.ee/Groong](https://linktr.ee/groong)
 
 #### Guest:
