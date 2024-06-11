@@ -1,16 +1,16 @@
 +++
 
 Date = 2024-06-11T00:15:00-07:00
-upcoming = true
+upcoming = false
 
 title = "Anna Karapetyan | Peace Treaty and more Aliyev Demands | James O’Brien in Yerevan | Srbazan Movement | Ep 335 - June 9, 2024"
 subtitle = "Groong Week in Review - June 9, 2024"
 author = "Armenian News Network - Groong"
 
-podcast_file = ""
-podcast_bytes = ""
-podcast_duration = ""
-youtube = ""
+podcast_file = "15234509-anna-karapetyan-peace-treaty-and-more-aliyev-demands-james-o-brien-in-yerevan-armenia-russia-relations-srbazan-movement-ep-335-june-9-2024.mp3"
+podcast_bytes = "38455589"
+podcast_duration = "3202"
+youtube = "zACY-X287tA"
 
 episode_image = "img/episode/335/thumbnail-335.webp"
 episode_banner = "img/episode/335/banner-335.webp"
@@ -111,7 +111,7 @@ Bagrat Srbazan has stated some of the goals of the movement for when they gain p
 * **Anna**: EU parliamentary results seem to indicate that EU policies do not match the will of their people.
 
 
-
+h
 # Wrap-up
 
 That's our [Week in Review](https://podcasts.groong.org/), we hope you found it helpful. We invite your feedback and your suggestions, you can [find us](https://linktr.ee/groong) on most social media and podcast platforms.
