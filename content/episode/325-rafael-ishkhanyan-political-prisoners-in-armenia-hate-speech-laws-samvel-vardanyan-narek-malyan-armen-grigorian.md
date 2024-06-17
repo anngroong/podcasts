@@ -150,6 +150,6 @@ So let’s talk about this first case, which is the most recent, involving Samve
 
 # Wrap-up
 
-All right, that’s our [show](https://podcasts.groong.org/), we hope you found it useful. Please find us on [Social Media](https://lintr.ee/groong) and follow us everywhere you get your Armenian news.
+All right, that’s our [Spotlight on Silence](https://podcasts.groong.org/), we hope you found it useful. Please find us on [Social Media](https://lintr.ee/groong) and follow us everywhere you get your Armenian news.
 
 Thanks to **Laura Osborn** for the music on our podcasts.
