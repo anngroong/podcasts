@@ -3,7 +3,7 @@
 Date = 2024-06-18T00:15:00-04:00
 upcoming = false
 
-title = "Benyamin Poghosyan - Pashinyan Repressions, Armenia Azerbaijan Talks, Armenia Russia Relations | Ep 337 - June 16, 2024"
+title = "Benyamin Poghosyan - Police Brutality, Violence, and Repressions, Armenia Azerbaijan Talks, Armenia Russia Relations | Ep 337 - June 16, 2024"
 subtitle = "Groong Week in Review - June 16, 2024"
 
 podcast_file = "15273576-benyamin-poghosyan-police-violence-and-repressions-armenia-azerbaijan-talks-armenia-russia-relations-ep-337-june-16-2024.mp3"
@@ -34,7 +34,7 @@ Description = """
 * [Benyamin Poghosyan](/guest/bpoghosyan)
 
 #### Topics:
-* Pashinyan Repressions
+* Police Brutality, Violence & Repressions
 * Armenia Azerbaijan Talks
 * Armenia Russia Relations
 
@@ -50,7 +50,7 @@ June 12 came and went. It was billed as a sort of culminating point and the date
 It proved to be a bloody day. On that day, the Pashinyan regime proved that they’re willing to use unprecedented force to suppress the protesters. Up to a hundred people sought medical attention after the police lobbed dozens of stun grenades at the protesters, many of them protesters.
 
 
-    NOTE: It’s important to highlight that the stun grenades that were used are [reported](https://cat-uxo.com/explosive-hazards/grenades/zarya-hand-grenade) to produce noise greater than 170dB, which can instantly cause permanent hearing damage. Today, I talked to a participant who was affected by the stun grenade. 5 days after the incident, he has hearing issues.
+NOTE: It’s important to highlight that the __stun grenades__ that were used are [reported](https://cat-uxo.com/explosive-hazards/grenades/zarya-hand-grenade) to produce noise greater than 170dB, which can instantly cause permanent hearing damage.
 
 Today (June 17) there was another protest, on the occasion of the hearing in parliament that Bagrat Srbazan had demanded, in order to send a demand to Pashinyan for resignation. As promised, Civil Contract deputies boycotted the session triggering quorum failure.
 
@@ -104,7 +104,7 @@ The two countries also recalled their respective ambassadors for consultations�
 The Ukraine “Peace Summit” in Switzerland is over. The organizers present it as a success, despite Russia, one of the main warring parties, not being present and rejecting the conference. Ten countries, including some major ones such as India and Brazil [refused to sign the final declaration](https://www.theguardian.com/world/live/2024/jun/16/russia-ukraine-war-peace-summit-enters-second-day-as-west-looks-to-put-pressure-on-russia). What’s even more interesting is that Armenia is also one of those ten countries!
 
 
-    NOTE: The full list of countries: Armenia, Brazil, Slovakia, India, Mexico, Saudi Arabia, Thailand, South Africa, and the UAE did not sign the final declaration.
+The full list of abstaining countries: Armenia, Brazil, Slovakia, India, Mexico, Saudi Arabia, Thailand, South Africa, and the UAE did not sign the final declaration.
 
 **Questions:**
 * Why did Armenia [attend](https://www.azatutyun.am/a/32993202.html) this summit, and what was the cause for this apparent caution by Pashinyan?
