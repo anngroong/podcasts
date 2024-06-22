@@ -21,13 +21,14 @@ episode = "338"
 aliases = ["/338"]
 
 series = ["cog"]
-categories = ["Armenia", "Artsakh", "Azerbaijan"]
+categories = ["Armenia", "Azerbaijan"]
 explicit = "no" # values are "yes" or "no"
 tags = ["Armenian News", "Territorial Concessions", "Kirants", "Tavush", "Border Delimitation", "Aram Orbelyan", "Azerbaijan", "Ilham Aliyev", "Nikol Pashinyan", "Armenian Opposition", "Parliament", "Constitution", "Constitutional Crisis", "Parliamentary Elections"]
 
 Description = """
 
 #### Groong Links:
+* [GIVE to GROONG](https://podcasts.groong.org/donate)
 * [linktr.ee/Groong](https://linktr.ee/groong)
 
 #### Guest:
