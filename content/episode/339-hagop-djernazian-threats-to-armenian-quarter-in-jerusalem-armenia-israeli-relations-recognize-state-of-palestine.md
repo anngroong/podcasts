@@ -3,7 +3,7 @@
 date = 2024-06-23T00:00:54-07:00
 upcoming = true
 
-title = "Hagop Djernazian - Update on the Threats to the Armenian Quarter in Jerusalem, Armenian-Israeli Relations, Recognizing State of Palestine | Ep 339 - June 23, 2024
+title = "Hagop Djernazian - Update on the Threats to the Armenian Quarter in Jerusalem, Armenian-Israeli Relations, Recognizing State of Palestine | Ep 339 - June 23, 2024"
 subtitle = "Armenian News Network Groong - June 23, 2024"
 
 author = "Armenian News Network - Groong"
