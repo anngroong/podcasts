@@ -26,7 +26,7 @@ explicit = "no"
 
 categories = ["Diaspora", "Israel", "Jerusalem"]
 series = ["cog"]
-tags = ["Hagop Djernazian", "Setrag Balian", "Save the ArQ", "Jerusalem", "Goveroo Bardez", "Cow’s Garden", "Holy Land", "Armenian Quarter", "Armenian Patriarch", "Armenian Patriarchy", "Nurhan Manougian", " Israeli Investor", "99 year lease", "Patriarch Letter", "November 1", "Terminating the Lease", "Australian Israeli", "Danny Rothman", "Danny Rubinstein", "Xana Capital", "Xana Gardens", "Israeli Settlers", "Karnig Kerkonian", "Garo Ghazarian", "Arman Tatoyan"]
+tags = ["Armenian News", "Armenian Quarter", "Jerusalem", "Save the ArQ", "Hagop Djernazian", "Goveroo Bardez", "Cows Garden", "Holy Land", "Armenian Patriarch", "Armenian Patriarchy", "Nurhan Manougian", " Xana Gardens", "Israel", 99 year lease", "Israeli Settlers"]
 
 
 
