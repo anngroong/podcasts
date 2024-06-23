@@ -75,5 +75,4 @@ On Friday Armenia officially [recognized](https://www.azatutyun.am/a/33003853.ht
 
 # Wrap-up
 
-That concludes this **Conversations On Groong** episode**. **As always we invite your feedback, Thanks to Laura Osborn for the music on our podcasts. Don’t forget to subscribe to us on YouTube, Twitter, and Facebook.
-
+That concludes this **Conversations On Groong** episode. As always we invite your feedback, Thanks to Laura Osborn for the music on our podcasts. Don’t forget to subscribe to us on YouTube, Twitter, and Facebook.
