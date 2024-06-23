@@ -18,7 +18,7 @@ episode_image = "img/episode/339/thumbnail-339.webp"
 episode_banner = "img/episode/339/banner-339.webp"
 images = ["img/episode/339/banner-339.webp"]
 
-hosts = ["asbed"]
+hosts = ["asbed","hovik"]
 guests = ["hdjernazian"]
 episode = "339"
 aliases = ["/339"]
