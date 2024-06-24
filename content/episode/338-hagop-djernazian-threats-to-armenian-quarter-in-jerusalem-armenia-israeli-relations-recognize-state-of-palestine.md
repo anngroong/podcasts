@@ -49,6 +49,13 @@ Episode 338 | Recorded on Wednesday, June 23, 2024"""
 
 +++
 
+# Legal Defense Fund for Jerusalem Armenians
+
+### Please support the **[Legal Defense Fund for Jerusalem Armenians](https://givebutter.com/ArmenianQuarter)!**
+
+The international legal team works Pro Bono. But some local lawyers must be paid, and that cost is on the community, and all Armenians around the world.
+
+
 # Update on the Threats to the Armenian Quarter in Jerusalem
 
 Just to catch up on the issues around the Armenian Quarters in Jerusalem, let me point listeners to our Podcast Episodes [261](https://podcasts.groong.org/261) and [292](https://podcasts.groong.org/292) (links in the show notes) where we discussed the contract with which the Jerusalem Patriarchate reportedly granted a 98-year lease for Goveroo Bardez (Cow’s Garden), a considerable amount of space in the Armenian Quarters in Jerusalem. This shady Israeli company has been trying to [illegally land grab](https://www.newarab.com/news/armenians-jerusalem-repel-armed-israeli-settlers) a significant chunk of the Armenian Quarters.
@@ -60,7 +67,7 @@ Anyway, in May and June you [tweeted](https://x.com/SavetheArQ/status/1798710742
 Jerusalem District Court rejects Xana Gardens' appeal for an extension.
 
 **Questions:**
-* Hagop, can you give us an update on the current situation of the Armenian Quarters in Jerusalem?
+* Can you give us an update on the current situation of the Armenian Quarters in Jerusalem?
 * Describe your case in Jerusalem district court, to stop Xana Gardens from invading the Goveroo Bardez.
 * Why did the district court reject Xana Garden’s appeal to grant them more time?
 * Where do we go from here? What are your expectations?
