@@ -3,8 +3,8 @@
 date = 2024-06-23T00:00:54-07:00
 upcoming = true
 
-title = "Hagop Djernazian - Update on the Threats to the Armenian Quarter in Jerusalem, Armenian-Israeli Relations, Recognizing State of Palestine | Ep 339 - June 23, 2024"
-subtitle = "Armenian News Network Groong - June 23, 2024"
+title = "Hagop Djernazian - Update on the Threats to the Armenian Quarter in Jerusalem, Armenian-Israeli Relations, Recognizing State of Palestine | Ep 338 - June 23, 2024"
+subtitle = "Conversations on Groong - June 23, 2024"
 
 author = "Armenian News Network - Groong"
 truncate = ""
@@ -14,19 +14,19 @@ podcast_bytes = ""
 podcast_duration = ""
 youtube = ""
 
-episode_image = "img/episode/339/thumbnail-339.webp"
-episode_banner = "img/episode/339/banner-339.webp"
-images = ["img/episode/339/banner-339.webp"]
+episode_image = "img/episode/338/thumbnail-338.webp"
+episode_banner = "img/episode/338/banner-338.webp"
+images = ["img/episode/338/banner-338.webp"]
 
 hosts = ["asbed","hovik"]
 guests = ["hdjernazian"]
-episode = "339"
-aliases = ["/339"]
+episode = "338"
+aliases = ["/338"]
 explicit = "no"
 
 categories = ["Diaspora", "Israel", "Jerusalem"]
 series = ["cog"]
-tags = ["Armenian News", "Armenian Quarter", "Jerusalem", "Save the ArQ", "Hagop Djernazian", "Goveroo Bardez", "Cows Garden", "Holy Land", "Armenian Patriarch", "Armenian Patriarchy", "Nurhan Manougian", " Xana Gardens", "Israel", "99 year lease", "Israeli Settlers"]
+tags = ["Armenian News", "Armenian Quarter", "Jerusalem", "Save the ArQ", "Hagop Djernazian", "Goveroo Bardez", "Cows Garden", "Holy Land", "Armenian Patriarch", "Armenian Patriarchy", "Nurhan Manougian", " Xana Gardens", "Israel", "99 year lease", "Israeli Settlers", "Palestine", "State of Palestine", "Anti Semitism"]
 
 
 
@@ -45,7 +45,7 @@ Description = """
 * Armenia Recognizes the State of Palestine
 * Effects of Armenian-Israeli Relations on the Armenian Community
 
-Episode 339 | Recorded on Wednesday, June 23, 2024"""
+Episode 338 | Recorded on Wednesday, June 23, 2024"""
 
 +++
 
@@ -56,7 +56,7 @@ Just to catch up on the issues around the Armenian Quarters in Jerusalem, let me
 Anyway, in May and June you [tweeted](https://x.com/SavetheArQ/status/1798710742373617747) some updates to your legal case against Xana Gardens, the company.
 
 
-![Case Update Tweet](/img/episode/339/Save-the-ArQ-202406.png "Case Update Tweet")
+![Case Update Tweet](/img/episode/338/Save-the-ArQ-202406.png "Case Update Tweet")
 Jerusalem District Court rejects Xana Gardens' appeal for an extension.
 
 **Questions:**

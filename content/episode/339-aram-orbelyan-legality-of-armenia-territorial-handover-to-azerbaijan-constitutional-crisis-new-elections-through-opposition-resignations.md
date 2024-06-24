@@ -1,5 +1,5 @@
 +++
-Date = 2024-06-23T04:12:00+04:00
+Date = 2024-06-25T04:12:00+04:00
 upcoming = true
 
 podcast_file = ""
@@ -7,18 +7,18 @@ podcast_bytes = ""
 podcast_duration = ""
 youtube = ""
 
-episode_image = "img/episode/338/thumbnail-338.webp"
-episode_banner = "img/episode/338/banner-338.webp"
-images = ["img/episode/338/banner-338.webp"]
+episode_image = "img/episode/339/thumbnail-339.webp"
+episode_banner = "img/episode/339/banner-339.webp"
+images = ["img/episode/339/banner-339.webp"]
 
-title = "Aram Orbelyan - Legality of Armenian Territorial Handovers to Azerbaijan, Triggering Parliamentary Elections through Opposition Resignations | Ep 338 - June 23, 2024"
+title = "Aram Orbelyan - Legality of Armenian Territorial Handovers to Azerbaijan, Triggering Parliamentary Elections through Opposition Resignations | Ep 339 - June 23, 2024"
 subtitle = "Conversations on Groong - 06/23/2024"
 
 guests = ["aorbelyan"]
 hosts = ["hovik","asbed"]
 
-episode = "338"
-aliases = ["/338"]
+episode = "339"
+aliases = ["/339"]
 
 series = ["cog"]
 categories = ["Armenia", "Azerbaijan"]
@@ -39,7 +39,7 @@ Description = """
 * Could the Opposition Trigger New Elections?
 
 
-Episode 338 | Recorded: June 21, 2024
+Episode 339 | Recorded: June 21, 2024
 """
 
 +++
