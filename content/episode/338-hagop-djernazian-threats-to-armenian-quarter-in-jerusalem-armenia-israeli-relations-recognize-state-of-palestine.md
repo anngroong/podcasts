@@ -1,7 +1,7 @@
 +++
 
 date = 2024-06-23T00:00:54-07:00
-upcoming = true
+upcoming = false
 
 title = "Hagop Djernazian - Update on the Threats to the Armenian Quarter in Jerusalem, Armenian-Israeli Relations, Recognizing State of Palestine | Ep 338 - June 23, 2024"
 subtitle = "Conversations on Groong - June 23, 2024"
@@ -9,10 +9,10 @@ subtitle = "Conversations on Groong - June 23, 2024"
 author = "Armenian News Network - Groong"
 truncate = ""
 
-podcast_file = ""
-podcast_bytes = ""
-podcast_duration = ""
-youtube = ""
+podcast_file = "15299192-hagop-djernazian-update-on-the-threats-to-the-armenian-quarter-in-jerusalem-armenian-israeli-relations-recognizing-state-of-palestine-ep-338-june-23-2024.mp3"
+podcast_bytes = "10189375"
+podcast_duration = "846"
+youtube = "DDlcbdo66rs"
 
 episode_image = "img/episode/338/thumbnail-338.webp"
 episode_banner = "img/episode/338/banner-338.webp"
