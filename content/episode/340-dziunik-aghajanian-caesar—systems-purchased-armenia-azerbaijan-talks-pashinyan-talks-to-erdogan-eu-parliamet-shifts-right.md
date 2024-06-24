@@ -1,15 +1,15 @@
 +++
 
-Date = 2024-06-25T20:00:00+04:00
+Date = 2024-06-25T01:00:00+04:00
 upcoming = true
 
-title = "Dziunik Aghajanian - Purchase of CAESAR and fallout, Armenia Azerbaijan Talks, Pashinyan Talks to Erdogan, EU Parliamentary Shift to the Right | Ep 340 - June 23, 2024
+title = "Dziunik Aghajanian - Purchase of CAESAR and fallout, Armenia Azerbaijan Talks, Pashinyan Talks to Erdogan, EU Parliamentary Shift to the Right | Ep 340 - June 23, 2024"
 subtitle = "Week in Review - 06/23/2024"
 
-podcast_file = "15031620-dziunik-aghajanian-tavush-demarcation-and-delimitation-bagrat-srbazan-heads-to-yerevan-hungary-blocks-eu-aid-to-armenia-ep-340-may-5-2024.mp3"
-podcast_bytes = "52729595"
-podcast_duration = "4391"
-youtube = "dMtKlvGU32Y"
+podcast_file = ""
+podcast_bytes = ""
+podcast_duration = ""
+youtube = ""
 
 episode_image = "img/episode/340/thumbnail-340.webp"
 episode_banner = "img/episode/340/banner-340.webp"
