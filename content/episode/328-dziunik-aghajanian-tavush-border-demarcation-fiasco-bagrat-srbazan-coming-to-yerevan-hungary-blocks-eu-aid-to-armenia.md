@@ -1,13 +1,14 @@
 +++
 
 Date = 2024-05-08T20:00:00+04:00
+upcoming = false
 
 title = "Dziunik Aghajanian - Tavush Demarcation and Delimitation | Bagrat Srbazan Heads to Yerevan | Hungary Blocks EU Aid to Armenia | Ep 328 - May 5, 2024"
 subtitle = "Week in Review - 05/05/2024"
 
-podcast_file = "15001534-benyamin-poghosyan-rananjay-anand-indian-armenian-relations-in-2024-ep-327-may-2-2024.mp3"
-podcast_bytes = "48449350"
-podcast_duration = "4034"
+podcast_file = "15031620-dziunik-aghajanian-tavush-demarcation-and-delimitation-bagrat-srbazan-heads-to-yerevan-hungary-blocks-eu-aid-to-armenia-ep-328-may-5-2024.mp3"
+podcast_bytes = "52729595"
+podcast_duration = "4391"
 youtube = "dMtKlvGU32Y"
 
 episode_image = "img/episode/328/thumbnail-328.webp"
