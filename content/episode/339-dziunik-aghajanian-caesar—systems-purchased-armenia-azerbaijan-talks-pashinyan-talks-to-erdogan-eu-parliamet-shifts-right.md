@@ -40,7 +40,6 @@ Description = """
     * Armenia and EU Membership
 * Renewed Azerbaijani Threats of War
     * Armenia Reports CAESAR Artillery Acquisition
-* Armenia Azerbaijan Talks
 * Did Pashinyan Get Marching Orders from Erdogan?
 
 Episode 339 | Recorded: June 23, 2024"""
