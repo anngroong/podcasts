@@ -3,12 +3,12 @@
 Date = 2024-06-25T01:00:00+04:00
 upcoming = true
 
-title = "Dziunik Aghajanian - Purchase of CAESAR and fallout, Armenia Azerbaijan Talks, Pashinyan Talks to Erdogan, EU Parliamentary Shift to the Right | Ep 339 - June 23, 2024"
+title = "Dziunik Aghajanian - Srbazan Movement Pause, EU Right Shift, Renewed Azerbaijan War Threats, Did Pashinyan get Marching Orders from Erdogan | Ep 339 - June 23, 2024"
 subtitle = "Week in Review - 06/23/2024"
 
-podcast_file = ""
-podcast_bytes = ""
-podcast_duration = ""
+podcast_file = "15312944-dziunik-aghajanian-srbazan-movement-pause-eu-right-shift-renewed-azerbaijan-war-threats-did-pashinyan-get-marching-orders-from-erdogan-ep-339-june-23-2024.mp3"
+podcast_bytes = "49201575"
+podcast_duration = "4097"
 youtube = ""
 
 episode_image = "img/episode/339/thumbnail-339.webp"
