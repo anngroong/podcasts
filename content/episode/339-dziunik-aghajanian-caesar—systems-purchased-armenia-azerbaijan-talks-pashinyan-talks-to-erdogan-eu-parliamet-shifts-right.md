@@ -32,7 +32,7 @@ Description = """
 * [linktr.ee/Groong](https://linktr.ee/groong)
 
 #### Guest:
-  * [Dziunik Aghajanian](/guest/dzaghajanian)
+  * [Amb. Dziunik Aghajanian](/guest/dzaghajanian)
 
 #### Topics:
 * Srbazan Movement: Pause & Regroup?
