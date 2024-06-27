@@ -7,9 +7,9 @@ podcast_bytes = ""
 podcast_duration = ""
 youtube = ""
 
-episode_image = "img/episode/342/thumbnail-342.webp"
-episode_banner = "img/episode/342/banner-342.webp"
-images = ["img/episode/342/banner-342.webp"]
+episode_image = "img/episode/342/thumbnail-340.webp"
+episode_banner = "img/episode/342/banner-340.webp"
+images = ["img/episode/342/banner-340.webp"]
 
 title = "Aram Orbelyan - Legality of Armenian Territorial Handovers to Azerbaijan, Triggering Parliamentary Elections through Opposition Resignations | Ep 342 - June 23, 2024"
 subtitle = "Conversations on Groong - 06/23/2024"
