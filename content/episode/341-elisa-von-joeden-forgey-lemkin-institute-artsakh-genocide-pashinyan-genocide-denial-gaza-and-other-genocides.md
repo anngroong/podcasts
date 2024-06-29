@@ -1,11 +1,11 @@
 +++
 Date = 2024-06-28T02:00:00+04:00
-upcoming = true
+upcoming = false
 
-podcast_file = ""
-podcast_bytes = ""
-podcast_duration = ""
-youtube = ""
+podcast_file = "15330673-elisa-von-joeden-forgey-lemkin-institute-genocide-in-artsakh-pashinyan-genocide-denial-gaza-other-ep-341-june-28-2024.mp3"
+podcast_bytes = "39614315"
+podcast_duration = "3298"
+youtube = "GyHLpVtk920"
 
 episode_image = "img/episode/341/thumbnail-341.webp"
 episode_banner = "img/episode/341/banner-341.webp"
@@ -23,7 +23,7 @@ aliases = ["/341"]
 series = ["cog"]
 categories = ["lemkin", "genocide", "Armenia", "artsakh"]
 explicit = "no" # values are "yes" or "no"
-tags = ["Armenian News", "Georgia", "Law On Foreign Agents", "Georgia Protests", "Tbilisi", "Archil Sikharulidze", "Georgian Dream", "Fara", "Bidzina Ivanishvili", "Mikhail Saakashvili", "Unm", "United National Movement", "Armenia", "Tavush For The Homeland Movement", "Armenian Protests", " Eu", "Europe", "Georgian Dream", "United National Movement", "Russia", "Nato"]
+tags = ["Lemkin Institute for Genocide Prevention", "Armenian Genocide", "Elisa von Joeden-Forgey", "Artsakh", "Nagorno Karabakh", "Armenian News", "Artsakh Genocide", "Genocide Denial", "Pashinyan Genocide Denial", "International Association of Genocide Scholards", "IAGS", "Yezidi", "Yazidi", "Iraq", "ISIS", "Shel Anderson", "Irena Victoria Massimino", "Human Rights", "Genocide Law", "Recognition", "Reparation", "Global South"]
 
 Description = """
 
