@@ -1,8 +1,8 @@
 +++
-Date = 2024-07-06T11:05:32+04:00
+Date = 2024-07-11T11:05:32+04:00
 upcoming = true
 
-title = "Rafael Ishkhanyan - Report on Police Brutality on June 12, Armenia High Pretrial Detention Rate, Acetic Chalabyan | Ep 342 - July 6, 2024"
+title = "Rafael Ishkhanyan - Report on Police Brutality on June 12, Armenia High Pretrial Detention Rate, Acetic Chalabyan | Ep 343 - July 11, 2024"
 subtitle = "ANN Groong - Spotlight on Silence"
 
 
@@ -12,14 +12,14 @@ podcast_duration = ""
 youtube = ""
 
 
-episode_image = "img/episode/342/thumbnail-342.webp"
-episode_banner = "img/episode/342/banner-342.webp"
-images = ["img/episode/342/banner-342.webp"]
+episode_image = "img/episode/343/thumbnail-343.webp"
+episode_banner = "img/episode/343/banner-343.webp"
+images = ["img/episode/343/banner-343.webp"]
 
 hosts = ["hovik","asbed"]
 guests = ["rishkhanyan"]
-episode = "342"
-aliases = ["/342"]
+episode = "343"
+aliases = ["/343"]
 
 Description = """
 
@@ -38,7 +38,7 @@ Description = """
 * [Rafael Ishkhanyan](/guest/rishkhanyan)
 
 
-Episode 342 | Recorded: June 28, 2024
+Episode 343 | Recorded: June 28, 2024
 """
 
 +++
