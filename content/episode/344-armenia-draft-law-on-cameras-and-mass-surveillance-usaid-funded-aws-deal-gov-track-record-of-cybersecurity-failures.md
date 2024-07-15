@@ -20,7 +20,7 @@ episode = "344"
 aliases = ["/344"]
 
 series = ["cog"]
-categories = ["Armenia", "Azerbaijan", "Legislation". "Cyber"]
+categories = ["Armenia", "Azerbaijan", "Legislation", "Cyber"]
 explicit = "no" # values are "yes" or "no"
 tags = ["Armenian News", "Draft Law", "CyberSecurity", "Surveillance", "Facial Recognition", "Arthur Papyan", "Ruben Muradyan", "Surveillance", "Camera", "Protesters", "Criminals", "Tax Burden", "Unfunded Mandate", "Data Privacy", "Data Protection", "Privacy Invasion", "Amazon Web Services", "AWS", "Data Sovereignty", "GDPR", "EU", "Huawei", "Cryptocurrency", "Online Casinos", "Online Gambling", "Content Filtering", "Central Bank of Armenia", "CBA", "Cybersecurity Failure", "Network Penetration", "Hackers"]
 
