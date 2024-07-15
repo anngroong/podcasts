@@ -1,7 +1,7 @@
 +++
 Date = 2024-07-13T20:20:32+04:00
 
-title = "Rafael Ishkhanyan - Report on Police Brutality on June 12, Armenia High Pretrial Detention Rate, Acetic Chalabyan | Ep 343 - July 11, 2024"
+title = "Rafael Ishkhanyan - Report on Police Brutality on June 12, Armenia High Pretrial Detention Rate, Avetik Chalabyan | Ep 343 - July 11, 2024"
 subtitle = "ANN Groong - Spotlight on Silence"
 
 
