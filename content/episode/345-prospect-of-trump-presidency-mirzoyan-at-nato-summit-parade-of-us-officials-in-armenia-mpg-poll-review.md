@@ -18,7 +18,7 @@ aliases = ["/345"]
 
 series = ["wir"]
 categories = ["Armenia", "Politics", "Poll"]
-tags = ["Armenian News", "Tavush for the Homeland", "Artsakh", "Nagorno Karabakh", "MPG Polls", "Hrant Mikaelian"]
+tags = ["Armenian News", "NATO", "Washington", "Donald Trump", "MPG", "Hrant Mikaelian", "Trump Presidency", "Caucasus", "Armenia", "Azerbaijan", "Russia", "Turkey", "Ararat Mirzoyan", "Jeyhun Bayramov", "Nikol Pashinyan", "Samantha Power", "Uzra Zeya", "Kristina Kvien", "Kristine Grigoryan", "Poll"]
 
 title = "Hrant Mikaelian - Prospect of Trump Presidency on the South Caucasus, Mirzoyan at NATO, Parade of US Officials in Armenia, MPG Poll Review | Ep 345 - July 14, 2024"
 subtitle = "Week in Review - July 14, 2024"
