@@ -120,8 +120,7 @@ Slide 3: Is Armenia generally moving in the right or wrong direction?
     * How do you explain all of the above dynamics in the most recent poll?
 
 
-### Slide 5: Artsakh Policy
-
+### Slide 5: Armenian Policy on Artsakh
 
 * Ի՞նչ քաղաքականություն պետք է վարի Հայաստանն Արցախյան հարցում (Slide 5)
     * What policy should Armenia pursue in the Artsakh issue?
@@ -146,7 +145,7 @@ Nearly 80% of people responded “No”, the constitution should remain unchange
     * Հուլիսի 1-ին Ադրբեջանի նախագահ Իլհամ Ալիեւը նշել է, որ Հայաստանի հետ խաղաղության պայմանագրի կնքման կարեւորագույն պայմանը Հայաստանի Սահմանադրության փոփոխությունն է: Ի՞նչ եք կարծում, արդյոք Հայաստանի Հանրապետության գործող սահմանադրությունը պետք է փոփոխության ենթարկվի: Հունվար: Հունվարի 19 ին Նիկոլ Փաշինյանը հայտարարեց որ Հայաստանը կարիք ունի նոր Սահմանադրության: Ըստ Ձեզ արդյոք անհրաժեշտ է փոփոխություններ կատարել կամ լիովին նոր սահմանադրություն ընդունել ՀՀ համար
 
 
-![New Constitution?](/img/episode/345/mpg-poll/mpg-slide-13.webp "New Constitution?")
+![New Constitution?](/img/episode/345/mpg-poll/mpg-slide-12.webp "New Constitution?")
 Slide 12:  is it necessary to make changes or adopt a completely new constitution for RA?
 
 **Question:**
@@ -185,6 +184,7 @@ Slide 4: Should Armenia continue to join the CSTO or should it seek to join NATO
 ![Join EU?](/img/episode/345/mpg-poll/mpg-slide-6.webp "Join EU?")
 Slide 6: Should RA join the EU?
 
+#### Should RA Leave the EAEU to join the EU?
 
 * Եվրոպական միությանը անդամակցելու առաջին նախապայմանը Եվրասիական Տնտեսական Միության ԵԱՏՄ անդամակցությունից Հայաստանի Հանրապետության դուրս գալն է: Ըստ Ձեզ Հայաստանը պե՞տք է դուրս գա Եվրասիական Տնտեսական Միությունից եւ սկսի Եվրոպական միությանը անդամակցելու գործընթացը (Slide 7)
     * The first precondition for joining the European Union is the withdrawal of the Republic of Armenia from the EAEU membership of the Eurasian Economic Union. In your opinion, should Armenia leave the Eurasian Economic Union and start the process of joining the European Union?
