@@ -112,7 +112,7 @@ Last week, MPG released the latest poll results. The results indicate several ch
 * Հայաստանն ընդհանուր առմամբ շարժվում է ճի՞շտ, թե՞ սխալ ուղղությամբ (Slide 3)
     * Is Armenia generally moving in the right or wrong direction?
 
-![alt_text](/img/episode/345/mpg-slide-3.webp "image_tooltip")
+![alt_text](/img/episode/345/mpg-poll/mpg-slide-3.webp "image_tooltip")
 Slide 3: Is Armenia generally moving in the right or wrong direction?
 
 **Questions:**
@@ -126,7 +126,7 @@ Slide 3: Is Armenia generally moving in the right or wrong direction?
 * Ի՞նչ քաղաքականություն պետք է վարի Հայաստանն Արցախյան հարցում (Slide 5)
     * What policy should Armenia pursue in the Artsakh issue?
 
-![Armenia policy on Artsakh](/img/episode/345/mpg-slide-5.webp "Armenia policy on Artsakh")
+![Armenia policy on Artsakh](/img/episode/345/mpg-poll/mpg-slide-5.webp "Armenia policy on Artsakh")
 Slide 5: What policy should Armenia pursue in the Artsakh issue?
 
 **Question**:
@@ -146,7 +146,7 @@ Nearly 80% of people responded “No”, the constitution should remain unchange
     * Հուլիսի 1-ին Ադրբեջանի նախագահ Իլհամ Ալիեւը նշել է, որ Հայաստանի հետ խաղաղության պայմանագրի կնքման կարեւորագույն պայմանը Հայաստանի Սահմանադրության փոփոխությունն է: Ի՞նչ եք կարծում, արդյոք Հայաստանի Հանրապետության գործող սահմանադրությունը պետք է փոփոխության ենթարկվի: Հունվար: Հունվարի 19 ին Նիկոլ Փաշինյանը հայտարարեց որ Հայաստանը կարիք ունի նոր Սահմանադրության: Ըստ Ձեզ արդյոք անհրաժեշտ է փոփոխություններ կատարել կամ լիովին նոր սահմանադրություն ընդունել ՀՀ համար
 
 
-![New Constitution?](/img/episode/345/mpg-slide-13.webp "New Constitution?")
+![New Constitution?](/img/episode/345/mpg-poll/mpg-slide-13.webp "New Constitution?")
 Slide 12:  is it necessary to make changes or adopt a completely new constitution for RA?
 
 **Question:**
@@ -163,7 +163,7 @@ The poll also touched on the sentiment of the respondents to being in internatio
 * Ձեր կարծիքով Հայաստանը պետք է շարունակի անդամակցել ՀԱՊԿ-ին, թե՞ պետք է ձգտի միանա ՆԱՏՕ-ին (Slide 4)
     * In your opinion, should Armenia continue to join the CSTO or should it seek to join NATO?
 
-![CSTO? NATO?](/img/episode/345/mpg-slide-4.webp "CSTO? NATO?")
+![CSTO? NATO?](/img/episode/345/mpg-poll/mpg-slide-4.webp "CSTO? NATO?")
 Slide 4: Should Armenia continue to join the CSTO or should it seek to join NATO?
 
 
@@ -182,7 +182,7 @@ Slide 4: Should Armenia continue to join the CSTO or should it seek to join NATO
     * According to you, should RA join the EU?
 
 
-![Join EU?](/img/episode/345/mpg-slide-6.webp "Join EU?")
+![Join EU?](/img/episode/345/mpg-poll/mpg-slide-6.webp "Join EU?")
 Slide 6: Should RA join the EU?
 
 
@@ -190,7 +190,7 @@ Slide 6: Should RA join the EU?
     * The first precondition for joining the European Union is the withdrawal of the Republic of Armenia from the EAEU membership of the Eurasian Economic Union. In your opinion, should Armenia leave the Eurasian Economic Union and start the process of joining the European Union?
 
 
-![Leave EAEU for EU?](/img/episode/345/mpg-slide-7.webp "Leave EAEU for EU?")
+![Leave EAEU for EU?](/img/episode/345/mpg-poll/mpg-slide-7.webp "Leave EAEU for EU?")
 Slide 7: Should Armenia leave the EAEU and start the process of joining the EU?
 
 
@@ -200,7 +200,7 @@ Slide 7: Should Armenia leave the EAEU and start the process of joining the EU?
     * How do you evaluate the "Tavush for the Motherland" movement initiated by the leader of the Diocese of Tavush, Archbishop Bagrat Galstanyan?
 
 
-![Assessing Srbazan Movement](/img/episode/345/mpg-slide-8.webp "Assessing Srbazan Movement")
+![Assessing Srbazan Movement](/img/episode/345/mpg-poll/mpg-slide-8.webp "Assessing Srbazan Movement")
 Slide 8: How do you evaluate the "Tavush for the Motherland" movement?
 
 **Question:**
@@ -213,7 +213,7 @@ Slide 8: How do you evaluate the "Tavush for the Motherland" movement?
     * Evaluate the work of RA Prime Minister Nikol Pashinyan
 
 
-![Assessing Pashinyan](/img/episode/345/mpg-slide-10.webp "Assessing Pashinyan")
+![Assessing Pashinyan](/img/episode/345/mpg-poll/mpg-slide-10.webp "Assessing Pashinyan")
 Slide 10: Evaluate the work of RA Prime Minister Nikol Pashinyan
 
 
