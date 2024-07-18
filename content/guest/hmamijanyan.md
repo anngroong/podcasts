@@ -17,4 +17,4 @@ Twitch = ""
 #guest_group = "cog"
 +++
 
-Hayk Mamijanyan is the leader of the oppositional Pativ Unem (With Honor) alliance in the Armenian National Assembly, and a member of the Republican Party of Armenia (RPA). 
+Hayk Mamijanyan is the leader of the oppositional Pativ Unem (With Honor) alliance in the Armenian National Assembly, and a member of the Republican Party of Armenia (RPA). He’s also a member of the parliamentary group representing Armenia at the PACE, the Parliamentary Assembly of the Council of Europe.
