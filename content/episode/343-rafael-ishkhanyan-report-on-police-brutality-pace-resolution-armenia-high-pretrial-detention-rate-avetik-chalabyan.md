@@ -81,7 +81,7 @@ Then you also describe how, when the first stun grenades were employed, the situ
 
 ## PACE Resolution on Armenia
 
-A [PACE report](https://pace.coe.int/pdf/f3e571f3281112b82c0b03440a1c991ce1ce21c624ee175091b291be8b1fb287?title=Doc.%2015994.pdf&fbclid=IwZXh0bgNhZW0CMTAAAR1HbeAnWJOz5amale5FAszz8wpM1TTG1hESS3f6XxHAa5lyk2y3k3bRcjw_aem_mp0NHHxw3kN8RYhtDL6yPg) on Armenia’s honoring of its obligations and commitments was just released.
+A [PACE report](https://pace.coe.int/pdf/f3e571f3281112b82c0b03440a1c991ce1ce21c624ee175091b291be8b1fb287?title=Doc.%2015994.pdf) on Armenia’s honoring of its obligations and commitments was just released.
 
 The report begins with: **_“The Parliamentary Assembly commends Armenia for its continuous commitment to democratic development in spite of the considerable security challenges it is facing”_**
 
