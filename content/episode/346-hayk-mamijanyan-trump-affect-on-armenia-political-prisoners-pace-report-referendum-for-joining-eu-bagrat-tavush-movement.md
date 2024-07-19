@@ -1,11 +1,11 @@
 +++
 Date = 2024-07-19T02:00:00+04:00
-upcoming = true
+upcoming = false
 
-podcast_file = ""
-podcast_bytes = ""
-podcast_duration = ""
-youtube = ""
+podcast_file = "15442132-hayk-mamijanyan-prospect-of-a-trump-presidency-on-the-caucasus-update-on-political-prisoners-pace-report-referendum-on-joining-eu-bagrat-srbazan-tavush-movement-ep-346-july-19-2024.mp3"
+podcast_bytes = "31454774"
+podcast_duration = "2618"
+youtube = "cunIDMBnobo"
 
 episode_image = "img/episode/346/thumbnail-346.webp"
 episode_banner = "img/episode/346/banner-346.webp"
