@@ -9,7 +9,7 @@ subtitle = "Groong Week in Review - June 16, 2024"
 podcast_file = "15273576-benyamin-poghosyan-police-violence-and-repressions-armenia-azerbaijan-talks-armenia-russia-relations-ep-337-june-16-2024.mp3"
 podcast_bytes = "43067454"
 podcast_duration = "3586"
-youtube = ""
+youtube = "e-vYilONk5Q"
 
 episode_image = "img/episode/337/thumbnail-337.webp"
 episode_banner = "img/episode/337/banner-337.webp"
