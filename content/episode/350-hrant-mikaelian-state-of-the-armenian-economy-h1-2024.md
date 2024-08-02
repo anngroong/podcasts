@@ -11,8 +11,8 @@ episode_image = "img/episode/350/thumbnail-350.webp"
 episode_banner = "img/episode/350/banner-350.webp"
 images = ["img/episode/350/banner-350.webp"]
 
-title = "Arman Grigoryan - Armenia's Misguided Pivot to the West, Turkish Involvement in Second Karabakh War, Corridors | Ep 350 - August 1, 2024"
-subtitle = "Conversations on Groong - 08/01/2024"
+title = "Hrant Mikaelian - State of the Armenian Economy - H1/2024  | Ep 350, Aug 2, 2024"
+subtitle = "Conversations on Groong - 08/02/2024"
 
 guests = ["argrigoryan"]
 hosts = ["hovik","asbed"]
