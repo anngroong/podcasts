@@ -8,7 +8,7 @@ Type = "guest"
 Facebook = "vahagn.melikian"
 Linkedin = ""
 GitHub = ""
-Thumbnail = "img/guest/Vahagn-Melikian-1.jpg"
+Thumbnail = "img/guest/Vahagn-Melikian-2.jpg"
 Pinterest = ""
 Instagram = ""
 YouTube = ""
@@ -21,4 +21,4 @@ Mr. Vahagn Melikian is a seasoned Armenian diplomat with a career spanning over 
 
 Melikian's contributions to diplomacy have been recognized through several prestigious awards, including the Commemorative Medal of the Ministry of Foreign Affairs, the Gilded Coin of the Ministry of Foreign Affairs, the Grand Cross of the Order of May from Argentina, the Mkhitar Gosh Medal, and the second-class Medal of Services to the Motherland. Fluent in English, Russian, French, and Arabic, he has significantly advanced Armenia's diplomatic relations and international presence. 
 
-Vahagn Melikian is a founding member of the Pan-Armenian Council of Diplomats. Melikian is married and has two children.
+Vahagn Melikian is a founding member of the Pan-Armenian Diplomatic Council. Melikian is married and has two children.
