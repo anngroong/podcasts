@@ -1,11 +1,11 @@
 +++
 Date = 2024-08-01T02:00:00+04:00
-upcoming = true
+upcoming = false
 
 podcast_file = "15517690-arman-grigoryan-armenia-s-misguided-pivot-to-the-west-ep-349-aug-1-2024.mp3"
 podcast_bytes = "54695217"
 podcast_duration = "4555"
-youtube = ""
+youtube = "q7KOCnBYOLM"
 
 episode_image = "img/episode/349/thumbnail-349.webp"
 episode_banner = "img/episode/349/banner-349.webp"
