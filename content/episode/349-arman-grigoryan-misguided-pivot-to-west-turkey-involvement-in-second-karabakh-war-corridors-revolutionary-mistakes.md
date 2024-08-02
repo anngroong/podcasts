@@ -32,13 +32,13 @@ Description = """
 * [linktr.ee/Groong](https://linktr.ee/groong)
 
 #### Guest:
-* [Dr. Elisa von Joeden-Forgey](/guest/evjoedenforgey)
+* [Dr. Arman Grigoryan](/guest/argrigoryan)
 
 #### Topics:
 * Revolutionary Mistakes
-* Turkish Involvement in the 44-Day War
-* Corridors
+* Nov. 9 Statement, Corridors, Communications
 * Misguided Pivot
+* Turkish Involvement in the 44-Day War
 
 Episode 349 | Recorded: July 31, 2024
 """
