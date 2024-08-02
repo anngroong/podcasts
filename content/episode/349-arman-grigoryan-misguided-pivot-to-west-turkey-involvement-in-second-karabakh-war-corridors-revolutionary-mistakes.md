@@ -2,9 +2,9 @@
 Date = 2024-08-01T02:00:00+04:00
 upcoming = true
 
-podcast_file = ""
-podcast_bytes = ""
-podcast_duration = ""
+podcast_file = "15517690-arman-grigoryan-armenia-s-misguided-pivot-to-the-west-ep-349-aug-1-2024.mp3"
+podcast_bytes = "54695217"
+podcast_duration = "4555"
 youtube = ""
 
 episode_image = "img/episode/349/thumbnail-349.webp"
@@ -23,7 +23,7 @@ aliases = ["/349"]
 series = ["cog"]
 categories = ["Armenia", "Turkey", "Artsakh"]
 explicit = "no" # values are "yes" or "no"
-tags = ["Armenia", "Artsakh", "Nagorno Karabakh", "Misguided Pivot to the West", "Arman Grigoryan", "Corridor", "Lachin Corridor", "Zangezur Corridor", "Turkey", "44 Day War", "Karabakh War", "Artsakh War", "Russia", "Azerbaijan"]
+tags = ["Armenia", "Artsakh", "Nagorno Karabakh", "Misguided Pivot to the West", "Arman Grigoryan", "Corridor", "Lachin Corridor", "Zangezur Corridor", "Turkey", "44 Day War", "Karabakh War", "Artsakh War", "Russia", "Azerbaijan", "Levon Ter-Petrosyan", "Robert Kocharyan", "Serzh Sargsyan", "Levon Zourabyan", "James O’Brien", "Caucasus"]
 
 Description = """
 
