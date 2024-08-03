@@ -2,19 +2,19 @@
 Date = 2024-08-03T02:00:00+04:00
 upcoming = true
 
-podcast_file = ""
-podcast_bytes = ""
-podcast_duration = ""
+podcast_file = "15523350-hrant-mikaelian-state-of-the-armenian-economy-in-the-first-half-of-2024-ep-350-aug-3-2024.mp3"
+podcast_bytes = "16115227"
+podcast_duration = "1340"
 youtube = ""
 
 episode_image = "img/episode/350/thumbnail-350.webp"
 episode_banner = "img/episode/350/banner-350.webp"
 images = ["img/episode/350/banner-350.webp"]
 
-title = "Hrant Mikaelian - State of the Armenian Economy - H1/2024  | Ep 350, Aug 3, 2024"
+title = "Hrant Mikaelian - State of the Armenian Economy in the First Half of 2024 | Ep 350, Aug 3, 2024"
 subtitle = "Conversations on Groong - 08/03/2024"
 
-guests = ["argrigoryan"]
+guests = ["hmikaelian"]
 hosts = ["hovik","asbed"]
 
 episode = "350"
@@ -23,7 +23,7 @@ aliases = ["/350"]
 series = ["cog"]
 categories = ["Armenia", "Turkey", "Artsakh"]
 explicit = "no" # values are "yes" or "no"
-tags = ["Armenian News", "Economy", "Economic Downturn", "Imports", "Exports", "Hrant Mikaelian", "Foreign Trade", "Dram Rate", "National Debt", "Budget", "Budget Deficit", "Tax Revenues", "Taxes", "Mortgage", "Interest Rates", "CBA", "Central Bank of Armenia", "Refinance Rate"]
+tags = ["Armenian News", "Economy", "Economic Downturn", "Imports", "Exports", "Hrant Mikaelian", "Foreign Trade", "Dram Rate", "National Debt", "Budget", "Budget Deficit", "Tax Revenues", "Taxes", "Mortgage", "Interest Rates", "CBA", "Central Bank of Armenia", "Refinance Rate", "Real Estate Market", "Labor Market"]
 
 Description = """
 
@@ -35,8 +35,10 @@ Description = """
 * [Hrant Mikaelian](/guest/hmikaelian)
 
 #### Topics:
-* Economic Conditions
+* Economy in the First Half of 2024
+* State Revenues & Spending
 * Finance Sector
+* Looking Ahead
 
 
 Episode 350 | Recorded: August 1, 2024
