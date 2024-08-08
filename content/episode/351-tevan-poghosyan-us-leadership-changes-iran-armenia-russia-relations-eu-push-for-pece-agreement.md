@@ -4,7 +4,7 @@ upcoming = false
 
 podcast_file = "15549615-tevan-poghosyan-iran-armenia-relations-russia-armenia-relations-eu-push-for-an-agreement-srbazan-movement-next-steps-ep-351-aug-4-2024.mp3"
 podcast_bytes = "47170878"
-podcast_duration = "3926"
+podcast_duration = "3951"
 youtube = "l0l5N3HuRcI"
 
 episode = "351"
