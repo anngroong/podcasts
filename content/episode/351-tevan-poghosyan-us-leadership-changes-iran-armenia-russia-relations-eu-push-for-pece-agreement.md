@@ -1,11 +1,11 @@
 +++
 Date = 2024-08-04T00:30:00+04:00
-upcoming = true
+upcoming = false
 
-podcast_file = ""
-podcast_bytes = ""
-podcast_duration = ""
-youtube = ""
+podcast_file = "15549615-tevan-poghosyan-iran-armenia-relations-russia-armenia-relations-eu-push-for-an-agreement-srbazan-movement-next-steps-ep-351-aug-4-2024.mp3"
+podcast_bytes = "47170878"
+podcast_duration = "3926"
+youtube = "l0l5N3HuRcI"
 
 episode = "351"
 aliases = ["/351"]
