@@ -10,7 +10,7 @@ author = "Armenian News Network - Groong"
 podcast_file = "15578767-yeghia-tashjian-iran-s-geopolitical-moves-armenia-azerbaijan-talks-stalled-normalization-ep-353-aug-11-2024.mp3"
 podcast_bytes = "34506041"
 podcast_duration = "2872"
-youtube = "6GDGxqknTwk"
+youtube = "3u0e-FVh1I4"
 
 episode_image = "img/episode/353/thumbnail-353.webp"
 episode_banner = "img/episode/353/banner-353.webp"
