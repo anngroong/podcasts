@@ -17,4 +17,4 @@ Twitch = ""
 #guest_group = "cog"
 +++
 
-Kevork Almassian is the founder of Syriana Analysis, an independent news and analysis platform dedicated to covering the current global affairs, with a particular focus on Syria and Armenia.
+Kevork Almassian is the founder of Syriana Analysis, an independent news and analysis platform dedicated to covering current global affairs, with a particular focus on Syria and Armenia.
