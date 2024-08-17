@@ -17,4 +17,4 @@ Twitch = ""
 #guest_group = "wir"
 +++
 
-Yeghia Tashjian is a regional analyst and researcher based in Beirut, with expertise in China’s geopolitical and energy security interests in Iran and the Persian Gulf. Currently he is an instructor in International Affairs at the American University of Science and Technology and Senior Research Assistant at the Issam Fares Institute for Public Policy and International Affairs at the American University of Beirut.
+__Yeghia Tashjian__ is an regional analyst and researcher based in Beirut, with expertise in China’s geopolitical and energy security interests in Iran and the Persian Gulf. Currently he is an instructor in International Affairs at the American University of Science and Technology and International Affairs Cluster Coordinator at the Issam Fares Institute for Public Policy and International Affairs at the American University of Beirut.
