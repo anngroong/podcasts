@@ -22,7 +22,7 @@ episode = "288"
 aliases = ["/288"]
 
 series = ["wir"]
-categories = ["Armenia", "Politics", "Israel"]
+categories = ["Armenia", "Politics", "Israel", "Middle East"]
 tags = ["Yeghia Tashjian", "Armenia", "Artsakh", "Nagorno Karabakh", "Israel", "Gaza", "Palestinian Cause", "Hamas", "Hezbollah", "Muslim Brotherhood", "Samvel Shahramanyan", "INSTC", "IMEC", "Belt & Road Initiative", "North South Corridor", "East West Corridor", "Syunik", "Zangezur Corridor", "Russia", "Turkey", "Iran", "Azerbaijan", "Middle East", "Benyamin Netanyahu", "Abraham Accords", "Saudi Arabia", "China", "India"]
 
 Description = """

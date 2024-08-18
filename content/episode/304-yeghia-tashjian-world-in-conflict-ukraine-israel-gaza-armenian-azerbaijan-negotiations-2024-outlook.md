@@ -23,7 +23,7 @@ episode = "304"
 aliases = ["/304"]
 
 series = ["wir"]
-categories = ["Armenia", "Politics", "Israel"]
+categories = ["Armenia", "Politics", "Israel", "Middle East"]
 tags = ["Armenian News", "Artsakh", "Nagorno Karabakh", "Azerbaijan", "Yeghia Tashjian", "Ukraine War", "Israel Gaza", "Iran Strikes", "Middle East", "Aliyev Pashinyan", "Constitutional Change", "Armenian History", "History of Armenia"]
 
 Description = """
