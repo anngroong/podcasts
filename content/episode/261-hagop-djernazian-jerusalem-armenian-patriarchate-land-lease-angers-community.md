@@ -24,11 +24,9 @@ episode = "261"
 aliases = ["/261"]
 explicit = "no"
 
-categories = ["Diaspora", "Israel", "Jerusalem"]
+categories = ["Diaspora", "Israel", "Jerusalem", "Middle East"]
 series = ["cog"]
 tags = ["Hagop Djernazian", "Jerusalem", "Goveroo Bardez", "Holy Land", "Armenian Quarter", "Armenian Patriarch", "Armenian Patriarchy", "Nurhan Manougian", "Fr. Bared", "Bared Yeretsian", "Saint James", "St James", "Land Sale", "Land Lease", "Israeli Investor", "99 year lease", "Australian Israeli", "Danny Rothman", "Danny Rubinstein", "King of Jordan", "Abdullah II", "Palestinian Authority", "Mahmoud Abbas", "Spitting on Armenian Priests", "Xana Capital", "Israeli Settlers", "Judaization", "One&Only", "Kerzner International"]
-
-
 
 Description = """Hagop Djernazian - Jerusalem Armenian Patriarchate Land Lease Angers Worldwide Community
 

@@ -22,7 +22,7 @@ aliases = ["/244"]
 explicit = "no"
 
 series = ["cog"]
-categories = ["China", "Politics"]
+categories = ["China", "Politics", "Middle East"]
 tags = ["Benyamin Poghosyan", "China", "Armenia", "Artsakh", "Nagorno Karabakh", "Azerbaijan", "South Caucasus", "Russia", "Iran", "Saudi Arabia", "Turkey", "Middle East", "India", "Xi Jinping", "Moscow", "North South Corridor", "Belt and Road"]
 
 Description = """

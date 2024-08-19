@@ -21,7 +21,7 @@ episode = "287"
 aliases = ["/287"]
 
 series = ["cog"]
-categories = ["Armenia", "Artsakh", "Iran", "Israel"]
+categories = ["Armenia", "Artsakh", "Iran", "Israel", "Middle East"]
 explicit = "no" # values are "yes" or "no"
 tags = ["Ehsan Movahedian", "Iran", "Armenia", "National Security", "Foreign Policy", "Middle East", "Israel", "Gaza", "Palestine", "Palestinian Cause", "Nagorno Karabakh", "Artsakh", "Azerbaijan", "North South Corridor", "Russia", "East West Corridor", "Turkey", "India", "Georgia", "Black Sea", "US", "Europe", "Territorial Integrity", "Self Determination"]
 

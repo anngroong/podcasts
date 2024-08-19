@@ -12,7 +12,7 @@ aliases = ["/351"]
 
 episode_image = "img/episode/351/thumbnail-351.webp"
 episode_banner = "img/episode/351/banner-351.webp"
-images = ["img/episode/351/banner-351.webp"]
+images = ["img/episode/351/banner-351.webp", "img/episode/351/thumbnail-351.webp"]
 
 title = "Tevan Poghosyan - US Leadership Changes, Iran Armenia Relations, Russian-Armenian Relations, EU Push for an Agreement, Srbazan Movement Next Steps | Ep 351 - Aug 4, 2024"
 subtitle = "Week in Review - Aug 4, 2024"

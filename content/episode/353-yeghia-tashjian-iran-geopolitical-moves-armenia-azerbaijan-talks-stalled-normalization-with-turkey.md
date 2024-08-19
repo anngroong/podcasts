@@ -23,7 +23,7 @@ episode = "353"
 aliases = ["/353"]
 
 series = ["wir"]
-categories = ["Armenia", "Azerbaijan", "Israel"]
+categories = ["Armenia", "Azerbaijan", "Israel", "Middle East"]
 tags = ["Armenian News", "Artsakh", "Nagorno Karabakh", "Ethnic Cleansing", "Azerbaijan", "#COP29", "Yeghia Tashjian", "Prisoners of War", "POW", "Iran", "Masoud Pezheshkian", "Mohammed Javad Zarif", "Presidential Inauguration", "Tehran", "Israel", "Mossad", "Assassination", "Hamas", "Ismail Haniyeh", "Lebanon", "Middle East", "Iran Red Line", "Caucasus", "Nikol Pashinyan", "Ilham Aliyev", "Turkish Armenian Normalization", "Syunik", "Zangezur", "Corridor", "Russia", "EU", "USA", "James O’Brien", "Toivo Klaar", "Beirut Blast"]
 
 Description = """
