@@ -20,7 +20,7 @@ episode = "356"
 aliases = ["/356"]
 
 series = ["cog"]
-categories = ["Georgia", "Elections"]
+categories = ["Georgia"]
 tags = ["Armenian News", "Georgia", "Georgian News", "Elections", "Law on Foreign Agents", "NGO", "Tbilisi", "Archil Sikharulidze", "Georgian Dream", "Orthodox Church", "Mikhail Saakashvili", "UNM", "United National Movement", "Armenia", "EU", "Europe", "Russia"]
 
 Description = """
