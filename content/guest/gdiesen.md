@@ -17,4 +17,4 @@ Twitch = ""
 #guest_group = "cog"
 +++
 
-__Dr. Glenn Diesen__ a professor at the University of South-Eastern Norway, and associate editor at Russia in Global Affairsis, and editor of Political economy, Russian foreign policy and Eurasian integration.
+__Dr. Glenn Diesen__ a professor at the University of South-Eastern Norway, and associate editor at Russia in Global Affairs, and editor of Political economy, Russian foreign policy and Eurasian integration.
