@@ -2,7 +2,7 @@
 Date = 2024-08-30T01:00:00+04:00
 upcoming = true
 
-title = "Pietro Shakarian - Russia, Iran, Armenia Relations, Ukraine Kursk Gambit, Travel Notes | Ep 359 - Aug 30, 2024"
+title = "Pietro Shakarian - Russia, Iran, Armenia Relations, Ukraine Kursk Gambit, Travel Notes | Ep 357 - Aug 30, 2024"
 subtitle = "Conversations on Groong - 08/30/2024"
 
 podcast_file = ""
