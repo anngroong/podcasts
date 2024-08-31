@@ -5,10 +5,10 @@ upcoming = false
 title = "Pietro Shakarian - Russia, Iran, Armenia Relations, Ukraine Kursk Gambit, Travel Notes | Ep 357 - Aug 31, 2024"
 subtitle = "Conversations on Groong - 08/31/2024"
 
-podcast_file = ""
-podcast_bytes = ""
-podcast_duration = ""
-youtube = ""
+podcast_file = "15674490-pietro-shakarian-russia-iran-armenia-relations-ukraine-kursk-gambit-travel-notes-ep-357-aug-31-2024.mp3"
+podcast_bytes = "50248376"
+podcast_duration = "4184"
+youtube = "oMZngIQ2pV4"
 
 episode_image = "img/episode/357/thumbnail-357.webp"
 episode_banner = "img/episode/357/banner-357.webp"
