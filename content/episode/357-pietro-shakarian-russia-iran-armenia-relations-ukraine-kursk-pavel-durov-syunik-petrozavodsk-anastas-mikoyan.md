@@ -1,9 +1,9 @@
 +++
-Date = 2024-08-30T01:00:00+04:00
+Date = 2024-08-31T01:00:00+04:00
 upcoming = true
 
-title = "Pietro Shakarian - Russia, Iran, Armenia Relations, Ukraine Kursk Gambit, Travel Notes | Ep 357 - Aug 30, 2024"
-subtitle = "Conversations on Groong - 08/30/2024"
+title = "Pietro Shakarian - Russia, Iran, Armenia Relations, Ukraine Kursk Gambit, Travel Notes | Ep 357 - Aug 31, 2024"
+subtitle = "Conversations on Groong - 08/31/2024"
 
 podcast_file = ""
 podcast_bytes = ""
@@ -37,10 +37,9 @@ Description = """
 #### Topics:
 * Russian-Iranian Relations
 * Russian-Armenian Relations
-* Ukraine and Zelensky’s Kursk Gambit
-    * Arrest of Pavel Durov
+* Ukraine’s Kursk Gambit
+* Pavel Durov Arrested in France
 * Observations from Armenia and Russia
-* Mikoyan Book Update
 
 
 Episode 357 | Recorded: August 28, 2024
@@ -53,4 +52,5 @@ Episode 357 | Recorded: August 28, 2024
 # Wrap-up
 
 That’s our [show](https://podcasts.groong.org/)! We hope you found it useful. Please find us on [Social Media](https://lintr.ee/groong) and follow us everywhere you get your Armenian news.
+
 Thanks to **Laura Osborn** for the music on our podcasts.
