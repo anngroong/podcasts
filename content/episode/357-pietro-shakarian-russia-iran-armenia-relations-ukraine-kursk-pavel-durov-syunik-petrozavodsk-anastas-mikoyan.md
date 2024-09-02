@@ -85,6 +85,9 @@ When we first connected to do a show, you told us that you’d been traveling re
 **Question:**
 * What were you doing in Armenia, where did you visit, can you tell us your impressions from your trip?
 
+Read Pietro Shakarian’s recent article titled: **[ACURA Exclusive: Pietro A. Shakarian: Armenia and Georgia: A Tale of Two Neighbors](https://usrussiaaccord.org/pietro-a-shakarian-armenia-and-georgia-a-tale-of-two-neighbors/)**.
+
+
 
 ### Observations in Russia
 
