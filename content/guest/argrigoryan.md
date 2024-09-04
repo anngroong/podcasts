@@ -1,7 +1,7 @@
 +++
 Date = 2024-06-28T01:45:01+04:00
 title = "Arman Grigoryan"
-Pronouns = "Dr."
+Pronouns = ""
 Twitter = "Arm__Grig"
 Website = "https://ir.cas.lehigh.edu/faculty-staff/arman-grigoryan"
 Type = "guest"

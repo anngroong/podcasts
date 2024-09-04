@@ -1,7 +1,7 @@
 +++
 Date = 2024-08-26T01:45:01+04:00
 title = "Glenn Diesen"
-Pronouns = "Dr."
+Pronouns = ""
 Twitter = "GLenn_Diesen"
 Website = "https://glenndiesen.substack.com/"
 Type = "guest"
