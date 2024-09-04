@@ -1,15 +1,15 @@
 +++
 
 Date = 2024-09-03T00:15:00-04:00
-upcoming = true
+upcoming = false
 
 title = "Benyamin Poghosyan - Armenia, Artsakh, Pashinyan Press Conf, Putin in Baku  | Ep 358 - Sep 1, 2024"
 subtitle = "Groong Week in Review - September 1, 2024"
 
-podcast_file = ""
-podcast_bytes = ""
-podcast_duration = ""
-youtube = ""
+podcast_file = "15691812-benyamin-poghosyan-armenia-artsakh-pashinyan-press-conf-putin-in-baku-ep-358-sep-1-2024.mp3"
+podcast_bytes = "48682147"
+podcast_duration = "4054"
+youtube = "1PW4ZBI9RIU"
 
 episode_image = "img/episode/358/thumbnail-358.webp"
 episode_banner = "img/episode/358/banner-358.webp"
