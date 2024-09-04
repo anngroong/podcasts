@@ -144,8 +144,6 @@ Armenia, meanwhile, [launched](https://bm.ge/en/news/international-conference-on
 * What is the Armenia-BRICS initiative about?
 * How does alignment with BRICS alter the South Caucasus, and also, where is Georgia in relation with BRICS?
 
-Alright, that’s it for today. Let me ask you if there's something on your mind that you want to share.
-
 
 ## Topics from the Panelists
 * **Benyamin**: Armenia without Artsakh is very vulnerable; All Armenians should think about how to reduce this vulnerability
