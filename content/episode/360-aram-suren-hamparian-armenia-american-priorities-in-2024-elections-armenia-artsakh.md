@@ -1,9 +1,9 @@
 +++
-Date = 2024-09-05T01:00:00+04:00
+Date = 2024-09-06T01:00:00+04:00
 upcoming = true
 
-title = "Aram Suren Hamparian - Armenian American Priorities in 2024 | Ep 360 - Sep 5, 2024"
-subtitle = "Conversations on Groong - 09/05/2024"
+title = "Aram Suren Hamparian - Armenian American Priorities in 2024 | Ep 360 - Sep 6, 2024"
+subtitle = "Conversations on Groong - 09/06/2024"
 
 podcast_file = ""
 podcast_bytes = ""
@@ -38,7 +38,7 @@ Description = """
 * TBD
 
 
-Episode 360 | Recorded: September 5, 2024
+Episode 360 | Recorded: September 4, 2024
 """
 
 +++
