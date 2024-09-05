@@ -19,7 +19,7 @@ hosts = ["hovik","asbed"]
 episode = "316"
 aliases = ["/316"]
 
-series = ["cog"]
+series = ["cog", "video"]
 categories = ["Canada", "Armenia"]
 explicit = "no" # values are "yes" or "no"
 tags = ["Canada", "Ambassador Turner", "Andrew Turner", "Armenia", "Canadian Embassy", "Yerevan", "Artsakh", "Nagorno Karabakh", "Ethnic cleansing", "Armenian-Canadian diaspora", "Armenian Genocide", "Armenian Republic", "Democracy", "Security", "CSTO", "Collective Security Treaty Organization", "EU Monitoring Mission", "NATO", "Political prisoner", "POW", "Azerbaijan", "Baku"]

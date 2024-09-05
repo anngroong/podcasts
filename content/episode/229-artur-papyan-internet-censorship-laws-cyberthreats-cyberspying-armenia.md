@@ -16,7 +16,7 @@ aliases = ["/229"]
 youtube = "fp74jmijm1k"
 explicit = "no"
 
-series = ["cog"]
+series = ["cog", "video"]
 categories = ["Armenia", "Technology", "Media"]
 tags = ["Arthur Papyan", "Armenia", "Cybersecurity", "IT", "Information Technology", "Hacking", "Websites", "InfoSec", "Information Security", "Internet Censorship", "Martial Law", "Pegasus", "NSO", "Predator", "Amnesty International", "CPJ", "Committee on Protecting Journalists", "Union of Journalists"]
 title = "Artur Papyan: Cyber Laws and Threats in Armenia"

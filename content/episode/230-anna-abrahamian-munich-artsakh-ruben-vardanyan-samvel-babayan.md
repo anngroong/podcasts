@@ -16,7 +16,7 @@ aliases = ["/230"]
 youtube = "Jw62cCERF64"
 explicit = "no"
 
-series = ["cog"]
+series = ["cog", "video"]
 categories = ["Armenia", "Artsakh", "Politics"]
 tags = ["Anna Abrahamian", "Munich Security Conference", "China", "Russia", "United States", "Antony Blinken", "Charles Michel", "Emmanuel Macron", "Armenia", "Azerbaijan", "France", "Nikol Pashinyan", "Ilham Aliyev", "Vladimir Putin", "Joe Biden", "Moldova", "OSCE Minsk Group", "South Caucasus", "Arayik Harutyunyan", "Ruben Vardanyan", "Samvel Babayan"]
 title = "Anna Abrahamian: Munich Security Conference | Artsakh"

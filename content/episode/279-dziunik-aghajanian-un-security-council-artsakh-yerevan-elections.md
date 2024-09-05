@@ -15,7 +15,7 @@ episode = "279"
 aliases = ["/279"]
 youtube = "Xtoo9gyDYRc"
 
-series = ["cog"]
+series = ["cog", "video"]
 categories = ["Armenia", "Artsakh", "Politics", "Relations"]
 tags = ["Dziunik Aghajanian", "Armenia", "Artsakh", "Nagorno Karabakh", "UN Security Council", "Samvel Shahramanyan", "Mayr Hayastan", "Yerevan", "Yerevan Mayor", "Yerevan Elections", "Andranik Tevanyan", "Tigran Avinyan", "Hayk Marutyan", "Civil Contract", "National Progress"]
 

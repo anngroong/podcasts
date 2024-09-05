@@ -15,8 +15,8 @@ episode = "359"
 aliases = ["/359"]
 youtube = "lgpgyOmiQ04"
 
-series = ["cog"]
-categories = ["Russia", "Ukraine"]
+series = ["cog", "video"]
+categories = ["Russia", "Ukraine", "Video"]
 title = "Glenn Diesen - Russia and The Eurasian World Order | Ep 359 - Sep 4, 2024"
 subtitle = "Conversations on Groong - September 4, 2024"
 Description = """

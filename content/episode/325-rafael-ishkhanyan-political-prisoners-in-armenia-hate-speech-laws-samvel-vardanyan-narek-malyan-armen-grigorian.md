@@ -20,7 +20,7 @@ episode = "325"
 aliases = ["/325"]
 explicit = "no" # values are "yes" or "no"
 
-series = ["sos"]
+series = ["sos", "video"]
 categories = ["Armenia", "Spotlight on Silence", "Political Prisoners"]
 tags = ["Armenian News", "Political Prisoners", "Rafael Ishkhanyan", "Armenia", "Democracy", "Rule of Law", "Police Brutality", "Samvel Vardanyan", "Narek Malyan", "Armen Grigoryan"]
 

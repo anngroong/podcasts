@@ -4,12 +4,10 @@ Date = 2024-07-13T20:20:32+04:00
 title = "Rafael Ishkhanyan - Report on Police Brutality on June 12, Armenia High Pretrial Detention Rate, Avetik Chalabyan | Ep 343 - July 11, 2024"
 subtitle = "ANN Groong - Spotlight on Silence"
 
-
 podcast_file = "15406871-rafael-ishkhanyan-june-12-pace-report-pretrial-detention-ashotyan-chalabyan-ep-343-jul-13-2024.mp3"
 podcast_bytes = "48369880"
 podcast_duration = "4028"
 youtube = "6f6o2RXkvmA"
-
 
 episode_image = "img/episode/343/thumbnail-343.webp"
 episode_banner = "img/episode/343/banner-343.webp"
@@ -19,6 +17,10 @@ hosts = ["hovik","asbed"]
 guests = ["rishkhanyan"]
 episode = "343"
 aliases = ["/343"]
+
+series = ["SOS", "video"]
+categories = ["Armenia", "Spotlight on Silence", "Political Prisoners"]
+tags = ["Armenian News", "Political Prisoners", "Rafael Ishkhanyan", "Armenian Center for Political Rights", "ACPR", "Armenia", "Democracy", "Rule of Law", "Police Brutality", "Constitutional Court", "Azerbaijan", "POW", "War", "Corruption", "June 12 Rally", "PACE Resolution", "Armenia", "Pretrial Detention", "Political Prisoner", "Armen Ashotyan", "Avetik Chalabyan", "Helsinki Committee", "ACPR", "Stun Grenades", "Freedom of Assembly", "Media Targeting", "Judicial Independence", "Article 136", "Article 236", "Political Persecution"]
 
 Description = """
 
