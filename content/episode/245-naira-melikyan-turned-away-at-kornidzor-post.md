@@ -16,7 +16,7 @@ aliases = ["/245"]
 youtube = "taYSdy5bdTg"
 explicit = "no" # values are "yes" or "no"
 
-series = ["cog"]
+series = ["cog", "video"]
 categories = ["Armenia", "Artsakh", "Politics"]
 tags = ["Naira Melikyan", "Armenia", "Artsakh", "Nagorno Karabakh", "Tegh", "Kornidzor", "Berdzor", "Lachin", "Berdzor Corridor", "Azerbaijani Incursion", "Miasin Movement", "Together Movement"]
 title = "Naira Melikyan: Turned Away at Kornidzor Post | Ep 245 - Apr 7, 2023"

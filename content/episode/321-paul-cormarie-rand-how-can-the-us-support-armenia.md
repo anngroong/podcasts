@@ -20,7 +20,7 @@ episode = "321"
 aliases = ["/321"]
 explicit = "no" # values are "yes" or "no"
 
-series = ["cog"]
+series = ["cog", "video"]
 categories = ["USA", "Armenia", "Video", "Politics"]
 tags = ["Armenian News", "Armenia", "United States", "Azerbaijan", "Paul Cormarie", "RAND", "Diplomacy", "South Caucasus", "MANPADS", "MANPATS", "Stinger", "Missiles", "Turkey", "Iran", "Russia", "Georgia"]
 

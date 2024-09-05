@@ -4,12 +4,10 @@ Date = 2024-06-17T11:05:32+04:00
 title = "Rafael Ishkhanyan - Protesters Arrested, MPs Beaten, Artsakh Mayors Jailed | Ep 336 - Jun 16, 2024"
 subtitle = "ANN Groong - Spotlight on Silence"
 
-
 podcast_file = "15260944-rafael-ishkhanyan-protesters-arrested-mps-beaten-artsakh-mayors-jailed-ep-336-jun-16-2024.mp3"
 podcast_bytes = "54214125"
 podcast_duration = "4515"
 youtube = "7w3kUKgwtWc"
-
 
 episode_image = "img/episode/336/thumbnail-336.webp"
 episode_banner = "img/episode/336/banner-336.webp"
@@ -19,6 +17,9 @@ hosts = ["hovik","asbed"]
 guests = ["rishkhanyan"]
 episode = "336"
 aliases = ["/336"]
+
+series = ["SOS", "video"]
+categories = ["Armenia", "Spotlight on Silence", "Political Prisoners"]
 
 Description = """
 

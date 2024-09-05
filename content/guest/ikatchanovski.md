@@ -1,7 +1,7 @@
 +++
 Date = 2024-09-01T01:45:01+04:00
 title = "Ivan Katchanovski"
-Pronouns = "Dr."
+Pronouns = ""
 Twitter = "i_katchanovski"
 Website = "https://uniweb.uottawa.ca/view/profile/members/1150"
 Type = "guest"

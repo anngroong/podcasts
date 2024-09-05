@@ -20,7 +20,7 @@ hosts = ["asbed","hovik"]
 episode = "290"
 aliases = ["/290"]
 
-series = ["cog"]
+series = ["cog", "video"]
 categories = ["Armenia", "Artsakh", "Video", "Israel"]
 explicit = "no" # values are "yes" or "no"
 tags = ["Levon Zourabian", "Armenia", "Artsakh", "Nagorno Karabakh", "Armenian National Congress", "ANC", "Armenian National Movement", "Yelk", "Levon Ter Petrosyan", "Nikol Pashinyan", "Democracy", "44-Day War", "Azerbaijan", "Russia", "United States", "European Union", "Artsakh Refugees", "Genocide", "Dispossession", "Rights and Security", "Israel", "Ukraine", "Ukraine War", "Russia", "NATO", "South Caucasus", "Iran", "Robert Kocharyan"]

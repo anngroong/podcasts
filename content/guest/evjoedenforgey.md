@@ -1,7 +1,7 @@
 +++
 Date = 2024-06-28T01:45:01+04:00
 title = "Elisa von Joeden Forgey"
-Pronouns = "Dr."
+Pronouns = ""
 Twitter = "LemkinInstitute"
 Website = ""
 Type = "guest"

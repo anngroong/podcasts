@@ -19,7 +19,7 @@ explicit = "no"
 title = "Hrant Mikaelian - Analysis of Recent MPG and IRI Poll Results| Ep 317 - Feb 17, 2024"
 subtitle = "Conversations on Groong - 03/17/2024"
 
-series = ["cog"]
+series = ["cog", "video"]
 categories = ["Armenia", "Politics", "Poll"]
 tags = ["Hrant Mikaelian", "Armenia", "Artsakh", "Nagorno Karabakh", "Polls", "Armenian armed forces", "Armenian public opinion", "Armenian strategic interests", "Artsakh Armenians", "Artsakh crisis handling", "Artsakh leadership", "Azerbaijan", "CSTO", "CSTO and EAEU departure", "Constitutional Court", "Corruption", "Displaced Armenians", "IRI", "International Republican Institute", "MPG", "NATO", "Nikol Pashinyan", "POW", "Poll Results", "Russian-Armenian relations", "War", "Military cooperation with France", "Risk of War", "Visa-free Regime With EU"]
 
