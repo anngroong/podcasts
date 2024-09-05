@@ -14,7 +14,7 @@ Instagram = ""
 YouTube = ""
 Twitch = ""
 #Aka = []
-#guest_group = "wir"
+#guest_group = "cog"
 +++
 
-Aram Suren Hamparian is the Executive Director of the Armenian National Committee of America.
+Aram Suren Hamparian is the Executive Director of the Armenian National Committee of America, in Washington DC.
