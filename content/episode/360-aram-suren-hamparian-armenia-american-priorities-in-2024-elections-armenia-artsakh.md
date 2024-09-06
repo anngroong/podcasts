@@ -1,14 +1,14 @@
 +++
 Date = 2024-09-06T01:00:00+04:00
-upcoming = true
+upcoming = false
 
 title = "Aram Suren Hamparian - Armenian American Priorities in the 2024 US Elections | Ep 360 - Sep 6, 2024"
 subtitle = "Conversations on Groong - 09/06/2024"
 
-podcast_file = ""
-podcast_bytes = ""
-podcast_duration = ""
-youtube = ""
+podcast_file = "15708570-aram-suren-hamparian-armenian-american-priorities-in-the-2024-us-elections-ep-360-sep-5-2024.mp3"
+podcast_bytes = "29642784"
+podcast_duration = "2467"
+youtube = "eNVLisA396Q"
 
 episode_image = "img/episode/360/thumbnail-360.webp"
 episode_banner = "img/episode/360/banner-360.webp"
@@ -88,6 +88,8 @@ Since Biden’s all-in support of Israel in its war on Gaza, allocating tens of 
 
 **Questions:**
 * Do Armenians have any similar movements?
+* What could the major candidates do to woo Armenian votes?
+    * References to the “Lawler Bill” [H.Res.7288](https://www.congress.gov/bill/118th-congress/house-bill/7288) and Senator Markey’s [S.Res.540](https://www.congress.gov/bill/118th-congress/senate-resolution/540).
 * Armenians also have a significant presence in Michigan, would it make sense to join forces with them?
     * In exchange, we could expect the benefit of collaboration when we have causes that can use greater numbers than we have.
 
