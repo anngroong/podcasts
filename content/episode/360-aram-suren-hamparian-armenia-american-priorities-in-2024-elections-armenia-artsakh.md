@@ -84,7 +84,7 @@ Trump’s administration did nothing to prevent or stop the 44-day war in 2020, 
 
 ### Arab-American Uncommitted Movement
 
-Since Biden’s all-in support of Israel in its war on Gaza, allocating tens of billions in aid, military and otherwise, while Israel has killed over 40,000 Palestinians, Arab-Americans have started an “Uncommitted” national movement to tell this administration that their support is not a sure thing, and they need to hear a more thoughtful and balanced US approach to the war in Gaza. One reason why their movement has legs is that Michigan, specifically the area around Dearborn, has a heavy concentration of Arab Americans who vote, and Michigan is a so-called “swing state” in the coming elections.
+Since Biden’s all-in support of Israel in its war on Gaza, allocating tens of billions in aid, military and otherwise, while Israel has killed over 40,000 Palestinians, Arab-Americans have started an “[Uncommitted](https://apnews.com/article/uncommitted-biden-trump-war-15f96be36b4d5ac167c7ceda72fe65d1)” national movement to tell this administration that their support is not a sure thing, and they need to hear a more thoughtful and balanced US approach to the war in Gaza. One reason why their movement has legs is that Michigan, specifically the area around Dearborn, has a heavy concentration of Arab Americans who vote, and Michigan is a so-called “swing state” in the coming elections.
 
 **Questions:**
 * Do Armenians have any similar movements?
