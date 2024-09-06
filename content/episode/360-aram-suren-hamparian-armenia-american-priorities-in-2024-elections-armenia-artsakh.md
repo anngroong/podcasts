@@ -21,9 +21,9 @@ episode = "360"
 aliases = ["/360"]
 
 series = ["cog"]
-categories = ["Armenia", "Artsakh"]
+categories = ["Armenia", "Artsakh", "USA", "Elections"]
 explicit = "no" # values are "yes" or "no"
-tags = ["Armenian News", "Armenia", "Syunik", "Artsakh", "Nagorno-Karabakh", "Aram Suren Hamparian"]
+tags = ["Armenian News", "Artsakh", "Nagorno Karabakh", "Armenian American", "ANCA", "Aram Hamparian", "Ethnic Cleansing", "Genocide", "Armenian National Committee", "State Department", "Joe Biden", "Kamala Harris", "Donald Trump", "Tim Walz", "JD Vance", "Russia", "Azerbaijan", "Turkey", "Israel", "US President", "POTUS", "Christian Solidarity International", "In Defense of Christians", "International Christian Concern", "Save Armenia", "Syriac", "Chaldean", "Assyrian", "Kurdish", "Greek", "Washington DC", "Jewish World Watch", "H RES 7288", "Lawler Bill", "S RES 540"]
 
 Description = """
 
