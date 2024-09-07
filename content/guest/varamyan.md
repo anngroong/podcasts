@@ -8,7 +8,7 @@ Type = "guest"
 Facebook = "vardan.aramyan"
 Linkedin = ""
 GitHub = ""
-Thumbnail = "img/guest/Vardan-Aramyan-1.jpg"
+Thumbnail = "img/guest/Vardan-Aramyan-2.jpg"
 Pinterest = ""
 Instagram = ""
 YouTube = ""
@@ -17,4 +17,4 @@ Twitch = ""
 #guest_group = "cog"
 +++
 
-Vardan Aramyan is a former Minister of Finance of the Republic of Armenia, serving from 2016-2018. He is currently Senior VP of Finance and Economy at Vallex Group in Yerevan.
+__Mr. Vardan Aramyan__ is a former Minister of Finance of the Republic of Armenia, serving from 2016-2018. He is currently Senior VP of Finance and Economy at Vallex Group in Yerevan.
