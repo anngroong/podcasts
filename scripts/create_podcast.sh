@@ -28,6 +28,6 @@ ffmpeg \
 -i $image_filename \
 -filter_complex "[0:a]showwaves=s=${image_x}x${image_y}:scale=sqrt:colors=0xfbfbfb@0.3:mode=cline,format=yuva420p[v];[v]scale=${image_x}:${wave_height}[v];[1:v][v]overlay=(W-w)/2:H-h[outv]" \
 -map "[outv]" -pix_fmt yuv420p -map 0:a \
--c:v libx264 -c:a copy \
+-c:v libx264 \
 -preset ultrafast \
 $output_filename
