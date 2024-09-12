@@ -3,7 +3,7 @@
 Date = 2024-09-12T01:00:00+04:00
 upcoming = true
 
-title = "Dziunik Aghajanian - Iran Shuts Down Talk of  Zangezur Corridor, Regional Trade Routes, Accountability and the Foreign Intelligence Service, Georgian and Azerbaijani Elections | Ep 358 - Sep 1, 2024
+title = "Dziunik Aghajanian - Iran Shuts Down Talk of  Zangezur Corridor, Regional Trade Routes, Accountability and the Foreign Intelligence Service, Georgian and Azerbaijani Elections | Ep 358 - Sep 1, 2024"
 subtitle = "Week in Review - 09/08/2024"
 
 podcast_file = ""
