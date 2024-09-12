@@ -36,7 +36,10 @@ Description = """
 
 #### Topics:
 * Iran Shuts Down Talk of “Zangezur Corridor”
+* Armenia Azerbaijan Talks
 * Regional Trade Routes
+    * Iran Armenia Trade
+    * BRICS
 * Foreign Intelligence Service
 * Georgian and Azerbaijani Elections
 
