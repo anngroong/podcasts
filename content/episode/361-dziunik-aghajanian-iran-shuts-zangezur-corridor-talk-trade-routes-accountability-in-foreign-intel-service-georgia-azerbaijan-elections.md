@@ -23,7 +23,7 @@ explicit = "no"
 
 series = ["wir"]
 categories = ["Armenia", "Azerbaijan", "Borders"]
-tags = ["Armenian News", "CAESAR", "France", "Defense Cooperation", "Dziunik Aghajanian", "COP29", "Azerbaijan", "Turkey", "Russia", "Nikol Pashinyan", "Recep Erdogan", "Ilham Aliyev", "Armenia Azerbaijan Negotiations", "Border Concessions", "Tavush", "Kirants", "Georgia", "EU Parliament", "Political Right", "Extreme Right", "Emmanual Macron", "Olaf Scholtz", "Vector Orban"]
+tags = ["Armenian News", "Artsakh", "Nagorno Karabakh", "Dziunik Aghajanian", "Armenia", "Azerbaijan", "Georgia", "South Caucasus", "Turkey", "Russia", "Corridor", "Zangezur Corridor", "BRICS", "EU", "EAEU", "NATO", "NSS", "Foreign Intelligence Service", "Kristine Grigoryan", "Nikol Pashinyan", "Ilham Aliyev"]
 
 Description = """
 
