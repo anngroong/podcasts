@@ -2,9 +2,9 @@
 Date = 2024-09-13T02:00:00+04:00
 upcoming = true
 
-podcast_file = ""
-podcast_bytes = ""
-podcast_duration = ""
+podcast_file = "15744950-vardan-aramyan-armenian-economy-in-2024-ep-362-sep-13-2024.mp3"
+podcast_bytes = "52752842"
+podcast_duration = "4393"
 youtube = ""
 
 episode_image = "img/episode/362/thumbnail-362.webp"
@@ -35,14 +35,13 @@ Description = """
 * [Mr. Vardan Aramyan](/guest/varamyan) - Fmr. Minister of Finance, Republic of Armenia
 
 #### Topics:
-Inflation
-Monetary Policy
-Economic Performance
-Remittances
-National Debt
-Economic Outlook
-References
-
+* Inflation
+* Monetary Policy
+* Economic Performance
+* Remittances
+* National Debt
+* Economic Outlook
+* References
 
 Episode 362 | Recorded: Septemberr 11, 2024
 """
