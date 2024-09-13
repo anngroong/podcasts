@@ -11,7 +11,7 @@ episode_image = "img/episode/362/thumbnail-362.webp"
 episode_banner = "img/episode/362/banner-362.webp"
 images = ["img/episode/362/banner-362.webp"]
 
-title = "Vardan Araman - The Armenian Economy in 2024 | Ep 362 - Sep 13, 2024"
+title = "Vardan Aramyan - The Armenian Economy in 2024 | Ep 362 - Sep 13, 2024"
 subtitle = "Conversations on Groong - 09/13/2024"
 
 guests = ["varamyan"]
@@ -134,6 +134,23 @@ The [S&P sovereign rating](https://verelq.am/hy/node/148983) for Armenia remaine
 * What’s your outlook for the economy for the balance of 2024?
 * How would you rate the management of the Armenian economy?
 * What do you see as the risks to the Armenian economy?
+
+
+## References
+* [Armenia’s economic indicators maintain growth in January-July](https://armenpress.am/en/article/1198349)
+* [The sovereign rating of Armenia has been published](https://verelq.am/hy/node/148983)
+* [Առաջին յոթ ամիսներին տնտեսական ակտիվության ցուցանիշը կազմել է 9.6%](https://verelq.am/hy/node/148979)
+* [2024 in the first half of the year, both revenues and expenditures of the state budget were underachieved. "LUYS" Foundation](https://168.am/2024/08/26/2089404.html)
+* [Government expects around 6% economic growth in 2024](https://armenpress.am/en/article/1198344)
+* [Significant economic growth recorded in all sectors](https://armenpress.am/en/article/1198545)
+* [6,1% YoY drop recorded in tourism](https://armenpress.am/en/article/1198765)
+* [Exports of Armenian goods, excluding gold, drops 4%](https://armenpress.am/en/article/1198768)
+* [Armenia records decrease in remittances](https://armenpress.am/en/article/1198770)
+* [Economic activity remains high, says finance minister](https://armenpress.am/en/article/1198771)
+* [Հայաստանի տնտեսության լրջագույն խնդիրներն այլևս հնարավոր չէ քողարկել](https://168.am/2024/09/05/2093197.html)
+* [«Կառավարությունը կտրում է այն ճյուղը, որի վրա նստած է»․ մասնագետները՝ տնտեսության աճի տեմպերի թուլացման միտումների մասին](https://168.am/2024/09/05/2093075.html)
+* [ՀՀ իշխանությունների անակնկալ որոշումը․ ինչո՞ւ Թուրքիայի ու Ադրբեջանի հետևից ՀՀ իշխանությունները որոշեցին մասնակցել ԲՐԻԿՍ-ի գագաթնաժողովին](https://168.am/2024/09/05/2093158.html)
+* [Տնտեսության բացասական միտումների պատճառով զարկ են տվել հարկային տեռորի քաղաքականությանը․ տնտեսագետ](https://168.am/2024/08/28/2090136.html)
 
 # Wrap-up
 
