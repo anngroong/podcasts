@@ -128,7 +128,7 @@ Azerbaijan held parliamentary [elections](https://www.rferl.org/a/azerbaijan-ele
 
 
 ## Thoughts from the Participants
-* **Dziunik**: Everyone should see [«Անավարտ մարտը»](https://www.youtube.com/watch?v=R-UYAcjnfAg), a documentary on ethnic cleansing of Artsakh, which I see on Artsakh Independence day Sep. 2.
+* **Dziunik**: Everyone should see [«Անավարտ մարտը»](https://www.youtube.com/watch?v=R-UYAcjnfAg), a documentary on the ethnic cleansing of Artsakh, which I saw on Artsakh's Independence day, Sep. 2.
 * **Hovik**: Do not let Azerbaijan greenwash the ethnic cleansing of Artsakh. Ask your representatives to disclaim, and protest and not attend #COP29. Also, do not believe that moving Armen Ashotyan to house arrest means he is free. Remain vigilant about political prisoners in Armenia.
 
 
