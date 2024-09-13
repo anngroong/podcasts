@@ -1,11 +1,11 @@
 +++
 Date = 2024-09-13T02:00:00+04:00
-upcoming = true
+upcoming = false
 
 podcast_file = "15744950-vardan-aramyan-armenian-economy-in-2024-ep-362-sep-13-2024.mp3"
 podcast_bytes = "52752842"
 podcast_duration = "4393"
-youtube = ""
+youtube = "DOa06FSSxBI"
 
 episode_image = "img/episode/362/thumbnail-362.webp"
 episode_banner = "img/episode/362/banner-362.webp"
