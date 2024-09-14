@@ -24,7 +24,7 @@ aliases = ["/363"]
 series = ["cog"]
 categories = ["Georgia", "Armenia", "Elections"]
 explicit = "no" # values are "yes" or "no"
-tags = ["Armenian News", "Georgia", "Georgian Elections", "Georgian Dream", "UNM", "United National Movement", "Mikheil Saakashvili", "David Darchiashvili", "On Transparency of Foreign Influence", "Foreign Agent Law", "Putin’s Law", "Armenia", "Azerbaijan", "Border Delimitation", "Territorial Claims", "Russia", "EU", "European Union", "Europe", "America", "USA", "Human RIghts", "International Law", "OSCE", "PACE]
+tags = ["Armenian News", "Georgia", "Georgian Elections", "Georgian Dream", "UNM", "United National Movement", "Mikheil Saakashvili", "David Darchiashvili", "On Transparency of Foreign Influence", "Foreign Agent Law", "Putin’s Law", "Armenia", "Azerbaijan", "Border Delimitation", "Territorial Claims", "Russia", "EU", "European Union", "Europe", "America", "USA", "Human RIghts", "International Law", "OSCE", "PACE"]
 
 Description = """
 
