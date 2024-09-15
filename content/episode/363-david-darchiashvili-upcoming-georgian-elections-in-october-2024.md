@@ -1,6 +1,6 @@
 +++
 Date = 2024-09-14T00:00:00+04:00
-upcoming = true
+upcoming = false
 
 title = "David Darchiashvili - Georgian Elections in October 2024| Ep 363 - Sep 14, 2024"
 subtitle = "Conversations on Groong - 09/14/2023"
