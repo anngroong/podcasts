@@ -1,8 +1,8 @@
 +++
 Date = 2024-09-16T00:00:00+04:00
-upcoming = true
+upcoming = false
 
-title = "David Darchiashvili - Georgian Elections in October 2024| Ep 364 - Sep 14, 2024"
+title = "DavGiro Manoyan - The ARF in Armenia’s Politics | Ep 364 - Sep 16, 2024"
 subtitle = "Conversations on Groong - 09/16/2024"
 author = "Armenian News Network - Groong"
 
