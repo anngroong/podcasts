@@ -3,7 +3,7 @@ Date = 2024-09-14T00:00:00+04:00
 upcoming = false
 
 title = "David Darchiashvili - Georgian Elections in October 2024| Ep 363 - Sep 14, 2024"
-subtitle = "Conversations on Groong - 09/14/2023"
+subtitle = "Conversations on Groong - 09/14/2024"
 author = "Armenian News Network - Groong"
 
 podcast_file = "15753197-david-darchiashvili-georgian-elections-in-october-2024-ep-363-sep-14-2024.mp3"
