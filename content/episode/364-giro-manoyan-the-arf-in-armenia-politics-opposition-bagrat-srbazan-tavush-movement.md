@@ -6,10 +6,10 @@ title = "David Darchiashvili - Georgian Elections in October 2024| Ep 364 - Sep 
 subtitle = "Conversations on Groong - 09/16/2024"
 author = "Armenian News Network - Groong"
 
-podcast_file = ""
-podcast_duration = ""
-podcast_bytes = ""
-youtube = ""
+podcast_file = "15764771-giro-manoyan-the-arf-in-armenia-s-politics-ep-364-sep-16-2024.mp3"
+podcast_duration = "41676958"
+podcast_bytes = "3470"
+youtube = "vzU7q1-RhnE"
 
 episode_image = "img/episode/364/thumbnail-364.webp"
 episode_banner = "img/episode/364/banner-364.webp"
