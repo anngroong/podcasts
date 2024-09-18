@@ -2,7 +2,7 @@
 Date = 2024-09-16T00:00:00+04:00
 upcoming = false
 
-title = "DavGiro Manoyan - The ARF in Armenia’s Politics | Ep 364 - Sep 16, 2024"
+title = "Giro Manoyan - The ARF in Armenia’s Politics | Ep 364 - Sep 16, 2024"
 subtitle = "Conversations on Groong - 09/16/2024"
 author = "Armenian News Network - Groong"
 
