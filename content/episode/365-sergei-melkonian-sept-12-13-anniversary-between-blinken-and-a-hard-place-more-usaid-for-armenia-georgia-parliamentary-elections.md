@@ -1,13 +1,12 @@
 +++
 Date = 2024-05-19T00:15:00-07:00
-upcoming = true
 
 title = "Sergei Melkonian - September 12-13 Anniv, Armenia Azerbaijan Talks, More USAID, Georgian Parliamentary Elections | Ep 365 - Sep 15, 2024"
 subtitle = "Armenian News Network Groong - Sep. 15, 2024"
 
 podcast_file = "15779987-sergei-melkonian-sep-12-13-anniv-am-az-talks-more-usaid-georgia-ep-365-sep-15-2024.mp3"
-podcast_bytes = "43421550"
-podcast_duration = "3616"
+podcast_bytes = "43169521"
+podcast_duration = "3595"
 youtube = "5pPtU0FQOfY"
 
 episode_image = "img/episode/365/thumbnail-365.webp"
