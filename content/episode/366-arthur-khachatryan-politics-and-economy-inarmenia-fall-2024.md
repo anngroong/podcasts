@@ -1,15 +1,15 @@
 +++
 Date = 2024-09-21T00:00:00+04:00
-upcoming = true
+upcoming = false
 
 title = "Arthur Khachatryan - Politics and Economy in Armenia, Fall 2024 | Ep 366 - Sep 21, 2024"
 subtitle = "Conversations on Groong - 09/21/2024"
 author = "Armenian News Network - Groong"
 
-podcast_file = ""
-podcast_duration = ""
-podcast_bytes = ""
-youtube = ""
+podcast_file = "15790585-arthur-khachatryan-politics-and-economy-in-armenia-fall-2024-ep-366-sep-21-2024.mp3"
+podcast_duration = "32789945"
+podcast_bytes = "2729"
+youtube = "LWUBVFWj6GQ"
 
 episode_image = "img/episode/366/thumbnail-366.webp"
 episode_banner = "img/episode/366/banner-366.webp"
