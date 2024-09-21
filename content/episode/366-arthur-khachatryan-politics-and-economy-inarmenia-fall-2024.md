@@ -15,7 +15,7 @@ episode_image = "img/episode/366/thumbnail-366.webp"
 episode_banner = "img/episode/366/banner-366.webp"
 images = ["img/episode/366/banner-366.webp"]
 
-guests = ["akhchatryan"]
+guests = ["akhachatryan"]
 hosts = ["asbed","hovik"]
 
 episode = "366"
@@ -32,7 +32,7 @@ Description = """
 * [linktr.ee/Groong](https://linktr.ee/groong)
 
 #### Guest:
-* [Mr. Arthur Khachatryan](/guest/akhchatryan)
+* [Mr. Arthur Khachatryan](/guest/akhachatryan)
 
 #### Topics:
 * The Government’s Track Record
