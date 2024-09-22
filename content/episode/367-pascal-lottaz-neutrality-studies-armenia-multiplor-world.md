@@ -1,15 +1,15 @@
 +++
 Date = 2024-09-24T00:00:00+04:00
-upcoming = false
+upcoming = true
 
-title = "Pascal Lottaz - Neutrali Studies, Armenia and the Incoming Multipolar World | Ep 367 - Sep 24, 2024"
+title = "Pascal Lottaz - Neutrality Studies, Armenia and the Incoming Multipolar World | Ep 367 - Sep 24, 2024"
 subtitle = "Conversations on Groong - 09/24/2024"
 author = "Armenian News Network - Groong"
 
 podcast_file = ""
 podcast_duration = ""
 podcast_bytes = ""
-youtube = "true"
+youtube = ""
 
 episode_image = "img/episode/367/thumbnail-367.webp"
 episode_banner = "img/episode/367/banner-367.webp"
