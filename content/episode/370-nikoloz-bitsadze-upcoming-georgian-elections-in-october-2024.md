@@ -1,15 +1,15 @@
 +++
 Date = 2024-09-26T00:00:00+04:00
-upcoming = true
+upcoming = false
 
 title = "Nikoloz Bitsadze - Georgian Elections in October 2024| Ep 370 - Sep 26, 2024"
 subtitle = "Conversations on Groong - 09/26/2024"
 author = "Armenian News Network - Groong"
 
-podcast_file = ""
-podcast_duration = ""
-podcast_bytes = ""
-youtube = ""
+podcast_file = "15823829-nikoloz-bitsadze-georgian-elections-in-october-2024-ep-370-sep-26-2024.mp3"
+podcast_duration = "42355371"
+podcast_bytes = "3526"
+youtube = "g-2Lj8Ry7mw"
 
 episode_image = "img/episode/370/thumbnail-370.webp"
 episode_banner = "img/episode/370/banner-370.webp"
