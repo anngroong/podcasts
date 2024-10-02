@@ -40,8 +40,6 @@ Episode 371 | Recorded: September 30, 2024"""
 
 +++
 
-# Topics This Week
-
 ## Sep 27: Start of the 44-Day War
 
 Last week marked the 4th anniversary of the beginning of the 44-Day war which culminated a year ago with the complete ethnic cleansing of Artsakh by Azerbaijan.
@@ -55,7 +53,6 @@ Some key notes to keep in mind:
 * After Sep 27 2020, we had 2  more wars… In June of 2021 when Azerbaijan captured several areas of the Gegharkunik region. Then in Jermuk in September 2022, when in one day we had more than 200 dead.
 
 **Questions:**
-
 * What were your thoughts on this difficult day in our modern history?
 * Has the war even ended?
 * Is Armenia rebuilding its military? Has military balance been restored?
@@ -74,12 +71,10 @@ Pashinyan [met](https://www.azatutyun.am/a/33133116.html) with Erdogan in New Yo
 The meeting with Erdogan ended with Pashinyan receiving a book authored by Erdogan, “A Fairer World Is Possible”. Pashinyan was photographed grinning and clutching the book close to his chest.
 
 **Questions:**
-
 * What is Erdogan’s vision for a “fairer world” in the Caucasus?
 * Is Pashinyan at a dead end?
 
 NOTE:
-
 * On October 2, 2020 (in the middle of the war), Pashinyan [said](https://www.primeminister.am/en/interviews-and-press-conferences/item/2020/10/02/Nikol-Pashinyan-interview-The-Globe-and-Mail/) that “... Turkey has returned to the South Caucasus, in order to continue the Armenian genocide here.” What has changed, or has he forgotten what he said 4 years ago?
 
 
@@ -88,21 +83,17 @@ NOTE:
 A [trilateral meeting](https://www.azatutyun.am/a/33136598.html) of Armenian and Azerbaijani FMs with Secretary Anthony Blinken yielded no immediate discernible result.
 
 **Questions:**
-
 * Is there any progress to the Armenian-Azerbaijani talks?
 * Does the US have any leverage over Azerbaijan to make any agreements happen?
 
 
 ### No “Peace Treaty” Before Constitutional Changes
 
-~~In his speech at the UNGA, Pashinyan once again [said](https://www.azatutyun.am/a/33137668.html) that a so-called peace treaty should be signed with only the 13 points on which there’s an agreement. This had already been rejected by Azerbaijan many times.~~
-
 In response to Pashinyan’s [speech](https://www.azatutyun.am/a/33137668.html), Azerbaijan’s foreign minister Jayhun Bayramov repeated Azerbaijan’s rejection of a partial “peace treaty” and re-confirmed that Armenia must change its constitution. (Another point that is currently not agreed upon, is the so-called Zangezur corridor.)
 
 Pashinyan says that the Armenian constitution does not contain claims on Azerbaijani territory, but their constitution makes claims to Armenian territory. However, he says that he doesn’t think that this is a problem because the “peace agreement supersedes domestic law.”
 
 **Questions:**
-
 * Is Pashinyan right?
 * What happens if Armenia changes its constitution per Aliyev’s demand, and removes alleged claims to Azerbaijan’s territories. Obviously this demand aims to legitimize the ethnic cleansing of Artsakh and the dispossession of the Armenians with international legal basis. Afterwards Azerbaijan tears the so-called “peace agreement”, and returns to claim Armenian territories per its constitution. Where does that leave Armenia?
 
@@ -113,8 +104,6 @@ During this past week Armenia’s constitutional court [rubber stamped](https://
 
 Let’s be clear: the so-called agreement of principles of delineating the border between Armenia and Azerbaijan is a bullshit agreement.
 
-
-
 * It claims that the process will be based on the 1991 Alma Ata declaration.
     * That declaration contains no maps. Soviet intra-state maps were not international borders, and are in the possession of the Russian defense ministry. Azerbaijan has refused the use of maps, and Armenia has essentially excluded Russia from the negotiations process.
 * Azerbaijan has said it will use different maps for different border segments, whichever are more advantageous to them; alternately it may also not use any maps.
@@ -123,7 +112,6 @@ Let’s be clear: the so-called agreement of principles of delineating the borde
 So you can see that the key principle here is that there are no principles. It’s a snow job, to sell to the Armenian public whatever Aliyev wants from Pashinyan.
 
 **Questions**:
-
 * How could the constitutional court sign off on this?
 * Obviously the parliament will ratify this, because there’s a ruling party super majority which can not be stopped, even though all the parliamentary opposition groups have said that they will vote against it. What can be done here?
 * How is the government ramming this through the people? (in the media campaigns, etc)
@@ -133,7 +121,6 @@ So you can see that the key principle here is that there are no principles. It�
 Last weekend Bagrat Srbazan held a gathering to relaunch the Tavush For The Homeland movement he started in April.
 
 **Questions**:
-
 * What are your impressions? Does it look like this movement is ready, or ramping up to apply popular pressure on the government to not go forward with further mistakes? (aka: unilateral concessions).
 
 
@@ -142,7 +129,6 @@ Last weekend Bagrat Srbazan held a gathering to relaunch the Tavush For The Home
 Last week the parliament [approved](https://verelq.am/hy/node/150470) the government’s draft 2025 budget of about $9 Billion.
 
 **Summary:**
-
 * Budget expenditures of $8.93B
 * Ongoing expenses of $7.05B
 * Capital expenditures of $1.88B
@@ -154,7 +140,6 @@ Last week the parliament [approved](https://verelq.am/hy/node/150470) the govern
 A 20% growth in the [defense budget](https://verelq.am/hy/node/150476) is earmarked to “increase resilience” of Armenia’s security. So in 2025 the defense budget will be $1.7B, compared to Azerbaijan’s $3.9B.
 
 **Questions:**
-
 * What are your thoughts about this budget?
 * Given that the government has a dismal record in hitting its targets both in expenditures, as well revenues, do these targets look reasonable?
     * Note: as far as tax revenues are concerned, the government thinks it can increase revenues by 25% [through](https://armenpress.am/en/article/1200790) “improvements in tax administration, fight against shadow economy, as well as other tax policies.”
@@ -164,8 +149,12 @@ A 20% growth in the [defense budget](https://verelq.am/hy/node/150476) is earmar
 We recently discussed with economist and former minister of finance Vardan Aramyan, who expressed concern that consumer debt, especially due to home mortgages, is rising at an alarming rate, given that their income is not keeping pace with their debt.
 
 **Questions:**
-
 * What is fueling all the borrowing, is it a government promoted modus vivendi?
+
+
+## Thoughts from the Panelists
+* **Hrant**: The Church and its government dilemma
+* **Hovik**: On the speech of the Catholicos; also: Stay active against Azerbaijan's greenwashing of ethnic cleansing via #COP29
 
 # Wrap-up
 
