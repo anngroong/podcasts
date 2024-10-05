@@ -1,15 +1,15 @@
 +++
 Date = 2024-10-05T00:00:00+04:00
-upcoming = true
+upcoming = false
 
 title = "Vahram Ter Matevosyan - The Dynamics of Identity and Geopolitics in the South Caucasus | Ep 372 - Oct 5, 2024"
 subtitle = "Conversations on Groong - 10/05/2024"
 author = "Armenian News Network - Groong"
 
-podcast_file = ""
-podcast_duration = ""
-podcast_bytes = ""
-youtube = ""
+podcast_file = "15873330-vahram-ter-matevosyan-the-dynamics-of-identity-and-geopolitics-in-the-south-caucasus-ep-372-oct-5-2024.mp3"
+podcast_duration = "43623838"
+podcast_bytes = "3632"
+youtube = "E6flKbFgWvk"
 
 episode_image = "img/episode/372/thumbnail-372.webp"
 episode_banner = "img/episode/372/banner-372.webp"
