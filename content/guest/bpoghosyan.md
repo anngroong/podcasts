@@ -12,6 +12,7 @@ Thumbnail = "img/guest/Benyamin-Poghosyan-3.jpg"
 Pinterest = ""
 Instagram = "BeniaminPoghosyan"
 YouTube = ""
+Telegram = "southcaucasus"
 Twitch = ""
 #Aka = []
 #guest_group = "cog"
