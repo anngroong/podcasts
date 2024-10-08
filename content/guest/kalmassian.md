@@ -12,6 +12,7 @@ Thumbnail = "img/guest/Kevork-Almassian-1.png"
 Pinterest = ""
 Instagram = ""
 YouTube = "SyrianaAnalysis"
+Telegram = "SyrianaAnalysis"
 Twitch = ""
 #Aka = []
 #guest_group = "cog"

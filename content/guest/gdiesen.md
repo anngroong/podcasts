@@ -12,6 +12,7 @@ Thumbnail = "img/guest/Glenn-Diesen-1.webp"
 Pinterest = ""
 Instagram = ""
 YouTube = ""
+Telegram = "glenndiesen"
 Twitch = ""
 #Aka = []
 #guest_group = "cog"

@@ -12,6 +12,7 @@ Thumbnail = ""
 Pinterest = ""
 Instagram = ""
 YouTube = ""
+Telegram = ""
 Twitch = ""
 #Aka = []
 #guest_group = ""

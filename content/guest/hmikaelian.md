@@ -12,6 +12,7 @@ Thumbnail = "img/guest/Hrant-Mikaelian-2.png"
 Pinterest = ""
 Instagram = ""
 YouTube = ""
+Telegram = "dataarm"
 Twitch = ""
 #Aka = []
 #guest_group = "wir"

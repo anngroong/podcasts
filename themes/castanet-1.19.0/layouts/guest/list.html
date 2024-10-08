@@ -66,6 +66,9 @@
             {{ with .Params.YouTube }}
               {{ partial "social-link.html" (dict "context" . "aclass" "" "iclass" "fab fa-youtube-square fa-2x" "prefix" "https://www.youtube.com/" "text" "") }}
             {{ end }}
+            {{ with .Params.Telegram }}
+              {{ partial "social-link.html" (dict "context" . "aclass" "" "iclass" "fab fa-telegram fa-2x" "prefix" "https://t.me/" "text" "") }}
+            {{ end }}
             {{ with .Params.Twitch }}
               {{ partial "social-link.html" (dict "context" . "aclass" "" "iclass" "fab fa-twitch fa-2x" "prefix" "https://twitch.tv/" "text" "") }}
             {{ end }}

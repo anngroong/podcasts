@@ -12,6 +12,7 @@ Thumbnail = "img/guest/Varuzhan-Geghamyan-1.jpg"
 Pinterest = ""
 Instagram = ""
 YouTube = ""
+Telegram = "varuzhandragoman"
 Twitch = ""
 #Aka = []
 #guest_group = "wir,cog"

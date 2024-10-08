@@ -12,6 +12,7 @@ Thumbnail = "img/guest/Ehsan-Movahedian-1.jpg"
 Pinterest = ""
 Instagram = ""
 YouTube = ""
+Telegram = "ehsan_movahedian"
 Twitch = ""
 #Aka = []
 #guest_group = "cog"

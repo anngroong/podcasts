@@ -13,6 +13,7 @@ Pinterest = ""
 Instagram = "elbakyan_edgar"
 YouTube = "elbakyanedgar"
 Twitch = ""
+Telegram = "elbakyan_edgar"
 #Aka = []
 #guest_group = "wir,cog"
 +++
