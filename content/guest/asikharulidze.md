@@ -12,6 +12,7 @@ Thumbnail = "img/guest/Archil-Sikharulidze-1.jpg"
 Pinterest = ""
 Instagram = ""
 YouTube = ""
+Telegram = "scienceAlive"
 Twitch = ""
 #Aka = []
 #guest_group = "cog"
