@@ -6,9 +6,9 @@ podcast_duration = "1614"
 podcast_bytes = "19398375"
 youtube = "WnJf_HddRAs"
 
-episode_image = "img/episode/368/thumbnail-369.webp"
-episode_banner = "img/episode/368/banner-369.webp"
-images = ["img/episode/368/banner-369.webp"]
+episode_image = "img/episode/369/thumbnail-369.webp"
+episode_banner = "img/episode/369/banner-369.webp"
+images = ["img/episode/369/banner-369.webp"]
 
 hosts = ["asbed", "hovik"]
 episode = "369"
