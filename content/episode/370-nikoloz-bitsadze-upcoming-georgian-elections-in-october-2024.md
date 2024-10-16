@@ -29,6 +29,7 @@ tags = ["Armenian News", "Georgia", "Georgian Elections", "Georgian Dream", "UNM
 Description = """
 
 #### Groong Links:
+* [GIVE to GROONG](https://podcasts.groong.org/donate)
 * [linktr.ee/Groong](https://linktr.ee/groong)
 
 #### Guest:
