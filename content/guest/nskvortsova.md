@@ -18,4 +18,4 @@ Twitch = ""
 #guest_group = ""
 +++
 
-__Dr. Nino Skvortsova__ is a scholar who researches media studies, and regime transformation in the South Caucasus. Currently she is a post-graduate, PhD candidate, researching Regime transformation of Georgia. She has MA in Theory and History of International Relations from RUDN, the Peoples’ Friendship University of Russia, and has also studied Social Sciences at the Caucasus International University in Tbilisi, Georgia.
+__Nino Skvortsova__ is a scholar who researches media studies, and regime transformation in the South Caucasus. Currently she is a post-graduate, PhD candidate, researching Regime transformation of Georgia. She has MA in Theory and History of International Relations from RUDN, the Peoples’ Friendship University of Russia, and has also studied Social Sciences at the Caucasus International University in Tbilisi, Georgia.
