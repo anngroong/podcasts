@@ -1,9 +1,9 @@
 +++
-Date = 2024-10-18T00:00:00+04:00
+Date = 2024-10-21T00:00:00+04:00
 upcoming = true
 
-title = "Nino Skvortsova - Political Science, Politics, and Identity in Georgia, Relations with Armenia | Ep 375 - Oct 18, 2024"
-subtitle = "Conversations on Groong - 10/18/2024"
+title = "Nino Skvortsova - Political Science, Politics, and Identity in Georgia, Relations with Armenia | Ep 375 - Oct 21, 2024"
+subtitle = "Conversations on Groong - 10/21/2024"
 author = "Armenian News Network - Groong"
 
 podcast_file = ""
