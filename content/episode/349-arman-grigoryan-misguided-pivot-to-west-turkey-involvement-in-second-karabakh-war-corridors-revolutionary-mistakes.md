@@ -144,6 +144,6 @@ In fact, without Turkey’s 1000% support of Azerbaijan, it’s hard to imagine 
 
 # Wrap-up
 
-That’s our [show](https://podcasts.groong.org/), we hope you found it useful. Please find us on [Social Media](https://lintr.ee/groong) and follow us everywhere you get your Armenian news.
+That’s our [show](https://podcasts.groong.org/), we hope you found it useful. Please find us on [Social Media](https://linktr.ee/groong) and follow us everywhere you get your Armenian news.
 
 Thanks to **Laura Osborn** for the music on our podcasts. We’ll talk to you soon!
