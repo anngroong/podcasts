@@ -87,4 +87,4 @@ In its 33 years of de facto independence, self-determination and self-government
 
 # Wrap-up
 
-All right, that’s our [show](https://podcasts.groong.org/), we hope you found it useful. Please find us on [Social Media](https://lintr.ee/groong) and follow us everywhere you get your Armenian news, the links are in the show notes. Thanks to **Laura Osborn** for the music on our podcasts. We’ll talk to you soon!
+All right, that’s our [show](https://podcasts.groong.org/), we hope you found it useful. Please find us on [Social Media](https://linktr.ee/groong) and follow us everywhere you get your Armenian news, the links are in the show notes. Thanks to **Laura Osborn** for the music on our podcasts. We’ll talk to you soon!

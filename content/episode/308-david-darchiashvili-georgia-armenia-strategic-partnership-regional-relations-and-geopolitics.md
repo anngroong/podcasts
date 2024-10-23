@@ -119,5 +119,5 @@ Georgia is concerned about Russian influence and encroachments from the north. A
 
 # Wrap-up
 
-That’s our [show](https://podcasts.groong.org/)! We hope you found it useful. Please find us on [Social Media](https://lintr.ee/groong) and follow us everywhere you get your Armenian news.
+That’s our [show](https://podcasts.groong.org/)! We hope you found it useful. Please find us on [Social Media](https://linktr.ee/groong) and follow us everywhere you get your Armenian news.
 Thanks to **Laura Osborn** for the music on our podcasts.

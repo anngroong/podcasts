@@ -156,5 +156,5 @@ Today, we talked about mostly cases of Armenian interest, such as the Armenian G
 
 # Wrap-up
 
-That’s our [show](https://podcasts.groong.org/), we hope you found it useful. Please find us on [Social Media](https://lintr.ee/groong) and follow us everywhere you get your Armenian news, the links are in the show notes.
+That’s our [show](https://podcasts.groong.org/), we hope you found it useful. Please find us on [Social Media](https://linktr.ee/groong) and follow us everywhere you get your Armenian news, the links are in the show notes.
 Thanks to **Laura Osborn** for the music on our podcasts. We’ll talk to you soon!
