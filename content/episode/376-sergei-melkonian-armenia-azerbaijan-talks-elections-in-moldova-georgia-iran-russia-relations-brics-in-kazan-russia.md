@@ -2,7 +2,7 @@
 Date = 2024-10-22T00:15:00-07:00
 upcoming = true
 
-title = "Sergei Melkonian - Armenia Azerbaijan, Moldova Georgia Elections, Iran Russia, BRICS in Kazan, Russia | Ep 376 - Oct 20, 2024
+title = "Sergei Melkonian - Armenia Azerbaijan, Moldova Georgia Elections, Iran Russia, BRICS in Kazan, Russia | Ep 376 - Oct 20, 2024"
 subtitle = "Armenian News Network Groong - Oct. 20, 2024"
 
 podcast_file = ""
