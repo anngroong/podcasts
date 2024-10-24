@@ -1,6 +1,6 @@
 +++
 Date = 2024-10-22T00:15:00-07:00
-upcoming = true
+upcoming = false
 
 title = "Sergei Melkonian - Armenia Azerbaijan, Moldova Georgia Elections, Iran Russia, BRICS in Kazan, Russia | Ep 376 - Oct 20, 2024"
 subtitle = "Armenian News Network Groong - Oct. 20, 2024"
@@ -131,7 +131,7 @@ BRICS is not a military alliance, it’s more of a loosely coupled grouping of c
 * **Hovik**: Armenian POWs and hostages are still in Azerbaijan. Actively demand their release, tweet with hashtag #COP29
     * Where are Pashinyan & Anna Hakobyan's "11,000 deserters and traitors” who lost the 44-day war?
 * **Sergei**: Azerbaijani parliament formed a committee on “Western Azerbaijan”, where is the response?
-    * Demand the return of Artsakh Armenians. Our Nation must preserve its long memory and stick to its values and agenda
+    * Demand the return of Artsakh Armenians. Our Nation must preserve its long memory and stick to its values and agenda.
 
 
 # Wrap-up
