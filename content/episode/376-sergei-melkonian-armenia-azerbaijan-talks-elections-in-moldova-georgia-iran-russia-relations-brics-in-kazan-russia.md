@@ -5,10 +5,10 @@ upcoming = false
 title = "Sergei Melkonian - Armenia Azerbaijan, Moldova Georgia Elections, Iran Russia, BRICS in Kazan, Russia | Ep 376 - Oct 20, 2024"
 subtitle = "Armenian News Network Groong - Oct. 20, 2024"
 
-podcast_file = ""
-podcast_bytes = ""
-podcast_duration = ""
-youtube = ""
+podcast_file = "15974803-sergei-melkonian-armenia-azerbaijan-talks-moldova-georgia-elections-iran-russia-relations-brics-in-kazan-russia-ep-376-oct-20-2024.mp3"
+podcast_bytes = "40280332"
+podcast_duration = "3354"
+youtube = "xzjnWEVMWo0"
 
 episode_image = "img/episode/376/thumbnail-376.webp"
 episode_banner = "img/episode/376/banner-376.webp"
