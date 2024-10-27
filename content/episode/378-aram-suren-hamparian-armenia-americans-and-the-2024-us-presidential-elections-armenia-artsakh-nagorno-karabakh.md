@@ -47,7 +47,7 @@ Episode 378 | Recorded: October 25, 2024
 +++
 
 ## The Hamparian Flag
-![The Hamparian Flag](/img/episode/378/Hamparian-Flaf-20241025.webp "Aram Hamparian's family flag from the US navy")
+![The Hamparian Flag](/img/episode/378/Hamparian-Flag-20241025.webp "Aram Hamparian's family flag from the US navy")
 
 
 ## Grading Methodology
