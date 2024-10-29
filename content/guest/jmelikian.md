@@ -17,4 +17,4 @@ Twitch = ""
 #guest_group = "cog"
 +++
 
-Johnny G. Melikian is a senior research fellow at the Orbeli Center for analysis, and the head of the Center for Political and Legal Studies. He has worked as a consultant for the International Crisis Group, and was a visiting fellow at Georgia’s Ilia State University
+__Johnny G. Melikian__ is a senior research fellow at the Orbeli Center for analysis, and the head of the Center for Political and Legal Studies. He has worked as a consultant for the International Crisis Group, and was a visiting fellow at Georgia’s Ilia State University
