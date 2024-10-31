@@ -34,13 +34,13 @@ Description = """
 * [linktr.ee/Groong](https://linktr.ee/groong)
 
 #### Guest:
-* [Aram Suren Hamparian, Exec. Dir. ANCA, DC](/guest/ahamparian)
+* [Anna Karapetyan](/guest/akarapetyan) Director of the Insight Analytical Center for Applied Policy and Research.
 
 #### Topics:
-* ANCA Endorsements Methodology
-* On the Major Presidential Candidates
-* Arab-Americans Still Uncommitted
-* Where is the Armenian Vote?
+* Armenia at the BRICS Summit
+* Armenia Azerbaijan Talks
+* Armenia at COP29
+* European Parliament Resolution
 
 Episode 379 | Recorded: October 29, 2024
 """
@@ -77,7 +77,6 @@ Finally, apparently right after the BRICS summit, the Azerbaijani government ann
     * In fact, the Armenian government [admitted](https://www.azatutyun.am/a/33167032.html) that different maps will be used for different regions of the border, despite previously saying that the Alma Ata declaration specified a distinct border at the time of the dissolution of the USSR.
 * What was Michael Carpenter’s message to Aliyev and Pashinyan? Has it lit some fire under Aliyev to move towards an agreement?
 * How can Armenia find value in the 3+3 platform?
-
 
 ### Potential Withdrawal of EU Monitors
 
