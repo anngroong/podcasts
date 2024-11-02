@@ -2,7 +2,7 @@
 Date = 2024-11-02T01:00:00+04:00
 upcoming = true
 
-title = "Harut Sassounian - Armenian American and the 2024 US Presidential Elections | Ep 380 - Oct 27, 2024"
+title = "Harut Sassounian - Armenian American and the 2024 US Presidential Elections | Ep 380 - Nov 2, 2024"
 subtitle = "Conversations on Groong - 11/02/2024"
 
 podcast_file = "16035070-harut-sassounian-armenian-americans-and-the-2024-us-presidential-elections-ep-380-nov-2-2024.mp3"
