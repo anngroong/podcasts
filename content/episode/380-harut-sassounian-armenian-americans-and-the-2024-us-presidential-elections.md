@@ -1,5 +1,5 @@
 +++
-Date = 2024-11-2T01:00:00+04:00
+Date = 2024-11-02T01:00:00+04:00
 upcoming = true
 
 title = "Harut Sassounian - Armenian American and the 2024 US Presidential Elections | Ep 380 - Oct 27, 2024"
@@ -14,7 +14,7 @@ episode_image = "img/episode/380/thumbnail-380.webp"
 episode_banner = "img/episode/380/banner-380.webp"
 images = ["img/episode/380/banner-380.webp"]
 
-guests = ["ahamparian"]
+guests = ["hsassounian"]
 hosts = ["asbed","hovik"]
 
 episode = "380"
@@ -32,7 +32,7 @@ Description = """
 * [linktr.ee/Groong](https://linktr.ee/groong)
 
 #### Guest:
-* [Harut Sassounian](/guest/ahamparian)
+* [Harut Sassounian](/guest/hsassounian)
 
 #### Topics:
 On the Major US Presidential Candidates
