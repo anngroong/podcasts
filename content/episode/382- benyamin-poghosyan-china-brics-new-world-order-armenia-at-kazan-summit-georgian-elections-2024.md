@@ -135,6 +135,6 @@ Regardless, as predicted, Zourabishvili, the opposition, and the NGO industry ar
 
 # Wrap-up
 
-That's our [Week in Review](https://podcasts.groong.org/), we hope you found it helpful. We invite your feedback and your suggestions, you can [find us](https://linktr.ee/groong) on most social media and podcast platforms.
+That’s our [show](https://podcasts.groong.org/)! We hope you found it useful. Please find us on [Social Media](https://linktr.ee/groong) and follow us everywhere you get your Armenian news.
 
 Thanks to __Laura Osborn__ for the music on our podcasts.
