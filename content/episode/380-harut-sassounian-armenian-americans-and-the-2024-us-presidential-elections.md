@@ -1,6 +1,6 @@
 +++
 Date = 2024-11-02T01:00:00+04:00
-upcoming = true
+upcoming = false
 
 title = "Harut Sassounian - Armenian American and the 2024 US Presidential Elections | Ep 380 - Nov 2, 2024"
 subtitle = "Conversations on Groong - 11/02/2024"
