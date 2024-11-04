@@ -1,15 +1,15 @@
 +++
 
 Date = 2024-11-04T00:15:00-04:00
-upcoming = true
+upcoming = false
 
 title = "Benyamin Poghosyan - China, BRICS, New World Order, Armenia in Kazan, Georgian Elections in 2024 | Ep 382 - Nov 4, 2024"
 subtitle = "Conversations on Groong - November 4, 2024"
 
-podcast_file = ""
-podcast_bytes = ""
-podcast_duration = ""
-youtube = ""
+podcast_file = "16046906-benyamin-poghosyan-china-brics-new-world-order-armenia-in-kazan-georgian-elections-in-2024-ep-382-nov-4-2024.mp3"
+podcast_bytes = "47739813"
+podcast_duration = "3974"
+youtube = "D8rAIiSzdfI"
 
 episode_image = "img/episode/382/thumbnail-382.webp"
 episode_banner = "img/episode/382/banner-382.webp"
