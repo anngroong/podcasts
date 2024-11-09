@@ -3,8 +3,8 @@
 Date = 2023-04-03T23:15:00-07:00
 upcoming = false
 
-title = "Azerbaijan Attacks Artsakh | East West Negotiation Platforms | Armenia and the Rome Statute | Ep 242 - Apr 2, 2023"
-subtitle = "Armenian News Network Groong - Apr 2, 2023"
+title = "Suren Sargsyan - Azerbaijan Attacks Artsakh, East West Negotiation Platforms, Armenia and the Rome Statute | Ep 242 - Apr 2, 2023"
+subtitle = "Conversations on Groong - Apr 2, 2023"
 
 podcast_file = "12584249-azerbaijan-advances-in-armenia-armenia-at-the-democracy-summit-armenia-and-the-rome-statute-iran-fm-in-moscow-azeri-fm-in-israel-ep-242-apr-2-2023.mp3"
 podcast_bytes = "30027750"
