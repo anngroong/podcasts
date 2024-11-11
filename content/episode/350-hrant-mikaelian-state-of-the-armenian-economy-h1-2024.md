@@ -21,7 +21,7 @@ episode = "350"
 aliases = ["/350"]
 
 series = ["cog"]
-categories = ["Armenia", "Turkey", "Artsakh"]
+categories = ["Armenia", "Turkey", "Artsakh","Economy"]
 explicit = "no" # values are "yes" or "no"
 tags = ["Armenian News", "Economy", "Economic Downturn", "Imports", "Exports", "Hrant Mikaelian", "Foreign Trade", "Dram Rate", "National Debt", "Budget", "Budget Deficit", "Tax Revenues", "Taxes", "Mortgage", "Interest Rates", "CBA", "Central Bank of Armenia", "Refinance Rate", "Real Estate Market", "Labor Market"]
 

@@ -18,7 +18,7 @@ aliases = ["/262"]
 explicit = "no" # values are "yes" or "no"
 
 series = ["wir"]
-categories = ["Armenia", "Artsakh", "Politics", "Poll"]
+categories = ["Armenia", "Artsakh", "Politics", "Poll","Economy"]
 tags = ["Hrant Mikaelian", "Armenia", "Artsakh", "Nagorno Karabakh", "Azerbaijan", "Washington", "Michael Carpenter", "OSCE", "CSTO", "CIS", "EAEU", "Russia", "Corridors", "Borders", "Delimitation", "Peace Negotiations", "United States", "European Union", "MPG", "Poll", "Nikol Pashinyan", "Ilham Aliyev", "Armenian Nuclear Power Plant", "Modular Nuclear Reactors", "Jeyhun Bayramov", "Ararat Mirzoyan", "Russian Sanctions", "IT Companies", "Hakan Fidan", "Ibrahim Kalin", "Arsen Torosyan", "Treaty of Batumi", "Treaty of Alexandropol"]
 
 title = "Hrant Mikaelian - Erdogan Cabinet | Azerbaijan Postpones Meeting | Economic Developments | MPG Poll on Pashinyan Rating"

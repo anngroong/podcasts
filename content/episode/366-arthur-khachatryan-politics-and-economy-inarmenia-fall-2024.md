@@ -22,7 +22,7 @@ episode = "366"
 aliases = ["/366"]
 
 series = ["cog"]
-categories = ["Armenia", "Artsakh", "Nagorno Karabakh"]
+categories = ["Armenia", "Artsakh", "Nagorno Karabakh","Economy"]
 explicit = "no" # values are "yes" or "no"
 tags = ["Armenian News", "Artsakh", "Nagorno Karabakh", "Arthur Khachatryan", "Hayastan Dashinq", "ARF", "Dashnaktsutyun", "Armenia", "State Budget", "Budget 2024", "Economy", "Corruption", "Tax Terror", "State Revenues", "Re-exports", "Exports", "GDP", "Inflation", "Pivot to the West", "USAID", "Georgia", "Elections", "Georgian Dream", "Georgia Apologizes", "Abkhazia", "South Ossetia", "Abkhazia Railway"]
 

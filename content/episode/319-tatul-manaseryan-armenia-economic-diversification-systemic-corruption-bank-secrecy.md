@@ -17,7 +17,7 @@ youtube = "Ykk1JZbI99c"
 explicit = "no" # values are "yes" or "no"
 
 series = ["cog"]
-categories = ["Economy", "Armenia"]
+categories = ["Economy", "Armenia","Economy"]
 tags = ["Armenia", "Economy", "Economy", "Diversification", "Corruption", "Tatul Manaseryan", "Bank Secrecy", "Eurasian Economic Union", "European Union", "EU", "Russia", "Turkey", "Azerbaijan", "Vahan Kerobyan", "Nikol Pashinyan", "Gevorg Papoyan", "Foreign Trade", "Geopolitics", "Economic Vision", "Trade Partners", "Government Reform", "Free Trade Agreements", "Political Risk", "Financial Transparency", "Taxation Policy", "International Relations"]
 
 title = "Tatul Manaseryan: Armenia's Economic Diversification | Corruption | Bank Secrecy | Ep 319 - Mar 23, 2024"

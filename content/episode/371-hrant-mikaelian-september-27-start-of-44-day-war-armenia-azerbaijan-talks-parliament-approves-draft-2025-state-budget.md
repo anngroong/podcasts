@@ -16,7 +16,7 @@ episode = "371"
 aliases = ["/371"]
 
 series = ["wir"]
-categories = ["Armenia", "Politics"]
+categories = ["Armenia", "Politics","Economy"]
 tags = ["Armenian News", "Artsakh", "Nagorno Karabakh", "Hrant Mikaelian", "Armenia", "Azerbaijan", "Negotiations", "Peace Agreement", "Peace Process", "Nikol Pashinyan", "Ilham Aliyev", "Jeyhun Bayramov", "Ararat Mirzoyan", "Anthony Blinken", "UN", "United Nations", "UNGA", "General Assembly", "Turkey", "Turkish Consulate", "Turkish House", "New York", "Bagrat Srbazan", "Tavush", "Srbazan Movement", "Iran", "Zangezur Corridor"]
 
 title = "Hrant Mikaelian - Commemorating the 44-Day War, Armenia Azerbaijan Talks, Draft 2025 State Budget,  | Ep 371 - Sep 29, 2024"
