@@ -18,7 +18,7 @@ podcast_file = "8608960-ep-64-05-29-2021.mp3"
 youtube = "rTbLMhY_RQA"
 series = ["COG"]
 tags = ["In Armenian", "Iran", "Politics", "Relations"]
-categories = ["In Armenian", "Iran", "Politics", "Relations"]
+categories = ["Iran", "Politics", "Relations", "հայերեն"]
 
 Description = """Iran: Foreign Relations and Upcoming Elections (in Armenian)
 A Conversation with Robert Markarian
