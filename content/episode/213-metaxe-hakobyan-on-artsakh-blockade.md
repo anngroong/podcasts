@@ -18,7 +18,7 @@ youtube = "mBXdCOJrRb0"
 explicit = "no" # values are "yes" or "no"
 
 series = ["cog"]
-categories = ["Artsakh", "politics", "In Armenian"]
+categories = ["Artsakh", "politics","Հայերեն"]
 tags = ["Metaxe Hakobyan", "Metakse Hakobyan", "Artsakh", "Blockade", "Lachin", "Lachin Corridor", "Berdzor", "Berdzor Corridor", "Ilham Aliyev", "Azerbaijan", "Armenia", "Nagorno Karabakh", "Berdzor", "Հակոբ Հակոբյան", "Հայաստան", "Արցախ", "Լեռնային Ղարաբաղ", "Բերձոր", "Լաչին", "Ադրբեջան"]
 title = "Metaxe Hakobyan: Blockade of Artsakh Day 41"
 subtitle = "Armenian News Network Groong - Jan 21, 2023"
