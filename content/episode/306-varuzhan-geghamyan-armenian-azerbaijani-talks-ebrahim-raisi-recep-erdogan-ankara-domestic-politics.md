@@ -27,7 +27,7 @@ truncate = ""
 draft = false
 explicit = "no"
 
-categories = ["Armenia", "Artsakh", "Azerbaijan"]
+categories = ["Armenia", "Artsakh", "Azerbaijan", "Iran"]
 tags = ["Armenia", "Artsakh", "Nagorno Karabakh", "Azerbaijan", "Varuzhan Geghamyan", "Zangezur Corridor", "Borders", "Peace Negotiations", "South Caucasus", "Turkey", "Russia", "Communication Links", "EU", "European Union"]
 
 Description = """Armenian News Network/Groong Week in Review - Feb 4, 2024

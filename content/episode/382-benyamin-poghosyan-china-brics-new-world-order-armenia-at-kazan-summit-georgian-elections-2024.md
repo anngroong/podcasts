@@ -21,7 +21,7 @@ episode = "382"
 aliases = ["/382"]
 
 series = ["cog"]
-categories = ["Armenia", "Artsakh"]
+categories = ["China", "World Order", "Georgia"]
 tags = ["Armenian News", "Armenia", "China", "BRICS", "Benyamin Poghosyan", "Multipolar World", "Unipolar World", "World Order", "South Caucasus", "Russia", "USA", "India", "Belt and Road Initiative", "INSTC", "International North South Trade Corridor", "UN Secretary General", "Ukraine", "Ukraine War", "Argentina", "Azerbaijan"]
 
 Description = """

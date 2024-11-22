@@ -21,7 +21,7 @@ episode = "373"
 aliases = ["/373"]
 
 series = ["wir"]
-categories = ["Armenia", "Artsakh"]
+categories = ["Armenia", "Artsakh", "BRICS", "Middle East"]
 tags = ["Armenian News", "Artsakh", "Nagorno Karabakh", "Benyamin Poghosyan", "Azerbaijan", "Georgia", "South Caucasus", "Turkey", "Russia", "Corridor", "Borders", "Israel", "Gaza", "Iran", "Peace Negotiations", "Peace Agreement", "Constitution", "Preamble", "Declaration of Independence", "Referendum", "BRICS", "US Hegemony", "Swift", "MIR", "US Sanctions", "Nikol Pashinyan", "Ilham Aliyev", "Yevgeni Primakov", "Mikhail Mishustin"]
 
 Description = """

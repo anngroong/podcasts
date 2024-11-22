@@ -24,7 +24,7 @@ aliases = ["/374"]
 explicit = "no"
 
 series = ["wir"]
-categories = ["Armenia", "Azerbaijan", "Borders"]
+categories = ["Armenia", "Azerbaijan", "Borders", "Georgia", "Middle East", "Iran"]
 tags = ["Armenian News", "Artsakh", "Nagorno Karabakh", "Dziunik Aghajanian", "Armenia", "Azerbaijan", "Russia", "Iran", "Israel", "Georgia", "Georgian Elections", "Georgian Dream", "CIS Summit", "Armenian Grigoryan", "Wheat", "Rice", "Zangezur Corridor", "Regional Geopolitics"]
 
 Description = """

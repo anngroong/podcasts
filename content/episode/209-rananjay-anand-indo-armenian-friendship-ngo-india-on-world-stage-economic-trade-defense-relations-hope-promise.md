@@ -31,7 +31,7 @@ Conversations on Groong - Jan 18, 2023
 * [Rananjay Anand](/guest/ranand)
 
 #### Topics:
-*Indo-Armenian Friendship NGO
+* Indo-Armenian Friendship NGO
 * The Indian Community in Armenia
 * Where India sees itself on the world stage
 * Drivers for Indian-Armenian Relations

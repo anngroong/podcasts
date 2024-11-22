@@ -21,7 +21,7 @@ episode = "358"
 aliases = ["/358"]
 
 series = ["wir"]
-categories = ["Armenia", "Artsakh"]
+categories = ["Armenia", "Artsakh", "BRICS"]
 tags = ["Armenian News", "Artsakh", "Nagorno Karabakh", "Azerbaijan", "Peace Treaty", "Benyamin Poghosyan", "Agreement in Principle", "South Caucasus", "Turkey", "Russia", "Zangezur Corridor", "Borders", "Peace Negotiations", "United States", "Iran", "Russian Gas", "TANAP", "Trans Adriatic", "Middle Corridor", "North-South Corridor", "East-West Corridor", "Ilham Aliyev", "Vladimir Putin", "Nikol Pashinyan", "Azerbaijan China Partnership", "Georgia China Partnership", "September 2", "August 23", "Declaration of Independence"]
 
 Description = """

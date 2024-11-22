@@ -20,7 +20,7 @@ episode = "376"
 aliases = ["/376"]
 
 series = ["wir"]
-categories = ["Armenia", "Azerbaijan", "Russia"]
+categories = ["Armenia", "Azerbaijan", "Russia", "Georgia", "BRICS"]
 tags = ["Armenian News", "Artsakh", "Nagorno Karabakh", "Sergei Melkonian", "3+3", "Azerbaijan", "Turkey", "Russia", "Iran", "Zangezur Corridor", "Peace Negotiations", "Repatriation", "BRICS", "Kazan", "Central Asia", "USA", "Europe", "Abraham Accord", "Israel", "Hamas", "Hezbollah", "Lebanon", "Pager Attacks", "Ismail Haniyeh", "Saudi Arabia", "UAE"]
 
 Description = """

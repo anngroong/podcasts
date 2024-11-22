@@ -20,7 +20,7 @@ aliases = ["/379"]
 explicit = "no" # values are "yes" or "no"
 
 series = ["wir"]
-categories = ["Armenia", "Artsakh"]
+categories = ["Armenia", "Artsakh", "BRICS"]
 
 tags = ["Anna Karapetyan", "Armenian News", "Artsakh", "Nagorno Karabakh", "Armenia", "Azerbaijan", "Georgia", "South Caucasus", "BRICS Summit", "COP29", "European Parliament Resolution", "Armenian prisoners of war", "Pashinyan-Aliyev talks", "Armenia-Azerbaijan peace process", "EU Monitoring Mission", "Armenian sovereignty", "Insight Analytical Center", "Armenian geopolitics", "Armenian political analysis", "border demarcation", "Pan Turkism", "unipolar world order", "Armenian independence", "Caucasus security", "Armenia foreign policy", "Armenian diplomacy"]
 

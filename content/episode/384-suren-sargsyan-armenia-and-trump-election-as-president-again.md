@@ -21,8 +21,8 @@ episode = "384"
 aliases = ["/384"]
 explicit = "no"
 
-series = ["wir"]
-categories = ["Armenia", "Politics"]
+series = ["cog"]
+categories = ["Armenia", "Politics", "USA", "Middle East", "Ukraine"]
 tags = ["Armenian News", "Armenia", "Artsakh", "Nagorno Karabakh", "Suren Sargsyan", "Donald Trump", "US Elections", "President of the United States", "Kamala Harris", "47th President", "45th President", "Ukraine", "Ukraine War", "Israel", "Lebanon", "Palestine", "Gaza", "War in Gaza", "Genocide", "Ethnic cleansing", "Armenian Catholicos", "Aram I", "Karekin II", "Antelias", "Cilicia", "Etchmiadzin", "Yerevan", "Nikol Pashinyan", "Armenian Public TV", "H1", "Perfect TV", "Media Bias"]
 
 Description = """

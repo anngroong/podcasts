@@ -16,7 +16,7 @@ aliases = ["/359"]
 youtube = "lgpgyOmiQ04"
 
 series = ["cog", "video"]
-categories = ["Russia", "Ukraine", "Video"]
+categories = ["Russia", "Ukraine", "Video", "World Order"]
 title = "Glenn Diesen - Russia and The Eurasian World Order | Ep 359 - Sep 4, 2024"
 subtitle = "Conversations on Groong - September 4, 2024"
 Description = """
@@ -29,10 +29,10 @@ Description = """
 * [Glenn Diesen](/guest/gdiesen)
 
 #### Topics:
-  - Norwegian & NATO Support for Ukraine
-  - “The Ukraine War & the Eurasian World Order”
-  - Small States and Multipolarity
-  - Armenia's Position in a Multipolar World
+* Norwegian & NATO Support for Ukraine
+* “The Ukraine War & the Eurasian World Order”
+* Small States and Multipolarity
+* Armenia's Position in a Multipolar World
 
 Episode 359 | Recorded: August 30, 2024
 """

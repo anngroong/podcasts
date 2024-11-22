@@ -21,7 +21,7 @@ aliases = ["/361"]
 explicit = "no"
 
 series = ["wir"]
-categories = ["Armenia", "Azerbaijan", "Borders"]
+categories = ["Armenia", "Azerbaijan", "Borders", "BRICS", "Iran"]
 tags = ["Armenian News", "Artsakh", "Nagorno Karabakh", "Dziunik Aghajanian", "Armenia", "Azerbaijan", "Georgia", "South Caucasus", "Turkey", "Russia", "Corridor", "Zangezur Corridor", "BRICS", "EU", "EAEU", "NATO", "NSS", "Foreign Intelligence Service", "Kristine Grigoryan", "Nikol Pashinyan", "Ilham Aliyev", "Iran", "Syunik", "Western Security Companies", "Artsakh Refugees", "Geopolitics"]
 
 Description = """
