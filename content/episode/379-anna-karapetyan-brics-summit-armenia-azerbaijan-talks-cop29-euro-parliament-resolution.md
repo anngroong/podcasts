@@ -11,7 +11,7 @@ episode_image = "img/episode/379/thumbnail-379.webp"
 episode_banner = "img/episode/379/banner-379.webp"
 images = ["img/episode/379/banner-379.webp"]
 
-guests = ["ahamparian"]
+guests = ["akarapetyan"]
 hosts = ["asbed","hovik"]
 
 episode = "379"
