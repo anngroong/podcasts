@@ -1,11 +1,11 @@
 +++
 Date = 2024-11-26T00:20:00+04:00
-upcoming = true
+upcoming = false
 
-podcast_file = ""
-podcast_bytes = ""
-podcast_duration = ""
-youtube = ""
+podcast_file = "16182062-arthur-g-martirosyan-armenian-government-firings-by-text-another-scandalous-pashinyan-interview-escalation-in-ukraine-ep-387-nov-24-2024.mp3"
+podcast_bytes = "44304232"
+podcast_duration = "3025"
+youtube = "wY-IYcxriMA"
 
 episode = "387"
 aliases = ["/387"]
@@ -22,7 +22,7 @@ hosts = ["hovik", "asbed"]
 series = ["wir"]
 categories = ["Armenia", "Politics"]
 explicit = "no" # values are "yes" or "no"
-tags = ["Armenian News", "Artsakh", "Nagorno Karabakh", "Arthur Martirosyan", "Independence Day", "Third Republic", "USA", "Georgia", "Strategic Partnership", "Azerbaijan", "Russia", "Abkhazian", "South Ossetia", "Russia Georgia Rapprochement", "Zangezur Corridor", "Negotiations", "Peace Process", "Turkey", "Nikol Pashinyan", "Ilham Aliyev", "Joe Biden", "Tavush for the Homeland", "Bagrat Srbazan", "CSTO", "NATO", " Stepanakert", "Global Armenian Summit" ]
+tags = ["Armenian News", "Artsakh", "Nagorno Karabakh", "Arthur Martirosyan", "Armenia", "Georgia", "Abkhazia", "Abkhaz Railway", "Turkey", "Russia", "Monte Melkonian", "Supreme Judicial Council", "Karen Andreasyan", "Member of Parliament", "Hovik Aghazaryan", "Nikol Pashinyan", "Separation of Powers", "Constitutional Referendum", "Speed Cameras", "Territorial Claims", "Western Armenia", "1918", "First republic", "Azerbaijan", "EUMA", "EU Mission", "Ukraine", "Kursk", "Dnepr", "China", "Jeffrey Sachs", "Armenian POWs"]
 
 Description = """
 
