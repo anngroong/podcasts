@@ -1,9 +1,9 @@
 +++
 Date = 2024-11-30T21:00:00-08:00
 
-upcoming = true # set to true if you want this to be listed as upcoming, etc, etc
+upcoming = false # set to true if you want this to be listed as upcoming, etc, etc
 
-podcast_file = "###.mp3" # the name of the podcast file, after the media prefix.
+podcast_file = "16200262-archil-sikharulidze-georgia-elections-aftermath-and-the-situation-in-abkhazia-ep-388-dec-1-2024.mp3" # the name of the podcast file, after the media prefix.
 podcast_duration = "4089"
 podcast_bytes = "49109711"
 youtube = "MMDH_IknTko"
