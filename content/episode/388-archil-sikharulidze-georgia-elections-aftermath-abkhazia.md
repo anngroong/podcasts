@@ -53,7 +53,6 @@ The [international reactions](https://civil.ge/archives/631310) to the election 
 OK, fast forward a month: as Zurabishvili’s term as president comes to an end in mid-December, she is demanding the annulment of the election results and inciting western-funded opposition rallies in Tbilisi which in the past few days are bordering on violence. Most opposition forces have [announced](https://www.cbs19news.com/georgia-parliament-convenes-amid-legitimacy-crisis/article_005f0cc9-93c1-5b23-a9e8-68da2b2207be.html) that they will renounce their mandates. One opposition party, Gakharia’s Strong Georgia, however, has [not joined](https://1tv.ge/lang/en/news/giorgi-gakharia-on-parliamentary-mandates-we-will-act-on-our-terms/) the boycott.
 
 **Questions:**
-
 * Is there now a constitutional crisis in Georgia?
 * How do you think the situation will develop?
 * Without the opposition MPs picking up their mandates, does the parliament still have a quorum to function?
@@ -61,7 +60,6 @@ OK, fast forward a month: as Zurabishvili’s term as president comes to an end 
 The plenary session of the parliament to decide on the presidential election was [held without a decree](https://www.rferl.org/a/georgia-president-candidate-election/33217919.html) from president Zurabishvili who as we [said](https://www.rferl.org/a/georgia-protest-crackdown-eu-zurabishvili/33221472.html) claims the election results are invalid. During the first session, the Georgian Dream party in the new parliament [nominated](https://www.bbc.com/sport/football/articles/c704pyn5ppyo) Mikheil Kavelashvili as its candidate for president and set the date of the upcoming presidential election to December 14. But Zurabishvili’s circles insist that such elections would be illegal until the Georgian Constitutional Court rules on her post-election challenges.
 
 **Questions:**
-
 * What does Kavelashvili’s nomination mean?
 * Is the upcoming presidential election legal, and can Zurabishvili hold up the election?
     * Has the constitutional court ruled on the constitutionality of the first plenary session?
@@ -75,7 +73,6 @@ In response, the Georgian Dream government, just this Thursday, [suspended](http
 NOTE: Just now: the US has decided to [suspend](https://netgazeti.ge/life/754131/) its strategic partnership with Georgia, saying: "We condemn the use of excessive force against Georgians who were protesting treason against the constitution. The EU is a bulwark against the Kremlin. Because of this, we stopped the strategic partnership with Georgia.”
 
 **Questions:**
-
 * Is the West escalating the situation or is there more nuance that we’re not seeing?
 * Do you think all of these developments register on incoming US president Donald Trump’s radar?
 * What do you think will be Trump's foreign policy towards Georgia and the South Caucasus region?
@@ -87,7 +84,6 @@ NOTE: Just now: the US has decided to [suspend](https://netgazeti.ge/life/754131
 You are one of the few Georgian experts who maintains dialogue with various Russian academicians. In fact, recently you were invited to talk at Valdai Club.
 
 **Questions:**
-
 * What is Russia’s posture towards these political developments in Georgia?
 * Is there a rapprochement between Russia and Georgia, as GD takes over greater control of the government?
 
@@ -99,7 +95,6 @@ In November 2024, political unrest [erupted](https://responsiblestatecraft.org/a
 We’ve heard numerous explanations about why the current [political conflict](https://www.rferl.org/a/abkhazia-bzhania-sukhumi-protests/33204418.html) in Abkhazia emerged. One theory is that it was the result of western interference, a sort of a “color revolution” from the west. Others, such as yourself have claimed that the revolt by the opposition in Abkhazia was an independent strain among the Abkhaz, reacting against the potential for property ownership of Russians in Abkhazia.
 
 **Questions**:
-
 * What was the source of this recent conflict?
     * Can what happened in Abkhazia be viewed independently of the West-Russia conflict?
     * Was it really a single law on property ownership?
@@ -111,7 +106,6 @@ For Armenia, the question of the Abkhazian rail link to Russia is of extreme imp
 Therefore, it is in the strategic interests of Armenia to see the Abkhaz railway reopened. And within the context of a potential rapprochement between Russia or Georgia, this period seems to hold potential.
 
 **Questions**:
-
 * What is the likelihood that in the foreseeable future, the Abkhaz railway will be reopened?
 * Who are the main proponents and opponents of this scenario?
 * Do Turkey and Azerbaijan have a say here?
