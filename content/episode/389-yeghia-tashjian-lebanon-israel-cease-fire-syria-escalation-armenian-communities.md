@@ -1,6 +1,6 @@
 +++
 Date = 2024-12-02T12:00:01-08:00
-upcoming = true
+upcoming = false
 
 podcast_file = "16211590-yeghia-tashjian-israel-hezbollah-ceasefire-in-lebanon-and-escalation-in-syria-ep-389-dec-2-2024.mp3"
 podcast_bytes = "25786569"
