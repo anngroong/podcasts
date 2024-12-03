@@ -12,6 +12,8 @@ episode_banner = "img/episode/389/banner-389.webp"
 images = ["img/episode/389/banner-389.webp"]
 
 hosts = ["asbed", "hovik"]
+guests = ["ytashjian"]
+
 episode = "389"
 aliases = ["/389"]
 
@@ -19,7 +21,7 @@ series = ["cog"]
 categories = ["Lebanon", "Israel"]
 tags = ["Armenian News", "Lebanon", "Israel", "Lebanon Ceasefire", "Syria", "Yeghia Tashjian", "Beirut", "Lebanese Armenian", "Hezbollah", "Gaza ", "War in Gaza", "Bashar Assad", "Hayat Tahrir al-Sham", "HTS", "Jabhat Al-Nusra", "Turkey", "Russia", "Iran", "NATO", "Armenian community", "Armenian Genocide"]
 
-title = "Yeghia Tashjian - Israel-Hezbollah Ceasefire and Escalation in Syria | Ep 389 - Dec 1, 2024"
+title = "Yeghia Tashjian - Israel-Hezbollah Ceasefire in Lebanon and Escalation in Syria | Ep 389 - Dec 1, 2024"
 subtitle = "Conversations on Groong - 12/01/2024"
 
 Description = """
