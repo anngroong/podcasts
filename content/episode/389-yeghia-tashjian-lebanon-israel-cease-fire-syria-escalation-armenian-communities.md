@@ -2,10 +2,10 @@
 Date = 2024-12-02T12:00:01-08:00
 upcoming = true
 
-podcast_file = ""
-podcast_duration = ""
-podcast_bytes = ""
-youtube = ""
+podcast_file = "16211590-yeghia-tashjian-israel-hezbollah-ceasefire-in-lebanon-and-escalation-in-syria-ep-389-dec-2-2024.mp3"
+podcast_bytes = "25786569"
+podcast_duration = "2146"
+youtube = "rpYSmeW0Yow"
 
 episode_image = "img/episode/389/thumbnail-389.webp"
 episode_banner = "img/episode/389/banner-389.webp"
