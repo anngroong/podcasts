@@ -1,15 +1,15 @@
 +++
 
 Date = 2024-12-04T00:15:00-04:00
-upcoming = true
+upcoming = false
 
 title = "Benyamin Poghosyan - COP29 Post Mortem, Azerbaijan Slams Polish President, Developments in the Middle East, Post-Election Georgia, Russian-Armenian Relations | Ep 390 - Dec 1, 2024"
 subtitle = "Groong Week in Review - December 1, 2024"
 
-podcast_file = ""
-podcast_bytes = ""
-podcast_duration = ""
-youtube = ""
+podcast_file = "16223539-benyamin-poghosyan-cop29-post-mortem-azerbaijan-slams-polish-president-developments-in-the-middle-east-post-election-georgia-russian-armenian-relations-ep-390-dec-1-2024.mp3"
+podcast_bytes = "43622701"
+podcast_duration = "3632"
+youtube = "ReCoGK013do"
 
 episode_image = "img/episode/390/thumbnail-390.webp"
 episode_banner = "img/episode/390/banner-390.webp"
