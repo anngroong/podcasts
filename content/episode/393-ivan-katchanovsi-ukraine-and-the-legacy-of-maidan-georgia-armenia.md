@@ -3,9 +3,8 @@ Date = 2024-12-09T12:00:00-08:00
 upcoming = true
 explicit = "no"
 
-title = "Ivan Katchanovski - Ukraine and rthe Legacy of the Maidan | Ep 393 - Dec 9, 2024"
+title = "Ivan Katchanovski - Ukraine and the Legacy of the Maidan | Ep 393 - Dec 9, 2024"
 subtitle = "Conversations on Groong - 12/09/2024"
-Description = """
 
 podcast_file = ""
 podcast_duration = ""
@@ -26,6 +25,7 @@ series = ["cog"]
 categories = ["Ukraine", "Politics"]
 tags = ["Armenian News", "Maidan Massacre", "Ukraine", "Ivan Katchanovski", "Kyiv", "Russia", "United States", "NATO", "War", "Donald Trump", "Georgia", "Armenia", "Snipers", "Georgian Snipers", "Mikheil Saakashvili", "University of Ottawa"]
 
+Description = """
 #### Groong Links:
 * [GIVE to GROONG](https://podcasts.groong.org/donate)
 * [linktr.ee/Groong](https://linktr.ee/groong)
