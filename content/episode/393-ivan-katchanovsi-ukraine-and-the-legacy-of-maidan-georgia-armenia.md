@@ -1,6 +1,6 @@
 +++
-Date = 2024-12-09T12:00:00-08:00
-upcoming = true
+Date = 2024-12-09T18:00:00-08:00
+upcoming = false
 explicit = "no"
 
 title = "Ivan Katchanovski on the Maidan Massacre, Ukraine War, and Implications | Ep 393 - Dec 9, 2024"
