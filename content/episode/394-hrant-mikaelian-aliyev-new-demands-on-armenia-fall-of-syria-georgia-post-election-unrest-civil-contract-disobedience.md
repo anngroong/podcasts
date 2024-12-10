@@ -5,9 +5,9 @@ upcoming = true
 title = "Hrant Mikaelian - Aliyev's “New” Demands, Fall of Syria, Georgia Unrest, Civil Contract Disobedience | Ep 394 - Dec 8, 2024"
 subtitle = "Week in Review - December 8, 2024"
 
-podcast_file = ""
-podcast_bytes = ""
-podcast_duration = ""
+podcast_file = "16256804-hrant-mikaelian-aliyev-s-new-demands-fall-of-syria-georgia-unrest-civil-contract-disobedience-ep-394-dec-8-2024.mp3"
+podcast_bytes = "41442500"
+podcast_duration = "3450"
 youtube = ""
 
 episode_image = "img/episode/394/thumbnail-394.webp"
