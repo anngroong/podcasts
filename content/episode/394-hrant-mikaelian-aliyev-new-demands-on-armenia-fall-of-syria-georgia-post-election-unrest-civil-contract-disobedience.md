@@ -45,14 +45,14 @@ Episode 394 | Recorded: December 9, 2024"""
 
 ## Remembering the 1988 Earthquake in Spitak, Armenia
 
-"Ils sont tombés, sans trop savoir pourquoi"— Charles Aznavour’s poignant lyrics remind us of the tragedy that united Armenians after the devastating Spitak earthquake on December 7, 1988. Last week marked 36 years since the catastrophe that claimed tens of thousands of lives and rallied Armenians worldwide, with Aznavour leading global relief efforts through concerts and the Aznavour Foundation.
+"Ils sont tombés, sans trop savoir pourquoi" — Charles Aznavour’s poignant lyrics remind us of the tragedy that united Armenians after the devastating Spitak earthquake on December 7, 1988. Last week marked 36 years since the catastrophe that claimed tens of thousands of lives and rallied Armenians worldwide, with Aznavour leading global relief efforts through concerts and the Aznavour Foundation.
 
 Yet the scars of Spitak endure, as the government failed to fully utilize diaspora support, leaving the earthquake zone still not fully rebuilt. Remembering this tragedy should inspire unity today, urging Armenia’s leaders to rally Armenians globally to rebuild and strengthen the nation.
 
 Let’s use this week to reflect on how each of us has a role in rebuilding Armenia.
 
 
-## Aliyev “New” Demands
+## Aliyev's “New” Demands
 
 The latest in the saga of the so-called “negotiations”...
 
@@ -85,8 +85,8 @@ This week the whole operation ended after Aleppo, Hama, Homs and Damascus fell i
 
 **Questions:**
 * What happened in Syria? Why did it fold so quickly?
-    * Why didn’t the Russians or Iranians intervene?
-    * Is it possible that Russia “conceded” Syria, because it’s too busy in Ukraine?
+* Why didn’t the Russians or Iranians intervene?
+* Is it possible that Russia “conceded” Syria, because it’s too busy in Ukraine?
 
 
 This overall operation seems to have been planned and tactically guided by Turkey, and assisted by US and Israeli intelligence and guidance. In a sense I can not but see the parallels between this and the 44-day war. 
@@ -118,7 +118,6 @@ Aghazaryan is no angel, and Pashinyan seems to have plenty of Kompromat on him, 
 **Questions:**
 * Are we seeing cracks appear in the ranks of the Civil Contract ruling party?
 
-Alright, let’s wrap up our topics here. I’d like to ask each of you if there’s been something on your mind this past week that you want to talk about.
 
 
 ## Thoughts from the Participants
