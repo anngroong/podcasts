@@ -22,7 +22,7 @@ episode = "396"
 aliases = ["/396"]
 
 series = ["cog"]
-categories = ["Middle East", "Armenia", Politics"]
+categories = ["Middle East", "Armenia", "Politics"]
 tags = ["Varuzhan Geghamyan", "Syria", "Middle East", "HTS", "Hayat Tahrir al-Sham", "SNA", "Syrian National Army", "Turkey", "Israel", "Russia", "Armenia", "Nagorno Karabakh", "Iran", "Russia", "Kurds", "NATO", "Gaza", "Palestine", "Hezbollah"]
 
 Description = """
