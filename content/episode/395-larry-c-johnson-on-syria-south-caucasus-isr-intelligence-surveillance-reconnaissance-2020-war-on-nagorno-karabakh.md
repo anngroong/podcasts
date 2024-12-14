@@ -42,7 +42,7 @@ Description = """
 
 
 
-Episode 395 | Recorded: December 7, 2024
+Episode 395 | Recorded: December 12, 2024
 """
 +++
 
