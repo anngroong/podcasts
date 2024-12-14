@@ -1,15 +1,15 @@
 +++
 Date = 2024-12-14T12:00:00-08:00
-upcoming = true
+upcoming = false
 explicit = "no"
 
 title = "Larry C Johnson - Syria, South Caucasus, and Regional Power Dynamics | Ep 395, Dec 14, 2024"
 subtitle = "Conversations on Groong - 12/14/2024"
 
-podcast_file = ""
-podcast_duration = ""
-podcast_bytes = ""
-youtube = ""
+podcast_file = "16278205-larry-c-johnson-syria-south-caucasus-and-regional-power-dynamics-ep-395-dec-14-2024.mp3"
+podcast_duration = "3999"
+podcast_bytes = "48027467"
+youtube = "d1aCj0qewOE"
 
 episode_image = "img/episode/395/thumbnail-395.webp"
 episode_banner = "img/episode/395/banner-395.webp"
