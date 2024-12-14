@@ -3,7 +3,7 @@ Date = 2024-12-14T12:00:00-08:00
 upcoming = true
 explicit = "no"
 
-title = "Larry C Johnson - Syria, South Caucasus, and Regional Power Dynamics | Ep 396, Dec 14, 2024"
+title = "Larry C Johnson - Syria, South Caucasus, and Regional Power Dynamics | Ep 395, Dec 14, 2024"
 subtitle = "Conversations on Groong - 12/14/2024"
 
 podcast_file = ""
