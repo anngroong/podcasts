@@ -73,7 +73,7 @@ The parties were very close to signing a ceasefire in March 2022, less than 2 we
     * Was that a rational choice at the time?
 * Given the continuing losses of lives and territory, with the trajectory of the war, why is Zelensky continuing the war?
 
-### Personal Reflection on Donetsk
+### Personal Reflections
 
 Hovik: I spent many childhood summers in Donetsk and I recall it as a tranquil and beautiful place. You yourself are from Ukraine. 
 
@@ -90,8 +90,7 @@ Still it is clear that negotiations are already going on. For example we’ve re
 
 **Questions**:
 
-* First, Prof. Katchanovski, what do you think, could Trump seriously end the war within 24 hours?
-* Is the prospect for a negotiated peace realistic anytime soon, in light of current developments?
+* First, Prof. Katchanovski, what do you think, could Trump seriously end the war within 24 hours? Is the prospect for a negotiated peace realistic anytime soon, in light of current developments?
 * How do you assess the most recent actions of the Biden administration in relation to Ukraine, following Trump’s election?
 * Ukrainian President Volodymyr Zelensky flew to Paris today to [meet](https://www.lemonde.fr/en/international/article/2024/12/07/trump-zelensky-meet-in-paris-as-macron-hosts-three-way-talks_6735534_4.html) with Trump and French President Emmanuel Macron.  What do you expect from this visit?  What is Zelensky hoping to gain?
 * What would constitute a durable ceasefire or negotiated peace deal at this point, in your view?
@@ -111,7 +110,7 @@ The focal point of your book of course is the Maidan massacres in Ukraine, resul
 **Questions**:
 
 * Maybe you can walk us through what was happening in the months leading up to the Maidan massacre and the toppling of Yanukovych?
-* Insert far right Q by Hovik here: how powerful or significant a force are they in Ukraine?
+* How powerful or significant a force is the “far right” in Ukraine?
 * In November 2013, in the months before the Maidan in Ukraine, Armenian president Serzh Sargsyan was faced with an “all-or-nothing” choice by the EU with regard to the EU’s Eastern Partnership “Association Agreement.” However, in the end, Sargsyan managed to strike a balance, by pursuing membership in the Russian-led Eurasian Economic Union, while also maintaining ties with Brussels.  Ukraine’s Yanukovych was faced with a similar situation, but the outcome, as we know, was dramatically different. Why was this the case?
 * What was the EU’s “Eastern Partnership”? What factors influenced the EU’s “Eastern policy” toward former Soviet republics like Ukraine and Armenia?  Why wasn’t Russia offered such an agreement?
 * What kind of a deal was the EU offering Ukraine?  What were the terms?

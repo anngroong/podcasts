@@ -12,6 +12,7 @@ Thumbnail = "img/guest/Anna-Abrahamian-1.jpg"
 Pinterest = ""
 Instagram = "annabrahamian.psychography"
 YouTube = "user-sy9fo5dp8e"
+Telegram = "MshoAxjik_AnnaAbrahamian"
 Twitch = ""
 #Aka = []
 #guest_group = "wir"
