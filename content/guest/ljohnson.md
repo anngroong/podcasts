@@ -2,7 +2,7 @@
 Date = 2024-12-09T04:45:01+04:00
 title = "Larry C Johnson"
 Pronouns = ""
-Twitter = ""
+Twitter = "LarrySonar21"
 Website = "https://sonar21.com/"
 Type = "guest"
 Facebook = ""
