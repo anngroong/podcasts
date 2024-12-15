@@ -67,8 +67,7 @@ Azerbaijan and Turkey are adept at using global crises to initiate land grabs, j
 
 Now the so-called “Zangezur corridor” holds strategic significance, not only for Azerbaijan and Turkey’s pan-Turanic ambitions but also for Israel, which maintains a close symbiotic relationship with Azerbaijan through arms and energy trade. Israel’s goal is to have military and intelligence assets right on Iran’s borders from every side possible, in this case its northern border.
 
-
-    NOTE: Leaked state department [memos](https://wikileaks.org/plusd/cables/09BAKU20_a.html) describe the externally visible part of the Israeli - Azerbaijan relationship as only the tip of the iceberg.
+* Leaked state department [memos](https://wikileaks.org/plusd/cables/09BAKU20_a.html) describe the externally visible part of the Israeli - Azerbaijan relationship as only the tip of the iceberg.
 
 Amidst all the developments in Syria, few analysts are paying much attention to what might happen next around Armenia. Only Douglas Macgregor, in a [recent podcast with Daniel Davis](https://youtu.be/jEcoaMvlHcg?si=0zi8uyqFM26hnvBp), brought up that threat.
 
@@ -85,7 +84,7 @@ So Armenian watchers are quite concerned right now about what might happen if Tu
 
 ## Intelligence, Surveillance, Reconnaissance
 
-In modern warfare, Intelligence, Surveillance, and Reconnaissance (ISR) has become a cornerstone for achieving strategic and tactical dominance on the battlefield. As you highlighted in a 2023 [article](https://sonar21.com/why-russia-is-decimating-the-ukraine-counter-offensive/) on your website, [sonar21.com](http://sonar21.com), ISR enables real-time situational awareness, facilitates precision strikes, and ensures efficient coordination of forces. In fact, you’ve likened it to the “[Eye of Sauron](https://tolkiengateway.net/wiki/Eye_of_Sauron)”. \
+In modern warfare, Intelligence, Surveillance, and Reconnaissance (ISR) has become a cornerstone for achieving strategic and tactical dominance on the battlefield. As you highlighted in a 2023 [article](https://sonar21.com/why-russia-is-decimating-the-ukraine-counter-offensive/) on your website, [sonar21.com](http://sonar21.com), ISR enables real-time situational awareness, facilitates precision strikes, and ensures efficient coordination of forces. In fact, you’ve likened it to the “[Eye of Sauron](https://tolkiengateway.net/wiki/Eye_of_Sauron)”.
 
 
 **Questions**:
