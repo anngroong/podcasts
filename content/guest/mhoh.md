@@ -18,5 +18,4 @@ Twitch = ""
 #guest_group = "cog"
 +++
 
-[Capt. Matthew Hoh](https://eisenhowermedianetwork.org/staff/matthew-hoh/) is EisenHower Media Network Associate Director. He's a 'Former USMC Captain and State Department Officer,
-and Iraq War combat veteran and Afghanistan War State Department officer.
+[Capt. Matthew Hoh](https://eisenhowermedianetwork.org/staff/matthew-hoh/) is EisenHower Media Network Associate Director. He's a 'Former USMC Captain and State Department Officer, and Iraq War combat veteran and Afghanistan War State Department officer.
