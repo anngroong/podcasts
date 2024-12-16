@@ -3,7 +3,7 @@ Date = 2024-12-16T13:00:00-08:00
 upcoming = false
 explicit = "no"
 
-title = "Varuzhan Geghamyan - Syria and the Middle East, Armenia and the South Caucasus, Regional Power Dynamics  | Ep 396, Dec 16, 2024"
+title = "Varuzhan Geghamyan on Syria, Armenia, and Turkey-Iran-Russia Tensions | Ep 396 - Dec 16, 2024"
 subtitle = "Conversations on Groong - 12/16/2024"
 
 podcast_file = "16286383-varuzhan-geghamyan-on-syria-armenia-and-turkey-iran-russia-tensions-ep-396-dec-16-2024.mp3"
