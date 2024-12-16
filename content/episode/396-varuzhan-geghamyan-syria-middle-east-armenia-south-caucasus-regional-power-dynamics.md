@@ -42,25 +42,21 @@ Episode 396 | Recorded: December 13, 2024
 """
 +++
 
-# Show Notes
-
-## **Topics Covered**
-
-### **1. Syria and the Middle East**
+## **1. Syria and the Middle East**
 
 * **Syria’s Post-Conflict Path**: Insights into shifting power structures and international negotiations shaping Syria’s trajectory.
 * **Turkey’s Expanding Role**: From Hayat Tahrir al-Sham (HTS) in Idlib to the Turkish-backed Syrian National Army (SNA), how Ankara asserts its influence.
 * **Proxy Wars in Action**: Examining the clash between U.S.-backed Kurdish forces and Turkey-supported factions, and its impact on regional stability.
 * **Strategic Realignments**: How Turkey’s involvement affects its relationships with Russia and Iran, signaling broader regional shifts.
 
-### **2. The South Caucasus**
+## **2. The South Caucasus**
 
 * **Syria’s Ripple Effects**: How developments in the Middle East intersect with Armenia-Azerbaijan relations.
 * **Turkey’s Pan-Turanic Ambitions**: Regional ramifications of Ankara’s goals, alongside Azerbaijan’s aggressive approach in negotiations.
 * **Iran’s Strategic Calculations**: Evaluating Tehran’s "red lines" in Armenia and its stance on the so-called "Zangezur corridor."
 * **Security and Diplomacy**: Assessing how Middle Eastern conflicts influence Armenia’s regional standing.
 
-### **3. Turkey, Russia, Iran**
+## **3. Turkey, Russia, Iran**
 
 * **Tensions in Focus**: How divergent interests over Syria strain Turkey, Russia, and Iran’s cooperation.
 * **The 3+3 Platform**: Evaluating the survival of this initiative amid growing discord.
@@ -79,12 +75,6 @@ Episode 396 | Recorded: December 13, 2024
 
 ---
 
-## **Guest Information**
-
-Dr. Varuzhan Geghamyan is an assistant professor at Yerevan State University’s Department of Oriental Studies. His research spans Turkey’s modern history, Azerbaijani sociocultural anthropology, and political ideologies in the Middle East. With extensive fieldwork in Syria, Dr. Geghamyan offers invaluable insights into the region’s complexities.
-
----
-
 ## **Timestamps**
 
 * **[00:00](https://youtu.be/zic4d4_QL_k?t=0)** Introduction and Episode Overview
@@ -97,6 +87,8 @@ Dr. Varuzhan Geghamyan is an assistant professor at Yerevan State University’s
 
 ---
 
+# Wrap-up
+
 ## **Call to Action**
 
 Thank you for tuning in to **Conversations on Groong**. If you found this episode insightful, please **subscribe, like, and share** it with your network. Subscribing ensures you’ll stay updated on our latest episodes, while sharing helps expand our community of listeners passionate about Armenia and its geopolitical landscape.
@@ -106,14 +98,6 @@ Your support is vital. Consider contributing via[ Patreon](https://podcasts.groo
 We welcome your feedback and questions! Connect with us on social media, and let us know your thoughts. Together, we can deepen understanding of the challenges and opportunities facing Armenia today.
 
 ---
-
-## **Links**
-
-* **Guest Profile**:[ Varuzhan Geghamyan](https://podcasts.groong.org/guest/vgeghamyan)
-* **Host Profiles**:[ Hovik Manucharyan](https://podcasts.groong.org/host/hovik),[ Asbed Bedrossian](https://podcasts.groong.org/host/asbed)
-* **Podcast Homepage**:[ Groong Podcasts](https://podcasts.groong.org/)
-
-# Wrap-up
 
 That’s our [show](https://podcasts.groong.org/)! We hope you found it useful. Please find us on [Social Media](https://linktr.ee/groong) and follow us everywhere you get your Armenian news.
 
