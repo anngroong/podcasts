@@ -85,20 +85,20 @@ This episode highlights the resilience of the Armenian people, the humanitarian 
 
 ---
 
+# Wrap-up
+
 ## Guest Biography
 
 **Gev Iskajyan** is a seasoned advocate and activist, currently serving as the National Grassroots Director of ANCA. He previously served as the Executive Director of the Armenian National Committee of Artsakh, where he spearheaded initiatives to raise global awareness of Artsakh’s challenges and coordinated critical relief efforts.
 
 Gev has held prominent roles with ANCA Western Region and the Armenian Youth Federation, organizing major initiatives like the 2015 ‘March for Justice.’ His commentary has appeared in Time Magazine, CNN, and BBC. Gev holds degrees in Political Science and Philosophy from California State Polytechnic University, Pomona.
 
----
-
 ## **Links and Resources**
 
 * [Patreon - Support Groong](https://www.patreon.com/ann_groong)
 * [Buy Me a Coffee - Support Groong](https://www.buymeacoffee.com/groong)
 
-# Wrap-up
+---
 
 That’s our [show](https://podcasts.groong.org/)! We hope you found it useful. Please find us on [Social Media](https://linktr.ee/groong) and follow us everywhere you get your Armenian news.
 
