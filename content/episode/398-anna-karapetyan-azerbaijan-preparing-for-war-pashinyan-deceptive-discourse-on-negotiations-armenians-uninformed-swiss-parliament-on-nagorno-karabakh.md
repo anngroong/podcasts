@@ -47,9 +47,35 @@ Episode 398 | Recorded: December 17, 2024
 """
 +++
 
+In this *Week in Review* episode, we discuss with Dr. Anna Karapetyan Azerbaijan’s increasing military activity and its implications for Armenia’s security, including arms shipments and UAV operations. We also explore Switzerland’s motion advocating for a peace forum to ensure the safe return of displaced Artsakh Armenians and its significance in addressing ethnic cleansing on an international stage.
+
+
+## Topics Covered:
+
+1. **Azerbaijan’s War Preparations**
+    * Evidence of increased military activity, including arms shipments and Turkish UAV operations near Armenia.
+    * Pashinyan’s rhetoric regarding "Western Azerbaijan" and its implications.
+2. **Swiss Motion on Artsakh Armenians’ Right of Return**
+    * Details of Switzerland’s call for an international peace forum to address the safe return of displaced Artsakh Armenians.
+    * The significance of the motion in addressing ethnic cleansing and its alignment with international decisions.
+
+
+## Key Questions Discussed:
+
+* What is the current level of danger Armenia faces given Azerbaijan’s military actions?
+* Is the Armenian public desensitized to these threats?
+* What are the chances of Azerbaijan’s engagement in Switzerland’s proposed peace initiative?
+* How significant is this motion internationally?
 
 
 # Wrap-up
+
+### **Links and Resources**
+
+* [Patreon - Support Groong](https://www.patreon.com/ann_groong)
+* [Buy Me a Coffee - Support Groong](https://www.buymeacoffee.com/groong)
+
+---
 
 That’s our [show](https://podcasts.groong.org/)! We hope you found it useful. Please find us on [Social Media](https://linktr.ee/groong) and follow us everywhere you get your Armenian news.
 
