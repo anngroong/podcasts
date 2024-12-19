@@ -19,9 +19,9 @@ guests = ["kkwiatkowski"]
 episode = "392"
 aliases = ["/392"]
 
-series = ["cog"]
-#categories = []
-#tags = []
+series = ["cog", "video"]
+categories = ["Politics", "Turkey", "NATO"]
+tags = ["Armenian News", "Armenia", "Nagorno Karabakh", "Artsakh", "Karen Kwiatkowski", "Azerbaijan", "South Caucasus", "USA", "American Policy", "Ukraine", "Russia", "Israel", "Iran", "Middle East", "Turkey", "NATO", "44-Day War", "Intelligence", "ISR", "RAND Corporation", "Proxy Wars", "Geopolitics", "NATO Intelligence", "Bashar al-Assad", "Syria", "Black Sea", "Armenia-West Relations", "Ethnic Cleansing", "U.S. Foreign Policy", "Multipolar World", "Turkish Military"]
 
 title = "Karen Kwiatkowski on Turkey, NATO, and the 44-Day War | Ep 392 - Dec 7, 2024"
 subtitle = "Conversations on Groong"
@@ -118,3 +118,4 @@ While it’s unlikely NATO would disclose details of its intelligence-sharing pr
 That’s our [show](https://podcasts.groong.org/)! We hope you found it useful. Please find us on [Social Media](https://linktr.ee/groong) and follow us everywhere you get your Armenian news.
 
 Thanks to **Laura Osborn** for the music on our podcasts.
+

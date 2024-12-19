@@ -19,8 +19,8 @@ guests = ["jsachs"]
 episode = "391"
 aliases = ["/391"]
 
-series = ["cog"]
-categories = ["Syria", "Armenia", "Video"]
+series = ["cog", "video"]
+categories = ["Syria", "Armenia"]
 tags = ["Jeffrey Sachs", "Armenia", "Azerbaijan", "Syria", "USA", "Turkey", "Russia", "Nagorno Karabakh", "Artsakh", "Iran", "COP29", "Ukraine", "South Caucasus", "Israel", "Middle East", "Armenian News", "Georgia", "Tbilisi", "NATO", "Nikol Pashinyan", "Mikheil Saakashvili", "Frank Pallone", "Baku", "Aleppo", "Bashar al-Assad", "UNFCCC", "Climate Change", "Deep State", "Proxy Wars", "BRICS", "Kurdish Conflict", "Energy Pipelines", "Regional Stability", "Global Geopolitics", "Armenian Negotiations"]
 
 title = "Jeffrey Sachs - Escalation in Syria, COP29, Advice for Armenia | Ep 391 - Dec 5, 2024"

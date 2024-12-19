@@ -1,32 +1,43 @@
 +++
 Date = {{ .Date }}
-
 #upcoming = true # set to true if you want this to be listed as upcoming, etc, etc
-explicit = "no" # values are "yes" or "no"
+
+title = ""
+subtitle = ""
+
+episode_image = "img/episode/EPISODE_NUMBER/thumbnail-EPISODE_NUMBER.webp"
+episode_banner = "img/episode/EPISODE_NUMBER/banner-EPISODE_NUMBER.webp"
+images = ["img/episode/EPISODE_NUMBER/banner-EPISODE_NUMBER.webp"]
 
 podcast_file = "###.mp3" # the name of the podcast file, after the media prefix.
 podcast_duration = ""
 podcast_bytes = ""
 #youtube = ""
 
-episode_image = "img/episode/default.jpg"
-episode_banner = "img/episode/default-banner.jpg"
-images = ["img/episode/default-social.jpg"]
-
-#hosts = []
+hosts = ["asbed", "hovik"]
 #guests = []
-#sponsors = []
-
-#episode = ""
-#aliases = ["/##"]
+episode = "EPISODE_NUMBER"
+aliases = ["/EPISODE_NUMBER"]
 
 #series = []
 #categories = []
 #tags = []
 
-title = ""
-subtitle = ""
-Description = ""
+Description = """
+
+#### Groong Links:
+* [GIVE to GROONG](https://podcasts.groong.org/donate)
+* [linktr.ee/Groong](https://linktr.ee/groong)
+
+#### Guest:
+* [Guest Name](/guest/someguest)
+
+#### Topics:
+* Topic1
+* Topic2
+* Topic3
+
+Episode EPISODE_NUMBER | Recorded: """
 +++
 
 

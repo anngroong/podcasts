@@ -21,7 +21,7 @@ guests = ["vgeghamyan"]
 episode = "396"
 aliases = ["/396"]
 
-series = ["cog"]
+series = ["cog", "video"]
 categories = ["Middle East", "Armenia", "Politics"]
 tags = ["Varuzhan Geghamyan", "Syria", "Middle East", "Hayat Tahrir al-Sham", "HTS", "Syrian National Army", "SNA", "Idlib", "Turkey", "Erdogan", "Russia", "Putin", "Armenia", "Nagorno Karabakh", "Azerbaijan", "Aliyev", "Iran", "Khamenei", "Kurds", "PKK", "NATO", "Ukraine war", "Zangezur Corridor", "South Caucasus", "3+3 platform", "proxy wars", "Kurdish autonomy", "Turkey-Russia relations", "Iran-Armenia relations", "Syrian conflict", "Armenia-Turkey relations", "U.S.-Kurdish alliance", "Hezbollah", "Gaza", "Palestine", "Israel", "Iranian influence", "Pan-Turanism", "diplomacy"]
 
