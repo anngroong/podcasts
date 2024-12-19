@@ -21,7 +21,7 @@ guests = ["ljohnson"]
 episode = "395"
 aliases = ["/395"]
 
-series = ["cog"]
+series = ["cog", "video"]
 categories = ["Middle East", "Armenia", "Politics"]
 tags = ["Larry C Johnson", "Syria", "Middle East", "HTS", "Hayat Tahrir al-Sham", "SNA", "Syrian National Army", "Turkey", "Israel", "Russia", "Armenia", "Nagorno Karabakh", "ISR", "Intelligence", "Surveillance", "Reconnaissance", "Iran", "Russia", "Kurds", "NATO", "Gaza", "Palestine", "Hezbollah"]
 

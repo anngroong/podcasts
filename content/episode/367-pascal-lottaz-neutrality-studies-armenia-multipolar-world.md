@@ -20,7 +20,7 @@ hosts = ["hovik","asbed"]
 episode = "367"
 aliases = ["/367"]
 
-series = ["cog"]
+series = ["cog", "video"]
 categories = ["Armenia", "Artsakh", "World Order"]
 explicit = "no" # values are "yes" or "no"
 tags = ["Armenian News", "Neutrality Studies", "Pascal Lottaz", "Armenia", "Georgia", "EU", "Europe", "University of Kyoto", "Japan", "Tokyo", "Russia", "Ukraine", "Israel", "Supply Chain", "Cellphones", "Pagers", "Azerbaijan", "BRICS", "Non-Aligned Movement", "Territorial Integrity", "Self-Determination", "Multipolar World", "Eurasian Economic Union", "Hezbollah", "Cybersecurity", "De-dollarization"]
