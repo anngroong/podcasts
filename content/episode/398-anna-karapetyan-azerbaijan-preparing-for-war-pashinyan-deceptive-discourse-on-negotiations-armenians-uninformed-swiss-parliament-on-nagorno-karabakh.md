@@ -5,9 +5,9 @@ upcoming = true
 title = "Anna Karapetyan - Azerbaijan Preparing for War, Pashinyan's Deceptive Discourse on Negotiations, Armenians Uninformed, Swiss Parliamentary Motion on Artsakh Armenians Right of Return | Ep 398 - Dec 15, 2024"
 subtitle = "ANN Groong Week in Review - December 15, 2024"
 
-podcast_file = "" 
-podcast_duration = ""
-podcast_bytes = ""
+podcast_file = "16307934-anna-karapetyan-azerbaijan-preparing-for-war-pashinyan-deceptive-discourse-on-negotiations-swiss-parliamentary-motion-on-artsakh-armenians-right-of-return-ep-398-dec-15-2024.mp3"
+podcast_duration = "1697"
+podcast_bytes = "20401182"
 youtube = ""
 
 episode_image = "img/episode/398/thumbnail-398.webp"
