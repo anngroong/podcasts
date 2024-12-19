@@ -21,7 +21,7 @@ aliases = ["/397"]
 
 series = ["cog", "video"]
 categories = ["Artsakh", "Armenia"]
-tags = ["Gev Iskajyan", "ANCA", "Artsakh blockade", "ethnic cleansing", "Nagorno-Karabakh", "Azerbaijan aggression", "Artsakh exodus", "Armenian News Network", "Armenia geopolitics", "Lachin Corridor", "Berdzor Corridor", "Aliyev government", "Russian peacekeepers", "ICJ rulings", "Artsakh ethnic cleansing", "Artsakh genocide", "Armenian sovereignty", "international law violations", "humanitarian crisis", "Trump", "Trump administration", "Armenian diaspora advocacy", "2023 Artsakh war"]
+tags = ["Armenian News", "Gev Iskajyan", "ANCA", "Artsakh blockade", "ethnic cleansing", "Nagorno-Karabakh", "Azerbaijan aggression", "Artsakh exodus", "Armenian News Network", "Armenia geopolitics", "Lachin Corridor", "Berdzor Corridor", "Aliyev government", "Russian peacekeepers", "ICJ rulings", "Artsakh ethnic cleansing", "Artsakh genocide", "Armenian sovereignty", "international law violations", "humanitarian crisis", "Trump", "Trump administration", "Armenian diaspora advocacy", "2023 Artsakh war"]
 
 Description = """
 #### Groong Links:
