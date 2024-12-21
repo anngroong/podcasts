@@ -1,13 +1,13 @@
 +++
-Date = 2024-12-21T17:05:04-08:00
-upcoming = true
+Date = 2024-12-21T11:00:00-08:00
+upcoming = false
 
 title = "Arman Grigoryan - Beyond the Fall of Syria, Armenian and Global Geopolitics,  | Ep 399 - Dec 21, 2024"
 subtitle = "Conversations on Groong - December 21, 2024"
 
-podcast_file = ""
-podcast_duration = ""
-podcast_bytes = ""
+podcast_file = "16320058-arman-grigoryan-on-beyond-the-fall-of-syria-armenia-and-global-politics-ep-399-dec-21-2024.mp3"
+podcast_duration = "4506"
+podcast_bytes = "54104496"
 youtube = "Ti5D0MvbR88"
 
 episode_image = "img/episode/399/thumbnail-399.webp"
