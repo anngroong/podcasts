@@ -3,7 +3,7 @@ Date = 2024-12-23T11:00:00-08:00
 upcoming = false
 
 title = "Matthew Hoh - Imperial US Foreign Policy, and the Role of the Think Tank Industry | Ep 400 - Dec 23, 2024"
-subtitle = "Conversations on Groong - December 23, 2024"
+subtitle = "Conversations on Groong - December 22, 2024"
 
 podcast_file = "16323114-matt-hoh-on-u-s-imperialism-wars-and-the-role-of-think-tanks-in-policy-ep-400-dec-22-2024.mp3"
 podcast_duration = "3457"
