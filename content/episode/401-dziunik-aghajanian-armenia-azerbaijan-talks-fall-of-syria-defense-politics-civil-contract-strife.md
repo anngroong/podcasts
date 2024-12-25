@@ -3,7 +3,7 @@
 Date = 2024-12-25T01:00:00+04:00
 upcoming = true
 
-title = "Dziunik Aghajanian - Armenia Azerbaijan Talks, Syria, Defense Politics, Civil Contract Strife | Ep 401 - Dec 22, 2024
+title = "Dziunik Aghajanian - Armenia Azerbaijan Talks, Syria, Defense Politics, Civil Contract Strife | Ep 401 - Dec 22, 2024"
 subtitle = "Week in Review - 12/22/2024"
 
 
@@ -25,7 +25,7 @@ explicit = "no"
 
 series = ["wir"]
 categories = ["Armenia", "Azerbaijan", "Middle East"]
-tags = ["Armenian News", "Artsakh", "Nagorno Karabakh", "Dziunik Aghajanian", "Armenia", "Azerbaijan", "Russia", "Iran", "Israel", "Georgia", "Georgian Elections", "Georgian Dream", "CIS Summit", "Armenian Grigoryan", "Wheat", "Rice", "Zangezur Corridor", "Regional Geopolitics"]
+tags = ["Armenian News", "Artsakh", "Nagorno Karabakh", "Dziunik Aghajanian", "Armenia", "Azerbaijan", "Russia", "Iran", "Zangezur Corridor", "Regional Geopolitics"]
 
 Description = """
 
