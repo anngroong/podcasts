@@ -22,7 +22,7 @@ aliases = ["/403"]
 
 series = ["wir"]
 categories = ["Armenia", "Azerbaijan"]
-tags = ["Armenian News", "Artsakh", "Nagorno Karabakh", "Benyamin Poghosyan", "Azerbaijan", "COP29", "Farid Shafiyev", "EUMA", "EU Mission", "Middle East", "Israel", "Lebanon", "Syria", "Iran", "South Caucasus", "Turkey", "Russia", "Corridors", "Borders", "Peace", "Negotiations"]
+tags = ["Armenian News", "Artsakh", "Nagorno Karabakh", "Benyamin Poghosyan", "Armenia", "Azerbaijan", "Nikol Pashinyan", "Ilham Aliyev", "Farid Shafiyev", "Armenian Constitution", "OSCE", "OSCE MG", "Minsk Group", "EUMA", "EU Mission", "Middle East", "Israel", "Lebanon", "Syria", "Iran", "South Caucasus", "Turkey", "Russia", "Corridors", "Borders", "Peace", "Negotiations"]
 
 Description = """
 
@@ -56,4 +56,4 @@ Episode 403 | Recorded: December 31, 2024
 That's our [Week in Review](https://podcasts.groong.org/), we hope you found it helpful. We invite your feedback and your suggestions, you can [find us](https://linktr.ee/groong) on most social media and podcast platforms.
 
 Thanks to __Laura Osborn__ for the music on our podcasts.
-
+    
