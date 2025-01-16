@@ -1,12 +1,12 @@
 +++
 Date = 2025-01-15T00:01:55-08:00
-upcoming = true
+upcoming = false
 explicit = "no" # values are "yes" or "no"
 
 podcast_file = "16449999-tevan-poghosyan-incoming-trump-armenia-azerbaijan-talks-iran-visit-pro-west-signals-ep-404-jan-12-2025.mp3"
 podcast_duration = "3430"
 podcast_bytes = "41195943"
-youtube = ""
+youtube = "iE4trLAFzCQ"
 
 episode_image = "img/episode/404/thumbnail-404.webp"
 episode_banner = "img/episode/404/banner-404.webp"
