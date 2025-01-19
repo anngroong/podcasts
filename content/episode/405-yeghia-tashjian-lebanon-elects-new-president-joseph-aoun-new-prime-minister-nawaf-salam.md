@@ -18,8 +18,8 @@ episode = "405"
 aliases = ["/405"]
 
 series = ["cog"]
-categories = ["Lebanon", "Israel"]
-tags = ["Armenian News", "Lebanon", "Yeghia Tashjian", "President", "Joseph Aoun", "Prime Minister", "Nawaf Salam", "Hezbollah", "Israel", "Iran", "Saudi Arabia", "Qatar", "Turkey", "USA", "Lebanon Ceasefire", "Syria", "Beirut", "Lebanese Armenian", "Gaza ", "War in Gaza", "Hayat Tahrir al-Sham", "HTS", "Armenian community", "Armenian Genocide", "Rebuild Lebanon", "Economic Reform", "Reform Banking Sector"]
+categories = ["Lebanon", "Middle East"]
+tags = ["Armenian News", "Lebanon", "Yeghia Tashjian", "President", "Joseph Aoun", "Prime Minister", "Nawaf Salam", "Hezbollah", "Israel", "Iran", "Saudi Arabia", "Qatar", "Turkey", "USA", "Lebanon Ceasefire", "Syria", "Beirut", "Lebanese Armenian", "Gaza", "War in Gaza", "Hayat Tahrir al-Sham", "HTS", "Armenian community", "Rebuild Lebanon", "Economic Reform", "Reform Banking Sector"]
 
 title = "Yeghia Tashjian - New Leadership in Lebanon - New President, New Prime Minister | Ep 405, Jan 21, 2025"
 subtitle = "Conversations on Groong - 01/21/2025"
@@ -40,7 +40,7 @@ Description = """
 * Armenian Community’s and Joseph Aoun
 
 
-Episode 405 | Recorded: December 1, 2024
+Episode 405 | Recorded: Januaqry 19, 2025
 
 """
 
