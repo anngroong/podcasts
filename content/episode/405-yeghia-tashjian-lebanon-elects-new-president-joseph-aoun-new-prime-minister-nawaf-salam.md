@@ -2,9 +2,9 @@
 Date = 2025-01-21T12:00:01-08:00
 upcoming = true
 
-podcast_file = ""
-podcast_bytes = ""
-podcast_duration = ""
+podcast_file = "16472715-yeghia-tashjian-new-leadership-in-lebanon-new-president-new-prime-minister-ep-405-jan-20-2025.mp3"
+podcast_bytes = "22772689"
+podcast_duration = "1895"
 youtube = ""
 
 episode_image = "img/episode/405/thumbnail-405.webp"
@@ -46,6 +46,22 @@ Episode 405 | Recorded: Januaqry 19, 2025
 
 +++
 
+# Lebanon Elects New Leadership
+
+## **Lebanon’s Political Breakthrough:**
+- After years of deadlock, Joseph Aoun’s election as president signals potential stability.
+- The factors leading to this consensus, including regional and domestic pressures from the U.S., Saudi Arabia, and France.
+- The significance of appointing Nawaf Salam, a reformist diplomat, as Prime Minister-designate despite Hezbollah’s objections.
+
+## **Geopolitical Implications:**
+- The November ceasefire agreement and its impact on Israeli and Hezbollah positions.
+- Regional influences shaping Lebanon’s policies, including Saudi and Iranian agendas.
+- Potential financial aid packages tied to political and economic reforms.
+
+## **Armenian Community’s Role:**
+- How the Armenian community has adapted to Lebanon’s crises.
+- Relations between the Armenian political parties and Joseph Aoun’s administration.
+- The community’s cautious optimism about Lebanon’s future.
 
 
 # Wrap-up
