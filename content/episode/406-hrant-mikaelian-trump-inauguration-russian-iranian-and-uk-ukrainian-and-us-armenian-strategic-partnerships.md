@@ -2,10 +2,10 @@
 Date = 2025-01-21T00:06:59+04:00
 upcoming = true
 
-podcast_file = ""
-podcast_bytes = ""
-podcast_duration = ""
-youtube = ""
+podcast_file = "16478417-hrant-mikaelian-trump-inauguration-iran-russia-uk-ukraine-us-armenia-strategic-partnerships-ep-406-jan-19-2025.mp3"
+podcast_bytes = "33928209"
+podcast_duration = "2824"
+youtube = "CihVMg5HcBU"
 
 episode_image = "img/episode/406/thumbnail-406.webp"
 episode_banner = "img/episode/406/banner-406.webp"
