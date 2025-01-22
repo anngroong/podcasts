@@ -1,6 +1,6 @@
 +++
 Date = 2025-01-21T00:06:59+04:00
-upcoming = true
+upcoming = false
 
 podcast_file = "16478417-hrant-mikaelian-trump-inauguration-iran-russia-uk-ukraine-us-armenia-strategic-partnerships-ep-406-jan-19-2025.mp3"
 podcast_bytes = "33928209"
@@ -43,7 +43,54 @@ Episode 406 | Recorded: January 20, 2025"""
 
 +++
 
+## Topics This Week
 
+# **Trump Inauguration**
+We recorded this episode on January 20, 2025, during Trump’s inauguration. This marks one of the most anticipated U.S. transitions of power in recent memory. Topics include:
+- Potential nuclear confrontation with Russia.
+- The possibility of a U.S.-Israeli strike on Iran.
+- Broader shifts in the global world order.
+  
+Hrant shares insights on Trump's foreign policy priorities and the implications of his cabinet choices.
+
+# **A Tale of Three Partnerships**
+
+## **Russian-Iranian Strategic Partnership**
+On January 17, Russia and Iran signed a 20-year "Treaty on Comprehensive Strategic Partnership," marking a deepening of relations. The agreement is poised to influence conflicts in Ukraine, Syria, Gaza, and Lebanon.
+
+## **UK-Ukrainian 100-Year Partnership**
+British PM Keir Starmer and Ukrainian President Zelensky signed a century-long agreement on January 16, highlighting defense cooperation and NATO membership advocacy.
+
+## **US-Armenian Strategic Partnership**
+On January 14, Armenia and the U.S. signed a "Strategic Partnership" agreement, covering economic, defense, and cultural aspects. However, this move risks straining Armenia's ties with Russia and Iran.
+
+Key questions discussed:
+- Are these agreements symbolic or transformative?
+- How do they reflect shifting alliances in global geopolitics?
+
+# **"Explaining" EU to Russia**
+Armenian PM Nikol Pashinyan reportedly called Vladimir Putin to clarify Armenia's alignment with the U.S. and its plans for a European Union referendum. This conversation raises questions about Armenia's delicate balancing act in the region.
+
+---
+
+## Links Referenced in the Episode
+- [US-Russia Accord: Russo-Persian Partnership Analysis](https://usrussiaaccord.org/acura-exclusive-pietro-a-shakarian-the-russo-persian-partnership-pact-significance-and-implications/)
+- [Kremlin Treaty Details](http://kremlin.ru/supplement/6258)
+- [AP News: UK-Ukraine Partnership Agreement](https://apnews.com/article/russia-ukraine-zelenskyy-starmer-putin-uk-britain-nato-c030b163628583a322f39729160646cc)
+- [UK Government: 100-Year Partnership Announcement](https://www.gov.uk/government/news/one-hundred-year-partnership-agreement-between-the-united-kingdom-of-great-britain-and-northern-ireland-and-ukraine#:~:text=ACKNOWLEDGING%20the%20achievements%20of%20the,taking%20into%20consideration%20principles%20and)
+- [Armenian MFA on US-Armenia Agreement](https://www.mfa.am/en/press-releases/2025/01/14/the/13032)
+
+---
+
+## Thoughts from the Participants
+
+### Hovik:
+- Memes from Trump’s inauguration, including the infamous Zuckerberg-Panama Canal meme.
+- Reflection on the sham trials of Artsakh leaders in Baku, emphasizing the collective honor of Armenians.
+
+### Hrant:
+- Criticism of Armenian government propagandists targeting Artsakh leadership under trial.
+- The dire state of Armenia's political landscape and the importance of prioritizing Artsakh in public discourse.
 
 
 # Wrap-up
