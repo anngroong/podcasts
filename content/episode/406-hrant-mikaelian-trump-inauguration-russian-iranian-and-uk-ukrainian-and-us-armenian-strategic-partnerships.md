@@ -43,9 +43,8 @@ Episode 406 | Recorded: January 20, 2025"""
 
 +++
 
-## Topics This Week
 
-# **Trump Inauguration**
+## **Trump Inauguration**
 We recorded this episode on January 20, 2025, during Trump’s inauguration. This marks one of the most anticipated U.S. transitions of power in recent memory. Topics include:
 - Potential nuclear confrontation with Russia.
 - The possibility of a U.S.-Israeli strike on Iran.
@@ -53,22 +52,22 @@ We recorded this episode on January 20, 2025, during Trump’s inauguration. Thi
   
 Hrant shares insights on Trump's foreign policy priorities and the implications of his cabinet choices.
 
-# **A Tale of Three Partnerships**
+## **A Tale of Three Partnerships**
 
-## **Russian-Iranian Strategic Partnership**
+### **Russian-Iranian Strategic Partnership**
 On January 17, Russia and Iran signed a 20-year "Treaty on Comprehensive Strategic Partnership," marking a deepening of relations. The agreement is poised to influence conflicts in Ukraine, Syria, Gaza, and Lebanon.
 
-## **UK-Ukrainian 100-Year Partnership**
+### **UK-Ukrainian 100-Year Partnership**
 British PM Keir Starmer and Ukrainian President Zelensky signed a century-long agreement on January 16, highlighting defense cooperation and NATO membership advocacy.
 
-## **US-Armenian Strategic Partnership**
+### **US-Armenian Strategic Partnership**
 On January 14, Armenia and the U.S. signed a "Strategic Partnership" agreement, covering economic, defense, and cultural aspects. However, this move risks straining Armenia's ties with Russia and Iran.
 
 Key questions discussed:
 - Are these agreements symbolic or transformative?
 - How do they reflect shifting alliances in global geopolitics?
 
-# **"Explaining" EU to Russia**
+## **"Explaining" EU to Russia**
 Armenian PM Nikol Pashinyan reportedly called Vladimir Putin to clarify Armenia's alignment with the U.S. and its plans for a European Union referendum. This conversation raises questions about Armenia's delicate balancing act in the region.
 
 ---
