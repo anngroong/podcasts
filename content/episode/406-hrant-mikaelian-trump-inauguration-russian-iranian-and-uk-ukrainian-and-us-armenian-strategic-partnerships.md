@@ -63,12 +63,15 @@ British PM Keir Starmer and Ukrainian President Zelensky signed a century-long a
 ### **US-Armenian Strategic Partnership**
 On January 14, Armenia and the U.S. signed a "Strategic Partnership" agreement, covering economic, defense, and cultural aspects. However, this move risks straining Armenia's ties with Russia and Iran.
 
-Key questions discussed:
-- Are these agreements symbolic or transformative?
-- How do they reflect shifting alliances in global geopolitics?
-
 ## **"Explaining" EU to Russia**
 Armenian PM Nikol Pashinyan reportedly called Vladimir Putin to clarify Armenia's alignment with the U.S. and its plans for a European Union referendum. This conversation raises questions about Armenia's delicate balancing act in the region.
+
+## **Key questions discussed:**
+- Are these agreements symbolic or transformative?
+- How do they reflect shifting alliances in global geopolitics?
+- How did Putin receive Pashinyan's call?
+- How do Armenia’s activities sit with the Russia-Iran treaty which codified the mutual desire to prevent the interference of third parties in the South Caucasus?
+
 
 ---
 
