@@ -17,8 +17,8 @@ episode = "406"
 aliases = ["/406"]
 
 series = ["wir"]
-categories = ["Armenia", "Politics","Economy"]
-tags = ["Armenian News", "Artsakh", "Nagorno Karabakh", "Hrant Mikaelian", "Armenia", "Azerbaijan", "Negotiations", "Peace Agreement", "Peace Process", "Nikol Pashinyan", "Ilham Aliyev", "Jeyhun Bayramov", "Ararat Mirzoyan", "Anthony Blinken", "UN", "United Nations", "UNGA", "General Assembly", "Turkey", "Turkish Consulate", "Turkish House", "New York", "Bagrat Srbazan", "Tavush", "Srbazan Movement", "Iran", "Zangezur Corridor"]
+categories = ["Armenia", "Artsakh", "Nagorno Karabakh"]
+tags = ["Armenian News", "Hrant Mikaelian", "Donald Trump", "USA", "Armenia", "Iran", "Russia", "Strategic Partnership", "UK", "Ukraine", "100 Year Partnership", "Azerbaijan", "Georgia", "South Caucasus", "Peace", "Negotiations", "Vladimir Putin", "Masoud Pezeshkian", "Volodymyr Zelensky", "Keir Starmer"]
 
 title = "Hrant Mikaelian - Trump Inauguration, Iran-Russia, UK-Ukraine, US-Armenia Strategic Partnerships | Ep 406, Jan 19, 2025"
 subtitle = "Week in Review - January 19, 2025"
