@@ -1,5 +1,5 @@
 +++
-Date = 2025-01-20T00:06:59+04:00
+Date = 2025-01-21T00:06:59+04:00
 upcoming = false
 
 podcast_file = "16478417-hrant-mikaelian-trump-inauguration-iran-russia-uk-ukraine-us-armenia-strategic-partnerships-ep-406-jan-19-2025.mp3"
@@ -72,19 +72,9 @@ Armenian PM Nikol Pashinyan reportedly called Vladimir Putin to clarify Armenia'
 - How did Putin receive Pashinyan's call?
 - How do Armenia’s activities sit with the Russia-Iran treaty which codified the mutual desire to prevent the interference of third parties in the South Caucasus?
 
-
 ---
 
-## Links Referenced in the Episode
-- [US-Russia Accord: Russo-Persian Partnership Analysis](https://usrussiaaccord.org/acura-exclusive-pietro-a-shakarian-the-russo-persian-partnership-pact-significance-and-implications/)
-- [Kremlin Treaty Details](http://kremlin.ru/supplement/6258)
-- [AP News: UK-Ukraine Partnership Agreement](https://apnews.com/article/russia-ukraine-zelenskyy-starmer-putin-uk-britain-nato-c030b163628583a322f39729160646cc)
-- [UK Government: 100-Year Partnership Announcement](https://www.gov.uk/government/news/one-hundred-year-partnership-agreement-between-the-united-kingdom-of-great-britain-and-northern-ireland-and-ukraine#:~:text=ACKNOWLEDGING%20the%20achievements%20of%20the,taking%20into%20consideration%20principles%20and)
-- [Armenian MFA on US-Armenia Agreement](https://www.mfa.am/en/press-releases/2025/01/14/the/13032)
-
----
-
-## Thoughts from the Participants
+## **Thoughts from the Participants**
 
 ### Hovik:
 - Memes from Trump’s inauguration, including the infamous Zuckerberg-Panama Canal meme.
@@ -93,6 +83,15 @@ Armenian PM Nikol Pashinyan reportedly called Vladimir Putin to clarify Armenia'
 ### Hrant:
 - Criticism of Armenian government propagandists targeting Artsakh leadership under trial.
 - The dire state of Armenia's political landscape and the importance of prioritizing Artsakh in public discourse.
+
+
+## Links Referenced in the Episode
+- [US-Russia Accord: Russo-Persian Partnership Analysis](https://usrussiaaccord.org/acura-exclusive-pietro-a-shakarian-the-russo-persian-partnership-pact-significance-and-implications/)
+- [Kremlin Treaty Details](http://kremlin.ru/supplement/6258)
+- [AP News: UK-Ukraine Partnership Agreement](https://apnews.com/article/russia-ukraine-zelenskyy-starmer-putin-uk-britain-nato-c030b163628583a322f39729160646cc)
+- [UK Government: 100-Year Partnership Announcement](https://www.gov.uk/government/news/one-hundred-year-partnership-agreement-between-the-united-kingdom-of-great-britain-and-northern-ireland-and-ukraine#:~:text=ACKNOWLEDGING%20the%20achievements%20of%20the,taking%20into%20consideration%20principles%20and)
+- [Armenian MFA on US-Armenia Agreement](https://www.mfa.am/en/press-releases/2025/01/14/the/13032)
+
 
 
 # Wrap-up
