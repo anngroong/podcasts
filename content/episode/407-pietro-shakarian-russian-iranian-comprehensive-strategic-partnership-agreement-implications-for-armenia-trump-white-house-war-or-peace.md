@@ -1,8 +1,8 @@
 +++
-Date = 2025-01-27T01:00:00+04:00
+Date = 2025-01-27T11:00:00+04:00
 upcoming = true
 
-title = "Pietro Shakarian - Russian-Iranian Partnership Pact | Ep XXX, Jan 27, 2025"
+title = "Pietro Shakarian - Russian-Iranian Partnership Pact | Ep 407, Jan 27, 2025"
 subtitle = "Conversations on Groong - 01/27/2025"
 
 podcast_file = ""
@@ -10,15 +10,15 @@ podcast_bytes = ""
 podcast_duration = ""
 youtube = ""
 
-episode_image = "img/episode/408/thumbnail-408.webp"
-episode_banner = "img/episode/408/banner-408.webp"
-images = ["img/episode/408/banner-408.webp"]
+episode_image = "img/episode/407/thumbnail-407.webp"
+episode_banner = "img/episode/407/banner-407.webp"
+images = ["img/episode/407/banner-407.webp"]
 
 guests = ["pshakarian"]
 hosts = ["asbed","hovik"]
 
-episode = "408"
-aliases = ["/408"]
+episode = "407"
+aliases = ["/407"]
 
 series = ["cog"]
 categories = ["Russia", "Iran", "Ukraine"]
@@ -40,7 +40,7 @@ Description = """
 * Trump Back in Office: War or Peace?
 
 
-Episode 408 | Recorded: January 27, 2025
+Episode 407 | Recorded: January 27, 2025
 """
 
 +++

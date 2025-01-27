@@ -1,8 +1,8 @@
 +++
-Date = 2025-01-25T01:00:00+04:00
+Date = 2025-01-28T11:00:00+04:00
 upcoming = true
 
-title = "Harut Sassounian - Billionaire Kirk Kerkorian’s Benevolent Engagement with Armenia | Ep 407, Jan 25, 2025"
+title = "Harut Sassounian - Billionaire Kirk Kerkorian’s Benevolent Engagement with Armenia | Ep 408, Jan 25, 2025"
 subtitle = "Conversations on Groong - 01/25/2024"
 
 podcast_file = ""
@@ -10,15 +10,15 @@ podcast_bytes = ""
 podcast_duration = ""
 youtube = ""
 
-episode_image = "img/episode/407/thumbnail-407.webp"
-episode_banner = "img/episode/407/banner-407.webp"
-images = ["img/episode/407/banner-407.webp"]
+episode_image = "img/episode/408/thumbnail-408.webp"
+episode_banner = "img/episode/408/banner-408.webp"
+images = ["img/episode/408/banner-408.webp"]
 
 guests = ["hsassounian"]
 hosts = ["asbed","hovik"]
 
-episode = "407"
-aliases = ["/407"]
+episode = "408"
+aliases = ["/408"]
 
 series = ["cog"]
 categories = ["Armenia"]
@@ -39,7 +39,7 @@ Description = """
 * TBD
 
 
-Episode 407 | Recorded: January 22, 2025
+Episode 408 | Recorded: January 22, 2025
 """
 
 +++
