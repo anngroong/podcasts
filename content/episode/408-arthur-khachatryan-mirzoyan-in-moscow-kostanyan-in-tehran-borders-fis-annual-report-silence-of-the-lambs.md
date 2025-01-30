@@ -2,7 +2,7 @@
 Date = 2025-02-01T00:00:00+04:00
 upcoming = true
 
-title = "Arthur Khachatryan - Mirzoyan in Moscow, Kostanyan in Tehran, Mher Grigoryan on the Border, FIS Annual Report, Silence of the Lambs | Ep 409, Jan 26, 2025
+title = "Arthur Khachatryan - Mirzoyan in Moscow, Kostanyan in Tehran, Mher Grigoryan on the Border, FIS Annual Report, Silence of the Lambs | Ep 409, Jan 26, 2025"
 subtitle = "Week in Review - 01/26/2025"
 author = "Armenian News Network - Groong"
 
