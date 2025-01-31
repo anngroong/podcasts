@@ -6,10 +6,10 @@ title = "Arthur Khachatryan - Mirzoyan in Moscow, Kostanyan in Tehran, Mher Grig
 subtitle = "Week in Review - 01/26/2025"
 author = "Armenian News Network - Groong"
 
-podcast_file = ""
-podcast_duration = ""
-podcast_bytes = ""
-youtube = ""
+podcast_file = "16535079-arthur-khachatryan-mirzoyan-in-moscow-kostanyan-in-tehran-mher-grigoryan-on-the-border-fis-annual-report-silence-of-the-lambs-ep-408-jan-26-2025.mp3"
+podcast_duration = "2918"
+podcast_bytes = "35049334"
+youtube = "IsiD6Yjc0TE"
 
 episode_image = "img/episode/408/thumbnail-408.webp"
 episode_banner = "img/episode/408/banner-408.webp"
@@ -24,7 +24,7 @@ aliases = ["/408"]
 series = ["wir"]
 categories = ["Armenia", "Artsakh", "Nagorno Karabakh","Economy"]
 explicit = "no" # values are "yes" or "no"
-tags = ["Armenian News", "Artsakh", "Nagorno Karabakh", "Arthur Khachatryan", "Armenia", "Azerbaijan", "Georgia", "South Caucasus", "Turkey", "Russia", "Corridors", "Borders", "Peace", " Negotiations", "Kristinne Grigoryan", "Foreign Intelligence Service", "Annual Report", "CIA", "MI6", "Western Intelligence Agency", "Tavush", "Tavush Movement", "Bagrat Srbazan"]
+tags = ["Armenian News", "Artsakh", "Nagorno Karabakh", "Arthur Khachatryan", "Armenia", "Azerbaijan", "Georgia", "South Caucasus", "Turkey", "Russia", "Corridors", "Borders", "Peace", "Negotiations", "Kristinne Grigoryan", "Foreign Intelligence Service", "Annual Report", "CIA", "MI6", "Western Intelligence Agency", "Tavush", "Tavush Movement", "Bagrat Srbazan"]
 
 Description = """
 
@@ -33,7 +33,7 @@ Description = """
 * [linktr.ee/Groong](https://linktr.ee/groong)
 
 #### Guest:
-* [Mr. Arthur Khachatryan](/guest/akhachatryan)
+* [Mr. Arthur Khachatryan](/guest/akhachatryan), MP, Hayastan Dashinq (Armenia Alliance)
 
 #### Topics:
 * Mirzoyan in Moscow
