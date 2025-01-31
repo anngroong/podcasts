@@ -33,7 +33,7 @@ Description = """
 * [linktr.ee/Groong](https://linktr.ee/groong)
 
 #### Guest:
-* [Mr. Arthur Khachatryan](/guest/akhachatryan), MP, Hayastan Dashinq (Armenia Alliance)
+* [Mr. Arthur Khachatryan](/guest/akhachatryan), MP, Hayastan Dashinq/Armenia Alliance
 
 #### Topics:
 * Mirzoyan in Moscow
@@ -41,7 +41,6 @@ Description = """
 * Mher Grigoryan on the Border (concessions)
 * FIS Annual Report 2025
 * The Silence of the Lambs
-
 
 
 Episode 408 | Recorded: January 29, 2025
