@@ -1,13 +1,13 @@
 +++
-Date = 2025-02-01T11:00:00+04:00
+Date = 2025-02-02T11:00:00+04:00
 upcoming = true
 
-title = "Harut Sassounian - Billionaire Kirk Kerkorian’s Benevolent Engagement with Armenia | Ep 409, Feb 1, 2025"
-subtitle = "Conversations on Groong - 02/01/2025"
+title = "Harut Sassounian - Billionaire Kirk Kerkorian’s Benevolent Engagement with Armenia | Ep 409, Feb 2, 2025"
+subtitle = "Conversations on Groong - 02/02/2025"
 
-podcast_file = ""
-podcast_bytes = ""
-podcast_duration = ""
+podcast_file = "16546430-harut-sassounian-billionaire-kirk-kerkorian-s-benevolent-engagement-with-armenia-ep-409-february-2-2025.mp3"
+podcast_bytes = "84439790"
+podcast_duration = "7033"
 youtube = ""
 
 episode_image = "img/episode/409/thumbnail-409.webp"
@@ -39,7 +39,7 @@ Description = """
 * TBD
 
 
-Episode 409 | Recorded: February 1, 2025
+Episode 409 | Recorded: January 21, 2025
 """
 
 +++
