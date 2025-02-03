@@ -35,8 +35,10 @@ Description = """
 * [Harut Sassounian](/guest/hsassounian)
 
 #### Topics:
-* Origin Story
-* TBD
+* Who was Kirk Kerkorian?
+* How Kerkorian Discovered Armenia
+* Investing in Armenia
+* End of Investments and Death of Kerkorian
 
 
 Episode 409 | Recorded: January 21, 2025
