@@ -50,14 +50,6 @@ Kirk Kerkorian, the Armenian-American billionaire, was one of the greatest benef
 
 ---
 
-## Topics Covered  
-- Who was Kirk Kerkorian?  
-- How Kerkorian discovered Armenia  
-- Investing in Armenia  
-- End of investments and death of Kerkorian  
-
----
-
 ## Key Questions Discussed  
 
 ### Who Was Kirk Kerkorian?  
@@ -84,10 +76,30 @@ Kirk Kerkorian, the Armenian-American billionaire, was one of the greatest benef
 ---
 
 # Links Referenced During The Show  
-- [Kirk Kerkorian’s Biography - *The Gambler* by William Rempel](https://www.amazon.com/Gambler-Penniless-Kerkorian-Greatest-Capitalist/dp/0062456776)  
-- [Harut Sassounian’s 2016 Interview Dispelling Corruption Rumors](https://en.168.am/2016/03/02/3138.html)  
-- [California Courier Articles on Kerkorian’s Philanthropy](https://www.thecaliforniacourier.com/)  
-- [President Robert Kocharyan’s 1998 Press Conference on Kerkorian](https://en.wikisource.org/wiki/President_Robert_Kocharyan%27s_press_conference_on_the_occasion_of_national_philanthropist_Kirk_Kerkorian%27s_visit_to_Armenia)  
+- **Kirk Kerkorian’s Biography** – *The Gambler* by William Rempel  
+  🔗 [Amazon Link](https://www.amazon.com/Gambler-Penniless-Kerkorian-Greatest-Capitalist/dp/0062456776)  
+- **Harut Sassounian’s 2016 Interview Dispelling Corruption Rumors**  
+  🔗 [168.am Interview](https://en.168.am/2016/03/02/3138.html)  
+- **California Courier Articles on Kerkorian’s Philanthropy**  
+  🔗 [California Courier](https://www.thecaliforniacourier.com/)  
+- **President Robert Kocharyan's 1998 Press Conference on Kirk Kerkorian's Visit to Armenia**  
+  🔗 [Wikisource Link](https://en.wikisource.org/wiki/President_Robert_Kocharyan%27s_press_conference_on_the_occasion_of_national_philanthropist_Kirk_Kerkorian%27s_visit_to_Armenia)  
+- **United Armenian Fund Ends Humanitarian Shipments to Armenia (Dec 2015)**  
+  🔗 [California Courier](https://www.thecaliforniacourier.com/united-armenian-fund-ends-humanitarian-shipments-to-armenia/)  
+- **Kirk Kerkorian’s Will Designates All His Wealth to Charity (Jan 2016)**  
+  🔗 [California Courier](https://www.thecaliforniacourier.com/kerkorians-will-designates-all-his-wealth-to-charity/)  
+- **New Biography Portrays Kirk Kerkorian as ‘The Greatest Deal Maker’ (Jan 2018)**  
+  🔗 [California Courier](https://www.thecaliforniacourier.com/new-biography-portrays-kirk-kerkorian-not-trump-as-the-greatest-deal-maker/)  
+- **Why Did Lincy Fund Dissolve? Armenian Diaspora Rep Quashes Speculations (Feb 2011)**  
+  🔗 [Epress.am Article](https://epress.am/en/2011/02/23/why-did-lincy-fund-dissolve-armenian-diasporan-rep-quashes-speculations.html)  
+- **How Lincy Foundation Money Was Managed (Apr 2003)**  
+  🔗 [Hetq Article](https://hetq.am/en/article/6897)  
+- **Fake News About Kerkorian’s Philanthropy (Reddit)**  
+  🔗 [Reddit Discussion](https://www.reddit.com/r/armenia/comments/pl4lou/letters_between_krik_kerkorian_and_robert/)  
+- **The Armenian Who Took Over Vegas | Kirk Kerkorian Story**  
+  🔗 [YouTube Video](https://www.youtube.com/watch?v=k9nd1YfE_pE)  
+- **Kirk Kerkorian’s National Hero Award and Legacy in Armenia**  
+  🔗 [Mediamax Article](https://mediamax.am/en/column/12227/)  
 
 
 # Wrap-up
