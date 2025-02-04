@@ -59,14 +59,20 @@ In this episode of **Groong Week in Review**, we speak with **Benyamin Poghosyan
 - How viable is Azerbaijan’s **demand for a “Zangezur Corridor”**, and what are Armenia’s **strategic alternatives**?  
 - Could Armenia **leverage the North-South trade corridor** to improve its geopolitical position?  
 
+## **Thoughts from the Participants**  
+
+- **Hovik:** *"70-year-old Artsakh refugee Gharib Babayan video exposes Azeris in central Yerevan celebrating destruction of Artsakh, and gets arrested for 'inciting ethnic hatred.' Armenia is an occupied country."*  
+- **Benyamin:** *"Changes in the US precipitating transformation of the post-unipolar world."*  
+
+
 ## **Links Referenced During The Show**  
-- **[MPG Poll Results & Analysis](https://armenpress.am/en/article/1210961)**  
-- **[Aliyev’s Accusations Against Russia](https://eadaily.com/en/news/2025/02/01/why-aliyev-accused-tsarist-russia-of-resettling-armenians-in-azerbaijan-opinion)**  
-- **[Russia House Espionage Allegations](https://apnews.com/article/russia-putin-plane-crash-azerbaijan-a5b0ffa3e410df53556b0cd824f32a6f)**  
-- **[Russia Warns of Armenia’s ‘Total Impoverishment’ if it Leaves EEU](https://www.azatutyun.am/a/33298809.html)**  
-- **[Stratfor Report: Possible Regional Escalations](https://worldview.stratfor.com/article/2025-annual-geopolitical-forecast)**  
-- **[Pashinyan’s January 31st Press Conference on Transit & Corridor Proposals](https://armenpress.am/en/article/1208827)**  
-- **[Russia-Iran-Azerbaijan Transit Agreements](https://interfax.com/newsroom/top-stories/109513/)**  
+- [MPG Poll Results & Analysis](https://armenpress.am/en/article/1210961)
+- [Aliyev’s Accusations Against Russia](https://eadaily.com/en/news/2025/02/01/why-aliyev-accused-tsarist-russia-of-resettling-armenians-in-azerbaijan-opinion)
+- [Russia House Espionage Allegations](https://apnews.com/article/russia-putin-plane-crash-azerbaijan-a5b0ffa3e410df53556b0cd824f32a6f)
+- [Russia Warns of Armenia’s ‘Total Impoverishment’ if it Leaves EEU](https://www.azatutyun.am/a/33298809.html)
+- [Stratfor Report: Possible Regional Escalations](https://worldview.stratfor.com/article/2025-annual-geopolitical-forecast)
+- [Pashinyan’s January 31st Press Conference on Transit & Corridor Proposals](https://armenpress.am/en/article/1208827)
+- [Russia-Iran-Azerbaijan Transit Agreements](https://interfax.com/newsroom/top-stories/109513/)
 
 ## **Slides Referenced During The Show**
 
@@ -82,13 +88,6 @@ Slide 5: What's your view on the law to seek EU membership?
 ![Who would you vote for?](/img/episode/410/MPG-Chipolino-slide-13.webp "Who would you vote for?")
 Slide 13: If voting were this Sunday, who'd you vote for?'
 
-
-## **Thoughts from the Participants**  
-
-**Hovik:**  
-*"70-year-old Artsakh refugee Gharib Babayan video exposes Azeris in central Yerevan celebrating destruction of Artsakh, and gets arrested for 'inciting ethnic hatred.' Armenia is an occupied country."*  
-**Benyamin:**  
-*"Changes in the US precipitating transformation of the post-unipolar world."*  
 
 
 # Wrap-up
