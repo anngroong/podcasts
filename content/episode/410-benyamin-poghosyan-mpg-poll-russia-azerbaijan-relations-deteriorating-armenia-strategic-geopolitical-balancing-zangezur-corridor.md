@@ -34,15 +34,30 @@ Description = """
 * [Benyamin Poghosyan](/guest/bpoghosyan)
 
 #### Topics:
-* Pashinyan’s Lies on Decades of Negotiations
-* 17 Points to an Agreement
-* 2024 Review and 2025 Outlook
+* MPG Poll: Pashinyan’s Rating Tanks
+* Russia Azerbaijan Relations Deteriorating
+* Armenia’s Strategic Geopolitical Balancing
+* Azerbaijan and the “Zangezur Corridor”
 
 Episode 410 | Recorded: February 3, 2025
 """
 
 +++
 
+
+
+
+![Armenia in Right Direction?](/img/episode/410/MPG-Chipolino-slide-3.webp "Armenia in Right Direction?")
+Slide 3: Is Armenia headed in the right direction?
+
+![Armenia Greatest Challenges](/img/episode/410/MPG-Chipolino-slide-4.webp "Armenia Greatest Challenges")
+Slide 4: What are the greatest challenges facing Armenia?
+
+![Impression on Joining the EU](/img/episode/410/MPG-Chipolino-slide-5.webp "Impression on Joining the EU")
+Slide 5: What's your view on the law to seek EU membership?
+
+![Who would you vote for?](/img/episode/410/MPG-Chipolino-slide-13.webp "Who would you vote for?")
+Slide 4: If voting were this Sunday, who'd you vote for?'
 
 
 # Wrap-up
