@@ -60,6 +60,10 @@ Slide 5: What's your view on the law to seek EU membership?
 Slide 4: If voting were this Sunday, who'd you vote for?'
 
 
+## Thoughts from the Participants
+* **Hovik**: 70-year-old Artsakh refugee Gharib Babayan video exposes Azeris in central Yerevan celebrating destruction of Artsakh, and gets arrested for “inciting ethnic hatred.” Armenia is an occupied country.
+* **Benyamin**: Changes in the US precipitating transformation of the post-unipolar world.
+
 # Wrap-up
 
 ### **Links and Resources**
