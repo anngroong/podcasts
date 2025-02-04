@@ -21,7 +21,7 @@ episode = "410"
 aliases = ["/410"]
 
 series = ["wir"]
-categories = ["Armenia", "Azerbaijan"]
+categories = ["Armenia", "Azerbaijan", "Poll"]
 tags = ["Armenian News", "Artsakh", "Nagorno Karabakh", "Benyamin Poghosyan", "Armenia", "Azerbaijan", "Turkey", "Russia", "Corridors", "Borders", "Peace", " Negotiations", "Donald Trump", "USAID", "NED", "National Endowment for Democracy", "Regime Change", "Azerbaijani Airlines", "Flight 8243", "Grozny", "Aktau", "Kazakhstan", "Plane Crash", "MPG Poll", "Nikol Pashinyan", "Civil Contract", "Joining the EU", "Referendum", "Ilham Aliyev", "Iran"]
 
 Description = """
