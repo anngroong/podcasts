@@ -80,7 +80,7 @@ Slide 4: What are the greatest challenges facing Armenia?
 Slide 5: What's your view on the law to seek EU membership?
 
 ![Who would you vote for?](/img/episode/410/MPG-Chipolino-slide-13.webp "Who would you vote for?")
-Slide 4: If voting were this Sunday, who'd you vote for?'
+Slide 13: If voting were this Sunday, who'd you vote for?'
 
 
 ## **Thoughts from the Participants**  
