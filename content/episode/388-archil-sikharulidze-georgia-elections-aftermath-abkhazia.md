@@ -1,7 +1,9 @@
 +++
 Date = 2024-11-30T21:00:00-08:00
-
 upcoming = false # set to true if you want this to be listed as upcoming, etc, etc
+
+title = "Archil Sikharulidze - Georgia Elections Aftermath and The Situation in Abkhazia | Ep 388, Dec 1, 2024"
+subtitle = "Conversations on Groong - 12/01/2024"
 
 podcast_file = "16200262-archil-sikharulidze-georgia-elections-aftermath-and-the-situation-in-abkhazia-ep-388-dec-1-2024.mp3" # the name of the podcast file, after the media prefix.
 podcast_duration = "4089"
@@ -22,9 +24,8 @@ series = ["cog"]
 categories = ["Georgia", "Politics"]
 tags = ["Armenian News", "Georgia", "Georgian News", "Archil Sikharulidze", "Elections", "Law on Foreign Agents", "NGO", "Tbilisi", "Archil Sikharulidze", "Georgian Dream", "Orthodox Church", "Mikheil Saakashvili", "UNM", "United National Movement", "Armenia", "EU", "Europe", "Russia", "Salome Zurabishvili", "constitutional crisis", "Abkhazia", "Anaklia port", "South Caucasus", "Bidzina Ivanishvili", "NATO", "Eurasian politics"]
 
-title = "Georgia Elections Aftermath and The Situation in Abkhazia"
-subtitle = "Conversations on Groong"
 Description = """
+
 #### Groong Links:
 * [GIVE to GROONG](https://podcasts.groong.org/donate)
 * [linktr.ee/Groong](https://linktr.ee/groong)
