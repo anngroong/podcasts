@@ -42,14 +42,19 @@ def scrape_article(url):
 
     soup = BeautifulSoup(response.text, "html.parser")
 
-    # Look for the div with dir="ltr"
+    # Extract the title
+    title_tag = soup.find("title")
+    title = title_tag.get_text(strip=True) if title_tag else "Untitled Article"
+
+    # Extract content inside <div dir="ltr">
     article_content = soup.find("div", attrs={"dir": "ltr"})
 
     if article_content:
-        return article_content.get_text(separator="\n", strip=True)
+        text_content = article_content.get_text(separator="\n", strip=True)
+        return f"Title: {title}\n\n{text_content}"  # Prepend the title to the content
     else:
         print(f"No content found for: {url}")
-        return ""
+        return f"Title: {title}\n\n(Content could not be extracted)"
 
 # Function to save content as a text file
 def save_as_text(content, filename="all_news.txt"):
@@ -59,7 +64,50 @@ def save_as_text(content, filename="all_news.txt"):
 
 # Function to save content as a PDF using WeasyPrint
 def save_as_pdf(text, filename="all_news.pdf"):
-    html_content = f"<html><body><pre>{text}</pre></body></html>"
+    css_styles = """
+        @page {
+            size: A4;
+            margin: 1in;
+        }
+        body {
+            font-family: Arial, sans-serif;
+            font-size: 12pt;
+            line-height: 1.6;
+            text-align: justify;
+            white-space: pre-wrap;
+        }
+        h1 {
+            font-size: 16pt;
+            font-weight: bold;
+            margin-bottom: 10px;
+        }
+        .article {
+            margin-bottom: 30px;
+            border-bottom: 1px solid #ccc;
+            padding-bottom: 10px;
+        }
+        .title {
+            font-size: 14pt;
+            font-weight: bold;
+            color: #333;
+            margin-bottom: 5px;
+        }
+    """
+
+    html_content = f"""
+    <html>
+    <head>
+        <style>{css_styles}</style>
+    </head>
+    <body>
+        <h1>Collected News Articles</h1>
+        <div class="article">
+            {text.replace("\n", "<br>")}
+        </div>
+    </body>
+    </html>
+    """
+
     HTML(string=html_content).write_pdf(filename)
     print(f"PDF saved as {filename}")
 
@@ -82,7 +130,6 @@ def scrape_all_news():
         save_as_pdf(all_news)
     else:
         print("No news articles were found.")
-
 
 
 if __name__ == "__main__":
