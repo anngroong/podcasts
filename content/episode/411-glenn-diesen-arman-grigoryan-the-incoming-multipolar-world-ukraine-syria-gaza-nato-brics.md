@@ -20,7 +20,7 @@ episode = "411"
 aliases = ["/411"]
 
 series = ["cog", "video"]
-categories = ["Russia", "Ukraine", "World Order", "BRICS"]
+categories = ["Russia", "Ukraine", "World Order", "BRICS"]
 tags = ["Armenian News", "Glenn Diesen", "Arman Grigoryan", "Gaza", "Syria", "Ukraine", "Israel", "Unipolar World", "Multipolar World", "BRICS", "USA", "EU", "European Union", "NATO", "China", "Russia", "Swift", "Dollar", "Dollar Denomination", "Soviet Union", "Post Soviet", "Shanghai Cooperation Organization", "INSTC", "Belt and Road Initiative", "Middle East"]
 
 
