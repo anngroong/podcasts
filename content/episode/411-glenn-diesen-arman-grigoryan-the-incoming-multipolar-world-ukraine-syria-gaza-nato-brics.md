@@ -15,7 +15,7 @@ episode_banner = "img/episode/411/banner-411.webp"
 images = ["img/episode/411/banner-411.webp"]
 
 hosts = ["hovik", "asbed"]
-guests = ["gdiesen","argrigoryan"]
+guests = ["gdiesen", "argrigoryan"]
 episode = "411"
 aliases = ["/411"]
 
