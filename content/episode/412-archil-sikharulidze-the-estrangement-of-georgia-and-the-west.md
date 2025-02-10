@@ -1,6 +1,6 @@
 +++
 Date = 2025-02-11T01:00:00-08:00
-upcoming = true
+upcoming = false
 
 title = "Archil Sikharulidze - The Estrangement of Georgia and the West | Ep 412, Feb 10, 2025"
 subtitle = "Conversations on Groong - 02/10/2025"
@@ -8,7 +8,7 @@ subtitle = "Conversations on Groong - 02/10/2025"
 podcast_file = "16597373-archil-sikharulidze-the-estrangement-of-georgia-and-the-west-ep-412-feb-10-2025.mp3"
 podcast_bytes = "33289762"
 podcast_duration = "2771"
-youtube = ""
+youtube = "udTwf9fMpyQ"
 
 episode_image = "img/episode/412/thumbnail-412.webp"
 episode_banner = "img/episode/412/banner-412.webp"
