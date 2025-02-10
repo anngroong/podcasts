@@ -1,14 +1,14 @@
 +++
-Date = 2025-02-08T00:03:30-07:00
-upcoming = true
+Date = 2025-02-09T00:03:30-07:00
+upcoming = false
 
 title = "Glenn Diesen & Arman Grigoryan - The Incoming Multipolar World | Ep 411, Feb 8, 2025"
 subtitle = "Conversations on Groong - February 8, 2025"
 
-podcast_file = ""
-podcast_duration = ""
-podcast_bytes = ""
-youtube = ""
+podcast_file = "16593131-glenn-diesen-arman-grigoryan-the-incoming-multipolar-world-ep-411-feb-9-2025.mp3"
+podcast_duration = "5189"
+podcast_bytes = "62318540"
+youtube = "DDyDy8bvUu8"
 
 episode_image = "img/episode/411/thumbnail-411.webp"
 episode_banner = "img/episode/411/banner-411.webp"
@@ -36,9 +36,9 @@ Description = """
 
 
 #### Topics:
-The Ongoing conflicts: Gaza, Syria, Ukraine
-Shifting Global Power and Alliances
-Small Countries in a Multipolar World
+* The Ongoing conflicts: Gaza, Syria, Ukraine
+* Shifting Global Power and Alliances
+* Small Countries in a Multipolar World
 
 
 Episode 411 | Recorded: February 6, 2025
@@ -46,6 +46,64 @@ Episode 411 | Recorded: February 6, 2025
 
 +++
 
+# The Incoming Multipolar World and Where We Stand Today  
+
+## Topics Covered  
+
+### Taking Stock of the Main Global Conflicts  
+- **Gaza: Trump’s Shocking Statements on Ethnic Cleansing**  
+  - Trump’s proposal to “take over” and redevelop Gaza as the “Riviera of the Middle East”  
+  - The UN condemns the plan as illegal and warns of ethnic cleansing  
+  - Regional implications: Would Jordan, Egypt, Saudi Arabia, and others accept it?  
+  - Does this align with Trump’s “America First” strategy?  
+
+- **Syria: Turkey’s Strategic Moves**  
+  - Former wanted terrorist Ahmed al-Sharaa (Abu Mohammad al-Julani) now rules Syria  
+  - Turkey signs military alliance with Syria and establishes military bases  
+  - Has Turkey successfully consolidated its control, or is it overextending?  
+  - Potential consequences for Turkey’s broader regional ambitions, including the South Caucasus  
+
+- **Ukraine: The War’s Endgame and Global Repercussions**  
+  - Trump’s promise to end the war quickly—how realistic is it?  
+  - Mixed signals: threats of new sanctions on Russia vs. demand that Ukraine provide rare earth resources as collateral  
+  - UK’s unprecedented 100-year strategic deal with Ukraine, including military cooperation  
+  - Why is this war seen as the defining moment for a transition to a new world order?  
+
+---
+
+## Key Questions Discussed  
+
+### Shifting Global Power and Alliances  
+- **China & Russia: A New Axis or Marriage of Convenience?**  
+  - Has NATO’s post-Cold War expansion pushed Russia and China closer together?  
+  - If the US had integrated Russia into Western institutions earlier, would today’s multipolarity look different?  
+  - How solid is the China-Russia relationship, and could it evolve into its own geopolitical “pole”?  
+
+- **The Rise of BRICS and the Future of Global Alliances**  
+  - How does BRICS challenge Western financial dominance?  
+  - Could BRICS replace the US-led global economic system?  
+  - Turkey’s ambiguous position: Can a NATO member also join BRICS?  
+
+- **The Future of NATO in a Multipolar World**  
+  - As BRICS expands, can NATO maintain its role as a dominant military alliance?  
+  - Could regional powers realign, shifting the global balance?  
+
+### Small Countries in a Multipolar World  
+- **Survival Strategies for Smaller Nations**  
+  - How can small countries like Armenia avoid being caught between major geopolitical forces?  
+  - Will they face increasing pressure to pick sides, and what would the new global divisions look like?  
+  - Can true neutrality be an option, or is alignment inevitable?  
+
+---
+
+## Links Referenced During the Show  
+1. [Al Jazeera: Trump Says the US Will "Take Over" Gaza](https://www.aljazeera.com/news/2025/2/5/trump-says-us-will-take-over-and-own-gaza-in-redevelopment-plan)  
+2. [Al Jazeera: UN Officials Denounce Trump’s Gaza Plan as Unlawful](https://www.aljazeera.com/news/2025/2/5/strictly-prohibited-un-officials-denounce-trumps-gaza-plan-as-unlawful)  
+3. [The Jerusalem Post: International Reactions to Gaza Proposals](https://www.jpost.com/israel-news/article-840712)  
+4. [Marco Rubio on the End of Unipolarity](https://responsiblestatecraft.org/marco-rubio/)  
+5. [Glenn Diesen’s Tweet on Human Rights NGOs & War Propaganda](https://x.com/Glenn_Diesen/status/1887488730224595254)  
+6. [Glenn Diesen’s Tweet on USAID and Foreign Influence](https://x.com/Glenn_Diesen/status/1886674473501311144)  
+7. [Arman Grigoryan’s Paper: *Selective Wilsonianism – Material Interests & Democracy*](https://direct.mit.edu/isec/article-abstract/44/4/158/12246/Selective-Wilsonianism-Material-Interests-and-the?redirectedFrom=fulltext)  
 
 
 # Wrap-up
