@@ -48,9 +48,7 @@ Episode 411 | Recorded: February 6, 2025
 
 # The Incoming Multipolar World and Where We Stand Today  
 
-## Topics Covered  
-
-### Taking Stock of the Main Global Conflicts  
+## The Ongoing conflicts: Gaza, Syria, Ukraine  
 - **Gaza: Trump’s Shocking Statements on Ethnic Cleansing**  
   - Trump’s proposal to “take over” and redevelop Gaza as the “Riviera of the Middle East”  
   - The UN condemns the plan as illegal and warns of ethnic cleansing  
@@ -67,7 +65,48 @@ Episode 411 | Recorded: February 6, 2025
   - Trump’s promise to end the war quickly—how realistic is it?  
   - Mixed signals: threats of new sanctions on Russia vs. demand that Ukraine provide rare earth resources as collateral  
   - UK’s unprecedented 100-year strategic deal with Ukraine, including military cooperation  
-  - Why is this war seen as the defining moment for a transition to a new world order?  
+  - Why is this war seen as the defining moment for a transition to a new world order?
+  
+## Shifting Global Power and Alliances  
+
+- **The West's Declining Influence & The Rise of Multipolarity**  
+  - Marco Rubio’s statement: “It’s not normal for the world to simply have a unipolar power.”  
+  - The shift away from the US acting as the world’s sole "police officer"  
+  - The significance of Ukraine as the catalyst for a new global order  
+
+- **China and Russia: A Strengthening Strategic Relationship**  
+  - NATO’s post-Cold War expansion—did it push Russia toward China?  
+  - Could the US have prevented this alliance by integrating Russia earlier?  
+  - What does the China-Russia alliance mean for the future of global power?  
+
+- **Multipolarity and Emerging Alliances**  
+  - NATO as a military bloc vs. BRICS as an economic federation—two different models  
+  - How BRICS is reshaping global financial systems and reducing reliance on the dollar  
+  - Could NATO members (like Turkey) also become BRICS members, and what does that mean geopolitically?  
+
+- **The Future of NATO in a Multipolar World**  
+  - If military power is no longer the primary determinant of global influence, how must NATO evolve?  
+  - As the US reduces its international military commitments, will European states step up?  
+  - Are NATO’s member states truly aligned, or are internal fractures emerging?  
+  - How will shifting alliances affect NATO’s relevance in the coming decades?  
+
+
+## Small Countries in a Multipolar World  
+
+- **The Role of Middle Powers & Small States**  
+  - In a world divided between competing economic and military blocs, where do middle powers (Turkey, Iran, Indonesia, Brazil, etc.) fit?  
+  - What role do smaller nations like Armenia, Georgia, Azerbaijan, and Lebanon play?  
+
+- **Survival Strategies for Small Countries in a Shifting Global Order**  
+  - Can small states maintain strategic neutrality in a world where major powers are reconfiguring alliances?  
+  - The importance of balancing relationships with the West, Russia, and China  
+  - The risks of being drawn into great power conflicts  
+
+- **Neutrality as a Strategy?**  
+  - Dr. Pascal Lottaz's perspective: Is neutrality the best path for smaller nations?  
+  - Can a country like Armenia realistically remain neutral, or is it inevitably forced to align with one side?  
+  - Historical examples of successful neutral states—can Armenia follow a similar model?  
+
 
 ---
 
