@@ -2,8 +2,8 @@
 Date = 2025-02-09T00:03:30-07:00
 upcoming = false
 
-title = "Glenn Diesen & Arman Grigoryan - The Incoming Multipolar World | Ep 411, Feb 8, 2025"
-subtitle = "Conversations on Groong - February 8, 2025"
+title = "Glenn Diesen & Arman Grigoryan - The Incoming Multipolar World | Ep 411, Feb 9, 2025"
+subtitle = "Conversations on Groong - February 9, 2025"
 
 podcast_file = "16593131-glenn-diesen-arman-grigoryan-the-incoming-multipolar-world-ep-411-feb-9-2025.mp3"
 podcast_duration = "5189"
