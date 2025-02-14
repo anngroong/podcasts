@@ -17,4 +17,5 @@ Twitch = ""
 #guest_group = "wir"
 +++
 
-__Fyodor Lukyanov__ is Chairman of the Council on Foreign and Defense Policy, a Russian NGO providing expertise in the foreign policy field. He is also editor-in-chief of Russia in Global Affairs, a platform for publication in English and Russian of research in political science and international relations.
+__Fyodor Lukyanov__ is Chairman of the Council on Foreign and Defense Policy, a Russian think tank providing expertise in the foreign policy field. He is also editor-in-chief of Russia in Global Affairs, a platform for publication in English and Russian of research in political science and international relations. Mr. Lukyanov is also Director of Research at the Valdai Discussion Club.
+
