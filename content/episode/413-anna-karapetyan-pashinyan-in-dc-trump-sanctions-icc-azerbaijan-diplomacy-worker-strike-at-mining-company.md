@@ -119,7 +119,7 @@ Episode 413 | Recorded: February 11, 2025
 - [Government's Response to Strike](https://www.azatutyun.am/a/33301672.html)  
 
 ### **Armenian Hostages and POWs**  
-- [Aram I’s Letter to Trump on POWs](https://168.am/2025/02/07/2164882.html)  
+- [Catholicos Aram I’s Letter to Trump on POWs](https://168.am/2025/02/07/2164882.html)  
 - [Armenian Diplomatic Efforts on POWs](https://www.armenpress.am/en/article/1211516.html)  
 
 ---
