@@ -18,4 +18,4 @@ Twitch = ""
 #guest_group = "wir"
 +++
 
-Hrant Mikaelian, a political scientist and multidisciplinary researcher in social sciences based in Yerevan. He is also a senior researcher at the Caucasus Institute.
+Hrant Mikaelian, a political scientist and multidisciplinary researcher in social sciences based in Yerevan. He is also a senior researcher at the Caucasus Institute. Hrant is a co-founder of the [Armenian Project](https://armenianproject.com/en/about/).
