@@ -1,29 +1,28 @@
 +++
-Date = 2025-02-15T00:00:00+04:00
+Date = 2025-02-17T00:11:00-07:00
 upcoming = true
 
+title = "Glenn Diesen - The Think Tank Racket: Managing the Information War with Russia | Ep 415, Feb 17, 2025"
+subtitle = "Conversations on Groong - February 17, 2025"
+
 podcast_file = ""
-podcast_bytes = ""
 podcast_duration = ""
+podcast_bytes = ""
 youtube = ""
 
 episode_image = "img/episode/415/thumbnail-415.webp"
 episode_banner = "img/episode/415/banner-415.webp"
 images = ["img/episode/415/banner-415.webp"]
 
-title = "Hrant Mikaelian - Review of the Armenian Economy in 2024 | Ep 415, Feb 15, 2025"
-subtitle = "Conversations on Groong - 08/03/2024"
-
-guests = ["hmikaelian"]
-hosts = ["hovik","asbed"]
-
+hosts = ["hovik", "asbed"]
+guests = ["gdiesen"]
 episode = "415"
 aliases = ["/415"]
 
-series = ["cog"]
-categories = ["Armenia", "Turkey", "Artsakh","Economy"]
-explicit = "no" # values are "yes" or "no"
-tags = ["Armenian News", "Economy", "Economic Downturn", "Imports", "Exports", "Hrant Mikaelian", "Foreign Trade", "Dram Rate", "National Debt", "Budget", "Budget Deficit", "Tax Revenues", "Taxes", "Mortgage", "Interest Rates", "CBA", "Central Bank of Armenia", "Refinance Rate", "Real Estate Market", "Labor Market"]
+series = ["cog", "video"]
+categories = ["Russia", "Ukraine"]
+tags = ["Armenian News", "Glenn Diesen", "Book", "Author", "Think Tank Racket", "Information War", "Russia", "NATO", "Social Media", "Facebook", "Twitter", "Tiktok", "Instagram", "Europe", "EU", "USAID", "NED", "National Endowment for Democracy", "Colored Revolutions", "NGO", "Civil Society", "Georgia", "Ukraine", "Moldova", "Ukraine", "Belarus"]
+
 
 Description = """
 
@@ -32,17 +31,18 @@ Description = """
 * [linktr.ee/Groong](https://linktr.ee/groong)
 
 #### Guest:
-* [Hrant Mikaelian](/guest/hmikaelian)
+* [Dr. Glenn Diesen](/guest/gdiesen)
 
 #### Topics:
-* TBD
+* Think Tanks: Defining the Problem
+* Media Manipulation, NGOs, and Colored Coups
+* Reforming the Think Tank Industry
 
 
-Episode 415 | Recorded: February 12, 2025
+Episode 415 | Recorded: February 6, 2025
 """
 
 +++
-
 
 
 

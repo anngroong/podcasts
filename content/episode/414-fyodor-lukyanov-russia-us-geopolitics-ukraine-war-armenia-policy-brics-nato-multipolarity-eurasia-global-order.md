@@ -1,9 +1,9 @@
 +++
-Date = 2025-02-14T00:03:30-07:00
+Date = 2025-02-16T00:11:00-07:00
 upcoming = true
 
-title = "Glenn Diesen - The Think Tank Racket: Managing the Information War with Russia | Ep 414, Feb 14, 2025"
-subtitle = "Conversations on Groong - February 14, 2025"
+title = "Fyodor Lukyanov - Russia, the US, Ukraine, Armenia, and the New Global Order | Ep 414, Feb. 16, 2025"
+subtitle = "Conversations on Groong - February 16, 2025"
 
 podcast_file = ""
 podcast_duration = ""
@@ -15,14 +15,13 @@ episode_banner = "img/episode/414/banner-414.webp"
 images = ["img/episode/414/banner-414.webp"]
 
 hosts = ["hovik", "asbed"]
-guests = ["gdiesen", "argrigoryan"]
+guests = ["flukyanov"]
 episode = "414"
 aliases = ["/414"]
 
 series = ["cog", "video"]
-categories = ["Russia", "Ukraine"]
-tags = ["Armenian News", "Glenn Diesen", "Book", "Author", "Think Tank Racket", "Information War", "Russia", "NATO", "Social Media", "Facebook", "Twitter", "Tiktok", "Instagram", "Europe", "EU", "USAID", "NED", "National Endowment for Democracy", "Colored Revolutions", "NGO", "Civil Society", "Georgia", "Ukraine", "Moldova", "Ukraine", "Belarus"]
-
+categories = ["Russia", "Ukraine", "Armenia"]
+tags = []
 
 Description = """
 
@@ -31,15 +30,15 @@ Description = """
 * [linktr.ee/Groong](https://linktr.ee/groong)
 
 #### Guest:
-* [Dr. Glenn Diesen](/guest/gdiesen)
+* [Fyodor Lukyanov](/guest/flukyanov)
 
 #### Topics:
-* Think Tanks: Defining the Problem
-* Media Manipulation, NGOs, and Colored Coups
-* Reforming the Think Tank Industry
+* Russia-US Relations & Global Order
+* Ukraine Conflict
+* Armenia’s Geopolitical Shift
+* BRICS, NATO, Multipolarity
 
-
-Episode 414 | Recorded: February 14, 2025
+Episode 414 | Recorded: February 16, 2025
 """
 
 +++
