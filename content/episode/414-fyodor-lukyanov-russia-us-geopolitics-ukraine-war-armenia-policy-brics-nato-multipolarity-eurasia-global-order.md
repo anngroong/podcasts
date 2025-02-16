@@ -1,6 +1,6 @@
 +++
 Date = 2025-02-16T00:11:00-07:00
-upcoming = true
+upcoming = false
 
 title = "Fyodor Lukyanov - Russia, the US, Ukraine, Armenia, Georgia, and the New Global Order | Ep 414, Feb. 16, 2025"
 subtitle = "Conversations on Groong - February 16, 2025"
