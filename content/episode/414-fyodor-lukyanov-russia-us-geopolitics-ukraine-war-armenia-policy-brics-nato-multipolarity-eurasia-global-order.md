@@ -21,7 +21,7 @@ aliases = ["/414"]
 
 series = ["cog", "video"]
 categories = ["Russia", "Ukraine", "Armenia"]
-tags = []
+tags = ["Armenian News", "Fyodor Lukyanov", "Russia", "US", "Ukraine", "Armenia", "Azerbaijan", "Georgia", "South Caucasus", "Putin", "Trump", "NATO", "BRICS", "G8", "Eurasia", "geopolitics", "global order", "diplomacy", "multipolar world", "sanctions", "Zangezur Corridor", "Syunik", "Iran", "Turkey", "European Union", "EAEU", "foreign policy", "international relations", "peace talks", "Trump-Putin call", "Armenia-Russia relations", "Armenia-EU relations", "Russo-Georgian relations", "Russo-Azerbaijani relations", "security", "military strategy", "economic policy", "de-dollarization", "world politics", "Russian diplomacy"]
 
 Description = """
 
@@ -33,12 +33,13 @@ Description = """
 * [Fyodor Lukyanov](/guest/flukyanov)
 
 #### Topics:
-- **A New Détente?** Russia-US relations and evolving global dynamics
-- **The Trump-Putin Call** and its implications for Ukraine
-- **Russia’s Strategic Choices**: BRICS, G8, and multipolarity
-- **Russo-Armenian Relations** and Armenia’s geopolitical shift
-- **The Zangezur Corridor** and Azerbaijan’s regional ambitions
-- **Georgia’s Pragmatism** and its impact on Russia’s strategy
+* A New Détente?
+* The Trump-Putin Call
+* Russia’s Strategic Choices
+* Russo-Armenian Relations
+* Russo-Azerbaijani Relations
+* Georgia’s Pragmatism
+
 
 Episode 414 | Recorded: Valentine’s Day, February 14, 2025
 """
