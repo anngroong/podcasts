@@ -5,10 +5,10 @@ upcoming = true
 title = "Fyodor Lukyanov - Russia, the US, Ukraine, Armenia, Georgia, and the New Global Order | Ep 414, Feb. 16, 2025"
 subtitle = "Conversations on Groong - February 16, 2025"
 
-podcast_file = ""
-podcast_duration = ""
-podcast_bytes = ""
-youtube = ""
+podcast_file = "16632687-fyodor-lukyanov-russia-the-us-ukraine-armenia-georgian-and-the-new-global-order-ep-414-feb-16-2025.mp3"
+podcast_duration = "4236"
+podcast_bytes = "50891945"
+youtube = "55f4iBCIAGY"
 
 episode_image = "img/episode/414/thumbnail-414.webp"
 episode_banner = "img/episode/414/banner-414.webp"
