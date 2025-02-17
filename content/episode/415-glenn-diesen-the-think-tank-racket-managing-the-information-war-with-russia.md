@@ -5,9 +5,9 @@ upcoming = true
 title = "Glenn Diesen - The Think Tank Racket: Managing the Information War with Russia | Ep 415, Feb 17, 2025"
 subtitle = "Conversations on Groong - February 17, 2025"
 
-podcast_file = ""
-podcast_duration = ""
-podcast_bytes = ""
+podcast_file = "16640532-glenn-diesen-s-book-the-think-tank-racket-managing-the-information-war-with-russia-ep-415-feb-17-2025.mp3"
+podcast_duration = "2869"
+podcast_bytes = "34467357"
 youtube = ""
 
 episode_image = "img/episode/415/thumbnail-415.webp"
@@ -21,7 +21,7 @@ aliases = ["/415"]
 
 series = ["cog", "video"]
 categories = ["Russia", "Ukraine"]
-tags = ["Armenian News", "Glenn Diesen", "Book", "Author", "Think Tank Racket", "Information War", "Russia", "NATO", "Social Media", "Facebook", "Twitter", "Tiktok", "Instagram", "Europe", "EU", "USAID", "NED", "National Endowment for Democracy", "Colored Revolutions", "NGO", "Civil Society", "Georgia", "Ukraine", "Moldova", "Ukraine", "Belarus"]
+tags = ["Armenian News", "Glenn Diesen", "Book", "Author", "Think Tank Racket", "Information War", "Russia", "NATO", "Social Media", "Facebook", "Twitter", "Tiktok", "Instagram", "Europe", "EU", "USAID", "NED", "National Endowment for Democracy", "Colored Revolutions", "NGO", "Civil Society", "Georgia", "Ukraine", "Moldova", "Ukraine", "Belarus", "Victoria Nuland", "Robert Kagan", "Kimberly Kagan", "Frederick Kagan", "Aspen Institute", "Kellan Institute", "RAND Corporation", "RAND"]
 
 
 Description = """
