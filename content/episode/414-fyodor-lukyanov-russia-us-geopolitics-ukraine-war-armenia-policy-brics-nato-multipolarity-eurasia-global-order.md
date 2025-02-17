@@ -76,6 +76,8 @@ Episode 414 | Recorded: Valentine’s Day, February 14, 2025
 - How does Georgia’s pragmatic approach shape its relations with Russia?  
 
 ## Referenced Articles & Sources  
+- [Trump’s Truth Social Post on Meeting with Putin](https://truthsocial.com/@realDonaldTrump/posts/113991956474899296)  
+- [Trump’s Truth Social Post on Meeting with Zelensky](https://truthsocial.com/@realDonaldTrump/posts/113992264519415084)  
 - [Why Global Powers Can’t Agree on a New World Order](https://eng.globalaffairs.ru/articles/new-world-order-lukyanov/)  
 - [UN Charter and Global Stability](https://eng.globalaffairs.ru/articles/un-charter-lavrov/)  
 - [German FM on EU’s Role in Ukraine Talks](https://www.reuters.com/world/europe/german-foreign-minister-europe-needs-be-involved-ukraine-talks-2025-02-13/)  
