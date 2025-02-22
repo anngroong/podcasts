@@ -1,11 +1,11 @@
 +++
 Date = 2025-02-22T00:11:00-07:00
-upcoming = true
+upcoming = false
 
-podcast_file = ""
-podcast_bytes = ""
-podcast_duration = ""
-youtube = ""
+podcast_file = "16672614-hrant-mikaelian-mpg-poll-and-a-review-of-the-armenian-economy-in-2024-ep-417-feb-22-2025.mp3"
+podcast_bytes = "57357822"
+podcast_duration = "4777"
+youtube = "9sGj8j-n-bY"
 
 episode_image = "img/episode/417/thumbnail-417.webp"
 episode_banner = "img/episode/417/banner-417.webp"
