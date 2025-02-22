@@ -43,7 +43,7 @@ Episode 417 | Recorded: February 12, 2025
 
 +++
 
-**Description of the Show**  
+**Summary**  
 In this episode of *Conversations on Groong* (Ep‑417), we discuss the latest MPG Poll results, covering public opinion on Armenia’s direction, key domestic issues, EU accession, and electoral choices, followed by an in‑depth review of the 2024 economy and prospects and risks for 2025.
 
 **Topics Covered**  
