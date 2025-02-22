@@ -1,5 +1,5 @@
 +++
-Date = 2025-02-19T00:11:00-07:00
+Date = 2025-02-22T00:11:00-07:00
 upcoming = true
 
 podcast_file = ""
@@ -11,8 +11,8 @@ episode_image = "img/episode/417/thumbnail-417.webp"
 episode_banner = "img/episode/417/banner-417.webp"
 images = ["img/episode/417/banner-417.webp"]
 
-title = "Hrant Mikaelian - Review of the Armenian Economy in 2024 | Ep 417, Feb 19, 2025"
-subtitle = "Conversations on Groong - 02/19/2024"
+title = "Hrant Mikaelian - Review of the Armenian Economy in 2024 | Ep 417, Feb 22, 2025"
+subtitle = "Conversations on Groong - 02/22/2024"
 
 guests = ["hmikaelian"]
 hosts = ["hovik","asbed"]
@@ -38,7 +38,7 @@ Description = """
 * TBD
 
 
-Episode 417 | Recorded: February 19, 2025
+Episode 417 | Recorded: February 22, 2025
 """
 
 +++
