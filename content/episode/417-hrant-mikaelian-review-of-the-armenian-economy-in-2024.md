@@ -38,10 +38,42 @@ Description = """
 * TBD
 
 
-Episode 417 | Recorded: February 22, 2025
+Episode 417 | Recorded: February 12, 2025
 """
 
 +++
+
+
+## **Slides Referenced During The Show**
+
+![Armenia in Right Direction?](/img/episode/417/slides/MPG-slide-3.webp "Armenia in Right Direction?")
+Slide 3: Is Armenia headed in the right direction?
+
+
+![Most Important Issues?](/img/episode/417/slides/MPG-slide-4.webp "Most Important Issues?")
+Slide 4: What are the most imporant issues facing Armenia today?
+
+
+![Armenia Accession to EU?](/img/episode/417/slides/MPG-slide-5-6.webp "Armenia Accession to EU?")
+Slides 5 & 6: On the topic of Armenia's Acession to the EU
+
+
+![Confused about your taxes?](/img/episode/417/slides/MPG-slide-11.webp "Confused about your taxes?")
+Slide 11: Do you know how to fill out and submit your tax forms?
+
+
+![Sham trial in Baku and response to it](/img/episode/417/slides/MPG-slide-12.webp "Sham trial in Baku and response to it")
+Slide 12: Is Armenia doing enough vis-à-vis the sham trials of Artskah leaders in Baku?
+
+
+![Who would you vote for?](/img/episode/417/slides/MPG-slide-13.webp "Who would you vote for?")
+Slide 13: Who would you vote for in Parliamentary elections right now?
+
+
+[2024 Armenian Economic Indicators](/img/episode/417/slides/Economy-slide.webp "2024 Armenian Economic Indicators")
+Economy: 2024 Armenian Economic Indicators
+
+
 
 
 
