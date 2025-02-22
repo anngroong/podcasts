@@ -70,7 +70,7 @@ Slide 12: Is Armenia doing enough vis-à-vis the sham trials of Artskah leaders 
 Slide 13: Who would you vote for in Parliamentary elections right now?
 
 
-[2024 Armenian Economic Indicators](/img/episode/417/slides/Economy-slide.webp "2024 Armenian Economic Indicators")
+![2024 Armenian Economic Indicators](/img/episode/417/slides/Economy-slide.webp "2024 Armenian Economic Indicators")
 Economy: 2024 Armenian Economic Indicators
 
 
