@@ -13,6 +13,7 @@ Pinterest = ""
 Instagram = "RubenMuradyan"
 YouTube = ""
 Twitch = ""
+Telegram = "ostrichnest"
 #Aka = []
 #guest_group = "cog"
 +++
