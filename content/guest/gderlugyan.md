@@ -17,4 +17,4 @@ Twitch = ""
 #guest_group = "wir"
 +++
 
-** Dr. Georgi Derlugyan** is a sociologist and historian with expertise in ethnic violence, guerrilla movements and revolutions, particularly in the Caucasus, Central Asia and Africa, as well as post-Cold War globalization. Since 2011 he has been a professor of Social Research and Public Policy at New York University in Abu Dhabi.
+**Dr. Georgi Derlugyan** is a sociologist and historian with expertise in ethnic violence, guerrilla movements and revolutions, particularly in the Caucasus, Central Asia and Africa, as well as post-Cold War globalization. Since 2011 he has been a professor of Social Research and Public Policy at New York University in Abu Dhabi.
