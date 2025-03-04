@@ -2,7 +2,7 @@
 Date = 2025-02-13T04:45:01+04:00
 title = "James W. Carden"
 Pronouns = ""
-Twitter = "jwcarden"
+Twitter = ""
 Website = ""
 Type = "guest"
 Facebook = ""
@@ -17,4 +17,4 @@ Twitch = ""
 #guest_group = "wir"
 +++
 
-__James W. Carden__ is a columnist and former adviser to the US-Russia Bilateral Presidential Commission at the U.S. Department of State. His articles have appeared in a wide variety of publications including The Nation, The American Conservative, Responsible Statecraft,  The National Interest, The Los Angeles Times, and more.
+__James W. Carden__ is a columnist and former adviser to the US-Russia Bilateral Presidential Commission at the U.S. Department of State. His articles have appeared in a wide variety of publications including The Nation, The American Conservative, Responsible Statecraft, The National Interest, The Los Angeles Times, and more.
