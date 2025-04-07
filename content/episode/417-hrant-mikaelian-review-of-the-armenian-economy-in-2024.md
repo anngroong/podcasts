@@ -23,7 +23,7 @@ aliases = ["/426"]
 series = ["cog"]
 categories = ["Armenia", "World", "Geopolitics","Economy"]
 explicit = "no" # values are "yes" or "no"
-tags = ["Armenian News", "Warwick Powell", "Geopolitics", "World Economy", "Tariffs", "Tariff Wars", "BRICS", "Global South", "Dollar", "Dollarization", "Dedollarization", "USA", "Donald Trump", "China", "India", "Iran", "Russia", "Israel", "Industrialization", "Manufacturing"]
+tags = ["Armenian News", "Warwick Powell", "Geopolitics", "World Economy", "Tariffs", "Tariff Wars", "BRICS", "Global South", "Dollar", "Dollarization", "Dedollarization", "USA", "Donald Trump", "China", "India", "Iran", "Russia", "Israel", "Industrialization", "Manufacturing", "Belt and Road Initiative", "One Belt One Road", "INSTC", "International North South Trade Corridor", "Armenia", "Trade Corridor"]
 
 Description = """
 
