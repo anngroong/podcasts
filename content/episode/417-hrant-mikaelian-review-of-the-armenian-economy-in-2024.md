@@ -11,8 +11,8 @@ episode_image = "img/episode/426/thumbnail-426.webp"
 episode_banner = "img/episode/426/banner-426.webp"
 images = ["img/episode/426/banner-426.webp"]
 
-title = "Hrant Mikaelian - Review of the Armenian Economy in 2024 | Ep 426, Feb 22, 2025"
-subtitle = "Conversations on Groong - 02/22/2024"
+title = "Warwick Powell - U.S., China, Tariff Wars, and Multipolarity | Ep 426, Apr 9, 2025"
+subtitle = "Conversations on Groong - 04/08/2025"
 
 guests = ["hmikaelian"]
 hosts = ["hovik","asbed"]
