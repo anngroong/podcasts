@@ -11,10 +11,10 @@ episode_image = "img/episode/426/thumbnail-426.webp"
 episode_banner = "img/episode/426/banner-426.webp"
 images = ["img/episode/426/banner-426.webp"]
 
-title = "Warwick Powell - U.S., China, Tariff Wars, and Multipolarity | Ep 426, Apr 9, 2025"
+title = "Warwick Powell - U.S., China, Tariff Wars, and Multipolarity | Ep 426, Apr 8, 2025"
 subtitle = "Conversations on Groong - 04/08/2025"
 
-guests = ["hmikaelian"]
+guests = ["wpowell"]
 hosts = ["hovik","asbed"]
 
 episode = "426"
