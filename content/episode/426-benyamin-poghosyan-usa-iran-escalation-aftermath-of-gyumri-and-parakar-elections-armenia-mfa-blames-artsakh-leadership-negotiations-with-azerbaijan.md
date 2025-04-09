@@ -1,17 +1,17 @@
 +++
 Date = 2025-04-09T00:04:00+04:00
 
-title = "Benyamin Poghosyan - US-Iran, Gyumri, Armenia MFA Blames Artsakh, Negotiations with Azerbaijan | Ep 426, Apr 6, 2025
+title = "Benyamin Poghosyan - US-Iran, Gyumri, Armenia MFA Blames Artsakh, Negotiations with Azerbaijan | Ep 426, Apr 6, 2025"
 subtitle = "Groong Week in Review - April 6, 2025"
 
 episode_image = "img/episode/426/thumbnail-426.webp"
 episode_banner = "img/episode/426/banner-426.webp"
 images = ["img/episode/426/banner-426.webp"]
 
-podcast_file = "16812813-benyamin-poghosyan-peace-or-capitulation-armenia-s-dilemma-ukraine-shifts-ep-426-mar-16-2025.mp3"
-podcast_duration = "2870"
-podcast_bytes = "34480367"
-youtube = "I8VXW-T9Dmg"
+podcast_file = ""
+podcast_duration = ""
+podcast_bytes = ""
+youtube = ""
 
 hosts = ["asbed", "hovik"]
 guests = ["bpoghosyan"]
@@ -19,8 +19,8 @@ episode = "426"
 aliases = ["/426"]
 
 series = ["wir"]
-categories = ["Armenia", "Politics"]
-tags = ["Armenian News", "Artsakh", "Benyamin Poghosyan", "Armenia", "Azerbaijan", "peace treaty", "Nagorno-Karabakh", "Artsakh", "capitulation", "Pashinyan", "Aliyev", "OSCE Minsk Group", "geopolitical conflict", "ceasefire", "military escalation", "Armenia-Azerbaijan war", "diplomacy", "South Caucasus", "geopolitics", "Ukraine war", "Trump Putin call", "Witkoff Moscow visit", "Jeddah negotiations", "NATO", "Russia", "EU", "Iran", "Turkey", "Zangezur Corridor", "international law", "strategic affairs"]
+categories = ["Armenia", "Politics", "Iran", "Geopolitics"]
+tags = ["Armenian News", "Artsakh", "Nagorno Karabakh", "Benyamin Poghosyan", "Armenia", "Azerbaijan", "Iran", "USA", "Donald Trump", "Russia", "China", "Israel", "Middle East", "Ukraine", "Donetsk", "Lugansk", "Zaporozhia", "Crimea", "Missiles", "JCPOA", "Nuclear Deal", "Uranium Enrichment", "Oman", "Direct Negotiations", "Border Shooting", "Gyumri", "Parakar", "Armenian Elections", "Civil Contract", "Nikol Pashinyan", "Vardan Ghukasyan"]
 
 Description = """
 
