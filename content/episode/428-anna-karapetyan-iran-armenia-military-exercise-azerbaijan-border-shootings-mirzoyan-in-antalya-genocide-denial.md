@@ -23,7 +23,7 @@ aliases = ["/428"]
 explicit = "no" # values are "yes" or "no"
 
 series = ["wir"]
-categories = ["Armenia", "Azerbaijan", "Artsakh", "Iran", Genocide"]
+categories = ["Armenia", "Azerbaijan", "Artsakh", "Iran", "Genocide"]
 
 tags = ["Armenian News", "Artsakh", "Nagorno Karabakh", "Anna Karapetyan", "Armenia", "Azerbaijan", "Iran", "Military Exercise", "Military Drills", "Turkey", "Antalya", "Antalya Diplomatic Forum", "Foreign Minister", "Ararat Mirzoyan", "Jeyhun Bayramov", "Hakan Fidan", "Recep Erdogan", "Nikol Pashinyan", "Genocide Denial", "Peace Agreement", "Zangezur Corridor", "Constitution", "Armenian Constitution", "Syunik", "OSCE", "Minsk Group", "EUMA", "EU Mission in Armenia", "Border Shootings", "State Terror", "Ilham Aliyev", "Dictator"]
 
