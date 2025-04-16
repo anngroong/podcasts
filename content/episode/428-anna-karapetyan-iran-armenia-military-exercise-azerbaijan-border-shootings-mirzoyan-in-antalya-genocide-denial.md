@@ -25,7 +25,7 @@ explicit = "no" # values are "yes" or "no"
 series = ["wir"]
 categories = ["Armenia", "Azerbaijan", "Artsakh", "Iran", "Genocide"]
 
-tags = ["Armenian News", "Artsakh", "Nagorno Karabakh", "Anna Karapetyan", "Armenia", "Azerbaijan", "Iran", "Military Exercise", "Military Drills", "Turkey", "Antalya", "Antalya Diplomatic Forum", "Foreign Minister", "Ararat Mirzoyan", "Jeyhun Bayramov", "Hakan Fidan", "Recep Erdogan", "Nikol Pashinyan", "Genocide Denial", "Peace Agreement", "Zangezur Corridor", "Constitution", "Armenian Constitution", "Syunik", "OSCE", "Minsk Group", "EUMA", "EU Mission in Armenia", "Border Shootings", "State Terror", "Ilham Aliyev", "Dictator"]
+tags = ["Armenian News", "Artsakh", "Nagorno Karabakh", "Anna Karapetyan", "Armenia", "Azerbaijan", "Iran", "Military Exercise", "Military Drills", "Turkey", "Antalya", "Antalya Diplomatic Forum", "Foreign Minister", "Ararat Mirzoyan", "Jeyhun Bayramov", "Hakan Fidan", "Recep Erdogan", "Nikol Pashinyan", "Genocide Denial", "Armenian Genocide", "Peace Agreement", "Zangezur Corridor", "Constitution", "Armenian Constitution", "Syunik", "OSCE", "Minsk Group", "EUMA", "EU Mission in Armenia", "Border Shootings", "State Terror", "Ilham Aliyev", "Dictator"]
 
 
 Description = """
@@ -65,6 +65,13 @@ Episode 428 | Recorded: April 14, 2025
 - What do Turkey and Azerbaijan gain by demanding constitutional change in Armenia?  
 - Is the continued recognition of the Armenian Genocide abroad a counter to official denial at home?  
 
+
+## Thoughts from the Participants
+
+* **Hovik**: Aftermath of Gyumri elections: opposition consolidating, but concerns of government retaliation persist.
+* **Anna**: Government forcing new “Citizens Day” holiday on people. Pretty much around the time of the Armenian Genocide.
+* **Asbed**: Pathetic Armenian performance at the Antalya Diplomatic Forum. Is Pashinyan’s “real Armenia” tomorrow’s “western Azerbaijan”?
+
 ---
 
 ## Links Referenced During The Show
@@ -78,12 +85,6 @@ Episode 428 | Recorded: April 14, 2025
 - [Lemkin Institute condemns Pashinyan’s denialism](https://www.lemkininstitute.com/statements-new-page/statement-on-the-continued-denialist-rhetoric-of-armenian-prime-minister-nikol-pashinyan)  
 - [ANC Australia – MPs raise Genocide in Parliament](https://www.anc.org.au/news/Media-Releases/Three-MPs-Raise-Armenian-Genocide-for-First-Time-in-18-Years-in-Victorian-Parliament)  
 - [Sunday Guardian – Op-ed on Armenian Genocide recognition](https://sundayguardianlive.com/featured/name-the-horror-time-to-recognise-for-what-it-was-armenian-genocide)  
-
-
-## Thoughts from the Participants
-* **Hovik**: Aftermath of Gyumri elections: opposition consolidating, but concerns of government retaliation persist.
-* **Anna**: Government forcing new “Citizens Day” holiday on people. Pretty much around the time of the Armenian Genocide.
-* **Asbed**: Pathetic Armenian performance at the Antalya Diplomatic Forum. Is Pashinyan’s “real Armenia” tomorrow’s “western Azerbaijan”?
 
 
 # Wrap-up
