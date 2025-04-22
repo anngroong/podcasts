@@ -19,7 +19,7 @@ episode = "429"
 aliases = ["/429"]
 
 series = ["wir"]
-categories = ["Armenia", "Politics"]
+categories = ["Armenia", "Politics", "Vatican"]
 tags = ["Armenian News", "Artsakh", "Nagorno Karabakh", "Hrant Mikaelian", "Armenia", "Azerbaijan", "Pope Francis", "Vatican", "Azerbaijani Propaganda", "Ilham Aliyev", "Christian Heritage", "Christian Monuments", "Genocide", "Ethnic Cleansing", "Gyumri", "Gyumri Elections", "Vardan Ghukasyan", "Civil Contract"]
 
 Description = """
