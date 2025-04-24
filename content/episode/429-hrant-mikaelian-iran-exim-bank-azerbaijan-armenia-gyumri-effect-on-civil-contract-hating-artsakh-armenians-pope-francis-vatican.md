@@ -37,7 +37,7 @@ Description = """
 - **Iran-Azerbaijan Relations & Corridor Demands**
 - **Vatican Controversy & Global Anti-Armenian Propaganda**
 - **Local Elections in Gyumri and Parakar**
-- **Government-Fueled Hate Against Artsakh Refugees:**
+- **Government-Fueled Hate Against Artsakh Refugees**
 
 Episode 429 | Recorded: April 22, 2025 """
 +++
