@@ -37,7 +37,7 @@ Description = """
 * Azerbaijani Propaganda and Cultural Misappropriation
 * Weakness and Silent Complicity of the Armenian State
 
-Episode 430 | Recorded: """
+Episode 430 | Recorded: April 26, 2025"""
 +++
 
 # Show Notes
