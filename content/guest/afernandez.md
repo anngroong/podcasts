@@ -2,7 +2,7 @@
 Date = 2025-04-22T04:45:01+04:00
 title = "Alberto M. Fernandez"
 Pronouns = ""
-Twitter = ""
+Twitter = "AlbertoMiguelF5"
 Website = "https://www.memri.org/"
 Type = "guest"
 Facebook = "https://www.facebook.com/profile.php?id=100064920212876"
