@@ -17,4 +17,4 @@ Twitch = ""
 #guest_group = "cog"
 +++
 
-__Alberto M. Fernandez__, is a former U.S. diplomat and a contributor at EWTN News, the largest  Catholic media organization in the world. Mr. Fernandez was the head of the Middle East Broadcasting Networks and is currently [Vice President](https://www.memri.org/reports/memri-welcomes-return-vice-president-amb-alberto-m-fernandez) of the Middle East Media Research Institute (MEMRI).
+__Ambassador Alberto M. Fernandez__ is [Vice President](https://www.memri.org/reports/memri-welcomes-return-vice-president-amb-alberto-m-fernandez) of the Middle East Media Research Institute (MEMRI) and a former President of the Middle East Broadcasting Networks. A U.S. Foreign Service Officer from 1983 to 2015, he served as Ambassador to Equatorial Guinea, Chargé d’Affaires in Sudan, and held senior posts across the Middle East and Latin America. He was also the State Department’s Coordinator for Strategic Counterterrorism Communications. Born in Cuba and raised in the U.S., he served in the Army and holds degrees in Middle East Studies. He writes widely on foreign policy and public diplomacy.
