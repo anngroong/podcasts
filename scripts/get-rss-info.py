@@ -17,10 +17,9 @@ for i, entry in enumerate(latest_episodes, start=1):
     duration = entry.get("itunes_duration", "N/A")
     length = entry.enclosures[0].length if entry.enclosures else "N/A"
 
-    print(f"Episode {i}:")
-    print(f"  Title       : {title}")
-    print(f"  MP3 File    : {mp3_filename}")
-    print(f"  Duration    : {duration}")
-    print(f"  File Length : {length}")
+    print(f"Title       : {title}\n")
+    print(f"  podcast_file = \"{mp3_filename}\"")
+    print(f"  podcast_duration = \"{duration}\"")
+    print(f"  podcast_bytes = \"{length}\"")
     print()
 

@@ -1,6 +1,5 @@
 +++
 Date = 2025-04-30T20:00:00+04:00
-upcoming = true
 
 title = "Dziunik Aghajanian - Armenian State Genocide Denial, Politics of Silence, Pezeshkian in Baku, Bandar Abbas | Ep 432, Apr 27, 2025"
 subtitle = "Groong Week in Review - April 27, 2025"
@@ -9,10 +8,9 @@ episode_image = "img/episode/432/thumbnail-432.webp"
 episode_banner = "img/episode/432/banner-432.webp"
 images = ["img/episode/432/banner-432.webp"]
 
-podcast_file = ""
-podcast_duration = ""
-podcast_bytes = ""
-youtube = ""
+podcast_file = "17077223-dziunik-aghajanian-armenian-state-genocide-denial-politics-of-silence-pezeshkian-in-baku-bandar-abbas-ep-432-apr-27-2025.mp3"
+podcast_duration = "3567"
+podcast_bytes = "42842174"
 
 hosts = ["hovik","asbed"]
 guests = ["dzaghajanian"]
@@ -21,7 +19,7 @@ aliases = ["/432"]
 
 series = ["wir", "video"]
 categories = ["Armenia", "Politics", "Iran"]
-tags = ["Armenian News", "Armenia", "Artsakh", "Nagorno Karabakh", "Dziunik Aghajanian", "Genocide", "Armenian Genocide", "April 24", "Nikol Pashinyan", "Border Shootings", "Khoznavar", "Turkey", "Erdogan", "EU", "Macron", "Iran", "Pezeshkian", "Baku", "Azerbaijan", "Bandar Abbas", "INSTC", "Russia", "China", "BRICS", "Elections 2026", "Gyumri", "Opposition"]
+tags = ["Armenian News", "Groong", "Armenia", "Dziunik Aghajanian", "Armenian Genocide", "Genocide Denial", "April 24", "Nikol Pashinyan", "Artsakh", "Nagorno Karabakh", "EU Mission", "EUMA", "Macron", "Erdogan", "Turkey", "Azerbaijan", "Baku", "Pezeshkian", "Iran", "Bandar Abbas", "INSTC", "Border Shootings", "Flag Burning", "Khoznavar", "Russia", "China", "India", "BRICS", "South Caucasus", "Geopolitics", "Diaspora", "Memory Politics", "Revisionism", "State Policy"]
 
 Description = """
 
