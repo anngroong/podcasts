@@ -1,0 +1,7 @@
+gcloud builds submit --tag gcr.io/YOUR_PROJECT_ID/podcast-fetcher
+gcloud run deploy podcast-fetcher \
+  --image gcr.io/YOUR_PROJECT_ID/podcast-fetcher \
+  --platform managed \
+  --allow-unauthenticated \
+  --region us-central1
+
