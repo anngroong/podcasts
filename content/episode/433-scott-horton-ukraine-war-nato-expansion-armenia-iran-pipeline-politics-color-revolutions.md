@@ -1,6 +1,6 @@
 +++
 Date = 2025-05-04T01:59:25-07:00
-upcoming = true # set to true if you want this to be listed as upcoming, etc, etc
+upcoming = false # set to true if you want this to be listed as upcoming, etc, etc
 
 title = "Scott Horton - on his book Provoked, U.S. Foreign Policy, Color Revolutions, Ukraine War, Armenia, and more | Ep 433, May 4, 2025"
 subtitle = "Conversations on Groong - May 4, 2025"
@@ -9,10 +9,10 @@ episode_image = "img/episode/433/thumbnail-433.webp"
 episode_banner = "img/episode/433/banner-433.webp"
 images = ["img/episode/433/banner-433.webp"]
 
-podcast_file = "###.mp3" # the name of the podcast file, after the media prefix.
-podcast_duration = ""
-podcast_bytes = ""
-youtube = ""
+podcast_file = "17094454-scott-horton-on-his-book-provoked-u-s-foreign-policy-colored-revolutions-ukraine-war-armenia-and-more-ep-433-may-4-2025.mp3"
+podcast_duration = "5454"
+podcast_bytes = "65485158"
+youtube = "Rx_G1tXRkbE"
 
 hosts = ["asbed", "hovik"]
 guests = ["shorton"]
