@@ -21,7 +21,7 @@ aliases = ["/433"]
 
 series = ["cog", "video"]
 categories = ["Ukraine", "Armenia"]
-#tags = []
+tags = ["Armenian News", "Scott Horton", "Ukraine", "Russia", "NATO", "Color Revolutions", "Ukraine", "Ukraine War", "Armenia", "Azerbaijan", "Georgia", "South Caucasus", "Regime Change", "Antiwar", "Foreign Policy", "United States", "Libertarian", "Provoked", "Peace Movement", "Baku-Tbilisi-Ceyhan", "BTC", "Pipeline", "GUAM", "GUUAM", "Richard Secord", "MEGA Oil", "Nagorno Karabakh", "Karabakh", "Artsakh", "Neocons", "Clinton", "RAND Corporation", "Deep State", "Energy Politics", "Pipelines"]
 
 Description = """
 
@@ -65,23 +65,33 @@ In this Conversations on Groong episode, we speak with longtime antiwar author a
 - How do oil and gas pipeline politics intersect with U.S. policy in the Caucasus, especially for Armenia?  
 - What are the broader dangers of continuing to escalate this war?  
 
+## Images
+
+### Baku-Tbilisi-Ceyhan Pipeline
+
+![Baku-Tbilisi-Ceyhan (BTC) Pipeline](/img/episode/433/BTC_Pipeline.webp "Baku-Tbilisi-Ceyhan Pipeline")
+Image 1: Baku–Tbilisi–Ceyhan pipeline (BTC Pipeline) (Source: [Wikipedia](https://commons.wikimedia.org/wiki/File:Baku%E2%80%93Tbilisi%E2%80%93Ceyhan_pipeline_%28BTC_Pipeline%29.svg))
+
 ## **Referenced Articles & Sources**
-- [*Provoked: How Washington Started the New Cold War with Russia and the Catastrophe in Ukraine* (Scott Horton)](https://amzn.to/3UtFIfb)  
-- [Don’t Take the Bait on Ukraine (Antiwar.com, Feb 2022)](https://original.antiwar.com/scott/2022/02/24/dont-take-the-bait-on-ukraine)  
-- [The War on Terror Was a Racket – Horton on Groong](https://podcasts.groong.org/e/episode-411-horton)  
-- [They’re Lying About the War (Scott Horton Substack)](https://scotthorton.substack.com/p/theyre-lying-about-the-war)  
-- [NATO’s Stoltenberg admits NATO’s role in provoking Russia (Aaron Maté tweet)](https://twitter.com/aaronjmate/status/1712155632444872783)  
-- [“Yats is the guy” – Nuland leaked call (YouTube)](https://www.youtube.com/watch?v=WV9J6sxCs5k)  
-- [Mearsheimer: Why the Ukraine Crisis Is the West’s Fault (YouTube, 2015)](https://www.youtube.com/watch?v=JrMiSQAGOS4)  
-- [Merkel: Minsk II was a delaying tactic (Spiegel)](https://www.spiegel.de/international/germany/angela-merkel-we-have-to-take-words-of-hate-seriously-a-382b6a37-0002-0001-0000-000000027989)  
-- [Inside the U.S. Effort to Arm Ukraine and Deter Russia (NYT)](https://www.nytimes.com/2022/03/06/us/politics/us-ukraine-weapons.html)  
-- [RAND Corporation: Russia's 2022 War Against Ukraine – The U.S. View](https://www.rand.org/pubs/research_reports/RRA1147-4.html)
-
-
-
+- [*Provoked: How Washington Started the New Cold War with Russia and the Catastrophe in Ukraine* (Scott Horton)](https://scotthorton.org/product/provoked/)
+- [The Secret History of the Shadow Campaign That Saved the 2020 Election](https://time.com/5936036/secret-2020-election-campaign/)
+- [Extending Russia: Competing from Advantageous Ground(RAND)](https://www.rand.org/pubs/research_reports/RR3063.html)
+- On Kyrgyzstan's "Tulip Revolution"
+  - [In Putin's Backyard, Democracy Stirs -- With U.S. Help (WSJ)](https://www.wsj.com/articles/SB110929289650463886)
+  - [U.S. Helped to Prepare the Way for Kyrgyzstan's Uprising (NYT)](https://www.nytimes.com/2005/03/30/world/asia/us-helped-to-prepare-the-way-for-kyrgyzstans-uprising.html)
+- Dan Morgan and David B. Ottaway Series on the Baku-Tbilisi-Ceyhan Pipeline
+  - [Azerbaijan's Riches Alter the Chessboard (WP)](https://www.washingtonpost.com/wp-srv/inatl/europe/caspian100498.htm)
+  - [Gas Pipeline Bounces Between Agendas (WP)](https://www.washingtonpost.com/wp-srv/inatl/europe/caspian100598.htm)
+  - [Kazakh Field Stirs U.S.-Russian Rivalry (WP)](https://www.washingtonpost.com/wp-srv/inatl/europe/caspian100698.htm)
+- Other Links
+  - [The History Behind the Russia-Ukraine War (Antiwar.com)](https://original.antiwar.com/scott/2022/03/02/the-history-behind-the-russia-ukraine-war/)
+  - [“Yats is the guy” – Nuland leaked call (YouTube)](https://www.youtube.com/watch?v=WV9J6sxCs5k)  
+  - [Mearsheimer: Why the Ukraine Crisis Is the West’s Fault (YouTube, 2015)](https://www.youtube.com/watch?v=JrMiSQAGOS4)  
+  - [Inside the U.S. Effort to Arm Ukraine and Deter Russia (NYT)](https://www.nytimes.com/2022/03/06/us/politics/us-ukraine-weapons.html)  
 
 # Wrap-up
 
 That’s our [show](https://podcasts.groong.org/)! We hope you found it useful. Please find us on [Social Media](https://linktr.ee/groong) and follow us everywhere you get your Armenian news.
 
 Thanks to **Laura Osborn** for the music on our podcasts.
+
