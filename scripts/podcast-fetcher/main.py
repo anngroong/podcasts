@@ -1,6 +1,7 @@
-from flask import Flask, jsonify
+from flask import Flask, Response
 import requests
 import feedparser
+import os
 
 app = Flask(__name__)
 
@@ -27,20 +28,32 @@ def fetch_latest_episodes(count=3):
     return episodes
 
 @app.route('/')
-def api_endpoint():
-    return jsonify(fetch_latest_episodes())
+def pretty_console_text():
+    episodes = fetch_latest_episodes()
+    output = []
+
+    for i, ep in enumerate(episodes, 1):
+        output.append(f"Episode {i}:")
+        output.append(f"  Title            : {ep['title']}")
+        output.append(f"  podcast_file     = \"{ep['podcast_file']}\"")
+        output.append(f"  podcast_duration = \"{ep['podcast_duration']}\"")
+        output.append(f"  podcast_bytes    = \"{ep['podcast_bytes']}\"\n")
+
+    return Response("\n".join(output), mimetype='text/plain')
 
 if __name__ == '__main__':
-    # Run as script: print to console
-    print("Running as script. Fetching latest episodes...\n")
-    episodes = fetch_latest_episodes()
-    for i, ep in enumerate(episodes, 1):
-        print(f"Episode {i}:")
-        print(f"  Title       : {ep['title']}")
-        print(f"  podcast_file = \"{ep['podcast_file']}\"")
-        print(f"  podcast_duration = \"{ep['podcast_duration']}\"")
-        print(f"  podcast_bytes = \"{ep['podcast_bytes']}\"")
-        print()
-    # Optional: run server too
-    # app.run(debug=True, port=8080)
+    # Check if running inside Cloud Run (env var K_SERVICE is set)
+    if os.environ.get("K_SERVICE"):
+        port = int(os.environ.get("PORT", 8080))
+        app.run(debug=False, host='0.0.0.0', port=port)
+    else:
+        # CLI mode: output to console
+        episodes = fetch_latest_episodes()
+        for i, ep in enumerate(episodes, 1):
+            print(f"Episode {i}:")
+            print(f"  Title            : {ep['title']}")
+            print(f"  podcast_file     = \"{ep['podcast_file']}\"")
+            print(f"  podcast_duration = \"{ep['podcast_duration']}\"")
+            print(f"  podcast_bytes    = \"{ep['podcast_bytes']}\"")
+            print()
 
