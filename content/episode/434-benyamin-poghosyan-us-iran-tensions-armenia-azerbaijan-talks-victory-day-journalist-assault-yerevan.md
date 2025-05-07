@@ -21,7 +21,7 @@ aliases = ["/434"]
 
 series = ["wir"]
 categories = ["Armenia", "Politics", "Iran", "Geopolitics"]
-tags = ["Armenian News", "Artsakh", "Nagorno Karabakh", "Benyamin Poghosyan", "Armenia", "Azerbaijan", "Iran", "US-Iran Tensions", "Nuclear Program", "Victory Day", "Moscow", "Russia", "Pashinyan", "Aliyev", "Armenia-Azerbaijan Talks", "Civil Contract", "Journalist Assault", "Arthur Chakhoyan", "Republic Party", "Yerevan", "Corruption", "Tigran Ter-Margaryan", "Tigran Avinyan", EU Integration", "Multipolar World", "INSTC", "Bandar Abbas", "China", "Israel", "Middle East", "Geopolitics", "South Caucasus", "Political Violence", "Journalism Under Attack", "European Values", "Putin", "Multipolar Geopolitics"]
+tags = ["Armenian News", "Artsakh", "Nagorno Karabakh", "Benyamin Poghosyan", "Armenia", "Azerbaijan", "Iran", "US-Iran Tensions", "Nuclear Program", "Victory Day", "Moscow", "Russia", "Pashinyan", "Aliyev", "Armenia-Azerbaijan Talks", "Civil Contract", "Journalist Assault", "Arthur Chakhoyan", "Republic Party", "Yerevan", "Corruption", "Tigran Ter-Margaryan", "Tigran Avinyan", "EU Integration", "Multipolar World", "INSTC", "Bandar Abbas", "China", "Israel", "Middle East", "Geopolitics", "South Caucasus", "Political Violence", "Journalism Under Attack", "European Values", "Putin", "Multipolar Geopolitics"]
 
 Description = """
 
