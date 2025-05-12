@@ -2,7 +2,7 @@
 Date = 2025-05-13T00:20:00+04:00
 upcoming = true
 
-title = "Arthur G Martirosyan - Victory Day, India Pakistan, Armenia Azerbaijan, Pope Leo XIV | Ep 435, Ma5 11, 2025"
+title = "Arthur G Martirosyan - Victory Day, India Pakistan, Armenia Azerbaijan, Pope Leo XIV | Ep 435, May 11, 2025"
 subtitle = "Groong Week in Review - May 11, 2025"
 
 podcast_file = ""
