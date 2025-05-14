@@ -22,7 +22,7 @@ hosts = ["hovik", "asbed"]
 series = ["wir"]
 categories = ["Armenia", "Politics"]
 explicit = "no" # values are "yes" or "no"
-tags = ["Armenian News", "Artsakh", "Nagorno Karabakh", "Arthur Martirosyan", "Armenia", "Georgia", "Abkhazia", "Abkhaz Railway", "Turkey", "Russia", "Monte Melkonian", "Supreme Judicial Council", "Karen Andreasyan", "Member of Parliament", "Hovik Aghazaryan", "Nikol Pashinyan", "Separation of Powers", "Constitutional Referendum", "Speed Cameras", "Territorial Claims", "Western Armenia", "1918", "First republic", "Azerbaijan", "EUMA", "EU Mission", "Ukraine", "Kursk", "Dnepr", "China", "Jeffrey Sachs", "Armenian POWs"]
+tags = ["Armenian News", "Arthur Martirosyan", "Armenia", "May 9", "Victory Day", "Victory Parade", "Moscow", "Russia", "Vladimir Putin", "Xi Jinping", "Azerbaijan", "Ilham Aliyev", "Military Contingent", "Nikol Pashinyan", "Armenian Genocide", "Genocide commemoration", "Historical Revision", "World War", "WW2", "WW II", "Operation Gertrude", "Operation Barbarossa", "Nazi Germany", "Adolf Hitler", "alfred Rosenberg", "Who Now Remembers the Armenians", "Artsrun Hovannisyan", "Arcrun Hovannisyan", "#Հաղթելուենք", "Հաղթելուենք"]
 
 Description = """
 
