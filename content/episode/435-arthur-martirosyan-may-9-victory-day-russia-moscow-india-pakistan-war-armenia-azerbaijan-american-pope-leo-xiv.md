@@ -5,8 +5,8 @@ title = "Arthur G Martirosyan - Victory Day, India Pakistan, Armenia Azerbaijan,
 subtitle = "Groong Week in Review - May 11, 2025"
 
 podcast_file     = "17163755-arthur-martirosyan-may-9-india-pakistan-armenia-azerbaijan-new-pope-ep-435-may-11-2025.mp3"
-podcast_duration = "2236"
-podcast_bytes    = "26863548"
+podcast_duration = "4258"
+podcast_bytes    = "51129138"
 youtube = "DYQGg6pHONI"
 
 episode = "435"
