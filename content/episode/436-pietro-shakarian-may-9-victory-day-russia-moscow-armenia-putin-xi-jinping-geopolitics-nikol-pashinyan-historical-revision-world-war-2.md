@@ -31,7 +31,7 @@ Description = """
 * [linktr.ee/Groong](https://linktr.ee/groong)
 
 #### Guest:
-* [Dr. Pietro Shakarian](/guest/pshakarian)
+* [Dr. Pietro Shakarian](https://podcasts.groong.org/guest/pshakarian)
 
 #### Topics:
 * May 9, Victory Day and Parade
