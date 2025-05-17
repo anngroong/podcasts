@@ -11,7 +11,7 @@ episode_image = "img/episode/437/thumbnail-437.webp"
 episode_banner = "img/episode/437/banner-437.webp"
 images = ["img/episode/437/banner-437.webp"]
 
-title = "Ehsan Movahedian - Iran’s Amidst Geopolitical Tensions | Ep 437, May 19, 2025"
+title = "Ehsan Movahedian - Iran Amidst Geopolitical Tensions | Ep 437, May 19, 2025"
 subtitle = "Conversations on Groong - 05/19/2025"
 
 guests = ["emovahedian"]
