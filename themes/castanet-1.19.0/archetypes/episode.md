@@ -30,7 +30,7 @@ Description = """
 * [linktr.ee/Groong](https://linktr.ee/groong)
 
 #### Guest:
-* [Guest Name](/guest/someguest)
+* [Guest Name](https://podcasts.groong.org/guest/someguest)
 
 #### Topics:
 * Topic1
