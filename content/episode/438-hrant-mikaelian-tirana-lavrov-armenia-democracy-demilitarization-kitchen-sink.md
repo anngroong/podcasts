@@ -1,6 +1,6 @@
 +++
 Date = 2025-05-23T08:00:00+04:00
-upcoming = true
+upcoming = false
 
 title = "Hrant Mikaelian - Tirana, Lavrov, Armenian Un-Democracy, Demilitarization, and More | Ep 438, May 18, 2025"
 subtitle = "Week In Review - May 18, 2025"
@@ -9,10 +9,10 @@ episode_image = "img/episode/438/thumbnail-438.webp"
 episode_banner = "img/episode/438/banner-438.webp"
 images = ["img/episode/438/banner-438.webp"]
 
-podcast_file = ""
-podcast_duration = ""
-podcast_bytes = ""
-youtube = ""
+podcast_file = "17213949-hrant-mikaelian-tirana-lavrov-armenian-un-democracy-demilitarization-and-more-ep-438-may-18-2025.mp3"
+podcast_duration = "48799254"
+podcast_bytes = "4064"
+youtube = "5sffNcHhm5I"
 
 hosts = ["asbed", "hovik"]
 guests = ["hmikaelian"]
