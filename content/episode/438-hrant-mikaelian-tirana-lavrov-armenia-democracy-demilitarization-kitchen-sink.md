@@ -2,7 +2,7 @@
 Date = 2025-05-23T08:00:00+04:00
 upcoming = true
 
-title = "Hrant Mikaelian - Tirana, Lavrov, Un-Democracy, Demilitarization, and More | Ep 438, May 18, 2025"
+title = "Hrant Mikaelian - Tirana, Lavrov, Armenian Un-Democracy, Demilitarization, and More | Ep 438, May 18, 2025"
 subtitle = "Week In Review - May 18, 2025"
 
 episode_image = "img/episode/438/thumbnail-438.webp"
