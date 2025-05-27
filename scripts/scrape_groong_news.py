@@ -123,7 +123,7 @@ def scrape_all_news():
 
         print(f"Scraping ({index+1}/{MAX_ARTICLES}): {url}")
         article_text = scrape_article(url)
-        all_news += f"\n\n=== ARTICLE FROM {url} ===\n\n{article_text}"
+        all_news += f"\n\n=====\n\nGROONG LINK: {url}\n\n{article_text}"
 
     if all_news.strip():
         save_as_text(all_news)

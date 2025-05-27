@@ -21,12 +21,13 @@ aliases = ["/439"]
 
 series = ["cog", "video"]
 categories = ["Armenia", "Geopolitics", "Iran"]
-explicit = "no" # values are "yes" or "no"
+explicit = "no"
 tags = ["Armenian News"," Levon Zourabian"," US"," Iran"," Nuclear Negotiations"," JCPOA"," Donald Trump"," Steven Witkoff"," Russia"," Ukraine"," Ukraine War"," Saudi Arabia"," UAE"," Qatar"," Abraham Accords"," Israel"," Palestine"," Gaza"," Gaza Genocide"," Palestinian Genocide"," Armenian Elections"," 2026 Elections"," Yerevan"," Robert Kocharyan"," Serge Sargsyan"," Nikol Pashinyan"," ANC"," Armenian National Congress"," South Caucasus"," Azerbaijan"," Zangezur Corridor"," Lavrov"," Western Azerbaijan"," Armenian Constitution"]
 
 Description = """
 
 #### Groong Links:
+* [GIVE to GROONG](https://podcasts.groong.org/donate)
 * [linktr.ee/Groong](https://linktr.ee/groong)
 
 #### Guest:
@@ -78,7 +79,6 @@ In this Conversations on Groong episode, we speak with Levon Zourabian, Vice Pre
 - [Patreon – Support Groong](https://www.patreon.com/ann_groong)  
 - [Buy Me a Coffee – Support Groong](https://www.buymeacoffee.com/groong)
 
-
 # Wrap-up
 
 That’s our [show](https://podcasts.groong.org/)! We hope you found it useful. Please find us on [Social Media](https://linktr.ee/groong) and follow us everywhere you get your Armenian news.
@@ -88,5 +88,4 @@ Thanks to **Laura Osborn** for the music on our podcasts.
 Don't forget to support us!
 * [Patreon - Support Groong](https://www.patreon.com/ann_groong)
 * [Buy Me a Coffee - Support Groong](https://www.buymeacoffee.com/groong)
-
 
