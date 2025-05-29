@@ -31,7 +31,7 @@ INTERVIEW IN ARMENIAN / ՀԱՐՑԱԶՐՈՒՅՑ ՀԱՅԵՐԵՆ
 * [linktr.ee/Groong](https://linktr.ee/groong)
 
 #### Guest:
-* [Guest Name](https://podcasts.groong.org/guest/eghazaryan)
+* [Edgar Ghazaryan](https://podcasts.groong.org/guest/eghazaryan)
 
 #### Topics:
 * Criminal charges used to silence Edgar Ghazaryan / Քրեական մեղադրանքներ՝ Էդգար Ղազարյանին լռեցնելու համար
