@@ -10,7 +10,7 @@ images = ["img/episode/441/banner-441.webp"]
 
 podcast_file     = "17251078-arthur-khachatryan-republic-day-eu-drama-and-constitutional-chaos-ep-441-may-25-2025.mp3"
 podcast_duration = "4123"
-podcast_bytes    = "4951
+podcast_bytes    = "4951"
 youtube          = "voqa1Sy5iZY"
 
 hosts = ["asbed", "hovik"]
