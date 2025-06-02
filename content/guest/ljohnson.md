@@ -13,6 +13,7 @@ Pinterest = ""
 Instagram = ""
 YouTube = "https://www.youtube.com/@counter_currents_channel"
 Twitch = ""
+Telegram = "sonar_21"
 #Aka = []
 #guest_group = "cog"
 +++
