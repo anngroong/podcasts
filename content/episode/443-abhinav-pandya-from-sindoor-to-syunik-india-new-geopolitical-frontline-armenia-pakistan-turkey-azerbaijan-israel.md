@@ -14,7 +14,7 @@ episode_image = "img/episode/443/thumbnail-443.webp"
 episode_banner = "img/episode/443/banner-443.webp"
 images = ["img/episode/443/banner-443.webp"]
 
-guests = ["lzourabian"]
+guests = ["apandya"]
 hosts = ["asbed","hovik"]
 
 episode = "443"
@@ -32,14 +32,14 @@ Description = """
 * [linktr.ee/Groong](https://linktr.ee/groong)
 
 #### Guest:
-* [Levon Zourabian](/guest/lzourabian), Vice-President of the Armenian National Congress (ANC) party of Armenia.
+* [Dr. Abhinav Pandya](/guest/apandya), Founder, President and CEO of Usanas Foundation Think Tank.
 
 #### Topics:
-Turkey-Pakistan-Azerbaijan Axis
-Operation Sindoor
-Armenia As a Strategic Partner
-West Asia and Eurasia Context
-Future Outlook
+* Turkey-Pakistan-Azerbaijan Axis
+* Operation Sindoor
+* Armenia As a Strategic Partner
+* West Asia and Eurasia Context
+* Future Outlook
 
 
 Episode 443 | Recorded: June 3, 2025
