@@ -1,21 +1,20 @@
 +++
-Date = 2025-06-03T20:45:29-07:00
-title = "Dr. Abhinav Pandya"
+Date = 2025-06-03T04:45:01+04:00
+title = "Abhinav Pandya"
 Pronouns = ""
 Twitter = "abhinavpandya"
-Website = "https://usanasfoundation.com/abhinav-pandya"
+Website = "https://usanasfoundation.com"
 Type = "guest"
-Facebook = ""
-Linkedin = "dr-abhinav-pandya-66934863"
+Facebook = "https://www.facebook.com/UsanasFoundation"
+Linkedin = "https://www.linkedin.com/in/dr-abhinav-pandya-66934863/?originalSubdomain=in"
 GitHub = ""
 Thumbnail = "img/guest/Abhinav-Pandya-1.webp"
 Pinterest = ""
-Instagram = ""
+Instagram = "abhinavpandya26"
 YouTube = ""
-Telegram = ""
 Twitch = ""
 #Aka = []
-#guest_group = ""
+#guest_group = "cog"
 +++
 
-Dr. Abhinav Pandya is a counterterrorism and foreign policy analyst, and the founder and CEO of the Usanas Foundation, a security think tank based in India. He holds degrees from Cornell University, St. Stephen’s College, and OP Jindal Global University. Pandya has authored three books, including Inside the Terrifying World of Jaish-e-Mohammed and Terror Financing in Kashmir. He has written for major outlets such as The National Interest, Haaretz, and ORF, and has lectured at international forums including NATO and the St. Petersburg Economic Forum. He advised the Governor of Jammu & Kashmir during the abrogation of Article 370.
+__Dr. Abhinav Pandya__ is a counterterrorism and foreign policy analyst, and the founder and CEO of the Usanas Foundation, a security think tank based in India. He holds degrees from Cornell University, St. Stephen’s College, and OP Jindal Global University. Pandya has authored three books, including Inside the Terrifying World of Jaish-e-Mohammed and Terror Financing in Kashmir. He has written for major outlets such as The National Interest, Haaretz, and ORF, and has lectured at international forums including NATO and the St. Petersburg Economic Forum. He advised the Governor of Jammu & Kashmir during the abrogation of Article 370.
