@@ -1,14 +1,13 @@
 +++
 Date = 2025-05-27T00:11:00+04:00
-upcoming = true
 
 title = "Abhinav Pandya - From Sindoor to Syunik: India’s New Geopolitical Frontline | Ep 443, June 5, 2025"
 subtitle = "Conversations on Groong - 06/05/2025"
 
-podcast_file     = ""
-podcast_duration = ""
-podcast_bytes    = ""
-youtube = ""
+podcast_file     = "17291663-abhinav-pandya-from-sindoor-to-syunik-india-s-new-geopolitical-frontline-ep-443-june-6-2025.mp3"
+podcast_duration = "3814"
+podcast_bytes    = "45803628"
+youtube = "nhKhHx_Tpwo"
 
 episode_image = "img/episode/443/thumbnail-443.webp"
 episode_banner = "img/episode/443/banner-443.webp"
@@ -23,7 +22,7 @@ aliases = ["/443"]
 series = ["cog", "video"]
 categories = ["Armenia", "Geopolitics", "Iran"]
 explicit = "no"
-tags = ["Armenian News", "Abhinav Pandya", "India", "Pakistan", "Azerbaijan", "Turkey", "Israel", "Sindoor", "Pinaka", "Iran", "INSTC", "IMEC", "BRI", "Belt and Road Initiative", "International North South Trade Corridor", "Syunik", "Zangezur Corridor", "Chabahar"]
+tags = ["Armenian News"," Abhinav Pandya"," India"," Pakistan"," Azerbaijan"," Turkey"," Kashmir"," Israel"," Sindoor"," Iran"," INSTC"," IMEC"," BRI"," Belt and Road Initiative"," International North South Trade Corridor"," Syunik"," Artsakh"," Nagorno Karabakh"," Zangezur Corridor"," Chabahar"," Lachin International Airport"," Ilham Aliyev"," Dictator"," Recep Erdogan"," Shehbaz Sharif"," 9/11"," Nine Eleven"," Global War on Terror"," Pinaka"," Akash"," Swathi"," MARG"," ATAGS"," Brahmos"," Al Julani"," Syria"," ISIS"," Al Qaeda"," China"," UAV"," Drone Warfare"," Russia"," BRICS"]
 
 Description = """
 
@@ -32,7 +31,7 @@ Description = """
 * [linktr.ee/Groong](https://linktr.ee/groong)
 
 #### Guest:
-* [Dr. Abhinav Pandya](/guest/apandya), Founder, President and CEO of Usanas Foundation Think Tank.
+* [Dr. Abhinav Pandya](https://podcasts.groong.org/guest/apandya), Founder, President and CEO of Usanas Foundation Think Tank.
 
 #### Topics:
 * Turkey-Pakistan-Azerbaijan Axis
@@ -41,31 +40,34 @@ Description = """
 * West Asia and Eurasia Context
 * Future Outlook
 
-
 Episode 443 | Recorded: June 3, 2025
 """
 
 +++
 
+In this episode of Conversations on Groong, we speak with Abhinav Pandya about the emerging Turkey–Pakistan–Azerbaijan axis and its implications for India’s security and regional posture. We explore the symbolism behind the opening of an empty airport in Berdzor (Lachin), the broader strategic coordination among these three nations, and how India responded with Operation Sindoor following a major terror attack in Pahalgam. The conversation also looks at Armenia’s growing role as a strategic partner for India, the complexities of managing ties with Iran, and the challenges facing multilateral projects like IMEC. Pandya outlines the ideological and hybrid threats India faces and what it must do to stay ahead in a shifting geopolitical landscape.
 
 ### **Main Topics Addressed**
 
-- The emerging Turkey–Pakistan–Azerbaijan axis and its implications for India and Armenia
-- Operation Sindoor and India’s military and economic response to the Pahalgam terror attack
-- India–Armenia defense cooperation and strategic alignment
-- Regional dynamics involving Iran, Israel, and India’s Eurasian connectivity strategies
-- Future threats and how India can counter hybrid warfare from hostile blocs
+- The Turkey–Pakistan–Azerbaijan strategic axis and its growing cooperation  
+- Symbolism and significance of the Berdzor (Lachin) airport opening in occupied Artsakh (Nagorno Karabakh)
+- India’s Operation Sindoor: strategic intent and regional reactions  
+- Armenia’s strategic pivot from Russia to India  
+- The role of Iran, Chabahar Port, and India's Eurasian connectivity ambitions  
+- IMEC’s viability and the challenges of multilateral infrastructure projects  
+- Turkey’s ideological influence operations in India and South Asia  
+- Future flashpoints and the need for India’s strategic countermeasures
 
 ---
 
 ### **Key Questions Discussed**
 
-- What does the Lachin airport inauguration in depopulated Artsakh signal geopolitically?
-- Is the Turkey–Pakistan–Azerbaijan axis symbolic, or a coordinated strategic threat?
-- What did Operation Sindoor expose about India’s adversaries—and its own capabilities?
-- Can Armenia become a lasting node in India’s Eurasian policy?
-- How should India navigate tensions between Iran and Israel while protecting its interests in Chabahar and beyond?
-- What are the next flashpoints India should prepare for—Kashmir, Karabakh, or cyberspace?
+- What does the emerging Turkey–Pakistan–Azerbaijan axis aim to achieve?  
+- How did Operation Sindoor reshape India’s regional military posture?  
+- Is Armenia becoming more than just a defense client for India?  
+- How does India manage its complex relationship with Iran, especially around Chabahar?  
+- Is the IMEC project dead on arrival, and what are India’s alternatives?  
+- How can India confront ideological and cyber threats in this evolving geopolitical landscape?
 
 ---
 
@@ -93,7 +95,11 @@ Episode 443 | Recorded: June 3, 2025
 - [India-Armenia: New Delhi’s Entry Points to the Caucasus](https://theprint.in/opinion/armenia-buying-indian-weapons/2642025/) – *ThePrint*  
 - [Erdogan Calls for Firming Up Pakistan–Turkey–Azerbaijan Axis](https://theprint.in/world/erdogan-calls-for-firming-up-pakistan-turkey-azerbaijan-axis-baku-offers-2-bn-for-islamabad/2640907/) – *ThePrint*
 
+# Books by Dr. Abhinav Pandya
 
+- [Radicalization in India (2019)](https://a.co/d/6IqUFRW)
+- [Terror Financing in Kashmir (2023)](https://a.co/d/9suTnNM)
+- [Inside the Terrifying World of Jaish-e-Mohammed (2024)](https://a.co/d/j4VJwZ0)
 
 # Wrap-up
 
@@ -104,4 +110,5 @@ Thanks to **Laura Osborn** for the music on our podcasts.
 Don't forget to support us!
 * [Patreon - Support Groong](https://www.patreon.com/ann_groong)
 * [Buy Me a Coffee - Support Groong](https://www.buymeacoffee.com/groong)
+
 
