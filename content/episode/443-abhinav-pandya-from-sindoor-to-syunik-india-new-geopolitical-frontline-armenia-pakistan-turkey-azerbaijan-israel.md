@@ -1,5 +1,5 @@
 +++
-Date = 2025-05-27T00:11:00+04:00
+Date = 2025-06-06T00:11:00+04:00
 
 title = "Abhinav Pandya - From Sindoor to Syunik: India’s New Geopolitical Frontline | Ep 443, June 5, 2025"
 subtitle = "Conversations on Groong - 06/05/2025"
