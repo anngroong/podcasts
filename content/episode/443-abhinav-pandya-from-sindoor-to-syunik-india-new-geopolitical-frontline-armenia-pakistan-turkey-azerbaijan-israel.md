@@ -20,9 +20,9 @@ episode = "443"
 aliases = ["/443"]
 
 series = ["cog", "video"]
-categories = ["Armenia", "Geopolitics", "Iran"]
+categories = ["Armenia", "Geopolitics", "India"]
 explicit = "no"
-tags = ["Armenian News"," Abhinav Pandya"," India"," Pakistan"," Azerbaijan"," Turkey"," Kashmir"," Israel"," Sindoor"," Iran"," INSTC"," IMEC"," BRI"," Belt and Road Initiative"," International North South Trade Corridor"," Syunik"," Artsakh"," Nagorno Karabakh"," Zangezur Corridor"," Chabahar"," Lachin International Airport"," Ilham Aliyev"," Dictator"," Recep Erdogan"," Shehbaz Sharif"," 9/11"," Nine Eleven"," Global War on Terror"," Pinaka"," Akash"," Swathi"," MARG"," ATAGS"," Brahmos"," Al Julani"," Syria"," ISIS"," Al Qaeda"," China"," UAV"," Drone Warfare"," Russia"," BRICS"]
+tags = ["Armenian News", "Abhinav Pandya", "India", "Pakistan", "Azerbaijan", "Turkey", "Kashmir", "Israel", "Sindoor", "Iran", "INSTC", "IMEC", "BRI", "Belt and Road Initiative", "International North South Trade Corridor", "Syunik", "Artsakh", "Nagorno Karabakh", "Zangezur Corridor", "Chabahar", "Lachin International Airport", "Ilham Aliyev", "Dictator", "Recep Erdogan", "Shehbaz Sharif", "9/11", "Nine Eleven", "Global War on Terror", "Pinaka", "Akash", "Swathi", "MARG", "ATAGS", "Brahmos", "Al Julani", "Syria", "ISIS", "Al Qaeda", "China", "UAV", "Drone Warfare", "Russia", "BRICS"]
 
 Description = """
 
