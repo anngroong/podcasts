@@ -1,15 +1,15 @@
 #!/usr/bin/env python3
 
 import re
+import json
 import requests
 from bs4 import BeautifulSoup
 from weasyprint import HTML
 
-# Base URL
+# Configuration
 BASE_URL = "https://groong.org/news/index.html"
 DOMAIN = "https://groong.org"
-MAX_ARTICLES = 1000  # Set your desired maximum number of articles
-
+MAX_ARTICLES = 1000
 
 def get_article_links(index_url):
     response = requests.get(index_url)
@@ -19,56 +19,48 @@ def get_article_links(index_url):
 
     soup = BeautifulSoup(response.text, "html.parser")
     links = []
-
-    # Regular expression to match URLs like msg161794.html
     pattern = re.compile(r"msg[0-9]+\.html")
 
     for a_tag in soup.find_all("a", href=True):
         url = a_tag["href"]
-
-        # Check if URL matches the pattern
         if pattern.match(url):
-            full_url = f"{DOMAIN}/news/{url}"  # Ensure correct full URL format
+            full_url = f"{DOMAIN}/news/{url}"
             links.append(full_url)
 
     return links
 
-# Function to scrape content from an article page
 def scrape_article(url):
     response = requests.get(url)
     if response.status_code != 200:
         print(f"Failed to retrieve article: {url}")
-        return ""
+        return {"title": "Untitled Article", "groong_link": url, "content": ""}
 
     soup = BeautifulSoup(response.text, "html.parser")
-
-    # Extract the title
     title_tag = soup.find("title")
     title = title_tag.get_text(strip=True) if title_tag else "Untitled Article"
 
-    # Extract content inside <div dir="ltr">
-    article_content = soup.find("div", attrs={"dir": "ltr"})
-
-    if article_content:
-        text_content = article_content.get_text(separator="\n", strip=True)
-        return f"Title: {title}\n\n{text_content}"  # Prepend the title to the content
+    content_div = soup.find("div", attrs={"dir": "ltr"})
+    if content_div:
+        content = content_div.get_text(separator="\n", strip=True)
     else:
         print(f"No content found for: {url}")
-        return f"Title: {title}\n\n(Content could not be extracted)"
+        content = "(Content could not be extracted)"
 
-# Function to save content as a text file
-def save_as_text(content, filename="all_news.txt"):
+    return {
+        "title": title,
+        "groong_link": url,
+        "content": content
+    }
+
+def save_as_text(articles, filename="all_news.txt"):
     with open(filename, "w", encoding="utf-8") as file:
-        file.write(content)
-    print(f"News saved as {filename}")
+        for article in articles:
+            file.write(f"\n\n=====\n\nGROONG LINK: {article['groong_link']}\n\nTitle: {article['title']}\n\n{article['content']}\n")
+    print(f"Text version saved as {filename}")
 
-# Function to save content as a PDF using WeasyPrint
-def save_as_pdf(text, filename="all_news.pdf"):
+def save_as_pdf(articles, filename="all_news.pdf"):
     css_styles = """
-        @page {
-            size: A4;
-            margin: 1in;
-        }
+        @page { size: A4; margin: 1in; }
         body {
             font-family: Arial, sans-serif;
             font-size: 12pt;
@@ -76,11 +68,7 @@ def save_as_pdf(text, filename="all_news.pdf"):
             text-align: justify;
             white-space: pre-wrap;
         }
-        h1 {
-            font-size: 16pt;
-            font-weight: bold;
-            margin-bottom: 10px;
-        }
+        h1 { font-size: 16pt; font-weight: bold; }
         .article {
             margin-bottom: 30px;
             border-bottom: 1px solid #ccc;
@@ -93,44 +81,44 @@ def save_as_pdf(text, filename="all_news.pdf"):
             margin-bottom: 5px;
         }
     """
+    html_content = f"<html><head><style>{css_styles}</style></head><body><h1>Collected News Articles</h1>"
 
-    html_content = f"""
-    <html>
-    <head>
-        <style>{css_styles}</style>
-    </head>
-    <body>
-        <h1>Collected News Articles</h1>
+    for article in articles:
+        html_content += f"""
         <div class="article">
-            {text.replace("\n", "<br>")}
+            <div class="title">{article['title']}</div>
+            <div><b>GROONG LINK:</b> <a href="{article['groong_link']}">{article['groong_link']}</a></div>
+            <div>{article['content'].replace('\n', '<br>')}</div>
         </div>
-    </body>
-    </html>
-    """
+        """
+
+    html_content += "</body></html>"
 
     HTML(string=html_content).write_pdf(filename)
     print(f"PDF saved as {filename}")
 
-# Main function to scrape all news and save
+def save_as_json(articles, filename="all_news.json"):
+    with open(filename, "w", encoding="utf-8") as file:
+        json.dump(articles, file, indent=2, ensure_ascii=False)
+    print(f"JSON saved as {filename}")
+
 def scrape_all_news():
     article_urls = get_article_links(BASE_URL)
-    all_news = ""
+    scraped_articles = []
 
-    # Limit the number of articles processed
     for index, url in enumerate(article_urls):
         if index >= MAX_ARTICLES:
-            break  # Stop scraping if we've reached the limit
-
+            break
         print(f"Scraping ({index+1}/{MAX_ARTICLES}): {url}")
-        article_text = scrape_article(url)
-        all_news += f"\n\n=====\n\nGROONG LINK: {url}\n\n{article_text}"
+        article_data = scrape_article(url)
+        scraped_articles.append(article_data)
 
-    if all_news.strip():
-        save_as_text(all_news)
-        save_as_pdf(all_news)
+    if scraped_articles:
+        save_as_text(scraped_articles)
+        save_as_pdf(scraped_articles)
+        save_as_json(scraped_articles)
     else:
         print("No news articles were found.")
-
 
 if __name__ == "__main__":
     scrape_all_news()
