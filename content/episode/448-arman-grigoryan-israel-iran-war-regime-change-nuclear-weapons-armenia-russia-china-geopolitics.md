@@ -2,7 +2,7 @@
 Date = 2025-06-22T00:28:56-07:00
 upcoming = true
 
-title = "Arman Grigoryan - Iran and Israel at War, Strategic Dangers to Armenia | Ep 448, June 23, 2025"
+title = "Arman Grigoryan - Iran and Israel at War, Strategic Dangers to Armenia | Ep 448, June 22, 2025"
 subtitle = "Conversations on Groong - Recorded: June 21, 2025"
 
 episode_image = "img/episode/448/thumbnail-448.webp"
