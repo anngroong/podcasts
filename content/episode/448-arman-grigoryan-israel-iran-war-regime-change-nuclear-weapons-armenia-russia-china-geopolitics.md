@@ -60,16 +60,14 @@ In this conversation, we speak with Dr. Arman Grigoryan about the rapidly escala
 - [Jerusalem Post: “Forge a Middle East coalition for Iran’s partition”](https://www.jpost.com/opinion/article-858111)
 - [Iran-China diplomatic statement (X)](https://x.com/IRIMFA_EN/status/1933974812785016842?t=ycM7zTeZDM3VP15AxsZjqg&s=19)
 - [Telegram: Alexander Dugin post](https://t.me/geopolitics_live/51449)
-- [Groong Guest Bio – Arman Grigoryan](https://podcasts.groong.org/guest/argrigoryan)
-- [Groong Host Bio – Hovik Manucharyan](https://podcasts.groong.org/host/hovik)
-- [Groong Host Bio – Asbed Bedrossian](https://podcasts.groong.org/host/asbed)
+
 
 
 
 
 # Wrap-up
 
-### **Links and Resources**
+#### **Links and Resources**
 * [Patreon - Support Groong](https://www.patreon.com/ann_groong)
 * [Buy Me a Coffee - Support Groong](https://www.buymeacoffee.com/groong)
 
