@@ -1,18 +1,17 @@
 +++
-Date = 2025-06-22T00:28:56-07:00
-upcoming = true
+Date = 2025-06-23T09:00:00-07:00
 
-title = "Arman Grigoryan - Iran and Israel at War, Strategic Dangers to Armenia | Ep 448, June 22, 2025"
-subtitle = "Conversations on Groong - Recorded: June 21, 2025"
+title = "Arman Grigoryan - Iran and US vs Iran, Strategic Dangers to Armenia | Ep 448, Jun 23, 2025"
+subtitle = "Conversations on Groong - June 23, 2025"
 
 episode_image = "img/episode/448/thumbnail-448.webp"
 episode_banner = "img/episode/448/banner-448.webp"
 images = ["img/episode/448/banner-448.webp"]
 
-podcast_file     = ""
-podcast_duration = ""
-podcast_bytes    = ""
-youtube = ""
+podcast_file     = "17380215-arman-grigoryan-israel-and-us-vs-iran-strategic-dangers-to-armenia-ep-448-jun-23-2025.mp3"
+podcast_duration = "4410"
+podcast_bytes    = "52958802"
+youtube          = "jKvIM3J57rw"
 
 hosts = ["asbed", "hovik"]
 guests = ["argrigoryan"]
@@ -21,7 +20,7 @@ aliases = ["/448"]
 
 series = ["cog", "video"]
 categories = ["Iran", "Russia", "Armenia", "Israel", "Politics"]
-tags = ["Armenian News", "Arman Grigoryan", "Iran", "Israel", "Nuclear Program", "Nuclear Weapons", "Regime Change", "Palestine", "Gaza", "Gaza Genocide", "Greater Israel", "Syria", "Russia", "China", "USA", "EU", "Europe", "G7", "Canada", "Iraq War", "Osiraq", "Armenia", "Syunik", "Zangezur Corridor", "South Caucasus", "Azerbaijan", "UAV", "Drones", "America", "US-Iran", "Nuclear Talks", "NPT", "Non-Proliferation", "Abraham Accord", "Refugee Flows", "Iranian Shah", "Iranian Separatists", "Kurdish State", "Northern Iranq", "Kurdistan"]
+tags = ["Armenian News", "Arman Grigoryan", "Iran", "Israel", "Nuclear Program", "Nuclear Weapons", "Regime Change", "Palestine", "Gaza", "Gaza Genocide", "Greater Israel", "Syria", "Russia", "China", "USA", "EU", "Europe", "G7", "Iraq War", "Osirak", "Armenia", "Syunik", "Zangezur Corridor", "South Caucasus", "Azerbaijan", "America", "Donald Trump", "Benjamin Netanyahu", "Iran Israel War", "Israel Iran Conflict", "Natanz", "Isfahan", "Fordow", "US-Iran", "Nuclear Talks", "NPT", "Non-Proliferation", "Abraham Accords", "Ayatollah Khamenei", "Xi Jinping", "Vladimir Putin", "Middle East Conflict"]
 
 Description = """
 
@@ -59,11 +58,6 @@ In this conversation, we speak with Dr. Arman Grigoryan about the rapidly escala
 ### Referenced Articles & Sources
 - [Jerusalem Post: “Forge a Middle East coalition for Iran’s partition”](https://www.jpost.com/opinion/article-858111)
 - [Iran-China diplomatic statement (X)](https://x.com/IRIMFA_EN/status/1933974812785016842?t=ycM7zTeZDM3VP15AxsZjqg&s=19)
-- [Telegram: Alexander Dugin post](https://t.me/geopolitics_live/51449)
-
-
-
-
 
 # Wrap-up
 
