@@ -1,18 +1,16 @@
 +++
-Date = 2025-06-11T11:00:00-07:00
-upcoming = true
+Date = 2025-06-26T18:15:00-07:00
 
-title = "Sergei Melkonian - Israel & Iran, Crackdown on Opposition, Pashinyan in Istanbul | Ep 449, June 22, 2025"
-subtitle = "Groong Week in Review - June 25, 2025"
+title = "Sergei Melkonian - Israel & Iran, Opposition Crackdown, Pashinyan in Istanbul | Ep 449, Jun 22, 2025"
+subtitle = "Groong Week in Review - June 22, 2025"
 
 episode_image = "img/episode/449/thumbnail-449.webp"
 episode_banner = "img/episode/449/banner-449.webp"
 images = ["img/episode/449/banner-449.webp"]
 
-podcast_file     = ""
-podcast_duration = ""
-podcast_bytes    = ""
-youtube = ""
+podcast_file     = "17406778-sergei-melkonian-israel-iran-crackdown-on-opposition-pashinyan-in-istanbul-ep-449-june-22-2025.mp3"
+podcast_duration = "4355"
+podcast_bytes    = "52302813"
 
 hosts = ["asbed", "hovik"]
 guests = ["smelkonian"]
@@ -21,7 +19,7 @@ aliases = ["/449"]
 
 series = ["wir", "video"]
 categories = ["Armenia", "Politics"]
-tags = ["Armenian News", "Iran", "Israel", "IranIsraelconflict", "Sergei Melkonian", "Armenia", "Azerbaijan", "Turkey", "Russia", "Benyamin Netanyahi", "Naftali Bennett", "Natanz", "Fordow", "Isfana", "Nuclear Weapons", "Nuclear Program", "USA", "Donald Trump", "Gaza", "Gaza Genocide", "War in Gaza", "GazaGenocide", "Artsakh", "Nagorno Karabakh", "Sergei Lavrov", "Valentina Maviyenko", "Organization of Islamic Cooperation", "Istanbul Statement", "OIC", "Brian Berletic", "The New Atlas", "Jeffrey Sachs", "Tavush for the Homeland", "Bagrat Srbazan", "Archbishop Bagrat", "Bagrat Galstanyan", "Armine Fanyan", "Nikol Pashinyan"]
+tags = ["Armenian News", "Iran", "Israel", "Iran-Israel Conflict", "Sergei Melkonian", "Armenia", "Azerbaijan", "Turkey", "Russia", "Benjamin Netanyahi", "Naftali Bennett", "Nuclear Program", "Donald Trump", "Gaza", "Gaza Genocide", "Artsakh", "Nagorno Karabakh", "Sergei Lavrov", "Organization of Islamic Cooperation", "Istanbul Declaration", "OIC", "Brian Berletic", "The New Atlas", "Jeffrey Sachs", "Bagrat Srbazan", "Archbishop Bagrat", "Armine Fanyan", "Nikol Pashinyan", "Anna Hakobyan", "Tashir Group", "Samvel Karapetyan", "NSS", "Regime Change"]
 
 Description = """
 
@@ -41,8 +39,32 @@ Description = """
 Episode 449 | Recorded: June 25, 2025"""
 +++
 
+## 🎙️ Main Topics Addressed
 
+- Israel and the U.S. launch a 12-day war on Iran, triggering global and regional fallout.
+- Armenia’s geopolitical silence and exposure to refugee flows and instability.
+- Arrest of billionaire Samvel Karapetyan after defending the Armenian Church.
+- Pashinyan’s cultural war against the Church, with mounting verbal attacks.
+- Crackdown on opposition figures tied to the ARF and the Srbazan Movement.
+- Pashinyan’s June 13 visit to Istanbul and quiet meeting with Erdogan and Aliyev.
+- OIC’s “Istanbul Declaration” includes sharp anti-Armenian language.
+- Dismissal of NSS chief Armen Abazyan amid rising pressure on security institutions.
+- Anna Hakobyan’s “Education is Trendy” campaign shielded as a state secret.
+- Lawsuit filed by Armine Fanyan accusing Pashinyan of inciting hatred.
+- Turkish-Azeri military drills in Nakhichevan amid regional war.
 
+## ❓ Key Questions Discussed
+
+- Is the Iran ceasefire stable, or just a pause before more covert action?
+- How exposed is Armenia to fallout from the Iran-Israel conflict?
+- Why does public support for Netanyahu persist despite mounting costs?
+- Is Pashinyan using internal cultural fights to distract from real crises?
+- What does Karapetyan’s arrest reveal about the state of dissent?
+- Why has Armenia gone through six NSS chiefs in six years?
+- Is Pashinyan replacing Russian-trained officials with NATO-aligned ones?
+- How credible are the terrorism claims against Bagrat Srbazan?
+- What influence did the Istanbul meeting have on the OIC declaration?
+- Why is Anna Hakobyan’s program budget considered classified?
 
 # Wrap-up
 
