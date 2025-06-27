@@ -47,9 +47,6 @@ Episode 449 | Recorded: June 25, 2025"""
 - Pashinyan’s June 13 visit to Istanbul and quiet meeting with Erdogan and Aliyev.
 - OIC’s “Istanbul Declaration” includes sharp anti-Armenian language.
 - Turkish-Azeri military drills in Nakhichevan amid regional war.
-- PERSONTAL THOUGHTS FROM THE PARTICIPANTS
-  - Hovik: Shout out to Brian Berletic for excellent geopolitical coverage
-  - Sergei: Israel-Iran war was an important test for South Caucasus and Armenia
 - THE KITCHEN SINK
   - Crackdown on opposition figures tied to the ARF and the Srbazan Movement.
   - Arrest of billionaire Samvel Karapetyan after defending the Armenian Church
@@ -70,6 +67,10 @@ Episode 449 | Recorded: June 25, 2025"""
 - How credible are the terrorism claims against Bagrat Srbazan?
 - What influence did the Istanbul meeting have on the OIC declaration?
 - Why is Anna Hakobyan’s program budget considered classified?
+
+## Personal Thoughts from the Participants
+- Hovik: Shout out to Brian Berletic for excellent geopolitical coverage
+- Sergei: Israel-Iran war was an important test for South Caucasus and Armenia
 
 # Wrap-up
 
