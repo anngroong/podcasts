@@ -47,13 +47,6 @@ Episode 449 | Recorded: June 25, 2025"""
 - Pashinyan’s June 13 visit to Istanbul and quiet meeting with Erdogan and Aliyev.
 - OIC’s “Istanbul Declaration” includes sharp anti-Armenian language.
 - Turkish-Azeri military drills in Nakhichevan amid regional war.
-- THE KITCHEN SINK
-  - Crackdown on opposition figures tied to the ARF and the Srbazan Movement.
-  - Arrest of billionaire Samvel Karapetyan after defending the Armenian Church
-  - Gunfire Continues At Armenian Border Towns
-  - Dismissal of NSS chief Armen Abazyan amid rising pressure on security institutions.
-  - Lawsuit filed by Armine Fanyan accusing Pashinyan of inciting hatred.
-  - Anna Hakobyan’s “Education is Trendy” campaign shielded as a state secret.
 
 ## ❓ Key Questions Discussed
 
@@ -71,6 +64,14 @@ Episode 449 | Recorded: June 25, 2025"""
 ## Personal Thoughts from the Participants
 - Hovik: Shout out to Brian Berletic for excellent geopolitical coverage
 - Sergei: Israel-Iran war was an important test for South Caucasus and Armenia
+
+## The Kitchen Sink
+- Crackdown on opposition figures tied to the ARF and the Srbazan Movement.
+- Arrest of billionaire Samvel Karapetyan after defending the Armenian Church
+- Gunfire Continues At Armenian Border Towns
+- Dismissal of NSS chief Armen Abazyan amid rising pressure on security institutions.
+- Lawsuit filed by Armine Fanyan accusing Pashinyan of inciting hatred.
+- Anna Hakobyan’s “Education is Trendy” campaign shielded as a state secret.
 
 # Wrap-up
 
