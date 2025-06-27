@@ -63,7 +63,7 @@ Episode 449 | Recorded: June 25, 2025"""
 
 ## Personal Thoughts from the Participants
 - Hovik: Shout out to Brian Berletic for excellent geopolitical coverage
-- Sergei: Israel-Iran war was an important test for South Caucasus and Armenia
+- Sergei: Israel-Iran war was an important test for Armenia. Armenia must be ready, because it will come around.
 
 ## The Kitchen Sink
 - Crackdown on opposition figures tied to the ARF and the Srbazan Movement.
