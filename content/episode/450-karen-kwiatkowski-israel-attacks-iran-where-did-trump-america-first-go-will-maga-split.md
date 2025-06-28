@@ -1,12 +1,10 @@
 +++
-Date = 2025-06-28T12:00:00-08:00
-upcoming = true
-explicit = "no"
+Date = 2025-06-28T09:00:00-08:00
 
-podcast_file = ""
-podcast_duration = ""
-podcast_bytes = ""
-youtube = ""
+odcast_file     = "17412145-karen-kwiatkowski-war-on-iran-where-did-trump-s-america-1st-go-ep-450-jun-28-2025.mp3"
+podcast_duration = "2654"
+podcast_bytes    = "31890573"
+youtube = "mk9DqOxG-i8"
 
 episode_image = "img/episode/450/thumbnail-450.webp"
 episode_banner = "img/episode/450/banner-450.webp"
@@ -20,7 +18,7 @@ aliases = ["/450"]
 
 series = ["cog", "video"]
 categories = ["Iran", "USA", "Geopolitics"]
-tags = ["Armenian News", "Karen Kwiatkowski", "Israel", "Iran", "Ukraine", "USA", "America 1st", "America First", "MAGA", "War Agenda", "Forever Wars", "Global South", "China", "Russia", "Gaza", "Gaza Genocide", "Human Suffering", "Benyamin Netanyahu", "Regime Change", "Ahmed Chalabi", "Iraniian Shah", "Deep State", "USAID", "Mossad", "Ted Cruz", "MAGA", "Ameerica First"]
+tags = ["Armenian News", "Karen Kwiatkowski", "Israel", "Iran", "Ukraine", "USA", "America 1st", "America First", "MAGA", "War Agenda", "Forever Wars", "Global South", "China", "Russia", "Gaza", "Gaza Genocide", "Human Suffering", "Benjamin Netanyahu", "Regime Change", "Ahmed Chalabi", "Iranian Shah", "Deep State", "USAID", "Mossad", "Ted Cruz", "Tulsi Gabbard", "Trump", "TruthSocial", "Ceasefire", "Military Industrial Complex", "Ayatollah Khamenei", "Nuclear Program", "South Caucasus"]
 
 title = "Karen Kwiatkowski - Israel Attacks Iran, Where did Trump’s America 1st Go | Ep 450, June 28, 2025"
 subtitle = "Conversations on Groong - June 28, 2025"
