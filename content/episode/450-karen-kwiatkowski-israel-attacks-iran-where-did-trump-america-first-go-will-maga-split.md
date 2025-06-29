@@ -29,15 +29,13 @@ Description = """
 * [linktr.ee/Groong](https://linktr.ee/groong)
 
 #### Guest:
-* [Karen Kwiatkowski](/guest/kkwiatkowski)
+* [Karen Kwiatkowski](https://podcasts.groong.org/guest/kkwiatkowski)
 
 #### Topics:
 * The 12-Day War
 * Where did Trump’s American 1st Go?
 
-
-Episode 450 | Recorded: June 26, 2025
-"""
+Episode 450 | Recorded: June 26, 2025"""
 +++
 
 ## 🎙️ Summary
