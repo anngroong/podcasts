@@ -33,9 +33,14 @@ Description = """
 * [Dziunik Aghajanian](/guest/dzaghajanian)
 
 #### Topics:
-* Genocide Recognition and State Silence
-* Iran-Azerbaijan Talks & Geopolitical Shifts
-* Bandar Abbas: Explosion, or Warning?
+* Iran War
+* Iran-Azerbaijan Relations
+* Russian-Azerbaijani Tensions
+* Russian-Armenian Relations
+* Persecution of The Church Continues
+* Kaja Kallas in Armenia
+* OIC Declaration
+
 
 Episode 451 | Recorded: June 30, 2025"""
 
