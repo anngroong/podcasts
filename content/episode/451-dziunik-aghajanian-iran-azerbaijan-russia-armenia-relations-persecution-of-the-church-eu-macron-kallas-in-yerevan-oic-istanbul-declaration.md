@@ -1,5 +1,6 @@
 +++
 Date = 2025-07-01T20:00:00+04:00
+upcoming = true
 
 title = "Dziunik Aghajanian – Fallout from Israel’s War on Iran, Azerbaijan’s Confrontation with Russia, Pashinyan’s Persecution of the Armenian Church, while he courts the EU | Ep 451"
 subtitle = "Groong Week in Review - June 29, 2025"
