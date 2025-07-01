@@ -67,7 +67,7 @@ In this Week in Review, former ambassador Dziunik Aghajanian joins the show to u
 
 ## 💬 Thoughts from the Participants
 - **Dziunik:** The government’s actions against Holy Etchmiadzin are an attack on Armenian identity. Many are grieving, but also beginning to resist.
-- **Hovik:** Nearly 80% disapprove of the crackdown on the Church. This has hurt Pashinyan’s standing and may spark broader political pushback.
+- **Hovik:** New MPG poll shows nearly 80% disapprove of the crackdown on the Church. This has hurt Pashinyan’s standing and may spark broader political pushback.
 
 
 ## 🔗 Referenced Articles & Sources
