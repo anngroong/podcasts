@@ -9,10 +9,10 @@ episode_image = "img/episode/451/thumbnail-451.webp"
 episode_banner = "img/episode/451/banner-451.webp"
 images = ["img/episode/451/banner-451.webp"]
 
-podcast_file = ""
-podcast_duration = ""
-podcast_bytes = ""
-youtube = ""
+podcast_file = "17432527-dziunik-aghajanian-fallout-from-israel-s-war-on-iran-azerbaijan-s-confrontation-with-russia-pashinyan-persecutes-the-armenian-church-while-courting-the-eu-ep-451.mp3"
+podcast_duration = "4493"
+podcast_bytes = "53953410"
+youtube = "QMe-PKGfJDs"
 
 hosts = ["hovik","asbed"]
 guests = ["dzaghajanian"]
