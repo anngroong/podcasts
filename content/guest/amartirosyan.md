@@ -17,4 +17,4 @@ Twitch = ""
 #guest_group = "wir"
 +++
 
-Arthur G. Martirosyan, who is a Senior Consultant with CM Partners. In 1994, after graduating from Yale University, he joined Conflict Management Group and Harvard Negotiation Project, and has since worked on conflicts in the former Soviet Union, the Middle East, the Balkans, Africa, and Latin America.
+Arthur G. Martirosyan is a Senior Consultant with CM Partners. In 1994, after graduating from Yale University, he joined Conflict Management Group and Harvard Negotiation Project, and has since worked on conflicts in the former Soviet Union, the Middle East, the Balkans, Africa, and Latin America.
