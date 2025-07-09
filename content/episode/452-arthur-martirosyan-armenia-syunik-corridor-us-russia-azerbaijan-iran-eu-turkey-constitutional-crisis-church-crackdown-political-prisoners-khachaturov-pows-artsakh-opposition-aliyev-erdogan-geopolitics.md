@@ -61,9 +61,17 @@ Episode 452 | Recorded: July 7, 2025"""
 - What does Turkey’s proposal to name a border crossing after Talaat Pasha say about Armenian-Turkish normalization?
 - Is Armenia’s application to the SCO a realistic foreign policy shift or just more confusion?
 
+## Thoughts from the Participants
+- **Arthur**: Reflected on the **nationalization of Electric Networks of Armenia (ENA)** and the strategic significance of Armenia’s **electrical infrastructure**, including the potential for **AI data centers** and cross-border power export.
+- **Hovik**: Criticized **AUA’s handling of student activism**, raising concerns about the university’s values and its role in **suppressing free speech** during recent protests.
+
+## The Kitchen Sink
+- **Opposition Immunity Stripped**: Ohanyan and Minasyan were charged over a land deal from years ago, even though the same property was previously attributed to Ohanyan’s wife. Meanwhile, **Khachatur Sukiasyan**, a regime-aligned oligarch with a long record of suspicious deals, remains untouched.
+- **Talaat Pasha Crossing**: Turkey’s proposal to rename a border crossing after the chief architect of the Armenian Genocide is a humiliating blow amid Pashinyan’s push for normalization.
+- **Artsakh Parliament in Exile**: With Davit Ishkhanyan detained in Baku, **Ashot Danielyan** was named Speaker and acting president by the Artsakh National Assembly in exile.
+- **SCO Membership Bid**: Armenia’s announcement that it is applying to join the Shanghai Cooperation Organization, despite having burned bridges with CSTO members, adds another layer of strategic confusion.
+
 ## Referenced Articles & Sources
-- [France is dumping nuclear waste in Armenia](https://en.trend.az/scaucasus/armenia/3974271.html)  
-- [US proposal to manage corridor in Syunik](https://turan.az/en/politics/armenia_ready_to_provide_corridor_controlled_by_usa_and_israel__news_2030016.html)  
 - [Erdogan’s “Zangezur corridor” comments](https://news.am/eng/news/823611.html)  
 - [Lukyanov on Russia-Azerbaijan fallout](https://www.dw.com/en/russia-is-moscow-losing-azerbaijan-as-an-ally/a-73147334)  
 - [Turkish MPs propose Talaat Pasha crossing](https://asbarez.com/lawmakers-want-to-rename-turkish-border-crossing-to-after-talaat-pasha/)  
@@ -77,19 +85,6 @@ Episode 452 | Recorded: July 7, 2025"""
 - [Khachatur Sukiasyan controversies](https://hetq.am/hy/article/139330)  
 - [Bodyguard livestock farm](https://hetq.am/en/article/167698)  
 - [Illegal construction by Sukiasyan’s son](https://news.am/arm/news/695109.html)
-
-## Thoughts from the Participants
-- **Arthur**: Reflected on the **nationalization of Electric Networks of Armenia (ENA)** and the strategic significance of Armenia’s **electrical infrastructure**, including the potential for **AI data centers** and cross-border power export.
-- **Hovik**: Criticized **AUA’s handling of student activism**, raising concerns about the university’s values and its role in **suppressing free speech** during recent protests.
-
-## The Kitchen Sink
-- **Opposition Immunity Stripped**: Ohanyan and Minasyan were charged over a land deal from years ago, even though the same property was previously attributed to Ohanyan’s wife. Meanwhile, **Khachatur Sukiasyan**, a regime-aligned oligarch with a long record of suspicious deals, remains untouched.
-- **Talaat Pasha Crossing**: Turkey’s proposal to rename a border crossing after the chief architect of the Armenian Genocide is a humiliating blow amid Pashinyan’s push for normalization.
-- **Artsakh Parliament in Exile**: With Davit Ishkhanyan detained in Baku, **Ashot Danielyan** was named Speaker and acting president by the Artsakh National Assembly in exile.
-- **SCO Membership Bid**: Armenia’s announcement that it is applying to join the Shanghai Cooperation Organization, despite having burned bridges with CSTO members, adds another layer of strategic confusion.
-
-
-
 
 # Wrap-up
 
