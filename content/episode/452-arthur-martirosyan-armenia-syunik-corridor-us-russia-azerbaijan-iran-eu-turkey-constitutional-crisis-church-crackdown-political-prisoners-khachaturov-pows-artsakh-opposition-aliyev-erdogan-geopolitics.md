@@ -21,7 +21,7 @@ aliases = ["/452"]
 
 series = ["wir", "video"]
 categories = ["Armenia", "Politics"]
-#tags = []
+tags = ["Armenian News", "Arthur Martirosyan", "#merdzevov", "Armenia", "South Caucasus", "Pashinyan", "Syunik Corridor", "US Corridor Proposal", "Turkey", "Azerbaijan", "Russia", "Iran", "Constitution Day", "Armenian Church", "Samvel Karapetyan", "Seyran Ohanyan", "Artsvik Minasyan", "Parliamentary Immunity", "Diplomatic Immunity", "Khachatur Sukiasyan", "SCO", "EU-Armenia Relations", "Kaja Kallas", "Baku Crackdown", "Armenian Opposition", "Western Azerbaijan", "Artsakh", "Aliyev", "Erdogan", "Foreign Policy", "Armenian Sovereignty", "Artsakh", "Nagorno Karabakh", "FSB", "Yekaterinburg", "Turkish Military Base", "NATO Military Base", "AUA", "Identity Conference", "Real Armenia"]
 
 Description = """
 
@@ -73,7 +73,7 @@ Episode 452 | Recorded: July 7, 2025"""
 
 ## Referenced Articles & Sources
 - [Erdogan’s “Zangezur corridor” comments](https://news.am/eng/news/823611.html)  
-- [Lukyanov on Russia-Azerbaijan fallout](https://www.dw.com/en/russia-is-moscow-losing-azerbaijan-as-an-ally/a-73147334)  
+- [Russia-Azerbaijan fallout](https://www.dw.com/en/russia-is-moscow-losing-azerbaijan-as-an-ally/a-73147334)  
 - [Turkish MPs propose Talaat Pasha crossing](https://asbarez.com/lawmakers-want-to-rename-turkish-border-crossing-to-after-talaat-pasha/)  
 - [SCO confusion and application](https://www.azatutyun.am/a/33463229.html)  
 - [Carnegie Endowment on Armenia-Turkey ties](https://carnegieendowment.org/russia-eurasia/politika/2025/06/armenia-turkiye-rapprochement?lang=en)  
@@ -96,3 +96,4 @@ Episode 452 | Recorded: July 7, 2025"""
 That's our [Week in Review](https://podcasts.groong.org/), we hope you found it helpful. We invite your feedback and your suggestions, you can [find us](https://linktr.ee/groong) on most social media and podcast platforms.
 
 Thanks to __Laura Osborn__ for the music on our podcasts.
+
