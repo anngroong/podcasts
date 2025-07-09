@@ -1,6 +1,6 @@
 +++
-Date = 2025-07-09T02:00:00+04:00
-upcoming = true # set to true if you want this to be listed as upcoming, etc, etc
+Date = 2025-07-08T02:00:00+04:00
+upcoming = false # set to true if you want this to be listed as upcoming, etc, etc
 
 title = "Arthur Martirosyan - Constitution, Western Controlled Syunik, Church Crackdown | Ep 452, Jul 6, 2025"
 subtitle = "Groong Week in Review - July 6, 2025"
@@ -12,7 +12,7 @@ images = ["img/episode/452/banner-452.webp"]
 podcast_file     = "17473118-arthur-martirosyan-constitution-western-controlled-syunik-church-crackdown-ep-452-jul-6-2025.mp3"
 podcast_duration = "4789"
 podcast_bytes    = "57499844"
-#youtube = ""
+youtube = "7x34DSFv6ik"
 
 hosts = ["asbed", "hovik"]
 guests = ["amartirosyan"]
@@ -38,14 +38,66 @@ Description = """
 * What was Kallas Doing in Yerevan?
 * Russian-Azerbaijani Relations
 * Coup d’Etat? Or Coup d’Église?
+* The Kitchen Sink
 
 Episode 452 | Recorded: July 7, 2025"""
 +++
+
+## Main Topics Addressed
+- **Constitution Day**: Pashinyan’s rejection of Armenia’s founding document and what it signals
+- **Foreign-Controlled Corridor through Syunik**: From rejecting a Russian corridor to considering a U.S.-managed one
+- **Kaja Kallas in Yerevan**: What message did the Estonian PM and EU envoy bring to Armenia?
+- **Russia-Azerbaijan Breakdown**: Arrests, beatings, media retaliation, and geopolitical friction
+- **Church Crackdown**: Samvel Karapetyan’s arrest and surveillance of clergy raise alarm
+- **Stripping of Parliamentary Immunity**: Ohanyan and Minasyan face charges over years-old land case
+- **Turkey's Latest Insult**: Talaat Pasha’s name proposed for border crossing amid "normalization"
+- **SCO Application Confusion**: Armenia seeks membership in a bloc that includes many CSTO allies, and is incompatible with EU aspirations
+
+## Key Questions Discussed
+- Has Armenia surrendered the principle of sovereignty by inviting U.S. oversight in Syunik?
+- Why is Erdogan praising Armenia’s “constructive” stance on the Zangezur corridor?
+- What’s behind Russia’s sudden crackdown on Azerbaijani-linked criminal figures—and Baku’s aggressive response?
+- Are the criminal charges against Ohanyan and Minasyan politically timed and selectively applied?
+- What does Turkey’s proposal to name a border crossing after Talaat Pasha say about Armenian-Turkish normalization?
+- Is Armenia’s application to the SCO a realistic foreign policy shift or just more confusion?
+
+## Referenced Articles & Sources
+- [France is dumping nuclear waste in Armenia](https://en.trend.az/scaucasus/armenia/3974271.html)  
+- [US proposal to manage corridor in Syunik](https://turan.az/en/politics/armenia_ready_to_provide_corridor_controlled_by_usa_and_israel__news_2030016.html)  
+- [Erdogan’s “Zangezur corridor” comments](https://news.am/eng/news/823611.html)  
+- [Lukyanov on Russia-Azerbaijan fallout](https://www.dw.com/en/russia-is-moscow-losing-azerbaijan-as-an-ally/a-73147334)  
+- [Turkish MPs propose Talaat Pasha crossing](https://asbarez.com/lawmakers-want-to-rename-turkish-border-crossing-to-after-talaat-pasha/)  
+- [SCO confusion and application](https://www.azatutyun.am/a/33463229.html)  
+- [Carnegie Endowment on Armenia-Turkey ties](https://carnegieendowment.org/russia-eurasia/politika/2025/06/armenia-turkiye-rapprochement?lang=en)  
+- [Kaja Kallas visits Yerevan](https://armenpress.am/en/article/1223776)  
+- [Russian-Azeri mafia arrest report](https://armenpress.am/en/article/1223719)  
+- [Seyran Ohanyan and Artsvik Minasyan charges](https://armenpress.am/en/article/1224254)  
+- [Hraparak report on immunity vote](https://hraparak.am/post/51da9c2a2c0ce381955b34054045e883)  
+- [Ohanyan case timeline in Aravot](https://www.aravot.am/2025/06/13/1493591/)  
+- [Khachatur Sukiasyan controversies](https://hetq.am/hy/article/139330)  
+- [Bodyguard livestock farm](https://hetq.am/en/article/167698)  
+- [Illegal construction by Sukiasyan’s son](https://news.am/arm/news/695109.html)
+
+## Thoughts from the Participants
+- **Arthur**: Reflected on the **nationalization of Electric Networks of Armenia (ENA)** and the strategic significance of Armenia’s **electrical infrastructure**, including the potential for **AI data centers** and cross-border power export.
+- **Hovik**: Criticized **AUA’s handling of student activism**, raising concerns about the university’s values and its role in **suppressing free speech** during recent protests.
+
+## The Kitchen Sink
+- **Opposition Immunity Stripped**: Ohanyan and Minasyan were charged over a land deal from years ago, even though the same property was previously attributed to Ohanyan’s wife. Meanwhile, **Khachatur Sukiasyan**, a regime-aligned oligarch with a long record of suspicious deals, remains untouched.
+- **Talaat Pasha Crossing**: Turkey’s proposal to rename a border crossing after the chief architect of the Armenian Genocide is a humiliating blow amid Pashinyan’s push for normalization.
+- **Artsakh Parliament in Exile**: With Davit Ishkhanyan detained in Baku, **Ashot Danielyan** was named Speaker and acting president by the Artsakh National Assembly in exile.
+- **SCO Membership Bid**: Armenia’s announcement that it is applying to join the Shanghai Cooperation Organization, despite having burned bridges with CSTO members, adds another layer of strategic confusion.
+
 
 
 
 # Wrap-up
 
-That’s our [show](https://podcasts.groong.org/)! We hope you found it useful. Please find us on [Social Media](https://linktr.ee/groong) and follow us everywhere you get your Armenian news.
+### **Links and Resources**
 
-Thanks to **Laura Osborn** for the music on our podcasts.
+* [Patreon - Support Groong](https://www.patreon.com/ann_groong)
+* [Buy Me a Coffee - Support Groong](https://www.buymeacoffee.com/groong)
+
+That's our [Week in Review](https://podcasts.groong.org/), we hope you found it helpful. We invite your feedback and your suggestions, you can [find us](https://linktr.ee/groong) on most social media and podcast platforms.
+
+Thanks to __Laura Osborn__ for the music on our podcasts.
