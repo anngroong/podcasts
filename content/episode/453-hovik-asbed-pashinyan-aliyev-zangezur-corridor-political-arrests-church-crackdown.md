@@ -1,18 +1,18 @@
 +++
 Date = 2025-07-13T02:00:00+04:00
-upcoming = true # set to true if you want this to be listed as upcoming, etc, etc
+upcoming = false # set to true if you want this to be listed as upcoming, etc, etc
 
-title = "Pashinyan Meets Aliyev as Armenia Cracks Down on Opposition and Church | Ep 453, Jul 13, 2025
+title = "Pashinyan Meets Aliyev as Armenia Cracks Down on Opposition and Church | Ep 453, Jul 13, 2025"
 subtitle = "Groong Week in Review - July 13, 2025"
 
 episode_image = "img/episode/453/thumbnail-453.webp"
 episode_banner = "img/episode/453/banner-453.webp"
 images = ["img/episode/453/banner-453.webp"]
 
-podcast_file     = ""
-podcast_duration = ""
-podcast_bytes    = ""
-youtube = ""
+podcast_file     = "17505824-pashinyan-meets-aliyev-as-armenia-cracks-down-on-opposition-and-church-ep-453-jul-13-2025.mp3"
+podcast_duration = "2552"
+podcast_bytes    = "30665069"
+youtube = "fkTpkOiRt6U"
 
 hosts = ["asbed", "hovik"]
 episode = "453"
