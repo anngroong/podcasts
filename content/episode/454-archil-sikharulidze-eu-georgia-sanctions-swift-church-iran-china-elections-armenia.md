@@ -1,14 +1,13 @@
 +++
 Date = 2025-07-24T01:00:00-08:00
-upcoming = true
 
-title = "Archil Sikharulidze - Why does Georgia matter for the EU | Ep 454, July 24, 2025"
+title = "Archil Sikharulidze - Why does Georgia matter for the EU | Ep 454, Jul 24, 2025"
 subtitle = "Conversations on Groong - 07/24/2025"
 
-podcast_file = ""
-podcast_bytes = ""
-podcast_duration = ""
-youtube = ""
+podcast_file     = "17558962-archil-sikharulidze-why-does-georgia-matter-for-the-eu-ep-454-jul-24-2025.mp3"
+podcast_duration = "3489"
+podcast_bytes    = "41906005"
+youtube = "r1tgtP-d0lE"
 
 episode_image = "img/episode/454/thumbnail-454.webp"
 episode_banner = "img/episode/454/banner-454.webp"
@@ -36,11 +35,11 @@ Description = """
 #### Topics:
 * EU Strategy in the South Caucasus
 * Attacks on the National Church
-* Election Politics Rising
+* 2025 Local Election Politics
 
 
-Episode 454 | Recorded: July 22, 2025
-"""
+Episode 454 | Recorded: July 22, 2025"""
+
 +++
 
 In this episode of **Conversations on Groong**, we speak with Dr. Archil Sikharulidze about the deepening rift between Georgia and the European Union following the EU Parliament’s July 2025 resolution threatening sanctions, SWIFT disconnection, and political interference. We explore Georgia’s strategic importance in the South Caucasus, its balancing act between East and West, the growing pressure on traditional religious institutions, and the stakes surrounding Georgia’s upcoming municipal elections.**
@@ -68,7 +67,6 @@ In this episode of **Conversations on Groong**, we speak with Dr. Archil Sikharu
 - [The European Parliament Calls to Punish Georgia — Archil Sikharulidze on Substack](https://archilsikharulidze.substack.com/p/the-european-parliament-calls-to?triedRedirect=true)
 - [EU Parliament Resolution A-10-2025-0110 on Georgia (PDF)](https://www.europarl.europa.eu/doceo/document/A-10-2025-0110_EN.html?fbclid=IwY2xjawLaDUNleHRuA2FlbQIxMABicmlkETF2c2Q1aFVqSXVTTVk4QUk4AR6Jee7sjtfIttfai5htoqtZehnUtWzZQEgtOZYF_AOmbtFx2mNVku-GPedFrg_aem_DB2uivPam4ZTCwn8fd90_A)
 - [Transcript: “The Church Under Fire” – Sikha Foundation](https://www.sikhafoundation.ge/index.php/2025/07/17/transcript-the-church-under-fire-why-post-soviet-governments-pressure-religion/)
-
 
 # Wrap-up
 
