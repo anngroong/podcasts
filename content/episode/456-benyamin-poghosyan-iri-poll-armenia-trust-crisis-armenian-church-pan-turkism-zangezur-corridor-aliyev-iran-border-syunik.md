@@ -1,6 +1,6 @@
 +++
 Date = 2025-07-29T05:00:00+04:00
-upcoming = true
+upcoming = false
 
 title = "Benyamin Poghosyan - Public Trust in Freefall, Church on the Rise, and Corridor Pressures Mount | Ep 456, Jul 27, 2025"
 subtitle = "Week in Review - July 27, 2025"
@@ -9,10 +9,10 @@ episode_image = "img/episode/456/thumbnail-456.webp"
 episode_banner = "img/episode/456/banner-456.webp"
 images = ["img/episode/456/banner-456.webp"]
 
-podcast_file = ""
-podcast_duration = ""
-podcast_bytes = ""
-youtube = ""
+podcast_file = "17586049-benyamin-poghosyan-public-trust-in-freefall-church-on-the-rise-and-corridor-pressures-mount-ep-456-jul-27-2025.mp3"
+podcast_duration = "4155"
+podcast_bytes = "49899550"
+youtube = "riOu1Fw5gkU"
 
 hosts = ["asbed", "hovik"]
 guests = ["bpoghosyan"]
