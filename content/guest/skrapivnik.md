@@ -17,4 +17,4 @@ Twitch = ""
 #guest_group = "cog"
 +++
 
-__Stanislav Krapivnik__ is a former US Army officer, supply chain exec and military-political expert, now based in Russia. He was born in Lugansk during the Soviet times, migrated to the US as a child, served in the US army, did not like what it was doing in former Yugoslavia, quit, returned to Russia and now is working as a support system near his hometown in the battle in Ukraine. Mr. Krapivnik is an independent contractor and consults and appears in the international media in his areas of expertise in military matters, NATO, America, history, economics and supply chains.
+__Stanislav Krapivnik__ is a former US Army officer, supply chain exec and military-political expert, now based in Russia. He was born in Lugansk during the Soviet times, migrated to the US as a child, served in the US army, did not like what it was doing in former Yugoslavia, quit, returned to Russia. Mr. Krapivnik is an independent contractor and consults and appears in the international media in his areas of expertise in military matters, NATO, America, history, economics and supply chains.
