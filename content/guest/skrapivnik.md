@@ -13,6 +13,7 @@ Pinterest = ""
 Instagram = ""
 YouTube = "@MrSlavikman"
 Twitch = ""
+Telegram = "https://t.me/stastydaiobratno"
 #Aka = []
 #guest_group = "cog"
 +++
