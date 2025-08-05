@@ -141,6 +141,7 @@ From Facebook posts from Garen Megerdichian's Facebook [post](https://www.facebo
 - [Critical evidence in Sona Mnatsakanyan's trial destoryed or withheld](https://www.azatutyun.am/a/33489575.html)
 - [Russia has imposed restrictions on flower imports from Armenia](https://www.azatutyun.am/a/33490228.html)
 - [Armenian Consul in Russia Fired for Defending Church](https://www.azatutyun.am/a/33487551.html)
+- [Scott Ritter's denial of the Armenian Genocide](https://x.com/HovikYerevan/status/1951297182054641786)
 
 ---
 
