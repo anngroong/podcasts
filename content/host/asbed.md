@@ -15,5 +15,7 @@ YouTube = ""
 Twitch = ""
 +++
 
-Asbed is founder of the Armenian News Network Groong and co-founder of the ANN/Groong podcast.
+Asbed Bedrossian is an IT professional with extensive experience in enterprise IT infrastructure, IT security, enterprise applications, data center operations, high performance computing, ITSM, ITPM, and more.
+
+Asbed is founder of the Armenian News Network Groong (ca. 1989/1990) and co-founder of the ANN/Groong podcast in 2020.
 
