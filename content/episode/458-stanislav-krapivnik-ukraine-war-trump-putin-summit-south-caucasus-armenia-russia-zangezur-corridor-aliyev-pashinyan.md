@@ -20,7 +20,7 @@ guests = ["skrapivnik"]
 episode = "458"
 aliases = ["/458"]
 
-series = ["cog"]
+series = ["cog", "video"]
 categories = ["Georgia", "Politics"]
 tags = ["Armenian News", "Stanislav Krapivnik", "Ukraine", "Ukraine War", "Artsakh", "Nagorno Karabakh", "Armenia", "Azerbaijan", "Washington", "Washington DC", "Donald Trump", "Ilham Aliyev", "Nikol Pashinyan", "Summit", "Zangezur Corridor", "Trump Route", "TRIPP"]
 
