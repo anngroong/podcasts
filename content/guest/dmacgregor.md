@@ -17,4 +17,4 @@ Twitch = ""
 #guest_group = "cog"
 +++
 
-__Col. Douglas MacGregor__ is a retired colonel in the United States Army, former government official, author, consultant, and political commentator.
+__Col. Douglas MacGregor__ is a retired colonel in the United States Army, former government official, author, consultant, political commentator, defense and foreign policy analyst, and former advisor to the US secretary of defense.
