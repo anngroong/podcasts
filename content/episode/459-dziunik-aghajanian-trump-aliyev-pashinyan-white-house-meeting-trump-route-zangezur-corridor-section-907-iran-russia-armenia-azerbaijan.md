@@ -1,6 +1,6 @@
 +++
 Date = 2025-08-12T02:00:00-07:00
-upcoming = true
+upcoming = false
 
 title = "Dziunik Aghajanian - Trump, Aliyev, Pashinyan Oval Office Meeting and Reactions | Ep 459, Aug 10, 2025"
 subtitle = "Groong Week in Review - August 10, 2025"
@@ -12,7 +12,7 @@ images = ["img/episode/459/banner-459.webp"]
 podcast_file = "17661294-dziunik-aghajanian-trump-aliyev-pashinyan-oval-office-meeting-and-reactions-ep-459-aug-10-2025.mp3"
 podcast_duration = "3938"
 podcast_bytes = "47294337"
-youtube = ""
+youtube = "4p5Ie3G56XM"
 
 hosts = ["hovik","asbed"]
 guests = ["dzaghajanian"]
@@ -21,7 +21,7 @@ aliases = ["/459"]
 
 series = ["wir", "video"]
 categories = ["Armenia", "Politics", "Iran"]
-tags = ["Armenian News", "Nagorno Karabakh", "Dziunik Aghajanian", "Armenia", "Azerbaijan", "Turkey", "USA", "Israel", "Iran", "IranIsraelWar", "Donald Trump", "Mike Walz", "Masoud Pezeshkian", "Ibrahim Raisi", "Nikol Pashinyan", "Recep Erdogan", "Ilham Aliyev", "NPT Treaty", "IAEA", "Nuclear Program", "Armenian Church", "Catholicos", "Garegin II", "Holy Etchmiadzin", "Catholicos", "Garegin II", "Archbishop", "Mikayel Ajapahyan", "Israeli Drones", "UAV", "Artsakh", "Ethnic Cleansing", "AZAL Flight", "Plane Crash", "December 2024", "Zangezur Corridor", "Syunik", "Military Exercises", "Turan Project", "Pan Turan", "Armenian Brandy", "Georgia", "Masis Mayilyan", "Emmanuel Macron", "Kaja Kallas"]
+tags = ["Armenian News", "Nagorno Karabakh", "Dziunik Aghajanian", "Armenia", "Azerbaijan", "Turkey", "USA", "Nikol Pashinyan", "Donald Trump", "Oval Office", "White House", "Ilham Aliyev", "Washington DC", "DC Summit", "Zangezur Corridor", "Trump Route", "Peace Process", "Peace Agreement", "Syunik", "Iran", "Russia"]
 
 Description = """
 
