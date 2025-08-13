@@ -5,10 +5,10 @@ upcoming = true
 title = "Douglas MacGregor & Christine Arakelian - Armenia in the Crosshairs of US Geopolitical Winds | Ep 460, Aug 12, 2025"
 subtitle = "Conversations on Groong - Recorded on: 08/12/2025"
 
-podcast_file     = ""
-podcast_duration = ""
-podcast_bytes    = ""
-youtube = ""
+podcast_file     = "17662449-douglas-macgregor-christine-arakelian-armenia-in-the-crosshairs-of-us-geopolitical-winds-ep-460-aug-12-2025.mp3"
+podcast_duration = "3841"
+podcast_bytes    = "46140274"
+youtube = "TRgLnwe0YSU"
 
 episode_image = "img/episode/460/thumbnail-460.webp"
 episode_banner = "img/episode/460/banner-460.webp"
