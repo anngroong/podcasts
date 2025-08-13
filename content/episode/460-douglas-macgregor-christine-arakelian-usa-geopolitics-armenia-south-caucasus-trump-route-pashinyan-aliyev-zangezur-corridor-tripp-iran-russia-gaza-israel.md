@@ -1,6 +1,6 @@
 +++
 Date = 2025-08-12T01:00:00-08:00
-upcoming = true
+upcoming = false
 
 title = "Douglas MacGregor & Christine Arakelian - Armenia in the Crosshairs of US Geopolitical Winds | Ep 460, Aug 12, 2025"
 subtitle = "Conversations on Groong - Recorded on: 08/12/2025"
