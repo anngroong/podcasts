@@ -31,7 +31,7 @@ Description = """
 * [linktr.ee/Groong](https://linktr.ee/groong)
 
 #### Guest:
-* [Stanislav Krapivnik](/guest/skrapivnik), MP
+* [Stanislav Krapivnik](/guest/skrapivnik)
 
 #### Topics:
 * Trump, Pashinyan, Aliyev DC Summit
