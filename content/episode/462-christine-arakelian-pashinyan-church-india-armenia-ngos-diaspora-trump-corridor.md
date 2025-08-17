@@ -1,6 +1,6 @@
 +++
 Date = 2025-08-17T01:00:00-08:00
-upcoming = true
+upcoming = false
 
 title = "Christine Arakelian - Pashinyan vs. the Church, India Armenia, NGOs and Foreign Influence | Ep 462, Aug 17, 2025"
 subtitle = "Conversations on Groong - Recorded on: 08/15/2025"
@@ -8,7 +8,7 @@ subtitle = "Conversations on Groong - Recorded on: 08/15/2025"
 podcast_file     = "17682206-christine-arakelian-pashinyan-vs-the-church-india-armenia-ngos-and-foreign-influence-trump-corridor-ep-462-aug-17-2025.mp3"
 podcast_duration = "4042"
 podcast_bytes    = "48545752"
-youtube = ""
+youtube = "aWTfpn0D3n8"
 
 episode_image = "img/episode/462/thumbnail-462.webp"
 episode_banner = "img/episode/462/banner-462.webp"
