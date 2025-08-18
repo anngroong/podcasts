@@ -18,4 +18,4 @@ Telegram = "melkonian_sergei"
 #guest_group = "wir"
 +++
 
-Dr. Sergei Melkonian is an Academic Director at the **Armenian Research Foundation**. He served as assistant to President of Armenia, Armen Sarkissian, on Russia and Middle East politics. Sergei is currently a Research Fellow at [APRI Armenia](https://apri.institute/) and the **Institute of Oriental Studies**, and also Assistant Professor at Yerevan State University and the Russian-Armenian University. He is a co-founder of the [Armenian Project](https://armenianproject.com/en/about/) NGO.
+Dr. Sergei Melkonian is currently a Research Fellow at [APRI Armenia](https://apri.institute/), a Yerevan-based think tank. He served as assistant to President of Armenia, Armen Sarkissian, on foreign policy (Middle East and post-Soviet space). Sergei is also a guest lecturer at Yerevan State University and the Russian-Armenian University.
