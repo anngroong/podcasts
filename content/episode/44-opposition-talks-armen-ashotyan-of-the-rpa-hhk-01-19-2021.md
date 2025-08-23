@@ -13,7 +13,7 @@ youtube = "QgmNA47sMXs"
 episode_image = "img/episode/44/thumbnail-44.webp"
 episode_banner = "img/episode/44/banner-44.webp"
 images = ["img/episode/44/banner-44.webp"]
-
+
 hosts = ["asbed", "hovik", "azamanyan"]
 guests = ["aashotyan"]
 
