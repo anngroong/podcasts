@@ -1,5 +1,5 @@
 +++
-date = 2021-01-19T21:29:42
+Date = 2021-01-19T21:29:42-07:00
 upcoming = false
 
 title = "Armen Ashotyan - Opposition Talks | Ep 44, Jan 19, 2021"
@@ -20,14 +20,9 @@ guests = ["aashotyan"]
 episode = "44"
 aliases = ["/44"]
 
-series = ["COG"]
+series = ["cog"]
 categories = ["Armenia"]
 tags = ["Armenian News", "Armenia", "Armen Ashotyan", "Politics", "Yerevan", "Republican Party of Armenia", "RPA", "HHK", "Nikol Pashinyan", "Civil Contract", "Artsakh", "Nagorno Karabakh", "44-Day War"]
-author = "Armenian News Network - Groong"
-
-truncate = ""
-draft = false
-explicit = "no"
 
 Description = """
 
