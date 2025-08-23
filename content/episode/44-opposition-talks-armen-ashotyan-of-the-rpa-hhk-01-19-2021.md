@@ -2,20 +2,19 @@
 date = 2021-01-19T21:29:42
 upcoming = false
 
-title = "Armen Ashotyan - Opposition Talks | Ep 44, Jan 19, 2023"
-subtitle = "Conversations on Groong - Recorded on: January 17, 2023"
-
+title = "Armen Ashotyan - Opposition Talks | Ep 44, Jan 19, 2021"
+subtitle = "Conversations on Groong - Recorded on: January 17, 2021"
 
 podcast_file = "7387702-opposition-talks-armen-ashotyan-of-the-rpa-hhk-01-19-2021.mp3"
-podcast_bytes = 30539479
-youtube = "QgmNA47sMXs"
+podcast_bytes = "30539479"
 podcast_duration = "0:42:21"
+youtube = "QgmNA47sMXs"
 
 episode_image = "img/episode/44/thumbnail-44.webp"
 episode_banner = "img/episode/44/banner-44.webp"
 images = ["img/episode/44/banner-44.webp"]
 
-hosts = ["asbed", "hovik","azamanyan"]
+hosts = ["asbed", "hovik", "azamanyan"]
 guests = ["aashotyan"]
 
 episode = "44"
@@ -26,15 +25,11 @@ categories = ["Armenia"]
 tags = ["Armenian News", "Armenia", "Armen Ashotyan", "Politics", "Yerevan", "Republican Party of Armenia", "RPA", "HHK", "Nikol Pashinyan", "Civil Contract", "Artsakh", "Nagorno Karabakh", "44-Day War"]
 author = "Armenian News Network - Groong"
 
-
 truncate = ""
 draft = false
 explicit = "no"
 
-
-
 Description = """
-
 
 #### Groong Links:
 * [GIVE to GROONG](https://podcasts.groong.org/donate)
