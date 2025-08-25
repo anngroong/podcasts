@@ -9,7 +9,7 @@ episode_image = "img/episode/464/thumbnail-464.webp"
 episode_banner = "img/episode/464/banner-464.webp"
 images = ["img/episode/464/banner-464.webp"]
 
-podcast_file     = "
+podcast_file     = ""
 podcast_duration = ""
 podcast_bytes    = ""
 youtube = ""
