@@ -1,6 +1,6 @@
 +++
 Date = 2025-08-26T02:15:00-07:00
-upcoming = true
+upcoming = false
 
 title = "Tevan Poghosyan - State Sovereignty Day, TRIPP Trap, Reactions, Kitchen Sink | Ep 464, Aug 24, 2025"
 subtitle = "Groong Week in Review - August 24, 2025"
@@ -9,10 +9,10 @@ episode_image = "img/episode/464/thumbnail-464.webp"
 episode_banner = "img/episode/464/banner-464.webp"
 images = ["img/episode/464/banner-464.webp"]
 
-podcast_file     = ""
-podcast_duration = ""
-podcast_bytes    = ""
-youtube = ""
+podcast_file     = "17740763-tevan-poghosyan-state-sovereignty-day-tripp-trap-iran-russia-reactions-kitchen-sink-ep-464-aug-24-2025.mp3"
+podcast_duration = "4496"
+podcast_bytes    = "53993699"
+youtube = "OWqkDLfRpe4"
 
 
 hosts = ["asbed", "hovik"]
