@@ -1,14 +1,14 @@
 +++
 Date = 2025-08-29T02:00:00-08:00
-upcoming = true
+upcoming = false
 
 title = "Jeffrey Sachs - TRIPP down Zangezur Corridor | Ep 466, Aug 29, 2025"
 subtitle = "Conversations on Groong - Recorded on: August 28, 2025"
 
-podcast_file = ""
-podcast_duration = ""
-podcast_bytes = ""
-youtube = ""
+podcast_file = "17757581-jeffrey-sachs-tripp-down-zangezur-corridor-armenian-economy-ep-466-aug-29-2025.mp3"
+podcast_duration = "1728"
+podcast_bytes = "20774006"
+youtube = "r7IH9YG88PY"
 
 episode_image = "img/episode/466/thumbnail-466.webp"
 episode_banner = "img/episode/466/banner-466.webp"
