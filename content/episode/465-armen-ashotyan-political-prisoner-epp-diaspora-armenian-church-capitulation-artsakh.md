@@ -1,14 +1,14 @@
 +++
-Date = 2021-08-29T00:29:42-07:00
-upcoming = true
+Date = 2021-08-28T00:29:42-07:00
+upcoming = false
 
-title = "Armen Ashotyan - Reflections on Life as a Political Prisoner, Attacks on the Church and Sovereignty | Ep 465, Aug 29, 2025"
+title = "Armen Ashotyan - Reflections on Life as a Political Prisoner, Attacks on the Church and Sovereignty | Ep 465, Aug 28, 2025"
 subtitle = "Conversations on Groong - Recorded on: August 27, 2025"
 
-podcast_file = ""
-podcast_bytes = ""
-podcast_duration = ""
-youtube = ""
+podcast_file = "17752909-armen-ashotyan-reflections-on-life-as-a-political-prisoner-attacks-on-the-church-and-sovereignty-ep-465-aug-28-2025.mp3"
+podcast_bytes = "42900371"
+podcast_duration = "3572"
+youtube = "LGgUqD-n5OM"
 
 episode_image = "img/episode/465/thumbnail-465.webp"
 episode_banner = "img/episode/465/banner-465.webp"
