@@ -1,5 +1,6 @@
 +++
 Date = 2025-09-02T15:20:32-07:00
+upcoming = false
 
 title = "Benyamin Poghosyan - SCO Summit, TRIPP Corridor, RU - AZ Rift, UK Ties | Ep 467, Aug 31, 2025"
 subtitle = "Groong Week in Review - August 31, 2025"
@@ -12,7 +13,6 @@ images = ["img/episode/467/banner-467.webp"]
 podcast_file     = "17775761-benyamin-poghosyan-sco-summit-tripp-corridor-ru-az-rift-uk-ties-ep-467-aug-31-2025.mp3"
 podcast_duration = "4529"
 podcast_bytes    = "54382485"
-
 youtube = "kTh52542vtU"
 
 hosts = ["asbed", "hovik"]
@@ -129,6 +129,11 @@ In this Week in Review, we look at Armenia’s role at the SCO summit, where Pas
 ---
 
 # Wrap-up
+
+### **Don't forget to support us:**
+* [Patreon - Support Groong](https://www.patreon.com/ann_groong)
+* [Buy Me a Coffee - Support Groong](https://www.buymeacoffee.com/groong)
+
 
 That’s our [show](https://podcasts.groong.org/)! We hope you found it useful. Please find us on [Social Media](https://linktr.ee/groong) and follow us everywhere you get your Armenian news.
 
