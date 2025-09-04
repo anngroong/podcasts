@@ -17,6 +17,10 @@ Twitch = ""
 #guest_group = "cog"
 +++
 
-__Dr. Gilbert Doctorow__ holds a Ph.D. in Russian history from Columbia University and is a fluent Russian speaker. He spent most of his professional life in corporate business with a focus on Russia. Doctorow has authored five books of essays. He also has participated in expert forums devoted to international affairs and appeared in Russian domestic political talk shows on all national channels.
+__Dr. Gilbert Doctorow__ is a professional Russia watcher of Russian affairs going back to 1965. He is a magna cum laude graduate of Harvard College (1967), a past Fulbright scholar, and holder of a Ph.D. with honors in history from Columbia University (1975).
 
-His latest book, the newly published "Memoirs of a Russianist, Volume I" directs attention to two periods of his business career when his perch afforded him a rare opportunity to observe and interact with the people and institutions shaping economic, cultural and social life in Russia, 1976-80 and 1989-2000. In the first period he was a consultant taking senior executives from some of America’s best known corporations to negotiations in Moscow with Soviet end-users over turnkey manufacturing projects. In the second period he was the corporate executive planning and running ongoing operations, including as expatriate general manager on the ground. The book will be useful to business school students and those embarking on careers in Emerging Markets, where the challenges of maintaining one's footing can be formidable and where the fastest moving objects in FMCG companies may be the managers themselves. Available from Amazon.com and other leading online retailers.
+After completing his studies, Mr. Doctorow pursued a business career focused on the USSR and Eastern Europe. For twenty-five years he worked for US and European multinationals in marketing and general management with regional responsibility.
+
+From 1998-2002, Doctorow served as the Chairman of the Russian Booker Literary Prize in Moscow. . Since 2008, Mr. Doctorow has been regularly publishing analytical articles about Russia-U.S.-EU relations on the internet. From this material he produced six books of essays, the most recent of which is the just published War Diaries. He also is the author of a two-volume set of Memoirs of a Russianist:  From the Ground Up and Russia in the Roaring 1990s. A Russian edition of the Memoirs has been published in St Petersburg.
+
+Doctorow is a long time resident of Belgium.
