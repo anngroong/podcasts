@@ -30,7 +30,8 @@ Description = """
 * [linktr.ee/Groong](https://linktr.ee/groong)
 
 #### Guest:
-* [Dr. Gilbert Doctorow](https://podcasts.groong.org/guest/gdoctorow)
+* [Dr. Gilbert Doctorow](https://podcasts.groong.org/guest/gdoctorow), Author of - [War Diaries. Volume 1](https://a.co/d/7J6szrP)
+
 
 #### Topics:
 SCO Summit in Tianjin, China
@@ -74,7 +75,7 @@ In this *Conversations on Groong* episode, we speak with __Dr. Gilbert Doctorow_
 - [The Dawning of a New World Order (Glenn Diesen)](https://substack.com/@glenn-diesen)
 - [Financial Times: Russia says China has agreed vast new Siberia gas pipeline](https://www.ft.com/content/52d3b560-7ee7-4aad-aebf-21270d661ced)
 - [Financial Times: A China-Russia sweetheart gas deal could upset US energy exporters](https://www.ft.com/content/a974a056-274a-4606-9de1-be18519fb5de)
-- [War Diaries. Volume 1: The Russia-Ukraine War, 2022-2023 (War Diaries. The Russia-Ukraine War)](https://www.amazon.com/gp/product/B0F9VK1WM2?ref_=dbs_m_mng_rwt_calw_tpbk_0&storeType=ebooks) - by Dr. Gilbert Doctorow
+- [War Diaries. Volume 1: The Russia-Ukraine War, 2022-2023 (War Diaries. The Russia-Ukraine War)](https://a.co/d/7J6szrP) - by Dr. Gilbert Doctorow
 
 ---
 
