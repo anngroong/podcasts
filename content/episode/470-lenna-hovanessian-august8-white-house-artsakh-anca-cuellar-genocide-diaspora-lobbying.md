@@ -35,8 +35,8 @@ Description = """
 
 #### Topics:
 * Reflections on August 8 White House Meeting
-* Tough Times for Diaspora-Armenia Relations
-* Challenges to Armenian American Advocacy
+* Tensions in Diaspora-Armenia Relations
+* Azerbaijani Lobbying, Caviar Diplomacy, and the Cuellar Bribery Case
 
 Episode 470 | Recorded: September 5, 2025"""
 +++
