@@ -17,4 +17,4 @@ Twitch = ""
 #guest_group = "wir"
 +++
 
-__Lenna Hovanessian__ is a board member of the Armenian Committee of America in the Western Region (ANCA-WR).
+__Lenna Hovanessian__ is the ANCA-WR Executive Board member, Nevada Co-chair and Western Diocese Armenian Religious Cultural & Heritage Council Legal & International Affairs subcommittee Chair. 
