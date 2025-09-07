@@ -34,10 +34,10 @@ Description = """
 
 
 #### Topics:
-SCO Summit in Tianjin, China
-China-India Thaw
-Power of Siberia Gas Pipeline
-What’s in it for Armenia?
+* SCO Summit in Tianjin, China
+* China-India Thaw
+* Power of Siberia Gas Pipeline
+* What’s in it for Armenia?
 
 Episode 469 | Recorded: September 4, 2025"""
 +++

@@ -17,4 +17,4 @@ Twitch = ""
 #guest_group = "wir"
 +++
 
-__Lenna Hovanessian__ is the ANCA-WR Executive Board member, Nevada Co-chair and Western Diocese Armenian Religious Cultural & Heritage Council Legal & International Affairs subcommittee Chair. 
+__Lenna Hovanessian__ is a community leader, attorney, and activist in Nevada. Her career began in litigation and as a federal attorney for the U.S. District Court in CA. She has blazed the trail for political activism in Nevada for 10 years as ANCA-NV Co-Chair and WR Board Member. She was awarded ANCA’s 2023 Visionary Activist Award for her leadership in advancing Armenian Genocide recognition by co-drafting and passing the NV Holocaust and Armenian Genocide Education Bill in 2021. She has been a force to advance policy for the Armenian cause and human rights from NV to Wash. D.C.  
