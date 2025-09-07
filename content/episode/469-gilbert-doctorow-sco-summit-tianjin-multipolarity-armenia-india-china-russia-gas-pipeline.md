@@ -54,7 +54,7 @@ In this *Conversations on Groong* episode, we speak with __Dr. Gilbert Doctorow_
 - Victory Day commemorations in China and Trump’s TruthSocial reaction
 - The symbolism of Xi–Modi’s meeting and whether the U.S. has “lost” India
 - Russia’s Power of Siberia-2 pipeline and its impact on Europe and Asia
-- What's ni it for Armenia?
+- What's in it for Armenia?
 
 ---
 
@@ -67,6 +67,10 @@ In this *Conversations on Groong* episode, we speak with __Dr. Gilbert Doctorow_
 - What balance emerges if India joins Russia and China at the SCO core?
 - How does the Power of Siberia-2 pipeline reshape Russia’s energy map, Europe’s exclusion, and Asia’s future supply?
 
+# Books by Dr. Doctorow
+- [War Diaries](https://a.co/d/7J6szrP)
+- [Memoirs of a Russianist:  From the Ground Up and Russia in the Roaring 1990s](https://a.co/d/1lW8vNi)
+
 ---
 
 # Links Referenced During The Show
@@ -75,7 +79,6 @@ In this *Conversations on Groong* episode, we speak with __Dr. Gilbert Doctorow_
 - [The Dawning of a New World Order (Glenn Diesen)](https://substack.com/@glenn-diesen)
 - [Financial Times: Russia says China has agreed vast new Siberia gas pipeline](https://www.ft.com/content/52d3b560-7ee7-4aad-aebf-21270d661ced)
 - [Financial Times: A China-Russia sweetheart gas deal could upset US energy exporters](https://www.ft.com/content/a974a056-274a-4606-9de1-be18519fb5de)
-- [War Diaries. Volume 1: The Russia-Ukraine War, 2022-2023 (War Diaries. The Russia-Ukraine War)](https://a.co/d/7J6szrP) - by Dr. Gilbert Doctorow
 
 ---
 
