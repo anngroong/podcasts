@@ -10,7 +10,7 @@ images = ["img/episode/470/banner-470.webp"]
 
 podcast_file     = "17805028-lenna-hovanessian-white-house-meeting-fallout-artsakh-erasure-genocide-dismissal-azerbaijan-playbook-in-the-us-ep-470-sep-7-2025.mp3"
 podcast_duration = "3450"
-podcast_bytes    = "41436377
+podcast_bytes    = "41436377"
 youtube = "ruwhwAhRUN0"
 
 hosts = ["asbed", "hovik"]
