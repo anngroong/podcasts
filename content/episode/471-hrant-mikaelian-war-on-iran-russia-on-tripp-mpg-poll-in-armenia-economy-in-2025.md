@@ -299,9 +299,9 @@ Of significant concern is that many areas of the government’s programs have be
 * Ministry of Higher Education and Science - 20.9%. 
 
 We can see that a significant number of these areas haven’t even achieved half of what they were supposed to do. The Luys report highlights important programs:
-* The “__Development Program for the Military-Industrial Complex__” implemented under the responsibility of the Ministry of High-Tech Industry which has been implemented only __4.7%__;
-* Their “__Digital Transformation__" program is at __7.4%__;
-* The Ministry of Economy’s "__Agricultural Modernization Program__" is at __12.6%__.
+* The Ministry of High-Tech Industry's __"Development Program for the Military-Industrial Complex"__ has been implemented only __4.7%__.
+* The Ministry of High-Tech Industry's __"Digital Transformation"__ program is implemented only __7.4%__;
+* The Ministry of Economy’s __"Agricultural Modernization Program"__ is implemented only __12.6%__.
 
 One odd aspect of this underperformance is that the government has not been spending at the level that it thought it would, so it has a lot of cash lying around, sitting in banks and earning some interest. So now all that money looks like an over-fulfillment of revenues in the state budget, or maybe a lower budget deficit. Exactly the opposite of what the government predicted would happen.
 
