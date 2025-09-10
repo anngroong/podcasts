@@ -14,13 +14,13 @@ podcast_duration = ""
 podcast_bytes    = ""
 youtube = ""
 
-hosts = ["asbed", "hovik"]
+hosts = ["hovik", "asbed"]
 guests = ["hmikaelian"]
 episode = "471"
 aliases = ["/471"]
 
 series = ["wir", "video"]
-categories = ["Armenia", "Politics"]
+categories = ["Armenia", "Politics", "iran"]
 tags = ["Armenian News", "Armenia", "Hrant Mikaelian", "Azerbaijan", "South Caucasus", "Turkey", "Russia", "Iran", "Iran War", "TRIPP", "Trump Route", "Zangezur Corridor", "August 8", "White House", "Oval Office", "Nikol Pashinyan", "Ilham Aliyev", "Donald Trump", "Armenian Economy", "Armenian POWs", "Political Prisoners", "Samvel Karapetyan", "Bagrat Galstanyan", "Mikayel Ajabahyan", "Our Way", "Civil Contract", "Armenian Opposition"]
 
 Description = """
