@@ -298,12 +298,15 @@ Of significant concern is that many areas of the government’s programs have be
 * Ministry of Economy - 22.3%
 * Ministry of Higher Education and Science - 20.9%. 
 
-We can see that a significant number of these areas haven’t even achieved half of what they were supposed to do. The Luys report highlights important programs like the “Development Program for the Military-Industrial Complex” implemented under the responsibility of the Ministry of High-Tech Industry which has been implemented only 4.7%; Their “Digital Transformation" program is at 7.4%; The Ministry of Economy’s "Agricultural Modernization Program" is at 12.6%.
+We can see that a significant number of these areas haven’t even achieved half of what they were supposed to do. The Luys report highlights important programs:
+* The “__Development Program for the Military-Industrial Complex__” implemented under the responsibility of the Ministry of High-Tech Industry which has been implemented only __4.7%__;
+* Their “__Digital Transformation__" program is at __7.4%__;
+* The Ministry of Economy’s "__Agricultural Modernization Program__" is at __12.6%__.
 
 One odd aspect of this underperformance is that the government has not been spending at the level that it thought it would, so it has a lot of cash lying around, sitting in banks and earning some interest. So now all that money looks like an over-fulfillment of revenues in the state budget, or maybe a lower budget deficit. Exactly the opposite of what the government predicted would happen.
 
 Despite all of these issues, the economy seems to be on the rebound. If we start including July numbers, we see that
-* The industrial production slow down goes from 12 to 10% (I’m rounding, it’s actually 12.1 to 9.8%).
+* The industrial production slow down goes from 12.1 to 9.8%
 * Electricity generation is up 2.1% (a good indicator of economic activity)
 * Construction up 20%
 * Services up 10.6%
