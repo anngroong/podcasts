@@ -9,9 +9,9 @@ episode_image = "img/episode/471/thumbnail-471.webp"
 
 images = ["img/episode/471/banner-471.webp"]
 
-podcast_file     = ""
-podcast_duration = ""
-podcast_bytes    = ""
+podcast_file     = "17820024-hrant-mikaelian-war-on-iran-russia-on-tripp-new-mpg-poll-in-armenia-economy-ep-471-sep-7-2025.mp3"
+podcast_duration = "5228"
+podcast_bytes    = "62777704"
 youtube = ""
 
 hosts = ["hovik", "asbed"]
@@ -42,12 +42,50 @@ Description = """
 Episode 471 | Recorded: September 8, 2025"""
 +++
 
+# Summary
+This week’s Week in Review with Hrant Mikaelian covers mounting tensions over Iran’s nuclear program and the risk of renewed war, Russia’s muted stance on the TRIPP corridor despite U.S. and Turkish advances, fresh data from the MPG poll on Armenia’s politics and society, and the state of Armenia’s economy at mid-2025, with particular focus on re-exports, debt, and government underperformance.
 
-## MPG Poll
+# Main Topics Addressed
+- **War in Iran**: The E3 snapback sanctions, Iran’s possible NPT withdrawal, and risks of a U.S.-Israeli escalation.  
+- **TRIPP Corridor**: U.S. and Israeli leverage, Paul Goble’s views, Russia’s puzzling response, Iran’s split stance.  
+- **MPG Poll Findings**:  
+  - Attitudes toward the Aug 8 White House TRIPP agreement.  
+  - Views on opening a road through Syunik.  
+  - Whether Washington agreements will bring peace.  
+  - Constitutional change as a precondition from Azerbaijan.  
+  - Political prisoners, including Samvel Karapetyan and Bagrat Srbazan.  
+  - Party standings if elections were held today.  
+- **Armenian Economy H1/2025**: Decline in re-exports, slowdown in industry, underperformance of key ministries, rising debt, and growth trends in construction and agriculture.  
 
+# Key Questions Discussed
+- Is the West pushing Iran into a corner, and could this lead to renewed war?  
+- Could TRIPP serve as a launchpad for U.S. and Israeli operations against Iran?  
+- Why is Russia muted while Paul Goble and U.S. analysts are exuberant?  
+- What do the MPG poll results reveal about Armenian public opinion on TRIPP, peace prospects, constitutional change, and political prisoners?  
+- Does Samvel Karapetyan’s rise in polling numbers suggest a viable opposition force in 2026?  
+- How sustainable is Armenia’s economy given re-export decline, underperforming ministries, and rising debt?  
+
+# Referenced Articles & Sources
+- [Al Jazeera – Russia, China slam European nations over Iran snapback sanctions move](https://www.aljazeera.com/news/2025/8/29/russia-china-slam-european-nations-over-iran-snapback-sanctions-move)  
+- [Mehr News – Iran parliament may discuss exit from NPT](https://en.mehrnews.com/news/236175/Iran-parl-could-discuss-emergency-plan-to-exit-NPT-Sun-MP)  
+- [Foreign Policy – Israel-Iran war could come before December](https://foreignpolicy.com/2025/08/11/israel-iran-war-trump-nuclear-august-december/)  
+- [ReliefWeb – How the Goble Plan was born](https://reliefweb.int/report/armenia/how-goble-plan-was-born-and-how-it-remains-political-factor)  
+- [RIA – Overchuk on TRIPP](https://ria.ru/20250906/overchuk-2040140270.html)  
+- [Reuters – U.S. secures strategic transit corridor Armenia-Azerbaijan](https://www.reuters.com/world/us-secures-strategic-transit-corridor-armenia-azerbaijan-peace-deal-2025-08-07/)  
+- [Luys Foundation – H1/2025 Armenian Economy report](https://www.luys.am/img/artpic/small/272ea2668ff86421398504-2025-%D5%AB%D4%B2%D5%B5%D5%B8%D6%82%D5%BB%D5%A5%D5%AB1-%D5%AB%D5%B6%D5%AF%D5%AB%D5%BD%D5%A1%D5%B4%D5%B5%D5%A1%D5%AF%D5%AB%D5%AF%D5%A1%D5%BF%D5%A1%D6%80%D5%B8%D5%B2%D5%A1%D5%AF%D5%A1%D5%B6-2025.pdf)  
+- [168.am – Digest of Luys report](https://168.am/2025/08/25/2266794.html)  
+- [Caucasus Watch – Armenia’s mixed economy](https://caucasuswatch.de/en/news/armenias-mixed-economy-growth-in-services-offsets-trade-and-industry-decline.html)  
+
+# Thoughts from the Participants
+- **Hrant Mikaelian**: On Netanyahu’s recognition of the Armenian Genocide and the controversial renovations at Tsitsernakaberd.  
+- **Asbed**: Questioned why Pashinyan refused to request the return of POWs or territory during the August 8 White House meeting.  
+- **Hovik**: No additional statement this week.  
+
+
+# MPG Poll
 ___
 
-### Slide 2: Methodology
+## Slide 2: Methodology
 
 * **Research method**: Telephone surveys
 * **Sample Size**: 1101
@@ -59,7 +97,7 @@ ___
 
 ___
 
-### Slide 3: How Do You View the August 8 Meeting in DC?
+## Slide 3: How Do You View the August 8 Meeting in DC?
 
 On August 8, 2025, an agreement was signed in Washington between Azerbaijan, Armenia’s government, and the United States regarding the TRIPP corridor. This agreement provides for certain communications and infrastructure to pass through Armenia and Azerbaijan. ***What is your attitude towards this agreement, according to the following options?***
 
@@ -82,7 +120,7 @@ On August 8, 2025, an agreement was signed in Washington between Azerbaijan, Arm
 
 ___
 
-### Slide 4: How Do You View Giving a Road Through Syunik to Azerbaijan
+## Slide 4: How Do You View Giving a Road Through Syunik to Azerbaijan
 
 The declaration reaffirmed that Azerbaijan and Armenia are committed to opening communications. These efforts also include ensuring communications between the main part of Azerbaijan and the Nakhichevan Autonomous Republic of Armenia through the Syunik region, with mutual communication opportunities for Armenia. ***Do you support the opening of such a road through Syunik?***
 
@@ -104,7 +142,7 @@ The declaration reaffirmed that Azerbaijan and Armenia are committed to opening 
 
 ___
 
-### Slide 5: Will The Agreements In Washington Bring Lasting Peace
+## Slide 5: Will The Agreements In Washington Bring Lasting Peace
 
 ***Do you agree that the Washington agreements will contribute to long-lasting peace in the region?***
 
@@ -126,7 +164,7 @@ ___
 
 ___
 
-### Slide 6: On Changing The Constitution as a Precondition for Signing Peace
+## Slide 6: On Changing The Constitution as a Precondition for Signing Peace
 
 According to published information, Azerbaijan has emphasized constitutional changes in Armenia as a condition for signing a peace agreement. ***Which statement do you support the most?***
 
@@ -141,7 +179,7 @@ According to published information, Azerbaijan has emphasized constitutional cha
 
 ___
 
-### Slide 7: Political Prisoners in Armenia
+## Slide 7: Political Prisoners in Armenia
 
 Question 1 (left side)
 
@@ -171,7 +209,7 @@ Question 2 (right side)
 
 ___
 
-### Slide 8: On Arrest of Samvel Karapetyan
+## Slide 8: On Arrest of Samvel Karapetyan
 
 Samvel Karapetyan, the founder of the Tashir Group, businessman and philanthropist, spoke out in defense of the Armenian Apostolic Church, after which he was arrested shortly after. By court decision, he was detained for 2 months, and on August 15, 2025, the detention was extended for another 2 months. What do you think of this approach by the government?
 
@@ -192,7 +230,7 @@ Samvel Karapetyan, the founder of the Tashir Group, businessman and philanthropi
 
 ___
 
-### Slide 9: On Arrest of Archbishops
+## Slide 9: On Arrest of Archbishops
 
 Archbishop Michael Ajapahian and Bagrat Srbazan were arrested and detained at the end of June 2025. Then, in August, the court decided to extend their detention. How do you evaluate this decision?
 
@@ -213,7 +251,7 @@ Archbishop Michael Ajapahian and Bagrat Srbazan were arrested and detained at th
 
 ___
 
-### Slide 10: How Would You Vote if Elections Were Held This Coming Sunday
+## Slide 10: How Would You Vote if Elections Were Held This Coming Sunday
 
 If snap parliamentary elections were held this Sunday, which party or bloc would you vote for?
 
@@ -244,6 +282,33 @@ Non-voters / undecided:
 ![Slide 10](/img/episode/471/slides/MPG-slide-10.webp "Slide 10")
 
 ___
+
+# Armenian Economy H1/2025
+
+The Luys Foundation released its [report](https://www.luys.am/img/artpic/small/272ea2668ff86421398504-2025-%D5%AB%D4%B2%D5%B5%D5%B8%D6%82%D5%BB%D5%A5%D5%AB1-%D5%AB%D5%B6%D5%AF%D5%AB%D5%BD%D5%A1%D5%B4%D5%B5%D5%A1%D5%AF%D5%AB%D5%AF%D5%A1%D5%BF%D5%A1%D6%80%D5%B8%D5%B2%D5%A1%D5%AF%D5%A1%D5%B6-2025.pdf) on the Armenian economy in the first half of 2025. As expected there is some slowdown which may have bottomed out in March or April and since then it has been rebounding. The slowdown is attributed to a 12.1% decrease in the industrial sector, which itself is being blamed on the very significant decrease in the re-export sector, which last year had reached (I think) the $12.4B mark, and as Russian deputy PM Alexei Overchuk has been citing, it’s barely over $6.1B in 2025.
+
+Of significant concern is that many areas of the government’s programs have been underperforming, under-executing their planned projects in 2025.
+* Ministry of High-Tech Industry, the underperformance of expenditures is 72.8%
+    * This means that they’ve basically done 27% of their projects.
+    * They have a mandate for developing the Armenian military-industrial complex
+* Urban Development Committee - 58.7%
+* Ministry of Environment - 34.3%
+* Foreign Intelligence Service - 32.4%
+* Ministry of Territorial Administration and Infrastructure - 22.8%
+* Ministry of Economy - 22.3%
+* Ministry of Higher Education and Science - 20.9%. 
+
+We can see that a significant number of these areas haven’t even achieved half of what they were supposed to do. The Luys report highlights important programs like the “Development Program for the Military-Industrial Complex” implemented under the responsibility of the Ministry of High-Tech Industry which has been implemented only 4.7%; Their “Digital Transformation" program is at 7.4%; The Ministry of Economy’s "Agricultural Modernization Program" is at 12.6%.
+
+One odd aspect of this underperformance is that the government has not been spending at the level that it thought it would, so it has a lot of cash lying around, sitting in banks and earning some interest. So now all that money looks like an over-fulfillment of revenues in the state budget, or maybe a lower budget deficit. Exactly the opposite of what the government predicted would happen.
+
+Despite all of these issues, the economy seems to be on the rebound. If we start including July numbers, we see that
+* The industrial production slow down goes from 12 to 10% (I’m rounding, it’s actually 12.1 to 9.8%).
+* Electricity generation is up 2.1% (a good indicator of economic activity)
+* Construction up 20%
+* Services up 10.6%
+* CPI has ticked up but still is a reasonable 3.2%, PPI is 2.5%
+* Foreign trade is still down 41%: Exports down 48%, imports down 36%
 
 # Wrap-up
 
