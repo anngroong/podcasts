@@ -6,7 +6,7 @@ title = "Hrant Mikaelian - War on Iran, Russia on TRIPP, New MPG Poll in Armenia
 subtitle = "Groong Week in Review - September 7, 2025"
 
 episode_image = "img/episode/471/thumbnail-471.webp"
-
+episode_banner = "img/episode/471/banner-471.webp"
 images = ["img/episode/471/banner-471.webp"]
 
 podcast_file     = "17820024-hrant-mikaelian-war-on-iran-russia-on-tripp-new-mpg-poll-in-armenia-economy-ep-471-sep-7-2025.mp3"
