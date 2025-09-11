@@ -1,6 +1,6 @@
 +++
 Date = 2025-09-09T11:00:00-07:00
-upcoming = true
+upcoming = false
 
 title = "Hrant Mikaelian - War on Iran, Russia on TRIPP, New MPG Poll in Armenia, Economy | Ep 471, Sep 7, 2025"
 subtitle = "Groong Week in Review - September 7, 2025"
@@ -12,7 +12,7 @@ images = ["img/episode/471/banner-471.webp"]
 podcast_file     = "17820024-hrant-mikaelian-war-on-iran-russia-on-tripp-new-mpg-poll-in-armenia-economy-ep-471-sep-7-2025.mp3"
 podcast_duration = "5228"
 podcast_bytes    = "62777704"
-youtube = ""
+youtube = "xBAOqH36IAE"
 
 hosts = ["hovik", "asbed"]
 guests = ["hmikaelian"]
@@ -20,7 +20,7 @@ episode = "471"
 aliases = ["/471"]
 
 series = ["wir", "video"]
-categories = ["Armenia", "Politics", "iran"]
+categories = ["Armenia", "Politics", "iran", "Poll"]
 tags = ["Armenian News", "Armenia", "Hrant Mikaelian", "Azerbaijan", "South Caucasus", "Turkey", "Russia", "Iran", "Iran War", "TRIPP", "Trump Route", "Zangezur Corridor", "August 8", "White House", "Oval Office", "Nikol Pashinyan", "Ilham Aliyev", "Donald Trump", "Armenian Economy", "Armenian POWs", "Political Prisoners", "Samvel Karapetyan", "Bagrat Galstanyan", "Mikayel Ajabahyan", "Our Way", "Civil Contract", "Armenian Opposition"]
 
 Description = """
