@@ -37,7 +37,6 @@ Description = """
 * Russia’s Stance on TRIPP
 * New MPG Poll in Armenia
 * Armenian Economy in H1/2025
-* The Kitchen Sink
 
 Episode 471 | Recorded: September 8, 2025"""
 +++
