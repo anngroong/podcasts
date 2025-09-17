@@ -70,6 +70,7 @@ Three years after the Sep 13, 2022 attack that killed 224 Armenian servicemen an
 - [Eurasia Review – Trump confuses Armenia with Albania](https://www.eurasiareview.com/14092025-trump-again-confuses-armenia-with-albania/)
 - [Azatutyun – Draft bill on shorter military service](https://www.azatutyun.am/a/33527942.html)
 - [Armenpress – Coverage on military service reforms](https://armenpress.am/en/article/1229309)
+- [Security Cam videos of Karen Avanesyan in Stepanakert](https://x.com/LindseySnell/status/1967318159171731688?t=Y0CxNPme-QTDlPq67-igDA&s=19)
 
 
 # Wrap-up
