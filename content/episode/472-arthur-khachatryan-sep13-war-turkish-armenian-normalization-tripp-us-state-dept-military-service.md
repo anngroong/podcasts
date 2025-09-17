@@ -1,14 +1,14 @@
 +++
 Date = 2025-09-17T01:00:00-08:00
-upcoming = true
+upcoming = false
 
 title = "Arthur Khachatryan - September 13 War, Kiliç in Armenia, US $145M for TRIPP, Shorter Military Service | Ep 472, Sep 14, 2025"
 subtitle = "Conversations on Groong - 09/14/2025"
 
-podcast_file     = ""
-podcast_duration = ""
-podcast_bytes    = ""
-youtube = ""
+podcast_file     = "17859096-arthur-khachatryan-september-13-war-kilic-in-armenia-us-145m-for-tripp-shorter-military-service-ep-472-sep-14-2025.mp3"
+podcast_duration = "4184"
+podcast_bytes    = "50246191"
+youtube = "0j0R3tfDldQ"
 
 episode_image = "img/episode/472/thumbnail-472.webp"
 episode_banner = "img/episode/472/banner-472.webp"
@@ -43,7 +43,10 @@ Episode 472 | Recorded: September 15, 2025"""
 
 +++
 
-This Week in Review, we’re joined by Arthur Khachatryan to discuss key events shaping Armenia’s security and politics.  
+# Summary
+
+Three years after the Sep 13, 2022 attack that killed 224 Armenian servicemen and left more than 200 sq km under occupation, the show asks why the state mutes remembrance while talking up “peace.” Hayastan Dashinq/ARF MP __Arthur Khachatryan__ joins us to unpack the envoys’ “expedite” language against Ankara’s and Baku’s preconditions and probe TRIPP’s core unknowns, from “unhindered communication” and border checks to who actually gets paid. We then assess the plan to shorten service and cut defense outlays, and close on the slowing economy, rising debt risks, and a policy mix that shifts manpower inward while leaving open questions at the frontier.
+
 
 # Main Topics Addressed  
 - The third anniversary of the September 13, 2022 war and its ongoing consequences.
