@@ -37,7 +37,6 @@ Description = """
 * September 13, 2022 War anniversary
 * Serdar Kiliç in Armenia for Normalization
 * U.S. State Dept. $145M for TRIPP
-* The Kitchen Sink
 
 Episode 472 | Recorded: September 15, 2025"""
 
@@ -68,7 +67,6 @@ Three years after the Sep 13, 2022 attack that killed 224 Armenian servicemen an
 - [Armenpress – Reports on Kiliç-Rubinyan meetings](https://armenpress.am/en/article/1229574)
 - [Azatutyun – U.S. State Dept. delegation announces $145M for TRIPP](https://www.azatutyun.am/a/33528031.html)
 - [Azatutyun – Additional coverage of U.S. delegation visit](https://www.azatutyun.am/a/33528900.html)
-- [Armenpress – NATO PA visit in Yerevan](https://armenpress.am/en/article/1229497)
 - [Eurasia Review – Trump confuses Armenia with Albania](https://www.eurasiareview.com/14092025-trump-again-confuses-armenia-with-albania/)
 - [Azatutyun – Draft bill on shorter military service](https://www.azatutyun.am/a/33527942.html)
 - [Armenpress – Coverage on military service reforms](https://armenpress.am/en/article/1229309)
