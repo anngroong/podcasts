@@ -2,7 +2,7 @@
 Date = 2025-09-17T01:00:00-08:00
 upcoming = true
 
-title = "Arthur Khachatryan – September 13 War, Turkish-Armenian Normalization, TRIPP | Ep 472, Sep 14, 2025"
+title = "Arthur Khachatryan - September 13 War, Kiliç in Armenia, US $145M for TRIPP, Shorter Military Service | Ep 472, Sep 14, 2025"
 subtitle = "Conversations on Groong - 09/14/2025"
 
 podcast_file     = ""
@@ -35,7 +35,7 @@ Description = """
 
 #### Topics:
 * September 13, 2022 War anniversary
-* Serdar Kiliç in Armenia and normalization
+* Serdar Kiliç in Armenia for Normalization
 * U.S. State Dept. $145M for TRIPP
 * The Kitchen Sink
 
