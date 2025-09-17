@@ -62,6 +62,11 @@ Three years after the Sep 13, 2022 attack that killed 224 Armenian servicemen an
 - Can Armenia afford reduced military service and a shrinking defense budget when all its neighbors are rearming?
 - Why are so many government projects underperforming, and where is the accountability?
 
+# Thoughts from the Participants
+- **Hovik**: Azerbaijan shoots a mentally ill Armenian, Karen Avanesyan, who was left behind in Stepanakert, alleging "anti-terrorist operations.
+- **Arthur**: The tyranny of Nikol Pashinyan’s rule - “I am the government”.
+
+
 # Referenced Articles & Sources  
 - [Türkiye Today – Turkish FM links normalization to Aliyev’s peace treaty](https://www.turkiyetoday.com/nation/turkish-foreign-ministry-reports-progress-with-armenia-including-border-arrangements-3206823)
 - [Armenpress – Reports on Kiliç-Rubinyan meetings](https://armenpress.am/en/article/1229574)
