@@ -39,7 +39,7 @@ Description = """
 * “Pashinyan or War”?
 
 
-Episode 473 | Recorded on September 18, 2025"""
+Episode 473 | Recorded on September 17, 2025"""
 
 +++
 
