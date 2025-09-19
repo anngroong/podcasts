@@ -1,6 +1,6 @@
 +++
 Date = 2021-09-20T00:29:42-07:00
-upcoming = true
+upcoming = false
 
 title = "Armen Ashotyan - Pashinyan Vote of No Confidence, Opposition Strategies | Ep 473, Sep 20, 2025"
 subtitle = "Conversations on Groong - Recorded on: September 17, 2025"
@@ -8,7 +8,7 @@ subtitle = "Conversations on Groong - Recorded on: September 17, 2025"
 podcast_file = "17871466-armen-ashotyan-pashinyan-vote-of-no-confidence-opposition-strategies-ep-473-sep-19-2025.mp3"
 podcast_bytes = "34239708"
 podcast_duration = "2850"
-youtube = ""
+youtube = "T7fyNOIjUhg"
 
 episode_image = "img/episode/473/thumbnail-473.webp"
 episode_banner = "img/episode/473/banner-473.webp"
