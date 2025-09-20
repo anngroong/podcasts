@@ -1,9 +1,9 @@
 +++
-Date = 2025-08-28T00:29:42-07:00
+Date = 2025-08-19T00:29:42-07:00
 upcoming = false
 
-title = "Armen Ashotyan - Reflections on Life as a Political Prisoner, Attacks on the Church and Sovereignty | Ep 465, Aug 28, 2025"
-subtitle = "Conversations on Groong - Recorded on: August 27, 2025"
+title = "Armen Ashotyan - Reflections on Life as a Political Prisoner, Attacks on the Church and Sovereignty | Ep 465, Sep 19, 2025"
+subtitle = "Conversations on Groong - Recorded on: September 17, 2025"
 
 podcast_file = "17752909-armen-ashotyan-reflections-on-life-as-a-political-prisoner-attacks-on-the-church-and-sovereignty-ep-465-aug-28-2025.mp3"
 podcast_bytes = "42900371"
@@ -40,7 +40,7 @@ Description = """
 * The Managed Capitulation Process
 
 
-Episode 465 | Recorded on August 27, 2025"""
+Episode 465 | Recorded on September 17, 2025"""
 
 +++
 
