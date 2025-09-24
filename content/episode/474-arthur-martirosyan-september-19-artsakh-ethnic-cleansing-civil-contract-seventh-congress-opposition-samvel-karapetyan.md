@@ -1,6 +1,6 @@
 +++
 Date = 2025-09-23T02:00:00+04:00
-upcoming = true
+upcoming = false
 
 title = "Arthur Martirosyan - Sep 19, Civil Contract, Opposition Inaction, Electric Network | Ep 474, Sep 21, 2025"
 subtitle = "Groong Week in Review - Sep. 21, 2025"
@@ -12,7 +12,7 @@ images = ["img/episode/474/banner-474.webp"]
 podcast_file     = "17896344-arthur-martirosyan-sep-19-civil-contract-opposition-inaction-electric-network-ep-474-sep-21-2025.mp3"
 podcast_duration = "2711"
 podcast_bytes    = "32571244"
-youtube = ""
+youtube = "HG_7nfcVwD0"
 
 hosts = ["asbed", "hovik"]
 guests = ["amartirosyan"]
@@ -49,7 +49,7 @@ We look back at September 19, 2023, when Azerbaijan attacked Artsakh after a nin
 - **September 19, 2023, two years on**  
   Human toll, blockade context, disarmament decision, Yerevan’s position, and lasting effects on Armenia.
 - **Civil Contract’s 7th Congress and the “Fourth Republic”**  
-  New constitution path after 2026, Alma-Ata framing, EU track, and institutionalizing peace.
+  New constitution path after 2026, Alma-Ata framing, EU track, and institutionalizing peace. Fourth Republic. Brand or blueprint?
 - **Opposition dynamics before 2026**  
   Impeachment versus election focus, fragmentation, and what might sway undecided voters.
 - **Electric Networks of Armenia (ENA)**  
