@@ -42,6 +42,42 @@ Episode 474 | Recorded: September 22, 2025"""
 +++
 
 
+# Summary
+We look back at September 19, 2023, when Azerbaijan attacked Artsakh after a nine-month blockade, killing 223 people and forcing Artsakh to disarm, then the exodus of 120,000 Armenians through the Lachin corridor. We discuss how that outcome was shaped by Yerevan’s stance, and what has followed. We examine Civil Contract’s 7th congress and the “Fourth Republic” plan tied to a new constitution after 2026, the EU framing, and the peace narrative. We also cover the opposition’s split strategy ahead of 2026 and the ENA situation, including nationalization versus foreign operator scenarios and what that signals to investors.
+
+# Main Topics Addressed
+- **September 19, 2023, two years on**  
+  Human toll, blockade context, disarmament decision, Yerevan’s position, and lasting effects on Armenia.
+- **Civil Contract’s 7th Congress and the “Fourth Republic”**  
+  New constitution path after 2026, Alma-Ata framing, EU track, and institutionalizing peace.
+- **Opposition dynamics before 2026**  
+  Impeachment versus election focus, fragmentation, and what might sway undecided voters.
+- **Electric Networks of Armenia (ENA)**  
+  Government “surgical measures,” nationalization vs top-tier foreign manager, and investor risk signals.
+
+# Key Questions Discussed
+- What choices in 2023 mattered most for Artsakh’s fate, and what lessons follow for Armenia’s security policy today?  
+- Is the “Fourth Republic” a governing program or a campaign brand, and what does the Alma-Ata logic change in practice?  
+- How does an EU-oriented narrative meet on-the-ground security needs, and what would make “peace” durable?  
+- With the opposition split, what strategy has the best path to move public opinion before 2026?  
+- For ENA, which scenario better protects consumers, creditworthiness, and long-term investment: nationalization or a credible foreign operator?
+
+# Personal Statements
+- **Arthur Martirosyan:** Armenia is already in a pre-election cycle. The “Fourth Republic” pitch looks like a bid to be reelected. It sells peace to the “mothers of Armenia,” downplays the need for a strong army, and leans on promises and paper. In a fast-changing world, that will not protect Armenia from more territorial losses.
+- **Hosts:** Timing matters. Azerbaijan forced Artsakh’s representatives to appear in Yevlakh on September 21, Armenia’s Independence Day. Two years later, on September 21, 2025, Armenia’s NSS chief Andranik Simonyan was in Baku for a three-day “security forum.” The parallel is hard to ignore.
+
+
+# Referenced Articles & Sources
+- Civil Contract 7th congress and platform:  
+  - https://armenpress.am/en/article/1230132  
+  - https://armenpress.am/en/article/1230142  
+  - https://armenpress.am/en/article/1230149  
+  - https://armenpress.am/en/article/1230153  
+  - https://armenpress.am/en/article/1230156
+- Context on NSS chief presence in Baku:  
+  - https://www.azatutyun.am/a/33535086.html
+
+
 
 # Wrap-up
 
