@@ -9,10 +9,10 @@ episode_image = "img/episode/474/thumbnail-474.webp"
 episode_banner = "img/episode/474/banner-474.webp"
 images = ["img/episode/474/banner-474.webp"]
 
-podcast_file     = "17473118-arthur-martirosyan-constitution-western-controlled-syunik-church-crackdown-ep-474-jul-6-2025.mp3"
-podcast_duration = "4789"
-podcast_bytes    = "57499844"
-youtube = "7x34DSFv6ik"
+podcast_file     = "17896344-arthur-martirosyan-sep-19-civil-contract-opposition-inaction-electric-network-ep-474-sep-21-2025.mp3"
+podcast_duration = "2711"
+podcast_bytes    = "32571244"
+youtube = ""
 
 hosts = ["asbed", "hovik"]
 guests = ["amartirosyan"]
