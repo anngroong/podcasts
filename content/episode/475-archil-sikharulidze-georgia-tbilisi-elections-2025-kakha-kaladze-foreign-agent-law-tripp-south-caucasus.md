@@ -1,6 +1,6 @@
 +++
 Date = 2025-09-30T01:00:00-08:00
-upcoming = true
+upcoming = false
 
 title = "Archil Sikharulidze - Georgian Municipal Elections 2025 | Ep 475, Sep 30, 2025"
 subtitle = "Conversations on Groong - Recordede on: 09/28/2025"
@@ -8,7 +8,7 @@ subtitle = "Conversations on Groong - Recordede on: 09/28/2025"
 podcast_file     = "17930241-archil-sikharulidze-georgian-municipal-elections-2025-ep-475-sep-30-2025.mp3"
 podcast_duration = "3093"
 podcast_bytes    = "37155318"
-youtube = ""
+youtube = "fDFagnKleJk"
 
 episode_image = "img/episode/475/thumbnail-475.webp"
 episode_banner = "img/episode/475/banner-475.webp"
