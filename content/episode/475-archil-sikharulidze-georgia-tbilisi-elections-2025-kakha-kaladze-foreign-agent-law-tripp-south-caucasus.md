@@ -5,9 +5,9 @@ upcoming = true
 title = "Archil Sikharulidze - Georgian Municipal Elections 2025 | Ep 475, Sep 30, 2025"
 subtitle = "Conversations on Groong - Recordede on: 09/28/2025"
 
-podcast_file     = ""
-podcast_duration = ""
-podcast_bytes    = ""
+podcast_file     = "17930241-archil-sikharulidze-georgian-municipal-elections-2025-ep-475-sep-30-2025.mp3"
+podcast_duration = "3093"
+podcast_bytes    = "37155318"
 youtube = ""
 
 episode_image = "img/episode/475/thumbnail-475.webp"
@@ -43,6 +43,31 @@ Episode 475 | Recorded: September 28, 2025"""
 
 +++
 
+
+# Summary
+We look at Georgia’s Oct 4 municipal elections, why the races feel lower stakes than parliamentary contests, and why Tbilisi remains the real battleground. Archil outlines Georgian Dream’s strength, the opposition’s fragmentation and boycotts, and how public fatigue shapes turnout. We review Kakha Kaladze’s record in the capital, the debate over sanctions and asset freezes, and what the “foreign agent” law has changed for NGOs. We close with Georgia’s view on TRIPP and a brief Georgia-Armenia comparison.
+
+# Main Topics Addressed
+- Municipal elections: stakes, turnout, likely outcomes
+- Opposition fragmentation and boycotts, limited alliances
+- Kaladze’s governance record and delivery in Tbilisi
+- Sanctions talk, asset freezes, and “lists” in politics
+- One year on: effects of the foreign agent law on NGOs
+- Georgia’s view on TRIPP and transit leverage
+- Georgia vs Armenia: political cycles and opposition strategy
+
+# Key Questions Discussed
+- How important are these municipal races, and what would force a runoff in Tbilisi?
+- Are opposition alliances meaningful, or does fragmentation decide outcomes?
+- How should voters assess Kaladze’s policies and execution in the capital?
+- What does a boycott achieve for parties like UNM and Coalition for Change?
+- What is the real impact of sanction talk and public “lists” inside Georgia?
+- What has the foreign agent law changed for foreign-funded NGOs in practice?
+- Would TRIPP weaken Georgia’s transit role, and can it proceed without Iran and Russia?
+- What lessons from Georgia’s politics apply to Armenia’s opposition playbook?
+
+# Referenced Articles & Sources
+- [GORBI poll on Georgian Dream support (65.9%)](https://info.imedi.ge/en/elections/6722/gorbi-poll-georgian-dream-leads-with-659-support)
 
 
 # Wrap-up
