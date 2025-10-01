@@ -29,11 +29,11 @@ Description = """
 * [GIVE to GROONG](https://podcasts.groong.org/donate)
 * [linktr.ee/Groong](https://linktr.ee/groong)
 
-#### Guest:
-* [Arthur G. Martirosyan](https://podcasts.groong.org/guest/amartirosyan)
-
 #### Topics:
-* TBD
+* Pashinyan’s rise and Western backing
+* Breakdown of talks and secret meetings
+* Failures and propaganda during the war
+* Aftermath, revisionism, and political responsibility
 
 Episode 476 | Recorded: September 28, 2025"""
 +++
