@@ -21,7 +21,7 @@ aliases = ["/476"]
 
 series = ["wir", "video"]
 categories = ["Armenia", "Politics"]
-tags = ["Armenian News", "Armenia", "Artsakh", "Nagorno Karabakh", "Hovik Manucharyan", "Asbed Bedrossian", Azerbaijan", "South Caucasus", "Turkey", "Russia", "September 27", "Ethnic Cleansing", "Genocide", "Nikol Pashinyan", "Ilham Aliyev", "Final Solution", "Right of Return", "Robert Kocharyan", "Serge Sargsyan"]
+tags = ["Armenian News", "Armenia", "Artsakh", "Nagorno Karabakh", "Hovik Manucharyan", "Asbed Bedrossian", "Azerbaijan", "South Caucasus", "Turkey", "Russia", "September 27", "Ethnic Cleansing", "Genocide", "Nikol Pashinyan", "Ilham Aliyev", "Final Solution", "Right of Return", "Robert Kocharyan", "Serge Sargsyan"]
 
 Description = """
 
