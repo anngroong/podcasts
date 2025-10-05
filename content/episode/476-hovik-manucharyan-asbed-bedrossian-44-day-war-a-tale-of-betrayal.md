@@ -1,6 +1,6 @@
 +++
 Date = 2025-10-01T02:00:00+04:00
-upcoming = true
+upcoming = false
 
 title = "44-Day War, A Tale of Betrayal | Ep 476, Sep 28, 2025"
 subtitle = "Groong Week in Review - Sep. 28, 2025"
@@ -12,7 +12,7 @@ images = ["img/episode/476/banner-476.webp"]
 podcast_file     = "17937714-44-day-war-a-tale-of-betrayal-ep-476-sep-28-2025.mp3"
 podcast_duration = "3682"
 podcast_bytes    = "44227209"
-youtube = ""
+youtube = "RbtiLQ9DRo0"
 
 hosts = ["hovik", "asbed"]
 guests = ""
