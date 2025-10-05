@@ -15,7 +15,6 @@ podcast_bytes    = "44227209"
 youtube = "RbtiLQ9DRo0"
 
 hosts = ["hovik", "asbed"]
-guests = ""
 episode = "476"
 aliases = ["/476"]
 
