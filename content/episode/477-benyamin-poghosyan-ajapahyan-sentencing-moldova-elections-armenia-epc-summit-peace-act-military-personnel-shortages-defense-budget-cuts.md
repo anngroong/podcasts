@@ -37,7 +37,7 @@ Description = """
 * Ajapahyan Sentenced: 2 Years in Jail for speaking out!
 * Moldova Election Lessons
 * EPC in Copenhagen, WSF in Warsaw
-* Peace Act politics
+* PEACE Act politics
 * Dismantling the Armenian Military
 
 Episode 477 | Recorded: October 6, 2025"""
