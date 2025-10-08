@@ -51,9 +51,9 @@ With __Dr. Benyamin Poghosyan__ We cover Archbishop Mikayel Ajapahyan’s two-ye
 - Ajapahyan sentencing and public apathy  
 - Moldova vote, access issues, diaspora turnout  
 - EU posture before Armenia’s 2026 elections  
-- EPC Copenhagen and Warsaw takeaways  
-- U.S. PEACE Act and speech risks  
-- Defense budget and 18-month conscription  
+- EPC Copenhagen and WSF Warsaw takeaways  
+- U.S. PEACE Act and freedom of expression risks
+- Reconciling defense budget cuts, shortened military service, and military personnel shortages
 - War report standoff in parliament
 
 # Key Questions Discussed
@@ -61,13 +61,13 @@ With __Dr. Benyamin Poghosyan__ We cover Archbishop Mikayel Ajapahyan’s two-ye
 - What lessons from Moldova matter for Armenia’s 2026 race?  
 - How do EU timing and optics shape Armenia’s field?  
 - Did EPC and Warsaw deliver anything concrete?  
-- How could the PEACE Act affect speech and politics in Armenia?  
+- How could the PEACE Act affect speech and politics?  
 - What trade-offs come with conscription cuts and budget shifts?  
 - Why is the 44-day war report being held back?
 
-## Thoughts from the Participants
-- Benyamin: Warns of heightened political turbulence as Armenia approaches the 2026 elections.
-- Hovik: Notes that Arman Tatoyan has officially entered Armenian politics and flags what this could mean for the opposition landscape.
+# Thoughts from the Participants
+- __Benyamin:__ Warns of heightened political turbulence as Armenia approaches the 2026 elections.
+- __Hovik:__ Notes that Arman Tatoyan has officially entered Armenian politics and flags what this could mean for the opposition landscape.
 
 
 ## Referenced Articles & Sources
