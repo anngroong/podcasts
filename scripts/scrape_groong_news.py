@@ -1,125 +1,131 @@
 #!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Scrape daily news items from https://groong.org/news/
+and save them as structured JSON optimized for summarization.
 
-import re
+Key improvements:
+- Extracts Groong (canonical) and external URLs separately.
+- Cleans URLs out of the content body.
+- Derives stable msg_id (e.g., 176700) from the Groong link.
+- Adds short excerpt, slug, and lightweight keywords.
+- Produces clean JSON for direct clustering/summarization.
+"""
+
 import json
+import re
 import requests
 from bs4 import BeautifulSoup
-from weasyprint import HTML
+from urllib.parse import urljoin
+from pathlib import Path
 
-# Configuration
-BASE_URL = "https://groong.org/news/index.html"
-DOMAIN = "https://groong.org"
-MAX_ARTICLES = 1000
+BASE_URL = "https://groong.org/news/"
+OUTFILE = Path("all_news.json")
 
-def get_article_links(index_url):
-    response = requests.get(index_url)
-    if response.status_code != 200:
-        print("Failed to retrieve the index page")
+# ----------------------------------------------------------------------
+# Helpers
+# ----------------------------------------------------------------------
+
+def clean_content_and_extract_urls(text):
+    """Remove URLs from text and separate them cleanly."""
+    if not text:
+        return "", [], []
+    all_urls = re.findall(r"https?://\S+", text)
+    groong_urls = [u for u in all_urls if "groong.org" in u]
+    external_urls = [u for u in all_urls if "groong.org" not in u]
+    clean_text = text
+    for u in all_urls:
+        clean_text = clean_text.replace(u, "").strip()
+    return clean_text.strip(), groong_urls, external_urls
+
+
+def extract_msg_id(url):
+    m = re.search(r"msg(\d+)\.html", url or "")
+    return m.group(1) if m else None
+
+
+STOPWORDS = set("""a an the of and or in to for from on with by at as is are was were will would should could have has had be being been that this those these it its they them their we you i our your his her him he she not""".split())
+
+def simple_keywords(title):
+    if not title:
         return []
+    tokens = re.findall(r"[A-Za-z\u0530-\u058F]+", title.lower())  # includes Armenian letters
+    return [t for t in tokens if t not in STOPWORDS and len(t) > 2][:12]
 
-    soup = BeautifulSoup(response.text, "html.parser")
+
+def slugify(text):
+    if not text:
+        return None
+    t = re.sub(r"[^0-9A-Za-z\u0530-\u058F]+", "-", text)
+    t = re.sub(r"-{2,}", "-", t).strip("-").lower()
+    return t[:120] if t else None
+
+
+# ----------------------------------------------------------------------
+# Main scraping logic
+# ----------------------------------------------------------------------
+
+def scrape_index():
+    """Scrape the Groong news index and collect links to daily msg pages."""
+    print(f"Fetching index: {BASE_URL}")
+    resp = requests.get(BASE_URL, timeout=10)
+    resp.raise_for_status()
+    soup = BeautifulSoup(resp.text, "html.parser")
+
     links = []
-    pattern = re.compile(r"msg[0-9]+\.html")
-
-    for a_tag in soup.find_all("a", href=True):
-        url = a_tag["href"]
-        if pattern.match(url):
-            full_url = f"{DOMAIN}/news/{url}"
-            links.append(full_url)
-
+    for a in soup.select("a[href^='msg']"):
+        href = a["href"]
+        full_url = urljoin(BASE_URL, href)
+        title = a.text.strip()
+        links.append((title, full_url))
+    print(f"Found {len(links)} entries on index page.")
     return links
 
-def scrape_article(url):
-    response = requests.get(url)
-    if response.status_code != 200:
-        print(f"Failed to retrieve article: {url}")
-        return {"title": "Untitled Article", "groong_link": url, "content": ""}
 
-    soup = BeautifulSoup(response.text, "html.parser")
-    title_tag = soup.find("title")
-    title = title_tag.get_text(strip=True) if title_tag else "Untitled Article"
+def scrape_item(title, url):
+    """Scrape individual msgNNNNNN.html page."""
+    try:
+        resp = requests.get(url, timeout=10)
+        resp.raise_for_status()
+    except Exception as e:
+        print(f"Failed to fetch {url}: {e}")
+        return None
 
-    content_div = soup.find("div", attrs={"dir": "ltr"})
-    if content_div:
-        content = content_div.get_text(separator="\n", strip=True)
-    else:
-        print(f"No content found for: {url}")
-        content = "(Content could not be extracted)"
+    soup = BeautifulSoup(resp.text, "html.parser")
+    paragraphs = soup.find_all("p")
+    content = "\n".join(p.get_text(separator=" ", strip=True) for p in paragraphs)
+    clean_body, groong_urls, external_urls = clean_content_and_extract_urls(content)
+    canonical_groong_url = groong_urls[0] if groong_urls else url
+    msg_id = extract_msg_id(canonical_groong_url)
 
-    return {
-        "title": title,
-        "groong_link": url,
-        "content": content
+    item = {
+        "id": msg_id or str(abs(hash(url)) % (10**8)),
+        "title": title.strip(),
+        "canonical_groong_url": canonical_groong_url,
+        "external_urls": external_urls,
+        "source_urls": [u for u in [canonical_groong_url] + external_urls if u],
+        "content_excerpt": clean_body[:1000],
+        "title_slug": slugify(title),
+        "keywords": simple_keywords(title),
     }
+    return item
 
-def save_as_text(articles, filename="all_news.txt"):
-    with open(filename, "w", encoding="utf-8") as file:
-        for article in articles:
-            file.write(f"\n\n=====\n\nGROONG LINK: {article['groong_link']}\n\nTitle: {article['title']}\n\n{article['content']}\n")
-    print(f"Text version saved as {filename}")
 
-def save_as_pdf(articles, filename="all_news.pdf"):
-    css_styles = """
-        @page { size: A4; margin: 1in; }
-        body {
-            font-family: Arial, sans-serif;
-            font-size: 12pt;
-            line-height: 1.6;
-            text-align: justify;
-            white-space: pre-wrap;
-        }
-        h1 { font-size: 16pt; font-weight: bold; }
-        .article {
-            margin-bottom: 30px;
-            border-bottom: 1px solid #ccc;
-            padding-bottom: 10px;
-        }
-        .title {
-            font-size: 14pt;
-            font-weight: bold;
-            color: #333;
-            margin-bottom: 5px;
-        }
-    """
-    html_content = f"<html><head><style>{css_styles}</style></head><body><h1>Collected News Articles</h1>"
+def main():
+    links = scrape_index()
+    data = []
+    for title, url in links:
+        print(f"Scraping {url}")
+        item = scrape_item(title, url)
+        if item:
+            data.append(item)
 
-    for article in articles:
-        html_content += f"""
-        <div class="article">
-            <div class="title">{article['title']}</div>
-            <div><b>GROONG LINK:</b> <a href="{article['groong_link']}">{article['groong_link']}</a></div>
-            <div>{article['content'].replace('\n', '<br>')}</div>
-        </div>
-        """
+    print(f"Scraped {len(data)} total items.")
+    with OUTFILE.open("w", encoding="utf-8") as f:
+        json.dump(data, f, ensure_ascii=False, indent=2)
+    print(f"Saved cleaned data to {OUTFILE.resolve()}")
 
-    html_content += "</body></html>"
-
-    HTML(string=html_content).write_pdf(filename)
-    print(f"PDF saved as {filename}")
-
-def save_as_json(articles, filename="all_news.json"):
-    with open(filename, "w", encoding="utf-8") as file:
-        json.dump(articles, file, indent=2, ensure_ascii=False)
-    print(f"JSON saved as {filename}")
-
-def scrape_all_news():
-    article_urls = get_article_links(BASE_URL)
-    scraped_articles = []
-
-    for index, url in enumerate(article_urls):
-        if index >= MAX_ARTICLES:
-            break
-        print(f"Scraping ({index+1}/{MAX_ARTICLES}): {url}")
-        article_data = scrape_article(url)
-        scraped_articles.append(article_data)
-
-    if scraped_articles:
-        save_as_text(scraped_articles)
-        save_as_pdf(scraped_articles)
-        save_as_json(scraped_articles)
-    else:
-        print("No news articles were found.")
 
 if __name__ == "__main__":
-    scrape_all_news()
+    main()
 
