@@ -1,6 +1,6 @@
 +++
 Date = 2025-10-14T11:00:00-07:00
-upcoming = true
+upcoming = false
 
 title = "Hrant Mikaelian - OTS & CIS summits, Trump-Aliyev Tensions, Armenia Opposition Gears up for 2026  | Ep 478, Oct 12, 2025"
 subtitle = "Groong Week in Review - October 12, 2025"
@@ -12,7 +12,7 @@ images = ["img/episode/478/banner-478.webp"]
 podcast_file     = "18019550-hrant-mikaelian-ots-cis-summits-trump-aliyev-tensions-armenia-opposition-for-2026-ep-478-oct-12-2025.mp3"
 podcast_duration = "2872"
 podcast_bytes    = "34507332"
-youtube = ""
+youtube = "XaWREPZvgSk"
 
 hosts = ["hovik", "asbed"]
 guests = ["hmikaelian"]
