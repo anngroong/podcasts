@@ -14,9 +14,9 @@ youtube = "BrQQZ_CrgAE"
 hosts = ["hovik", "asbed"]
 guests = ["pshakarian"]
 
-episode_image = "img/episode/default.jpg"
-episode_banner = "img/episode/default-banner.jpg"
-images = ["img/episode/default-social.jpg"]
+episode_image = "img/episode/28/thumbnail-28.webp"
+episode_banner = "img/episode/28/banner-28.webp"
+images = ["img/episode/28/banner-28.webp"]
 
 episode = "28"
 aliases = ["/28"]
