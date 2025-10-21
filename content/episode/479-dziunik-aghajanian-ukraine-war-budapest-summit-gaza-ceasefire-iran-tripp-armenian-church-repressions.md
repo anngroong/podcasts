@@ -21,7 +21,7 @@ aliases = ["/479"]
 
 series = ["wir", "video"]
 categories = ["Armenia", "Politics"]
-tags = ["Armenian News", "Artsakh", "Nagorno Karabakh", "Dziunik Aghajanian", "Armenia", "Azerbaijan", "Putin", "Trump", "Ukraine", "Tomahawk", "Missiles", "Turkey", "Russia", "TRIPP", "Trump Route", "Zangezur Corridor", Ukraine, Gaza, Israel, Sharm El Sheikh, Egypt, Qatar, Netanyahu, Iran, Proshyan, Bagrat, Ajapahyan, Catholicos, Armenian Church, Samvel Karapetyan, Political Prisoners, Vardan Ghukasyan, Gyumri, Kochubayev"]
+tags = ["Armenian News", "Artsakh", "Nagorno Karabakh", "Dziunik Aghajanian", "Armenia", "Azerbaijan", "Putin", "Trump", "Ukraine", "Tomahawk", "Missiles", "Turkey", "Russia", "TRIPP", "Trump Route", "Zangezur Corridor", "Ukraine", "Gaza", "Israel", "Sharm El Sheikh", "Egypt", "Qatar", "Netanyahu", "Iran", "Proshyan", "Bagrat", "Ajapahyan", "Catholicos", "Armenian Church", "Samvel Karapetyan", "Political Prisoners", "Vardan Ghukasyan", "Gyumri", "Kochubayev"]
 
 Description = """
 
