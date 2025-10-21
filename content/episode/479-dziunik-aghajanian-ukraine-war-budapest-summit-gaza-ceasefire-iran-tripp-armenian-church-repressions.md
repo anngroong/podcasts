@@ -1,6 +1,6 @@
 +++
 Date = 2025-10-21T02:00:00-07:00
-upcoming = true
+upcoming = false
 
 title = "Dziunik Aghajanian - Ukraine, Israel-Gaza, Armenian Government Repressions | Ep 479, Oct 19, 2025"
 subtitle = "Groong Week in Review - October 19, 2025"
@@ -12,7 +12,7 @@ images = ["img/episode/479/banner-479.webp"]
 podcast_file = "18052480-dziunik-aghajanian-ukraine-israel-gaza-armenian-government-repressions-ep-479-oct-19-2025.mp3"
 podcast_duration = "3547"
 podcast_bytes = "42606239"
-youtube = ""
+youtube = "P_osOjMGefA"
 
 hosts = ["asbed","hovik"]
 guests = ["dzaghajanian"]
@@ -60,6 +60,12 @@ We spoke with Ambassador Dziunik Aghajanian about three linked fronts that shape
 - How real is near-term escalation against Iran, and what indicators would precede it?
 - What goals drive the arrests of clergy, lawyers, and mayors in Armenia, and what does this say about rule of law?
 
+# Thoughts from the Participants
+
+- **Dziunik:** Sharm el-Sheikh was optics, not substance. The core struggle is over Armenian identity, not a narrow Armenia–Azerbaijan frame.
+- **Hovik:** The Armenian Church is integral to identity, and attempts to reshape it will not succeed.
+
+
 # Referenced Articles & Sources
 - Washington Post, on reported Russia–Ukraine terms and Trump–Putin context:  
   https://www.washingtonpost.com/politics/2025/10/18/putin-trump-donetsk-war-ukraine/
@@ -78,11 +84,6 @@ We spoke with Ambassador Dziunik Aghajanian about three linked fronts that shape
   https://www.icj.org/armenia-icj-condemns-detention-of-defence-lawyer-alexander-kochubaev-and-calls-for-his-immediate-release/
 - Pastinfo item referenced in discussion (see outline for specific link):  
   https://pastinfo.am/
-
-# Thoughts from the Participants
-
-- **Dziunik:** Sharm el-Sheikh was optics, not substance. The core struggle is over Armenian identity, not a narrow Armenia–Azerbaijan frame.
-- **Hovik:** The Armenian Church is integral to identity, and attempts to reshape it will not succeed.
 
 
 # Wrap-up
