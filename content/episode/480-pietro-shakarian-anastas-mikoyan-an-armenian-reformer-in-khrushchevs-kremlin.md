@@ -1,6 +1,6 @@
 +++
 Date = 2025-10-22T04:00:00-07:00
-upcoming = true
+upcoming = false
 
 title = "Pietro Shakarian - Anastas Mikoyan, An Armenian Reformer in Khrushchev's Kremlin| Ep 480, Oct 22, 2025"
 subtitle = "Conversations on Groong - Recorded on: October 18, 2025"
@@ -9,7 +9,7 @@ author = "Armenian News Network - Groong"
 podcast_file = "18055322-pietro-shakarian-anastas-mikoyan-an-armenian-reformer-in-khrushchev-s-kremlin-ep-480-oct-22-2025.mp3"
 podcast_duration = "4549"
 podcast_bytes = "54630720"
-youtube = ""
+youtube = "jUrHCAxfIns"
 
 hosts = ["hovik", "asbed"]
 guests = ["pshakarian"]
@@ -24,7 +24,7 @@ aliases = ["/480"]
 truncate = ""
 series = ["COG"]
 categories = ["Armenia", "history"]
-tags = ["Armenian News", "Armenia", "Anastas Mikoyan", "Soviet Union", "Pietro Shakarian", "Artsakh", "Nagorno Karabakh", "History", "Kremlin", "Soviet Union", "USSR", "Nikita Khrushchev"]
+tags = ["Armenian News", "Armenia", "Anastas Mikoyan", "Soviet Union", "Pietro Shakarian", "Artsakh", "Nagorno Karabakh", "Armenian Genocide", "History", "Kremlin", "Soviet Union", "USSR", "Nikita Khrushchev"]
 
 
 Description = """
