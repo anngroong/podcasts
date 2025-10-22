@@ -1,8 +1,8 @@
 +++
-date = 2025-10-21T11:12:01
+Date = 2025-10-22T04:00:00-07:00
 upcoming = true
 
-title = "Pietro Shakarian - Anastas Mikoyan, An Armenian Reformer in Khrushchev's Kremlin| Ep 480, Oct 21, 2025"
+title = "Pietro Shakarian - Anastas Mikoyan, An Armenian Reformer in Khrushchev's Kremlin| Ep 480, Oct 22, 2025"
 subtitle = "Conversations on Groong - Recorded on: October 18, 2025"
 author = "Armenian News Network - Groong"
 
