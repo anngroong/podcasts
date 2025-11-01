@@ -1,5 +1,5 @@
-+++
 Date = 2025-11-01T00:11:00-07:00
+upcoming = false
 
 title = "Trita Parsi - Prospect, Grounds and Consequences of a Second Israeli War on Iran  | Ep 482, Nov 1, 2025"
 subtitle = "Conversations on Groong - Recorded on: October 30, 2025"
@@ -65,7 +65,6 @@ A deep dive with Dr. Trita Parsi on whether Israel will strike Iran again, why J
 ### **Don't forget to support us:**
 * [Patreon - Support Groong](https://www.patreon.com/ann_groong)
 * [Buy Me a Coffee - Support Groong](https://www.buymeacoffee.com/groong)
-
 
 That’s our [show](https://podcasts.groong.org/)! We hope you found it useful. Please find us on [Social Media](https://linktr.ee/groong) and follow us everywhere you get your Armenian news.
 
