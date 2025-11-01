@@ -20,7 +20,7 @@ guests = ["akhachatryan"]
 episode = "481"
 aliases = ["/481"]
 
-series = ["cog"]
+series = ["wir"]
 categories = ["Armneia", "Politics"]
 tags = ["Armenian News", "Armenia", "Arthur Khachatryan", "Azerbaijan", "Euronest", "EU", "European Union", "Sadarak", "Yeraskh", "Syunik", "Nakhichevan", "Railway", "Armenian Church", "Catholicos", "Privacy Violations", "Hovhannavank", "Nikol Pashinyan", "Samvel Karapetyan", "Bagrat Galstanyan", "Georgia", "South Caucasus", "Turkey", "Russia", "Artsakh", "Nagorno Karabakh"]
 
@@ -79,7 +79,7 @@ We spoke with MP Arthur Khachatryan about three fronts shaping Armenia’s near 
 * [Buy Me a Coffee - Support Groong](https://www.buymeacoffee.com/groong)
 
 
-That’s our [show](https://podcasts.groong.org/)! We hope you found it useful. Please find us on [Social Media](https://linktr.ee/groong) and follow us everywhere you get your Armenian news.
+That's our [Week in Review](https://podcasts.groong.org/), we hope you found it helpful. We invite your feedback and your suggestions, you can [find us](https://linktr.ee/groong) on most social media and podcast platforms.
 
 Thanks to **Laura Osborn** for the music on our podcasts.
 
