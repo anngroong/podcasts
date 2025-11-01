@@ -21,7 +21,7 @@ episode = "482"
 aliases = ["/482"]
 
 series = ["cog"]
-categories = ["Armenia"]
+categories = ["Middle East", "Iran"]
 tags = ["Armenian News", "Trita Parsi", "Iran", "Israel", "Nuclear Program", "Nuclear Weapons", "Regime Change", "Quincy Institute", "Responsible Statecraft", "Palestine", "Gaza", "Gaza Genocide", "Greater Israel", "Syria", "Russia", "China", "USA", "EU", "Europe", "G7", "Iraq War", "Osirak", "Armenia", "TRIPP", "South Caucasus", "Azerbaijan", "Donald Trump", "Benjamin Netanyahu", "Iran Israel War", "Israel Iran Conflict", "Natanz", "Isfahan", "Fordow", "US-Iran", "Nuclear Talks", "NPT", "Non-Proliferation", "Abraham Accords", "Ayatollah Khamenei", "Xi Jinping", "Vladimir Putin", "Middle East Conflict", "MAGA", "Charlie Kirk", "Doha", "Qatar"]
 
 Description = """
