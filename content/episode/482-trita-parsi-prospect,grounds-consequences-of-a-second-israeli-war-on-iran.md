@@ -1,6 +1,5 @@
 +++
-Date = 2025-11-01T00:09:30-07:00
-upcoming = true
+Date = 2025-11-01T00:11:00-07:00
 
 title = "Trita Parsi - Prospect, Grounds and Consequences of a Second Israeli War on Iran  | Ep 482, Nov 1, 2025"
 subtitle = "Conversations on Groong - Recorded on: October 30, 2025"
