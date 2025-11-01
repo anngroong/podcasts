@@ -3,7 +3,7 @@ Date = 2025-10-31T01:00:00-08:00
 upcoming = false
 
 title = "Arthur Khachatryan - Euronest, Aliyev Transit Move, Gyumri Mayor Arrest, Pashinyan vs. Church | Ep 481, Oct 26, 2025"
-subtitle = "Conversations on Groong - 10/26/2025"
+subtitle = "Groong Week in Review - 10/26/2025"
 
 podcast_file     = "18114471-arthur-khachatryan-euronest-aliyev-transit-move-gyumri-mayor-arrest-pashinyan-vs-church-ep-481-oct-26-2025.mp3"
 podcast_duration = "2958"
@@ -21,7 +21,7 @@ episode = "481"
 aliases = ["/481"]
 
 series = ["wir"]
-categories = ["Armneia", "Politics"]
+categories = ["Armenia", "Politics"]
 tags = ["Armenian News", "Armenia", "Arthur Khachatryan", "Azerbaijan", "Euronest", "EU", "European Union", "Sadarak", "Yeraskh", "Syunik", "Nakhichevan", "Railway", "Armenian Church", "Catholicos", "Privacy Violations", "Hovhannavank", "Nikol Pashinyan", "Samvel Karapetyan", "Bagrat Galstanyan", "Georgia", "South Caucasus", "Turkey", "Russia", "Artsakh", "Nagorno Karabakh"]
 
 Description = """
