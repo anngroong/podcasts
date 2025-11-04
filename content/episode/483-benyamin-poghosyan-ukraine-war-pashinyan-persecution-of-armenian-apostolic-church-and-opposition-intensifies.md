@@ -2,7 +2,7 @@
 Date = 2025-11-04T02:20:32-08:00
 upcoming = true
 
-title = "Benyamin  Poghosyan - Ukraine War update; Pashinyan’s Persecution of Church and Opposition intensifies | Ep 483, Nov 2, 2025"
+title = "Benyamin  Poghosyan - Ukraine War update, Pashinyan’s Persecution of Church and Opposition intensifies | Ep 483, Nov 2, 2025"
 subtitle = "Groong Week in Review - November 2, 2025"
 
 
@@ -22,7 +22,6 @@ aliases = ["/483"]
 
 series = ["video", "wir"]
 categories = ["Armenia", "Politics"]
-tags = ["Armenian News", "Armenia", "Benyamin Poghosyan", "TRIPP", "Trump Route", "Ukraine", "Russia", "Vladimir Putin", "Donald Trump", "Alaska Summit", "Azerbaijan", "Georgia", "South Caucasus", "Turkey", "Zangezur Corridor", "Border Commission", "Peace", " Negotiations", "Artsakh", "Nagorno Karabakh", "USA", "Venezuela", "MAGA", "American First", "Nikol Pashinyan", "Alen Simonyan", "Armenian Identity", "Artsakh Blockade", "Eco-activists", "Azerbaijani Spies"]
 
 Description = """
 
