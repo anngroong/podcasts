@@ -22,6 +22,7 @@ aliases = ["/483"]
 
 series = ["video", "wir"]
 categories = ["Armenia", "Politics"]
+tags = ["Armenian News", "Armenia", "Benyamin Poghosyan", "TRIPP", "Trump Route", "Ukraine", "Russia", "Vladimir Putin", "Donald Trump", "Alaska Summit", "Azerbaijan", "Georgia", "South Caucasus", "Turkey", "Artsakh", "Nagorno Karabakh", "USA", "Venezuela", "MAGA", "American First", "Nikol Pashinyan", "Alen Simonyan", "Armenian Identity", "Artsakh Blockade", "Eco-activists", "Azerbaijani Spies", "Zangezur Corridor", "Border Commission", "Peace", "Negotiations"]
 
 Description = """
 
