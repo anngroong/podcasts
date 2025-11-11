@@ -21,7 +21,7 @@ aliases = ["/484"]
 
 series = ["wir", "video"]
 categories = ["Armenia", "Politics"]
-tags = ["Armenian News", "Artsakh", "Nagorno Karabakh", "Arthur Martirosyan", "44 Day War", "Armenia", "Azerbaijan", "Turkey", "Russia", "Serge Sargsyan", "Robert Kocharyan", "Levon Ter Petrosyan", "Nikol Pashinyan", "Ilham Aliyev", "Imnemnimi Podcast"]
+tags = ["Armenian News", "Artsakh", "Nagorno Karabakh", "Arthur Martirosyan", "44 Day War", "Armenia", "Azerbaijan", "Turkey", "Russia", "Serge Sargsyan", "Robert Kocharyan", "Levon Ter Petrosyan", "Nikol Pashinyan", "Ilham Aliyev", "Imnemnimi Podcast", "Narek Karapetyan", "Robert Amsterdam", "Tucker Carlson"]
 
 Description = """
 
