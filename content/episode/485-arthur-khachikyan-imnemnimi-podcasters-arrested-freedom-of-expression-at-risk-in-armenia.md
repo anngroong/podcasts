@@ -21,9 +21,8 @@ episode = "485"
 aliases = ["/485"]
 explicit = "no"
 
-series = ["wir"]
+series = ["cog"]
 categories = ["Armenia", "Politics"]
-tags = ["Armenian News", "Arrmenia", "Arthur Khachikyan", "Imnemnimi", "Freedom of Speech", "Double Standards", "Vazgen Saghatelyan", "Narek Samsonyan", "Western Hypocrisy", "Armenian Church", "Nikol Pashinyan", "Alen Simonyan", "Western Hypocrisy", "Western Silence", "Garen Mkrtichyan"]
 
 Description = """
 
