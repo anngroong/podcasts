@@ -1,15 +1,15 @@
 +++
 
 Date = 2025-11-14T00:15:00-07:00
-upcoming = true
+upcoming = false
 
 title = "Arthur Khachikyan - Imnemnimi Podcasters Arrested, Freedom of Expression at Risk in Armenia | Ep 485, Nov 14, 2025"
 subtitle = "Armenian News Network Groong - Recorded on: November 14, 2025"
 
-podcast_file = ""
-podcast_bytes = ""
-podcast_duration = ""
-youtube = ""
+podcast_file = "18194124-arthur-khachikyan-imnemnimi-podcasters-arrested-freedom-of-expression-at-risk-in-armenia-ep-485-nov-14-2025.mp3"
+podcast_bytes = "17607654"
+podcast_duration = "1464"
+youtube = "8h1jjwMH3FE"
 
 episode_image = "img/episode/485/thumbnail-485.webp"
 episode_banner = "img/episode/485/banner-485.webp"
@@ -23,6 +23,7 @@ explicit = "no"
 
 series = ["cog"]
 categories = ["Armenia", "Politics"]
+tags = ["Armenian News", "Armenia", "Arthur Khachikyan", "Imnemnimi", "Freedom of Speech", "Double Standards", "Vazgen Saghatelyan", "Narek Samsonyan", "Armenian Church", "Nikol Pashinyan", "Alen Simonyan", "Garen Mkrtichyan", "Western Silence", "Western Hypocrisy"]
 
 Description = """
 
