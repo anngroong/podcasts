@@ -23,7 +23,7 @@ aliases = ["/487"]
 series = ["cog"]
 categories = ["Armenia", "artsakh", "political prisoners"]
 explicit = "no" # values are "yes" or "no"
-tags = ["Armenian News", "Armenia", Donald Trump", "Political Prisoners", "Srbazan Movement", "Hayk Mamijanyan", "Nikol Pashinyan"]
+tags = ["Armenian News", "Armenia", "Donald Trump", "Political Prisoners", "Srbazan Movement", "Hayk Mamijanyan", "Nikol Pashinyan"]
 
 Description = """
 
