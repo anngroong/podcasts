@@ -9,9 +9,11 @@ episode_image = "img/episode/486/thumbnail-486.webp"
 episode_banner = "img/episode/486/banner-486.webp"
 images = ["img/episode/486/banner-486.webp"]
 
-podcast_file     = "17406778-sergei-melkonian-israel-iran-crackdown-on-opposition-pashinyan-in-istanbul-ep-486-june-22-2025.mp3"
-podcast_duration = "4355"
-podcast_bytes    = "52302813"
+podcast_file     = ""
+podcast_duration = ""
+podcast_bytes    = ""
+youtube = ""
+
 
 hosts = ["asbed", "hovik"]
 guests = ["smelkonian"]
