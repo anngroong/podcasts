@@ -1,6 +1,6 @@
 +++
 Date = 2025-11-19T02:00:00+04:00
-upcoming = true
+upcoming = false
 
 title = "Hayk Mamijanyan - Freedom of Expression at Risk in Armenia, Vagharshapat, RPA Strategy | Ep 487, Nov 19, 2025"
 subtitle = "Conversations on Groong - Recorded on: Nov 18, 2025"
@@ -8,7 +8,7 @@ subtitle = "Conversations on Groong - Recorded on: Nov 18, 2025"
 podcast_file = "18217096-hayk-mamijanyan-freedom-of-speech-at-risk-in-armenia-vagharshapat-rpa-strategy-ep-487-nov-19-2025.mp3"
 podcast_bytes = "34421819"
 podcast_duration = "2865"
-youtube = ""
+youtube = "CV3Cf8f2tv0"
 
 episode_image = "img/episode/487/thumbnail-487.webp"
 episode_banner = "img/episode/487/banner-487.webp"
