@@ -2,7 +2,7 @@
 Date = 2025-11-19T02:00:00+04:00
 upcoming = true
 
-title = "Hayk Mamijanyan - Freedom of Expression at Risk in Armenia, Vagharshapat Municipal Outcome | Ep 487, Nov 19, 2025"
+title = "Hayk Mamijanyan - Freedom of Expression at Risk in Armenia, Vagharshapat, RPA Strategy | Ep 487, Nov 19, 2025"
 subtitle = "Conversations on Groong - Recorded on: Nov 18, 2025"
 
 podcast_file = ""
@@ -23,7 +23,7 @@ aliases = ["/487"]
 series = ["cog"]
 categories = ["Armenia", "artsakh", "political prisoners"]
 explicit = "no" # values are "yes" or "no"
-tags = ["Armenian News", "Armenia", "Donald Trump", "Political Prisoners", "Srbazan Movement", "Hayk Mamijanyan", "Nikol Pashinyan"]
+tags = ["Armenian News", "Hayk Mamijanyan", "Armenia", "Artsakh", "Nagorno Karabakh", "Imnemnimi", "Vazgen Saghatelyan", "Narek Samsonyan", "Freedom of Speech", "Freedom of Expression", "Attack in Media", "Satik Seyranyan", "Union of Journalists of Armenia", "168.am", "Anna Mkrtchyan", "Taguhi Tovmasyan", "Amnesty International", "CPJ", "Journalists", "Free Media", "Vagharshapat", "Civil Contract", "RPA", "Republican Party of Armenia", "Hayastan Dashinq", "Victory Alliance", "Haghtanak Dashinq", "Alen Simonyan", "Nikol Pashinyan", "Serge Sargsyan", "Armenian Church", "Hovannavank", "Stepan Asatryan", "Edgar Ghazaryan", "David Hambartzumyan", "Arkishti Mekhakyan", "Catholicos", "Etchmiadzin"]
 
 Description = """
 
@@ -35,8 +35,10 @@ Description = """
 * [Hayk Mamijanyan](/guest/hmamijanyan)
 
 #### Topics:
-* Imnemnimi Podcaster Arrests
+* Freedom of Expression at Risk in Armenia
 * Vagharshapat Municipal Outcomes
+* Republican Party Election Strategy
+* Stand in Support of Independent Media and Journalism in Armenia
 
 Episode 487 | Recorded: November 18, 2025
 """
