@@ -17,4 +17,4 @@ Twitch = ""
 #guest_group = "wir,cog"
 +++
 
-Garen Jinbachian is the Community Relations Officer for the West Coast Office of the Armenian National Committee of America.
+Garen Jinbachian is the Community Relations Officer for the West Coast Office of the Armenian National Committee of America. His efforts are focused on advancing the Armenian Cause (Hay Tahd - Հայ Դատ) by fostering strong community ties and gathering feedback to shape advocacy strategies.
