@@ -1,6 +1,6 @@
 +++
 Date = 2025-11-26T10:08:39+04:00
-#upcoming = true # set to true if you want this to be listed as upcoming, etc, etc
+upcoming = false
 
 title = "Hrant Mikaelian - Ukraine Talks, Armenia’s Crackdowns, and Rising Tensions | Ep 488, Nov 23, 2025"
 subtitle = "Groong Week in Review - November 23, 2025"
@@ -9,9 +9,9 @@ episode_image = "img/episode/488/thumbnail-488.webp"
 episode_banner = "img/episode/488/banner-488.webp"
 images = ["img/episode/488/banner-488.webp"]
 
-podcast_file     = "18253855-hrant-mikaelian-ukraine-talks-armenia-s-crackdowns-and-rising-tensions-ep-488-nov-23-2025.mp3"
+podcast_file = "18253855-hrant-mikaelian-ukraine-talks-armenia-s-crackdowns-and-rising-tensions-ep-488-nov-23-2025.mp3"
 podcast_duration = "3760"
-podcast_bytes    = "45165134"
+podcast_bytes = "45165134"
 youtube = "YA7EDq_Ve3I"
 
 hosts = ["asbed", "hovik"]
@@ -43,11 +43,12 @@ Description = """
 Episode 488 | Recorded: November 24, 2025"""
 +++
 
+# **Summary**
 This episode covers shifting Ukraine negotiations, Kazakhstan’s diplomatic moves, Armenia’s tightening political climate, the government’s pressure on the Church, the debate over impeachment vs elections, the seizure of Armenia’s power grid, and the continued arrests of political opponents and media figures. We speak with Hrant Mikaelian about what these developments reveal about Armenia’s political direction and its place in a volatile region.
 
 ---
 
-## **Main Topics Addressed**
+# **Main Topics Addressed**
 
 * Trump’s shrinking Ukraine peace plan and the Geneva reduction to 19 points
 * Kazakhstan’s diplomatic balancing act and Pashinyan’s visit
@@ -60,7 +61,7 @@ This episode covers shifting Ukraine negotiations, Kazakhstan’s diplomatic mov
 
 ---
 
-## **Key Questions Discussed**
+# **Key Questions Discussed**
 
 * Is the new proposal a Minsk 3?
 * Which elements make the peace plan unacceptable to Russia or Ukraine?
@@ -75,7 +76,7 @@ This episode covers shifting Ukraine negotiations, Kazakhstan’s diplomatic mov
 
 ---
 
-## **Referenced Articles and Sources**
+# **Referenced Articles and Sources**
 
 ### **Ukraine Peace Plan and Geneva Talks**
 
@@ -104,17 +105,6 @@ This episode covers shifting Ukraine negotiations, Kazakhstan’s diplomatic mov
 ### **Political Prisoners**
 
 * [Lydia Mantashyan Pre-Trial Detention Extended](https://www.azatutyun.am/a/33598388.html)
-
-
----
-
-If you want, I can now generate:
-
-* 3–5 promotional tweets
-* A YouTube description
-* A short paragraph for podcast apps
-* SEO tags optimized from these show notes
-
 
 
 # Wrap-up
