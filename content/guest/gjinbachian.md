@@ -17,4 +17,7 @@ Twitch = ""
 #guest_group = "wir,cog"
 +++
 
-Garen Jinbachian is the Community Relations Officer for the West Coast Office of the Armenian National Committee of America. His efforts are focused on advancing the Armenian Cause (Hay Tahd - Հայ Դատ) by fostering strong community ties and gathering feedback to shape advocacy strategies.
+__Garen Jinbachian__ serves as the Community Coordinator for the Armenian National Committee of America - Western Region, where he leads grassroots engagement, community outreach, and youth education initiatives across the Western United States. In this role, he works closely with local chapters, community laeders, and elected officials to strengthen advocacy networks and advance policy priorities related to Artsakh, Armenia, and the Armenian-American community.
+
+Garen oversees regional programs – including the ANCA-WR Summer Internship, advocacy trainings, school outreach, and public education efforts – while supporting strategic planning and organizational development. His work focuses on empowering community members, amplifying Armenian voices in civic spaces, and cultivating the next generation of activists and leaders committed to Hye Tahd (Հայ Դատ).
+
