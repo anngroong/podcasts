@@ -33,8 +33,11 @@ Description = """
 * [Capt. Matthew Hoh](/guest/mhoh)
 
 #### Topics:
-* U.S. Imperialism
-* The Role of the Think Tank Industry
+* Venezuela
+* Ukraine War
+* Gaza
+* TRIPP in Armenia
+
 
 Episode 491 | Recorded: November 29, 2024"""
 +++
