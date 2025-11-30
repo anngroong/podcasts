@@ -117,6 +117,11 @@ This episode of *Conversations on Groong* examines Armenia’s national “praye
 
 # Wrap-up
 
+### **Don't forget to support us:**
+* [Patreon - Support Groong](https://www.patreon.com/ann_groong)
+* [Buy Me a Coffee - Support Groong](https://www.buymeacoffee.com/groong)
+
 That’s our [show](https://podcasts.groong.org/)! We hope you found it useful. Please find us on [Social Media](https://linktr.ee/groong) and follow us everywhere you get your Armenian news.
 
 Thanks to **Laura Osborn** for the music on our podcasts.
+
