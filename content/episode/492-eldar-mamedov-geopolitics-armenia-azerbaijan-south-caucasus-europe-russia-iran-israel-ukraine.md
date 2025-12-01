@@ -33,9 +33,10 @@ Description = """
 * [Mr. Eldar Mamedov](/guest/emamedov)
 
 #### Topics:
-* Potential for New Iran War
-* Azerbaijan’s Middle East Play
-* Europe’s Confused Geopolitics
+* US and Venezuela
+* Potential for New War on Iran
+* Is Azerbaijan a “Middle Power”?
+* Europe’s Confused Geopolitical Identity
 * Armenia’s Confused Geopolitics
 
 Episode 492 | Recorded: November 29, 2025"""
