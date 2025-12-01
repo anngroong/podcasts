@@ -18,7 +18,7 @@ Twitch = ""
 #guest_group = ""
 +++
 
-Eldar Mamedov is a non-resident fellow at the Quincy Institute and a member of the Pugwash Council on Science & World Affairs, a Nobel Peace Prize–winning Track II diplomacy organization committed to pursuing a world free of nuclear weapons and other weapons of mass destruction.
+Eldar Mamedov is a non-resident fellow at the [Quincy Institute](https://quincyinst.org/author/eldar-mamedov/) and a member of the [Pugwash Council on Science & World Affairs](https://pugwash.org/pugwash-council/mamedov/), a Nobel Peace Prize–winning Track II diplomacy organization committed to pursuing a world free of nuclear weapons and other weapons of mass destruction.
 
 Eldar has more than 30 years of professional foreign policy experience. As a Latvian diplomat from 1994–2003, he served in his country’s embassies in Washington D.C. and Madrid, Spain, where he focused on Latvia’s integration to NATO and the E.U.
 
