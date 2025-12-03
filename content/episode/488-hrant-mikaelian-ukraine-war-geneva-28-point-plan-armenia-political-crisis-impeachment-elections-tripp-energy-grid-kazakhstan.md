@@ -30,7 +30,7 @@ Description = """
 * [linktr.ee/Groong](https://linktr.ee/groong)
 
 #### Guest:
-* [Guest Name](https://podcasts.groong.org/guest/hmikaelian)
+* [Hrant Mikaelian](https://podcasts.groong.org/guest/hmikaelian)
 
 #### Topics:
 * High-Stakes Ukraine Talks
