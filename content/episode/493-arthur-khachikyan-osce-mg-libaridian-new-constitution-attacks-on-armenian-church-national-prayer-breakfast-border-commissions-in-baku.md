@@ -1,6 +1,6 @@
 +++
 Date = 2025-12-03T10:08:39+04:00
-upcoming = true
+upcoming = false
 
 title = "Arthur Khachikyan - OSCE MG Dissolved, Libaridian on Submission, New Constitution, Armenian Church, Prayer Breakfast, Border Commish | Ep 493, Nov 30, 2025"
 subtitle = "Groong Week in Review - November 30, 2025"
@@ -12,7 +12,7 @@ images = ["img/episode/493/banner-493.webp"]
 podcast_file = "18296269-arthur-khachikyan-osce-mg-dissolved-libaridian-on-submission-new-constitution-armenian-church-prayer-breakfast-border-commish-ep-493-nov-30-2025.mp3"
 podcast_duration = "3660"
 podcast_bytes = "43955364"
-youtube = ""
+youtube = "Ex53tGTgkIg"
 
 hosts = ["asbed", "hovik"]
 guests = ["akhachikyan"]
