@@ -21,7 +21,7 @@ aliases = ["/493"]
 
 series = ["wir", "video"]
 categories = ["Armenia", "Politics"]
-#tags = []
+tags = ["Armenian News", "Armenia", "Nagorno Karabakh", "Arthur Khachikyan", "Artsakh", "Azerbaijan", "Ethnic Cleansing", "TurkeyA", "Armenian Genocide", "Hakan Fidan", "Ilham Aliyev", "Nikol Pashiyan", "Kurdish State", "Turgut Ozal", "Argishti Karamyan", "Stepan Sargsyan", "Education is Fashionable", "Anna Hakobyan", "My Step Foundation", "Jacob Pursley", "Individual Believers Club"]
 
 Description = """
 
