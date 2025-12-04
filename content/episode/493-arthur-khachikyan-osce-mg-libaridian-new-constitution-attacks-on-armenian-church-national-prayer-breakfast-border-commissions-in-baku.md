@@ -9,9 +9,9 @@ episode_image = "img/episode/493/thumbnail-493.webp"
 episode_banner = "img/episode/493/banner-493.webp"
 images = ["img/episode/493/banner-493.webp"]
 
-podcast_file = ""
-podcast_duration = ""
-podcast_bytes = ""
+podcast_file = "18296269-arthur-khachikyan-osce-mg-dissolved-libaridian-on-submission-new-constitution-armenian-church-prayer-breakfast-border-commish-ep-493-nov-30-2025.mp3"
+podcast_duration = "3660"
+podcast_bytes = "43955364"
 youtube = ""
 
 hosts = ["asbed", "hovik"]
@@ -43,8 +43,52 @@ Description = """
 Episode 493 | Recorded: December 2, 2025"""
 +++
 
+# Summary
 
-## A response to @jacobpursley1800 
+In this Week in Review, we talk with __Dr. Arthur Khachikyan__ about the dissolution of the OSCE Minsk Group, Ankara and Baku’s new preconditions, the rush toward a new Armenian constitution, the deepening campaign against the Armenian Apostolic Church, and the opaque border talks in Baku. We also respond to Jacob Pursley’s comments on our earlier coverage of Armenia’s “prayer breakfast” and examine how this ties into Pashinyan’s image-building efforts abroad.
+
+---
+
+# Main Topics Addressed
+- OSCE Minsk Group dissolved on December 1  
+- Libaridian’s call for Armenia to accept defeat and engage neighbors directly  
+- Turkey’s demands, including constitutional changes and the so-called Zangezur Corridor  
+- Pashinyan’s plan to produce a new constitution by March 2026  
+- Crisis in the Armenian Church, leaked videos, and the revolt of 13 archbishops  
+- Statements from prison by Archbishops Ajapahyan and Galstanyan  
+- Border Commissions meeting in Baku with no transparency  
+- Responding to Jacob Pursley’s comments on Episode 490
+
+---
+
+# Key Questions Discussed
+- What does the dissolution of the Minsk Group mean for Artsakh’s cause internationally?  
+- How should Armenians approach Libaridian’s insinuation that Russia is a “distant power,” even as he promotes reliance on Western states that are farther away, but who will shape policy toward Armenia through Turkey?
+- Why is the government rushing to draft a new constitution by March 2026?  
+- What lies behind the sudden internal revolt within the Armenian Church?  
+- Who benefits from the leaked Archbishop Arshak videos?  
+- Why are border negotiations happening without maps and without public oversight?  
+- How does the government’s outreach to Western Christian groups fit with its crackdown on the Church?
+
+---
+
+# Referenced Articles & Sources
+- **Hakan Fidan interview on Armenia–Turkey normalization**  
+  https://www.azatutyun.am/a/33595842.html
+
+- **Education is Fashionable – My Step / Anna Hakobyan initiative**  
+  https://mycharity.am/educationisfashionable
+
+- **Previous Groong Episode 493 (linked in outline header)**  
+  https://podcasts.groong.org/493
+
+- **Previous Groong Episode 490 with Joel Veldkamp (Prayer Breakfast context)**  
+  https://podcasts.groong.org/490
+
+
+
+
+# A response to @jacobpursley1800 
 
 We address a comment from a user “@jacobpursley1800”, responding to our [Episode 490](https://youtu.be/BGnt2feIXMs) with Joel Veldkamp, of the Christian Solidarity International, about Armenia’s national prayer breakfast. 
 
@@ -78,6 +122,7 @@ Stepan Sargsyan is listed as a ***“member of the central committee of the ‘E
 4. According to [media](https://factor.am/902451.html), Education is Fashionable is also funded by the state budget and the amount of funding is concealed as a ‘state secret’
 
 ![State Secret](/img/episode/493/images/secret-budget.webp "State Secret")
+
 
 # Wrap-up
 
