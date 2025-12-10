@@ -10,10 +10,10 @@ episode_image = "img/episode/494/thumbnail-494.webp"
 episode_banner = "img/episode/494/banner-494.webp"
 images = ["img/episode/494/banner-494.webp"]
 
-podcast_file     = ""
-podcast_duration = ""
-podcast_bytes    = ""
-youtube = ""
+podcast_file     = "18327868-benyamin-poghosyan-pashinyan-war-on-armenian-church-eu-armenia-artsakh-arar-poll-ep-494-dec-7-2025.mp3"
+podcast_duration = "4054"
+podcast_bytes    = "48689847"
+youtube = "hPXwAJrYcdQ"
 
 hosts = ["asbed", "hovik"]
 guests = ["bpoghosyan"]
@@ -46,9 +46,10 @@ Episode 494 | Recorded: December 8, 2025
 
 +++
 
+# Summary
 This Week in Review with Benyamin Poghosyan looks at Pashinyan’s escalating confrontation with the Armenian Apostolic Church, including the arrest of Archbishop Arshak Khachatryan on a narcotics “distribution” charge rooted in a 2018 incident, and the security services’ seizure of Gyumri’s Seven Wounds Church to stage a December 7 Divine Liturgy without mentioning the Catholicos. We discuss what these moves reveal about the regime’s goals toward Etchmiadzin, while polls show strong public support for both the Church and the Armed Forces. We also examine the new Armenia-EU “Strategic Agenda,” calls for Yerevan to join anti-Russia sanctions, EU funding against “Russian hybrid war,” Pashinyan’s selective publication of OSCE Minsk Group documents, and fresh polling on where Armenians see their main strategic partners and the Russian base in Gyumri.
 
-## Main Topics Addressed
+# Main Topics Addressed
 
 * Arrest of Archbishop Arshak Khachatryan on narcotics “distribution” charges tied to a 2018 “New Armenia, New Catholicos” break-in at Echmiadzin
 * Role of the NSS, Investigative Committee, and loyal judges in turning the case into a political tool against the Church
@@ -59,7 +60,7 @@ This Week in Review with Benyamin Poghosyan looks at Pashinyan’s escalating co
 * Arar Foundation polling on trust in the government, Church, Armed Forces, police, and parliament, including demographic patterns
 * Poll findings on preferred strategic partners (Russia, US, Iran, EU, Turkey) and attitudes toward the Russian base in Gyumri
 
-## Key Questions Discussed
+# Key Questions Discussed
 
 * How does a years-old allegation linked to a 2018 protest at Echmiadzin get turned into a charge of narcotics distribution against Archbishop Arshak?
 * If case assignment is meant to be random, why do so many high-profile and political cases land before the same judge?
@@ -70,11 +71,11 @@ This Week in Review with Benyamin Poghosyan looks at Pashinyan’s escalating co
 * What is the political purpose behind publishing a narrow, selective set of OSCE MG documents while omitting key items like Key West?
 * How should we interpret the rise in pro-Russia sentiment in the polls and the strong support for the Russian base in Gyumri?
 
-## Select Slides From Arar Poll
+# Select Slides From Arar Poll
 
 The [results](https://ararfoundation.am/news/%d5%b0%d5%a1%d5%b6%d6%80%d5%a1%d5%b5%d5%ab%d5%b6-%d5%af%d5%a1%d6%80%d5%ae%d5%ab%d6%84%d5%ab-%d5%b8%d6%82%d5%bd%d5%b8%d6%82%d5%b4%d5%b6%d5%a1%d5%bd%d5%ab%d6%80%d5%b8%d6%82%d5%a9%d5%b5%d5%a1%d5%b6/) of a poll by the [Arar Foundation](ararfoundation.am) were released last month.
 
-### Methodology
+## Methodology
 
 * **Mode**: Computer Assisted Telephone Interviewing (CATI) using tablets.
 * **Sampling**: "Randomly generated" Armenian mobile phone numbers, with proportional coverage of the mobile network.
@@ -83,7 +84,7 @@ The [results](https://ararfoundation.am/news/%d5%b0%d5%a1%d5%b6%d6%80%d5%a1%d5%b
 * **Claimed margin of error**: ±2.92% at 95% confidence.
 * **Honesty level**: "Անկեղծության մակարդակը - 99.6% (ըստ հարցազրուցավարների գնահատականի)" - interviewer evaluated.
 
-### Satisfaction Levels With Institutions
+## Satisfaction Levels With Institutions
 
 ![Slide 10](/img/episode/494/images/poll-10.webp "Slide 10")
 
@@ -113,13 +114,13 @@ The [results](https://ararfoundation.am/news/%d5%b0%d5%a1%d5%b6%d6%80%d5%a1%d5%b
     19. High: 62.5%
     20. DK/Refuse: 1.5%
 
-#### Demographic Details
+## Demographic Details
 
 ![Slide 13](/img/episode/494/images/poll-13.webp "Slide 13")
 
 ![Slide 11](/img/episode/494/images/poll-11.webp "Slide 11")
 
-### Strategic Partnership and Russian Base
+## Strategic Partnership and Russian Base
 
 One of the questions asked, from the following 5 powers (US, EU, Turkey, Russia or Iran), with which should Armenia form a military-strategic alliance. The top response, with 37.8%, was Russia. This rating, according to the pollster, has been gradually rising since July 2024, when it was at 24.3%. The second runner up was the US with 18.3% and the third was Iran with 17.5%.
 
@@ -129,12 +130,13 @@ The EU was 15.9% and Turkey was 5.4%.
 
 ![Slide 32](/img/episode/494/images/poll-32.webp "Slide 32")
 
-## Thoughts from the Participants
+# Thoughts from the Participants
 
 * **Hovik:** The 2026 parliamentary elections will be neither free nor fair.
 * **Benyamin:** In our direst moments, we have turned to our history and found the will to stand up and win.
 
-## Referenced Articles & Sources
+
+# Referenced Articles & Sources
 
 * [Statement by Shirak Diocese clergy pledging loyalty to the Catholicos](https://www.facebook.com/derenik.malkhasyan/posts/pfbid02aDNx31J2xecLfaSXsLWYB18hk3nqHrG2Zhx75eCE7bgbqhWZYWRgVYdaKg8w3CH1l)
 * [Strategic Agenda for the Armenia-EU Partnership](https://www.mfa.am/filemanager/%D5%80%D5%80-%D4%B5%D5%84/%20-%20%D4%B5%D5%84%20%D5%A3%D5%B8%D6%80%D5%AE%D5%A8%D5%B6%D5%AF%D5%A5%D6%80%D5%B8%D6%82%D5%A9%D5%B5%D5%A1%D5%B6%20%D5%BC%D5%A1%D5%A6%D5%B4%D5%A1%D5%BE%D5%A1%D6%80%D5%A1%D5%AF%D5%A1%D5%B6%20%D6%85%D6%80%D5%A1%D5%AF%D5%A1%D6%80%D5%A3_0.pdf)
