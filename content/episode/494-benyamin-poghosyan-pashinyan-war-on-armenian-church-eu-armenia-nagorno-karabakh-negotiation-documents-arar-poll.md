@@ -21,7 +21,7 @@ episode = "494"
 aliases = ["/494"]
 
 series = ["video", "wir"]
-categories = ["Armenia", "Politics", "Artsakh"]
+categories = ["Armenia", "Politics", "Artsakh", "poll"]
 tags = ["Armenian News", "Artsakh", "Nagorno Karabakh", "Benyamin Poghosyan", "Armenia", "Azerbaijan", "Georgia", "South Caucasus", "Armenian Church", "Catholicos", "Garegin II", "Nikol Pashinyan", "Religious Persecution", "AI Videos", "Character Assassination", "Massis Melkonyan", "Council of Bishops", "Hybrid Warfare", "Russia", "Moldova", "Moldova Elections", "EU", "Kaja Kallas", "CEPA", "Georgia", "EU Candidate", "EU Membership", "Election Interference", "Robert Kocharyan", "Key West", "Madrid Principles", "Krakow Document", "Igor Popov", "OSCE", "Minsk Group", "OSCE MG", "Kazan Summit"]
 
 Description = """
