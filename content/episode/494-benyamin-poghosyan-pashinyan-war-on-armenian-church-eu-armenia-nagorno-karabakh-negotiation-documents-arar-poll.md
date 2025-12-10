@@ -1,6 +1,6 @@
 +++
 Date = 2025-12-09T02:20:32-08:00
-upcoming = true
+upcoming = false
 
 title = "Benyamin Poghosyan - Pashinyan War on Armenian Church, EU-Armenia, Artsakh, Arar Poll | Ep 494, Sep 25, 2025"
 subtitle = "Groong Week in Review - December 7, 2025"
