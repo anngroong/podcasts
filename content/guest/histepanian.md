@@ -3,10 +3,10 @@ Date = 2025-12-10T04:45:01+04:00
 title = "Harry Istepanian"
 Pronouns = ""
 Twitter = "HarryIstepanian"
-Website = ""
+Website = "https://www.istepanian.com/"
 Type = "guest"
 Facebook = "harry.istepanian"
-Linkedin = ""
+Linkedin = "https://www.linkedin.com/in/histepanian/"
 GitHub = ""
 Thumbnail = "img/guest/Harry-Istepanian-1.jpg"
 Pinterest = ""
@@ -17,4 +17,8 @@ Twitch = ""
 #guest_group = "wir"
 +++
 
-__Harry Istepanian__ is an independent consultant based in Washington DC. He has more than 35 years of experience in the energy and water sector, including technical and economics of energy and water projects in the Middle East and SouthEast Asia. He is, amongst others, a Chartered Engineer in the United Kingdom, a Member of the Institution of Professional Engineers New Zealand, and a certified Project Management Professional (PMP). Istepanian holds a Bachelor of Science in Electrical Engineering and a Master’s Degree in Engineering Management from the University of Auckland in New Zealand. His work has been published in various media outlets, as well as international journals, such as the Power Engineering International, and the Electricity Journal of Energy Economics and Policy, in addition to think-tanks that include the Brookings Institution and the Atlantic Council, amongst others. He's currently a Senior Fellow at the Iraq Energy Institute.
+__Harry Istepanian__ is a PMP-certified, independent Energy Expert with more than 30 years of experience in the energy and water sectors. He worked for major international engineering consultancy firms, including Parsons Brinckerhoff, AECOM, and Power Engineers Inc. in different capacities. He was also appointed by many international organizations, including the World Bank, USAID, and USTDA to work on several development projects in Asia and Africa.
+
+Mr. Istepanian has published over 30 op-eds, articles, peer-reviewed papers, and conference presentations in international energy and think tank journals such as the Brookings Institute, the Atlantic Council, Friedrich-Ebert-Stiftung, Power Engineering International, and the Electricity Journal.
+
+Harry is the founder of Iraq Climate Change Center (IC3+), a non-profit think tank based in Washington D.C.
