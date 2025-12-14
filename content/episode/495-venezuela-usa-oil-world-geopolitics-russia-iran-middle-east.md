@@ -33,7 +33,10 @@ Description = """
 * [Harry Istepanian](/guest/histepanian)
 
 #### Topics:
-* Venezuela
+* Venezuela’s oil and US pressure
+* Trump, oil prices, and OPEC+
+* Middle East fallout from cheap oil
+* Ukraine war and Iran conflict stakes
 
 Episode 495 | Recorded: December 11, 2025
 
