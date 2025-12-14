@@ -1,6 +1,5 @@
 +++
-Date = 2025-12-13T04:30:00-08:00
-upcoming = true
+Date = 2025-12-14T11:00:00-08:00
 
 title = "Harry Istepanian - Venezuela’s Oil and the Global Power Struggle | Ep 495, Dec 14, 2025'
 subtitle = "Conversations on Groong - Recorded on: December 11, 2025"
