@@ -1,7 +1,7 @@
 +++
 Date = 2025-12-14T11:00:00-08:00
 
-title = "Harry Istepanian - Venezuela’s Oil and the Global Power Struggle | Ep 495, Dec 14, 2025'
+title = "Harry Istepanian - Venezuela’s Oil and the Global Power Struggle | Ep 495, Dec 14, 2025"
 subtitle = "Conversations on Groong - Recorded on: December 11, 2025"
 
 podcast_file     = "18350604-harry-istepanian-venezuela-s-oil-and-the-global-power-struggle-ep-495-dec-14-2025.mp3"
