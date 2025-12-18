@@ -31,6 +31,8 @@ Description = """
 #### Guest:
 * [Rafael Ishkhanyan](https://podcasts.groong.org/guest/rishkhanyan)
 
+Follow ACPR on Facebook: [Քաղաքական իրավունքների հայկական կենտրոն - ՔԻՀԿ / ACPR](https://www.facebook.com/acpr.center)
+
 #### Topics:
 * Criminalization of Speech and Dissent in Armenia
 * Legal Pressure on Lawyers, Journalists, and Clergy
@@ -58,7 +60,7 @@ The same podcasters were previously detained in **March 2024** on identical char
   [https://oc-media.org/armenian-anti-government-podcast-hosts-acquitted-of-hooliganism-charges-after-insulting-pm/](https://oc-media.org/armenian-anti-government-podcast-hosts-acquitted-of-hooliganism-charges-after-insulting-pm/)
 * Council of Europe Safety of Journalists Platform alert:
   [https://fom.coe.int/en/alerte/detail/107643293](https://fom.coe.int/en/alerte/detail/107643293)
-* ACPR statement on the Antifake case (Nov 14, 2025):
+* [ACPR](https://www.facebook.com/acpr.center) statement on the Antifake case (Nov 14, 2025):
   [https://drive.google.com/file/d/1b-kuEpHJui1heNOgj5yHz0mtpvfn9-H5/view](https://drive.google.com/file/d/1b-kuEpHJui1heNOgj5yHz0mtpvfn9-H5/view)
 
 ---
@@ -74,7 +76,7 @@ The episode then turns to the arrest of **two lawyers in November**, highlightin
 
 * ACPR statement on Aleksander Kochubaev (Oct 17, 2025):
   [https://drive.google.com/file/d/1TFHTHD3D5V7EXz_EQiG1juR4WePiTm5-/view](https://drive.google.com/file/d/1TFHTHD3D5V7EXz_EQiG1juR4WePiTm5-/view)
-* ACPR statement on Ruben Mkhitaryan (Oct 27, 2025):
+* [ACPR](https://www.facebook.com/acpr.center) statement on Ruben Mkhitaryan (Oct 27, 2025):
   [https://drive.google.com/file/d/1msixBSSSliim7AtJHzrG5LmYq77wM9Jo/view](https://drive.google.com/file/d/1msixBSSSliim7AtJHzrG5LmYq77wM9Jo/view)
 
 ---
@@ -83,11 +85,11 @@ The episode then turns to the arrest of **two lawyers in November**, highlightin
 
 ### Setting the Context
 
-In early November, the ACPR published a comprehensive report documenting major political prosecutions between **May and September 2025**, examining why repression escalated during this period and how political control over law enforcement and the judiciary has intensified.
+In early November, the [ACPR](https://www.facebook.com/acpr.center) published a comprehensive report documenting major political prosecutions between **May and September 2025**, examining why repression escalated during this period and how political control over law enforcement and the judiciary has intensified.
 
 ### Referenced link
 
-* ACPR report: *Mass political persecutions of 2025 (May–September)*
+* [ACPR](https://www.facebook.com/acpr.center) report: *Mass political persecutions of 2025 (May–September)*
   [https://drive.google.com/file/d/1cF8bcqCOAgPDCaK9Oa-uDFxCCEH5CwHv/view](https://drive.google.com/file/d/1cF8bcqCOAgPDCaK9Oa-uDFxCCEH5CwHv/view)
 
 The report also notes that months have passed since these incidents without meaningful assessment or condemnation from international bodies.
