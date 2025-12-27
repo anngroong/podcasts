@@ -2,10 +2,10 @@
 Date = 2022-10-24T04:45:01+04:00
 title = "Arthur Khachikyan"
 Pronouns = ""
-Twitter = ""
+Twitter = "dr_khachikyan"
 Website = ""
 Type = "guest"
-Facebook = ""
+Facebook = "61585433645714"
 Linkedin = ""
 GitHub = ""
 Thumbnail = "img/guest/akhachikyan.jpg"
