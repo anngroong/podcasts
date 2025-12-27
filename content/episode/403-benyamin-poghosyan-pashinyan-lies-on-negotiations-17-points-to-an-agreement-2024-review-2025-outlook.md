@@ -71,19 +71,88 @@ As we close out the year, we also reflect on the most significant events of 2024
 
 ---
 
+# Ep. 403 — 2024 Review and 2025 Predictions  
+*(Segment begins at 40:53)*
+
+## Asbed Bedrossian
+
+### 2024 Predictions — Assessment
+- **Armenian real estate downturn**  
+  Predicted a possible significant downturn. This did **not** occur in 2024, though Asbed noted that underlying risks remain and may materialize in 2025.
+- **Trump election**  
+  Initially assessed as 50–50, revised to 75–25 by mid-year. Trump’s election is counted as a **successful prediction**.
+- **Israel–Gaza war regional expansion**  
+  Assigned a low probability to regional escalation. This proved **incorrect**, as the conflict expanded to Lebanon, Syria, and direct Iran–Israel exchanges, with mass civilian casualties. Asbed still marked partial credit for identifying escalation risk dynamics.
+
+### 2025 Outlook
+- **Ukraine war**  
+  Likely to wind down or slow, possibly entering negotiations, but not fully resolved.
+- **Palestine / Gaza**  
+  Expects continued catastrophe, potential ethnic cleansing, and broad international indifference. Frames this as a defining moral issue of 2025.
+- **Armenia**  
+  Does not expect regime collapse. Anticipates continued Western financial support via loans, sustaining the current government amid prolonged insecurity and stagnation.
+
+---
+
+## Benyamin Poghosyan
+
+### 2024 Predictions — Assessment
+- **Armenia–Azerbaijan agreement**  
+  Initially gave a medium probability that some agreement or statement would be signed, mainly to help Azerbaijan’s image before COP29. Outcome: **incorrect**. No agreement was signed, and Aliyev rehabilitated his image without concessions.
+- **Ukraine war freeze**  
+  Medium probability prediction. Did **not** occur.
+- **Return of Armenians to Artsakh**  
+  Low probability prediction. Now assessed as **near zero**, both in hindsight and going forward.
+
+**Overall assessment:** Shifted from cautious optimism early in the year to near-total pessimism by year’s end.
+
+### 2025 Outlook
+- **Ukraine**  
+  The central global variable: either a ceasefire or continued war, both with major geopolitical consequences.
+- **Iran**  
+  Sees Iran as the main regional flashpoint, either through external confrontation (Israel or the US) or internal instability and power transition.
+- **South Caucasus / Armenia–Azerbaijan**  
+  Does not expect a peace agreement. Predicts Azerbaijan will focus on the timing, scale, and form of escalation against Armenia.
+
+---
+
+## Hovik Manucharyan
+
+### 2024 Predictions — Assessment
+- **Meaningless Armenia–Azerbaijan treaty**  
+  Expected a symbolic agreement. This did **not** happen, though Hovik noted Aliyev ultimately did not need one.
+- **Enclaves**  
+  Predicted territorial losses. Assessed as **accurate**, noting enclaves were effectively handed over.
+- **Pashinyan consolidating power**  
+  Predicted increased authoritarian behavior with Western indifference. Marked as **fully correct**.
+- **Opposition effectiveness**  
+  Low probability that the opposition would organize effectively. Remains **unfulfilled**.
+
+### 2025 Outlook
+- **Iran**  
+  Aligns with Benyamin’s view. Expects Iran to be the central regional crisis point.
+- **Ukraine**  
+  Predicts the war may slow but not end, with conflict displaced into other regions.
+- **Armenia**  
+  Sees no positive trajectory without regime change. Views an Azerbaijani attack as a matter of *when*, not *if*. Emphasizes morale and internal readiness as Armenia’s only real deterrents.
+
+
+## Overall Takeaways
+
+- **2024**  
+  Azerbaijan consolidated gains with minimal cost, Western accountability eroded faster than expected, and pessimistic scenarios materialized more often than optimistic ones.
+- **2025**  
+  No peace dividend expected. Ukraine, Iran, and Azerbaijan’s posture toward Armenia dominate forecasts. Risk and instability increase rather than decline.
+
+
+---
+
 # **Links Referenced During the Show**
 
 - [Episode 403 on YouTube](https://youtu.be/NVDZ---WZ0U)
 - [Episode 403 Show Notes](https://podcasts.groong.org/403)
 - Related episodes: [Episode 300](https://podcasts.groong.org/300) and [Episode 347](https://podcasts.groong.org/347)
 
----
-
-# **Other Resources**
-
-- [Link Tree](https://linktr.ee/groong)
-- [Support Groong on Patreon](https://www.patreon.com/ann_groong)
-- [Buy Me a Coffee](https://www.buymeacoffee.com/groong)
 
 ---
 
