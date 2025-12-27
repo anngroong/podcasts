@@ -71,7 +71,7 @@ As we close out the year, we also reflect on the most significant events of 2024
 
 ---
 
-# Ep. 403 — 2024 Review and 2025 Predictions  
+# 2024 Review and 2025 Predictions  
 *(Segment begins at 40:53)*
 
 ## Asbed Bedrossian
