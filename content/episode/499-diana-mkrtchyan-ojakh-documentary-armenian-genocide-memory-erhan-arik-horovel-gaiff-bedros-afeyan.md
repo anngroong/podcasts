@@ -8,7 +8,7 @@ subtitle = "The Critical Corner - Recorded on: December 27, 2025"
 podcast_file     = ""
 podcast_duration = ""
 podcast_bytes    = ""
-youtube = ""
+youtube = "5aH-gAwqGb0"
 
 episode_image = "img/episode/499/thumbnail-499.webp"
 episode_banner = "img/episode/499/banner-499.webp"
@@ -21,7 +21,7 @@ episode = "499"
 aliases = ["/499"]
 
 series = ["tcc"]
-categories = ["arts"]
+categories = ["Arts"]
 tags = ["Armenian News", "Armenia", "Bedros Afeyan", "Ojakh", "Diana Mkrtchyan", "Erhan Arik", "Akhalkalak", "Artsakh", "Kars", "Ardahan", "Soviet Union", "France", "Nancy", "GAIFF", "Golden Apricot"]
 
 Description = """

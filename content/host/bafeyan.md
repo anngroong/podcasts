@@ -2,15 +2,15 @@
 Date = 2022-11-01T04:17:31+04:00
 title = "Bedros Afeyan"
 Pronouns = ""
-Twitter = ""
+Twitter = "bafeyan"
 Website = ""
 Type = "host"
-Facebook = ""
-Linkedin = ""
+Facebook = "bafeyan"
+Linkedin = ""https://www.linkedin.com/in/bedros-afeyan-48353523/
 GitHub = ""
 Thumbnail = "img/host/bafeyan.jpg"
 Pinterest = ""
-Instagram = ""
+Instagram = "bafeyan"
 YouTube = ""
 Twitch = ""
 +++
