@@ -16,5 +16,5 @@ Twitch = ""
 +++
 
 
-__Dr. Bedros Afeyan__ is a theoretical physicist who works and lives in the Bay Area with his wife Marine. He writes in Armenian and in English, and also paints and sculpts. He is the current editor of [The Literary Groong](https://groong.org/tlg/).
+__Dr. Bedros Afeyan__ is a theoretical physicist specializing in plasma physics and laser fusion since 1980. He also paints, sculpts and writes poetry. He is keenly interested in classical music, classical guitar, theater, cinema, and chess. He lives and works in Palo Alto with his wife Mariné. They have been together since the day they met in March, 1998. He is the current editor of [The Literary Groong](https://groong.org/tlg/).
 

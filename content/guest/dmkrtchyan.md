@@ -18,7 +18,7 @@ Twitch = ""
 #guest_group = ""
 +++
 
-__Diana Mkrtchyan__ is an Armenian film director born in Georgia. She grew up in Armenia and graduated in cinematographic studies in Moscow. Her first short fiction __Gata__ was selected to many international festivals and won awards in Iran, Russia, Ukraine, and Armenia. __Ojakh, on the Other Side of the Silence__ is her first feature documentary.
+__Diana Mkrtchyan__ grew up in Armenia and graduated in Cinematographic Studies in Moscow. She is the author of five documentary films. Her first short fiction film, __Gata__, was selected for the Cannes Film Festival in 2008 and received numerous awards at international festivals. "__Ojakh: on the other side of silence__" is her first feature documentary. The film has already received several international awards, including Best Director in France and Best International Documentary in New-York.
 
 Filmography (selected)
 __Le don de St. Nikolaï__ (doc., 2007)

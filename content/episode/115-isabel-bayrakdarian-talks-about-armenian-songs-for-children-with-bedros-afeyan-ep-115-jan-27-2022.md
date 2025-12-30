@@ -22,7 +22,7 @@ hosts = ["bafeyan", "asbed"]
 episode = "115"
 aliases = ["/115"]
 
-series = ["COG"]
+series = ["tcc"]
 truncate = ""
 draft = false
 explicit = "no"
