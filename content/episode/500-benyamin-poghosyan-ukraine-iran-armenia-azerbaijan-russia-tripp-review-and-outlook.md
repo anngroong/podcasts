@@ -1,6 +1,6 @@
 +++
 Date = 2025-12-31T02:20:32-08:00
-upcoming = true
+upcoming = false
 
 title = "Benyamin Poghosyan - Ukraine, Iran, Armenia, Azerbaijan, Russia, TRIPP, Review & Outlook | Ep 500, Dec 28, 2025"
 subtitle = "Groong Week in Review - December 28, 2025"
@@ -10,10 +10,10 @@ episode_image = "img/episode/500/thumbnail-500.webp"
 episode_banner = "img/episode/500/banner-500.webp"
 images = ["img/episode/500/banner-500.webp"]
 
-podcast_file     = ""
-podcast_duration = ""
-podcast_bytes    = ""
-youtube = ""
+podcast_file     = "18435729-benyamin-poghosyan-ukraine-iran-armenia-azerbaijan-russia-tripp-review-outlook-ep-500-dec-28-2025.mp3"
+podcast_duration = "3813"
+podcast_bytes    = "45797760"
+youtube = "zmXJQaZB2Wg"
 
 hosts = ["asbed", "hovik"]
 guests = ["bpoghosyan"]

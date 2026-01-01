@@ -74,6 +74,38 @@ In this episode, guest host Bedros Afeyan speaks with documentary filmmaker Dian
 
 - **From 1915 to Artsakh**
   The discussion draws a direct line between Genocide testimonies and Mkrtchyan’s documentation of Artsakh.
+  
+
+# Diana's Top 15 List of Films
+1.⁠ ⁠Earth — 1930 — Oleksandr Dovzhenko
+
+2.⁠ ⁠The Color of Pomegranates — 1969 — Sergei Parajanov
+
+3.⁠ ⁠The Commissar — 1967 — Alexander Askoldov
+
+4.⁠ ⁠Time of the Gypsies — 1988 — Emir Kusturica
+
+5.⁠ ⁠Andrei Rublev — 1966 — Andrei Tarkovsky
+
+6.⁠ ⁠Silent Light — 2007 — Carlos Reygadas
+
+7.⁠ ⁠Under the Sun of Satan — 1987 — Maurice Pialat
+
+8.⁠ ⁠Once Upon a Time in Anatolia — 2011 — Nuri Bilge Ceylan
+
+9.⁠ ⁠The Color of Paradise — 1999 — Majid Majidi
+
+10.⁠ ⁠Eternity and a Day — 1998 — Theo Angelopoulos
+
+11.⁠ ⁠No Bears — 2022 — Jafar Panahi
+
+12.⁠ ⁠Autumn Sun — 1977 — Bagrat Hovhannisyan
+
+13.⁠ ⁠Before, Now & Then — 2022 — Kamila Andini
+
+14.⁠ ⁠Beyond the Clouds — 1995 — Michelangelo Antonioni
+
+15.⁠ ⁠The Virgin Spring — 1960 — Ingmar Bergman
 
 ---
 
