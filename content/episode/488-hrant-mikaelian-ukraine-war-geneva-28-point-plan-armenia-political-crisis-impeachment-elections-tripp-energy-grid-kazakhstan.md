@@ -41,6 +41,18 @@ Episode 501 | Recorded: January 6, 2026"""
 +++
 
 
+![MPG Slide 3](/img/episode/501/poll/mpg-03.webp "Slide 3: Most important issues facing Armenia")
+![MPG Slide 4](/img/episode/501/poll/mpg-04.webp "Slide 4: Is Armenia going in the right direction or wrong direction?")
+![MPG Slide 5](/img/episode/501/poll/mpg-05.webp "Slide 5: Public Mood in Armenia")
+![MPG Slide 6](/img/episode/501/poll/mpg-06.webp "Slide 6: Can people influence decisions in Armenia?")
+![MPG Slide 7](/img/episode/501/poll/mpg-07.webp "Slide 7: Are people afraid of expressing opinions in Armenia?")
+![MPG Slide 8](/img/episode/501/poll/mpg-08.webp "Slide 8: Overall political situation in Armenia")
+![MPG Slide 9](/img/episode/501/poll/mpg-09.webp "Slide 9: Is there a need to build solidarity in Armenian society?")
+![MPG Slide 10](/img/episode/501/poll/mpg-10.webp "Slide 10: Factors that hinder solidarity")
+![MPG Slide 11](/img/episode/501/poll/mpg-11.webp "Slide 11: Which institutions do you trust?")
+![MPG Slide 13](/img/episode/501/poll/mpg-13.webp "Slide 13: Which institutions or individuals can lead to social solidarity?")
+
+
 
 # Wrap-up
 
