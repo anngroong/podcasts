@@ -107,6 +107,10 @@ In this episode, guest host Bedros Afeyan speaks with documentary filmmaker Dian
 
 15.⁠ ⁠The Virgin Spring — 1960 — Ingmar Bergman
 
+16. The Horse of Turin - 2011 - Béla Tarr, Ágnes Hranitzky
+
+17. The Tree of Life - 2011 - Terrence Malick
+
 ---
 
 # Referenced Articles & Sources
