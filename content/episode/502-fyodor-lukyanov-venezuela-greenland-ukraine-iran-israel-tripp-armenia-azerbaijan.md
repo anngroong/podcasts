@@ -1,6 +1,5 @@
 +++
-Date = 2026-01-10T01:28:56-07:00
-upcoming = true
+Date = 2026-01-09T14:00:00-07:00
 
 title = "Fyodor Lukyanov - Russia in Evolving Global Geopolitics | Ep 502, Jan 10, 2026"
 subtitle = "Conversations on Groong - Recorded: January 10, 2026"
@@ -9,10 +8,10 @@ episode_image = "img/episode/502/thumbnail-502.webp"
 episode_banner = "img/episode/502/banner-502.webp"
 images = ["img/episode/502/banner-502.webp"]
 
-podcast_file     = ""
-podcast_duration = ""
-podcast_bytes    = ""
-youtube = ""
+podcast_file     = "18482449-fyodor-lukyanov-russia-in-evolving-global-geopolitics-ep-502-jan-9-2026.mp3"
+podcast_duration = "3838"
+podcast_bytes    = "46095947"
+youtube = "d1XxQHSZUEE"
 
 hosts = ["asbed", "hovik"]
 guests = ["flukyanov"]
@@ -21,7 +20,7 @@ aliases = ["/502"]
 
 series = ["cog", "video"]
 categories = ["Iran", "Russia", "Armenia", "Israel", "Politics"]
-tags = ["Armenian News", "Fyodor Lukyanov", "United States", "Donald Trump", "Venezuela", "Nicolas Maduro", "Russia", "China", "Greenland", "Ukraine", "EU", "Coalition of the Willing", "Iran", "Israel", "TRIPP", "Armenia", "South Caucasus", "Vladimir Putin", "North South", "East West", "Transportation Routes", "Zangezur Corridor", "C5+1", "Central Asia", "Uzbekistan", "Ilham Aliyev", "Nikol Pashinyan"]
+tags = ["Armenian News", "Fyodor Lukyanov", "United States", "Donald Trump", "Venezuela", "Nicolas Maduro", "Russia", "China", "Greenland", "Ukraine", "EU", "Coalition of the Willing", "Iran", "Israel", "TRIPP", "Armenia", "South Caucasus", "Vladimir Putin", "North South", "East West", "Transportation Routes", "Zangezur Corridor", "C5+1", "Central Asia", "Uzbekistan", "Ilham Aliyev", "Nikol Pashinyan", "Multipolarity", "BRICS", "NATO", "Arctic", "Energy Geopolitics", "Russian Foreign Policy", "Armenia-Azerbaijan", "Syunik", "Araz Corridor", "Peace Talks", "UN"]
 
 Description = """
 
@@ -38,7 +37,9 @@ Description = """
 * Russia-Iran Relations
 * TRIPP and Russian-Armenian Relations
 
-Episode 502 | Recorded: January 8, 2026"""
+Episode 502 | Recorded: January 8, 2026
+
+#FyodorLukyanov #RussiaGeopolitics #UkraineWar #IranIsrael #VenezuelaCrisis #TRIPP"""
 +++
 
 # Summary
@@ -108,4 +109,5 @@ Fyodor Lukyanov joins Groong to discuss how Moscow reads a fast-shifting global 
 That’s our [show](https://podcasts.groong.org/)! We hope you found it useful. Please find us on [Social Media](https://linktr.ee/groong) and follow us everywhere you get your Armenian news.
 
 Thanks to **Laura Osborn** for the music on our podcasts.
+
 
