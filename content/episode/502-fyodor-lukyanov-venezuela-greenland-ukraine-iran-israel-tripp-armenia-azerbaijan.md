@@ -21,7 +21,7 @@ aliases = ["/502"]
 
 series = ["cog", "video"]
 categories = ["Iran", "Russia", "Armenia", "Israel", "Politics"]
-tags = ["Armenian News", "Fyodor Lukyanov", "Iran", "Israel", "Israel-Iran-War", "Rising Lion", "Russia", "US", "Armenia", "Azerbaijan", "Georgia", "South Caucasus", "Vladimir Putin", "Donald Trump", "NATO", "geopolitics", "global order", "diplomacy", "multipolar world", "Sanctions", "Zangezur Corridor", "Syunik", "Turkey", "foreign policy", "Iran Russia Strategic Cooperation", "Military Alliance", "Ukraine", "Ukraine War", "Eurasian Integration", "EAEU", "SCO", "America First", "Alexander Dugin", "Operation Spiderweb", "Middle East Conflict", "Nuclear Talks", "UNSC", "Strategic Partnership", "Proxy War"]
+tags = ["Armenian News", "Fyodor Lukyanov", "United States", "Donald Trump", "Venezuela", "Nicolas Maduro", "Russia", "China", "Greenland", "Ukraine", "EU", "Coalition of the Willing", "Iran", "Israel", "TRIPP", "Armenia", "South Caucasus", "Vladimir Putin", "North South", "East West", "Transportation Routes", "Zangezur Corridor", "C5+1", "Central Asia", "Uzbekistan", "Ilham Aliyev", "Nikol Pashinyan"]
 
 Description = """
 
