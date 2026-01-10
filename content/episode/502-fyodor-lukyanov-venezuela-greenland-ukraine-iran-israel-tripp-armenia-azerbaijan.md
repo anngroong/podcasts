@@ -1,8 +1,8 @@
 +++
 Date = 2026-01-09T14:00:00-07:00
 
-title = "Fyodor Lukyanov - Russia in Evolving Global Geopolitics | Ep 502, Jan 10, 2026"
-subtitle = "Conversations on Groong - Recorded: January 10, 2026"
+title = "Fyodor Lukyanov - Russia in Evolving Global Geopolitics | Ep 502, Jan 9, 2026"
+subtitle = "Conversations on Groong - Recorded: January 8, 2026"
 
 episode_image = "img/episode/502/thumbnail-502.webp"
 episode_banner = "img/episode/502/banner-502.webp"
