@@ -40,7 +40,6 @@ Description = """
 * Stolen Church Property
 * From Christmas to Easter
 
-
 Episode 503 | Recorded: January 9, 2026"""
 +++
 
