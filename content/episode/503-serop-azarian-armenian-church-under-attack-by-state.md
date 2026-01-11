@@ -11,7 +11,7 @@ images = ["img/episode/503/banner-503.webp"]
 podcast_file     = "18488367-fr-serop-azarian-armenian-church-under-attack-ep-503-jan-11-2026.mp3"
 podcast_duration = "4661"
 podcast_bytes    = "55966144"
-youtube = "TVEvBdX_Qr4"
+youtube = "HUETbXqRncw"
 
 hosts = ["hovik", "asbed"]
 guests = ["sazarian"]
