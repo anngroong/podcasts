@@ -1,5 +1,5 @@
 +++
-Date = 2026-01-11T04:45:01-08:00
+Date = 2026-01-11T01:45:01-07:00
 title = "Kevork Hagopjian"
 Pronouns = ""
 Twitter = "kevorkhagopjian"
@@ -10,7 +10,7 @@ Linkedin = ""
 GitHub = ""
 Thumbnail = "img/guest/Kevork-Hagopjian-1.webp"
 Pinterest = ""
-Instagram = "kevorkhagopjian"
+Instagram = "kevorkhagopjian"
 YouTube = ""
 Twitch = ""
 #Aka = []
