@@ -18,7 +18,7 @@ guests = ["sazarian"]
 episode = "503"
 aliases = ["/503"]
 
-series = ["cog"]
+series = ["cog", "video"]
 categories = ["Armenia", "Armenian Church", "Politics"]
 tags = ["Armenian News", "Armenia", "Serop Azarian", "Fr. Serop", "Armenian Apostolic Church", "Catholicos", "Garegin II", "Holy Etchmiadzin", "Nikol Pashinyan", "Anna Hakobyan", "Church-State Relations", "Religious Persecution", "Clergy Arrests", "Canon Law", "Church Reform", "Church Property", "Soviet Confiscation", "Property Restitution", "Artsakh", "Nagorno Karabakh", "Right of Return", "Swiss Peace Initiative", "Allahshukur Pashazadeh", "Hovnan Derderian", "Arshak Khachatryan", "Theophany", "Easter", "Armenian Diaspora"]
 
