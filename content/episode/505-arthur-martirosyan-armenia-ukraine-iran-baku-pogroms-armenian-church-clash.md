@@ -94,10 +94,15 @@ Recorded on January 13, 2026, this Week in Review episode with Arthur Martirosya
 - Is there any negotiated path that restores social cohesion without granting blanket impunity?
 - Are we already facing a durable schism within the Armenian Apostolic Church?
 
+
 # Referenced Articles & Sources
 
 - [Trump TruthSocial post urging protests in Iran](https://truthsocial.com/@realDonaldTrump/posts/115888317758045915)
 - [Luke Coffey tweet: “Be prepared 🇦🇿”](https://x.com/LukeDCoffey/status/2010136119220842985)
+- [NGO statement urging ban of Russian state TV](https://khosq.am/2025/06/20/%d5%b0%d5%a1%d5%a5%d5%b6-138/)
+- [Armenpress: Increased Azerbaijani petroleum imports](https://armenpress.am/en/article/1239449)
+- [Azatutyun: Police protection of renegade bishop / church standoff](https://www.azatutyun.am/a/33646288.html)
+
 
 # Thoughts from the Participants
 
