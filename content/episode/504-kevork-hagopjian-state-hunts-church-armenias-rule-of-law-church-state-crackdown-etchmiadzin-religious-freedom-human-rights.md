@@ -1,5 +1,5 @@
 +++
-Date = 2026-01-14T02:30:00+04:00
+Date = 2026-01-13T02:30:00+04:00
 
 title = "Kevork Hagopjian - Armenia’s Church-State Showdown | Ep 504, Jan 13, 2026"
 subtitle = "Conversations on Groong - January 13, 2026"
