@@ -1,7 +1,8 @@
 +++
 Date = 2026-01-16T15:00:00-07:00
+upcoming = false
 
-title = "Pietro Shakarian - Iran, Russia, and the Geopolitics of Post-Soviet Eurasia | Ep 506, Jan 17, 2026"
+title = "Pietro Shakarian - Iran, Russia, and the Geopolitics of Post-Soviet Eurasia | Ep 506, Jan 16, 2026"
 subtitle = "Conversations on Groong - Recorded on: January 14, 2026"
 author = "Armenian News Network - Groong"
 
