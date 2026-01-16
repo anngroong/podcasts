@@ -1,15 +1,14 @@
 +++
-Date = 2026-01-17T04:00:00-07:00
-upcoming = true
+Date = 2026-01-16T15:00:00-07:00
 
 title = "Pietro Shakarian - Iran, Russia, and the Geopolitics of Post-Soviet Eurasia | Ep 506, Jan 17, 2026"
 subtitle = "Conversations on Groong - Recorded on: January 14, 2026"
 author = "Armenian News Network - Groong"
 
-podcast_file = ""
-podcast_duration = ""
-podcast_bytes = ""
-youtube = ""
+podcast_file     = "18521641-pietro-shakarian-iran-russia-and-the-geopolitics-of-post-soviet-eurasia-ep-506-jan-16-2026.mp3"
+podcast_duration = "3849"
+podcast_bytes    = "46227182"
+youtube = "P5u4ppL9qK8"
 
 hosts = ["hovik", "asbed"]
 guests = ["pshakarian"]
