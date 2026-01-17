@@ -19,7 +19,7 @@ episode = "490"
 aliases = ["/490"]
 
 series = ["cog", "video"]
-categories = ["Armenia", "Politics", "Church"]
+categories = ["Armenia", "Politics", "Armenian Church"]
 tags = ["Armenian News", "Joel Veldkamp", "Christian Solidarity International", "Armenia", "Artsakh", "Nagorno Karabakh", "Ethnic Cleansing", "Armenian Church", "Clergy Arrests", "Religious Repression", "Human Rights", "CSI", "Apostolic Church", "Nikol Pashinyan", "Armenia Prayer Breakfast", "Christian Persecution", "Yerevan", "Church Crackdown", "Christian Advocacy", "Religious Freedom", "Human Rights Armenia", "Jailed Clergy", "Capitol Hill Briefing", "Armenian Christianity", "John Eibner", "Stepanakert", "Asif Mahmood", "44 Day War", "Artsakh War", "Samvel Karapetyan"]
 
 Description = """
