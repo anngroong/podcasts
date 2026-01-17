@@ -9,7 +9,7 @@ author = "Armenian News Network - Groong"
 podcast_file     = "18521641-pietro-shakarian-iran-russia-and-the-geopolitics-of-post-soviet-eurasia-ep-506-jan-16-2026.mp3"
 podcast_duration = "3849"
 podcast_bytes    = "46227182"
-youtube = "P5u4ppL9qK8"
+youtube = "BWhpfH1ruv4"
 
 hosts = ["hovik", "asbed"]
 guests = ["pshakarian"]
