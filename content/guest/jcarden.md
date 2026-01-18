@@ -17,5 +17,5 @@ Twitch = ""
 #guest_group = "wir"
 +++
 
-__James W. Carden__ is a columnist and former adviser to the US-Russia Bilateral Presidential Commission at the U.S. Department of State. His articles have appeared in a wide variety of publications including The Nation, The American Conservative, Responsible Statecraft, The National Interest, The Los Angeles Times, and more.
+__James W. Carden__ is a columnist and former adviser to the US-Russia Bilateral Presidential Commission at the U.S. Department of State. His articles have appeared in a wide variety of publications including The Nation, The American Conservative, Responsible Statecraft, The National Interest, The Los Angeles Times, and more. His Substack is at [The Realist Review](https://therealistreview.substack.com/?utm_campaign=profile_chips/).
 
