@@ -2,7 +2,7 @@
 Date = 2025-12-30T02:00:00-08:00
 upcoming = false
 
-title = "Diana Mkrtchyan - Ojakh, the Other Side of Silence - a Marvel to Behold | Ep 499, Jan 30, 2025"
+title = "Diana Mkrtchyan - Ojakh, the Other Side of Silence - a Marvel to Behold | Ep 499, Dec 30, 2025"
 subtitle = "The Critical Corner - Recorded on: December 27, 2025"
 
 podcast_file     = "18430379-diana-mkrtchyan-ojakh-the-other-side-of-silence-a-marvel-to-behold-ep-499-jan-30-2025.mp3"
