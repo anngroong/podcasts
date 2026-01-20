@@ -9,8 +9,8 @@ episode_banner = "img/episode/508/banner-508.webp"
 images = ["img/episode/508/banner-508.webp"]
 
 podcast_file     = "18542526-sergei-melkonian-syria-iran-unrest-tripp-armenian-parliamentary-elections-ep-508-jan-18-2026.mp3"
-podcast_duration = ""
-podcast_bytes    = ""
+podcast_duration = "4152"
+podcast_bytes    = "49858528"
 youtube = "LDI5e7Tcu8k"
 
 hosts = ["asbed", "hovik"]
