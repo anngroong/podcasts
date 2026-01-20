@@ -110,23 +110,14 @@ This episode examines major geopolitical shifts affecting Armenia and the wider 
 
 # Referenced Articles & Sources
 
-* Al Jazeera – *Syria live: Government forces take control after heavy fighting with SDF*
-  [https://www.aljazeera.com/news/liveblog/2026/1/19/syria-live-government-forces-take-control-after-heavy-fighting-with-sdf](https://www.aljazeera.com/news/liveblog/2026/1/19/syria-live-government-forces-take-control-after-heavy-fighting-with-sdf)
+* [*Syria live: Government forces take control after heavy fighting with SDF*](https://www.aljazeera.com/news/liveblog/2026/1/19/syria-live-government-forces-take-control-after-heavy-fighting-with-sdf)
+* [*Iranian ambassador warns Armenia over protests*](https://www.azatutyun.am/a/33647962.html)
+* [*Pashinyan rejects Iranian concerns*](https://www.azatutyun.am/a/33648959.html)
+* [*Mirzoyan and Rubio sign TRIPP-related agreements in Washington*](https://www.azatutyun.am/a/33647278.html)
+* [*Hakan Fidan comments on Armenia’s elections and Pashinyan*](https://www.azatutyun.am/a/33650776.html)
+* [*Armenia–Russia trade decline and borrowing figures*](https://www.azatutyun.am/a/33646125.html)
 
-* Azatutyun – *Iranian ambassador warns Armenia over protests*
-  [https://www.azatutyun.am/a/33647962.html](https://www.azatutyun.am/a/33647962.html)
 
-* Azatutyun – *Pashinyan rejects Iranian concerns*
-  [https://www.azatutyun.am/a/33648959.html](https://www.azatutyun.am/a/33648959.html)
-
-* Azatutyun – *Mirzoyan and Rubio sign TRIPP-related agreements in Washington*
-  [https://www.azatutyun.am/a/33647278.html](https://www.azatutyun.am/a/33647278.html)
-
-* Azatutyun – *Hakan Fidan comments on Armenia’s elections and Pashinyan*
-  [https://www.azatutyun.am/a/33650776.html](https://www.azatutyun.am/a/33650776.html)
-
-* Azatutyun – *Armenia–Russia trade decline and borrowing figures*
-  [https://www.azatutyun.am/a/33646125.html](https://www.azatutyun.am/a/33646125.html)
 
 # Wrap-up
 
