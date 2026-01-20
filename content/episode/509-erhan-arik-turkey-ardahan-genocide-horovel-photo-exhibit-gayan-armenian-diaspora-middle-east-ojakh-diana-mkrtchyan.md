@@ -1,8 +1,8 @@
 +++
-Date = 2026-01-19T02:00:00-08:00
+Date = 2026-01-21T02:00:00-08:00
 upcoming = true
 
-title = "Erhan Arik - Horovel and The Armenian Genocide | Ep 508, Jan 19, 2026"
+title = "Erhan Arik - Horovel and The Armenian Genocide | Ep 509, Jan 21, 2026"
 subtitle = "The Critical Corner - Recorded on: January 18, 2026"
 
 podcast_file     = ""
@@ -10,15 +10,15 @@ podcast_duration = ""
 podcast_bytes    = ""
 youtube = ""
 
-episode_image = "img/episode/508/thumbnail-508.webp"
-episode_banner = "img/episode/508/banner-508.webp"
-images = ["img/episode/508/banner-508.webp"]
+episode_image = "img/episode/509/thumbnail-509.webp"
+episode_banner = "img/episode/509/banner-509.webp"
+images = ["img/episode/509/banner-509.webp"]
 
 hosts = ["bafeyan"]
 guests = ["earik"]
 
-episode = "508"
-aliases = ["/508"]
+episode = "509"
+aliases = ["/509"]
 
 series = ["tcc"]
 categories = ["Arts"]
@@ -38,7 +38,7 @@ Description = """
 #### Topics:
 - TBD
 
-Episode 508 | Recorded: January 18, 2026"""
+Episode 509 | Recorded: January 18, 2026"""
 +++
 
 
