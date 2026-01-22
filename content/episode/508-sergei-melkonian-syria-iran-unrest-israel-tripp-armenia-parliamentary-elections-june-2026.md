@@ -42,13 +42,14 @@ Episode 508 | Recorded: January 19, 2026
 #ArmenianNews #Syria #Iran #ZangezurCorridor #TRIPP #Geopolitics"""
 +++
 
+# Summary
 This episode examines major geopolitical shifts affecting Armenia and the wider region, focusing on Syria’s rapidly changing battlefield, the postponed but unresolved Iran war scenario, the growing controversy around the TRIPP corridor, and intensifying foreign involvement ahead of Armenia’s 2026 elections.
 
 ---
 
-## Main Topics Addressed
+# Main Topics Addressed
 
-### Syria
+## Syria
 
 * Rapid Turkish-backed advances following the apparent U.S. abandonment of Kurdish allies
 * Pressure on the Syrian Democratic Forces (SDF) to disarm, integrate into the Syrian army, and extradite PKK members
@@ -57,7 +58,7 @@ This episode examines major geopolitical shifts affecting Armenia and the wider 
 
 ---
 
-### Iran Crisis
+## Iran Crisis
 
 * Externally instigated protests escalating into deadly riots across Iran
 * The U.S.–Israel–Iran war narrative postponed rather than cooled
@@ -67,7 +68,7 @@ This episode examines major geopolitical shifts affecting Armenia and the wider 
 
 ---
 
-### TRIPP Trap
+## TRIPP Trap
 
 * Protests outside the Iranian embassy in Yerevan and Tehran’s warning signals
 * Pashinyan dismissing Iranian concerns over anti-Iranian activity in Armenia
@@ -77,15 +78,15 @@ This episode examines major geopolitical shifts affecting Armenia and the wider 
 
 ---
 
-### Elections 2026 – Foreign Influence
+## Elections 2026 – Foreign Influence
 
-#### Turkish Support
+### Turkish Support
 
 * Turkish Foreign Minister Hakan Fidan’s public endorsement of Pashinyan
 * Questions of election interference and geopolitical double standards
 * Turkey’s potential leverage over Armenia’s political process
 
-#### Russian Support
+### Russian Support
 
 * Armenia’s sharp decline in trade with Russia and increased borrowing
 * Western and Turkish efforts to marginalize Russia in the South Caucasus
@@ -93,7 +94,7 @@ This episode examines major geopolitical shifts affecting Armenia and the wider 
 
 ---
 
-## Key Questions Discussed
+# Key Questions Discussed
 
 * Why did the U.S. abandon its Kurdish allies in Syria?
 * What lessons should Armenia draw from the Kurdish experience?
@@ -107,25 +108,16 @@ This episode examines major geopolitical shifts affecting Armenia and the wider 
 
 ---
 
-## Referenced Articles & Sources
+# Referenced Articles & Sources
 
-* Al Jazeera – *Syria live: Government forces take control after heavy fighting with SDF*
-  [https://www.aljazeera.com/news/liveblog/2026/1/19/syria-live-government-forces-take-control-after-heavy-fighting-with-sdf](https://www.aljazeera.com/news/liveblog/2026/1/19/syria-live-government-forces-take-control-after-heavy-fighting-with-sdf)
+* [*Syria live: Government forces take control after heavy fighting with SDF*](https://www.aljazeera.com/news/liveblog/2026/1/19/syria-live-government-forces-take-control-after-heavy-fighting-with-sdf)
+* [*Iranian ambassador warns Armenia over protests*](https://www.azatutyun.am/a/33647962.html)
+* [*Pashinyan rejects Iranian concerns*](https://www.azatutyun.am/a/33648959.html)
+* [*Mirzoyan and Rubio sign TRIPP-related agreements in Washington*](https://www.azatutyun.am/a/33647278.html)
+* [*Hakan Fidan comments on Armenia’s elections and Pashinyan*](https://www.azatutyun.am/a/33650776.html)
+* [*Armenia–Russia trade decline and borrowing figures*](https://www.azatutyun.am/a/33646125.html)
 
-* Azatutyun – *Iranian ambassador warns Armenia over protests*
-  [https://www.azatutyun.am/a/33647962.html](https://www.azatutyun.am/a/33647962.html)
 
-* Azatutyun – *Pashinyan rejects Iranian concerns*
-  [https://www.azatutyun.am/a/33648959.html](https://www.azatutyun.am/a/33648959.html)
-
-* Azatutyun – *Mirzoyan and Rubio sign TRIPP-related agreements in Washington*
-  [https://www.azatutyun.am/a/33647278.html](https://www.azatutyun.am/a/33647278.html)
-
-* Azatutyun – *Hakan Fidan comments on Armenia’s elections and Pashinyan*
-  [https://www.azatutyun.am/a/33650776.html](https://www.azatutyun.am/a/33650776.html)
-
-* Azatutyun – *Armenia–Russia trade decline and borrowing figures*
-  [https://www.azatutyun.am/a/33646125.html](https://www.azatutyun.am/a/33646125.html)
 
 # Wrap-up
 
