@@ -1,14 +1,14 @@
 +++
 Date = 2026-01-22T02:00:00-08:00
-upcoming = true
+upcoming = false
 
 title = "Erhan Arik - Horovel and The Armenian Genocide | Ep 509, Jan 22, 2026"
 subtitle = "The Critical Corner - Recorded on: January 18, 2026"
 
-podcast_file     = ""
-podcast_duration = ""
-podcast_bytes    = ""
-youtube = ""
+podcast_file     = "18551743-erhan-arik-horovel-and-the-armenian-genocide-ep-509-jan-22-2026.mp3"
+podcast_duration = "5163"
+podcast_bytes    = "62009046"
+youtube = "cPmkCC40nTU"
 
 episode_image = "img/episode/509/thumbnail-509.webp"
 episode_banner = "img/episode/509/banner-509.webp"
@@ -33,10 +33,14 @@ Description = """
 * [Dr. Bedros Afeyan](/host/bafeyan)
 
 #### Guest:
-* [Erhan Arik](/guest/earik)
+* [Erhan Arik](/guest/earik),Photojournalist
 
 #### Topics:
-- TBD
+* Horovel, a cross-border memory project
+* Ojakh, a second trip down memory lane
+* Gayan, a wider regional lens
+* Our Seeds, continuity across generations
+
 
 Episode 509 | Recorded: January 18, 2026"""
 +++
