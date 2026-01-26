@@ -1,8 +1,8 @@
 +++
-Date = 2026-01-27T02:30:00+04:00
+Date = 2026-01-28T02:30:00+04:00
 upcoming = true
 
-title = "Arthur Khachatryan - No Peace, Davos, JD Vance to Armenia, Ethnic Cleansing of Artsakh | Ep 510, Jan 25, 2026"
+title = "Arthur Khachatryan - No Peace, Davos, JD Vance to Armenia, Ethnic Cleansing of Artsakh | Ep 510, Jan 27, 2026"
 subtitle = "Groong Week in Review - January 25, 2026"
 
 episode_image = "img/episode/510/thumbnail-510.webp"
