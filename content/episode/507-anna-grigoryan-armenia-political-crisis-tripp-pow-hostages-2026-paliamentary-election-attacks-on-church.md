@@ -103,9 +103,13 @@ Anna Grigoryan joins us to assess four Armenians returning from Baku amid contin
 - [California Courier: “Ankara Just Endorsed Pashinyan for the June Elections”](https://www.thecaliforniacourier.com/ankara-just-endorsed-pashinyan-for-the-june-elections/)
 - [Ishkhan Saghatelyan press conference (YouTube)](https://www.youtube.com/live/hOIoNWlLFo0?si=nJLGv28hBQBCxLPR)
 
+
 # Wrap-up
 
-That’s our [show](https://podcasts.groong.org/)! We hope you found it useful. Please find us on [Social Media](https://linktr.ee/groong) and follow us everywhere you get your Armenian news.
+### **Don't forget to support us:**
+* [Patreon - Support Groong](https://www.patreon.com/ann_groong)
+* [Buy Me a Coffee - Support Groong](https://www.buymeacoffee.com/groong)
+
+That’s our [show](https://podcasts.groong.org/)! We hope you found it useful, and you will SHARE OUR SHOWS with your friends on Social Media. That is a great way to support us.
 
 Thanks to **Laura Osborn** for the music on our podcasts.
-

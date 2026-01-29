@@ -115,6 +115,6 @@ Kevork Hagopjian joins us to explain his thesis that Armenia’s current church-
 * [Patreon - Support Groong](https://www.patreon.com/ann_groong)
 * [Buy Me a Coffee - Support Groong](https://www.buymeacoffee.com/groong)
 
-That’s our [show](https://podcasts.groong.org/)! We hope you found it useful. Please find us on [Social Media](https://linktr.ee/groong) and follow us everywhere you get your Armenian news.
+That’s our [show](https://podcasts.groong.org/)! We hope you found it useful, and you will SHARE OUR SHOWS with your friends on Social Media. That is a great way to support us.
 
 Thanks to **Laura Osborn** for the music on our podcasts.

@@ -140,8 +140,10 @@ The episode concludes with a discussion of **Article 236 of Armenia’s Criminal
 
 # Wrap-up
 
-That’s our [show](https://podcasts.groong.org/)! We hope you found it useful. Please find us on [Social Media](https://linktr.ee/groong) and follow us everywhere you get your Armenian news.
+### **Don't forget to support us:**
+* [Patreon - Support Groong](https://www.patreon.com/ann_groong)
+* [Buy Me a Coffee - Support Groong](https://www.buymeacoffee.com/groong)
+
+That’s our [show](https://podcasts.groong.org/)! We hope you found it useful, and you will SHARE OUR SHOWS with your friends on Social Media. That is a great way to support us.
 
 Thanks to **Laura Osborn** for the music on our podcasts.
-
-
