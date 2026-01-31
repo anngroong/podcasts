@@ -1,18 +1,17 @@
 +++
-Date = 2026-01-29T14:00:00-07:00
-upcoming = true
+Date = 2026-01-31T15:00:00-07:00
 
-title = "David Davidian - Armenia’s Foreign Intel Service Annual Report | Ep 511, Jan 29, 2026"
-subtitle = "Conversations on Groong - Recorded on January 28, 2026"
+title = "David Davidian - Armenia’s Foreign Intel Service Annual Report | Ep 511, Jan 31, 2026"
+subtitle = "Conversations on Groong - January 31, 2026"
 
 episode_image = "img/episode/511/thumbnail-511.webp"
 episode_banner = "img/episode/511/banner-511.webp"
 images = ["img/episode/511/banner-511.webp"]
 
-podcast_file     = ""
-podcast_duration = ""
-podcast_bytes    = ""
-youtube = ""
+podcast_file     = "18602383-david-davidian-armenia-s-foreign-intel-service-annual-report-ep-511-jan-31-2026.mp3"
+podcast_duration = "2645"
+podcast_bytes    = "31782574"
+youtube = "dMX6GW54Eek"
 
 hosts = ["asbed", "hovik"]
 guests = ["ddavidian"]
@@ -94,8 +93,6 @@ David Davidian reviews Armenia’s 2026 External Security Risk Assessment from t
 
 - [Critical Evaluation: Strategic Deficiencies in the 2026 External Security Risk Assessment of Armenia](https://shadowdiplomat.com/critical-evaluation-strategic-deficiencies-in-the-2026-external-security-risk-assessment-of-armenia/)  (David Davidian, Shadow Diplomat)
 - [Annual Report on External Security Risks of the Republic of Armenia for 2026 (FIS, English PDF)](https://armenpress.am/storage/content/2025/pdf/NewFolder/FISA_Annual_Report_2026_English.pdf)
-
-
 
 # Wrap-up
 
