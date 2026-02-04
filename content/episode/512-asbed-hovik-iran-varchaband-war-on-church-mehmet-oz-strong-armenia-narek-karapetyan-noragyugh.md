@@ -1,6 +1,5 @@
 +++
-Date = 2026-02-03T02:00:00+04:00
-upcoming = true
+Date = 2026-02-03T18:30:00-07:00
 
 title = "Asbed & Hovik - Iran, Varchaband, War on Church, Mehmet Oz, Strong Armenia, Noragyugh | Ep 512, Feb 1, 2026"
 subtitle = "Groong Week in Review - Feb 1, 2026"
@@ -9,10 +8,10 @@ episode_image = "img/episode/512/thumbnail-512.webp"
 episode_banner = "img/episode/512/banner-512.webp"
 images = ["img/episode/512/banner-512.webp"]
 
-podcast_file     = ""
-podcast_duration = ""
-podcast_bytes    = ""
-youtube = ""
+podcast_file     = "18621790-iran-varchaband-war-on-church-mehmet-oz-strong-armenia-noragyugh-ep-512-feb-1-2026.mp3"
+podcast_duration = "3139"
+podcast_bytes    = "37703614"
+youtube = "XRHCT_8XE84"
 
 hosts = ["hovik", "asbed"]
 episode = "512"
@@ -36,7 +35,9 @@ Description = """
 * Narek Karapetyan and Strong Armenia
 * A Big Beautiful Noragyugh
 
-Episode 512 | Recorded: February 2, 2026"""
+Episode 512 | Recorded: February 2, 2026
+
+#IranIsraelWar #TrumpArmada #ArmenianChurch #Pashinyan #ArmenianDiaspora"""
 +++
 
 
