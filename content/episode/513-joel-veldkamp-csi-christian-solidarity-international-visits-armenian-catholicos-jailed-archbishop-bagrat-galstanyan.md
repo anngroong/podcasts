@@ -41,9 +41,10 @@ Episode 513 | Recorded: February 3, 2026
 #ArmenianChurch #ReligiousFreedom #ClergyArrests #IRFSummit2026 #ChristianSolidarityInternational"""
 +++
 
+# Summary
 Joel Veldkamp (CSI) returns to discuss CSI’s latest Armenia visit, including access to jailed clergy and the condition and message of Archbishop Bagrat Galstanyan. The conversation then shifts to Armenia’s posture at international religious freedom forums, including the IRF Summit in Washington, and whether the widening pressure on bishops (including travel restrictions tied to the planned Austria assembly) is getting outside attention. The episode closes with the emerging international record, including a Council of Europe exchange involving Ararat Mirzoyan and questions about whether the government can sustain its narrative ahead of major upcoming international meetings.
 
-## Main Topics Addressed
+# Main Topics Addressed
 
 ### CSI visits Armenian bishops in jail
 
@@ -65,7 +66,7 @@ Joel Veldkamp (CSI) returns to discuss CSI’s latest Armenia visit, including a
 * Galstanyan’s public reaction to parliamentary monitoring language about Armenia.
 * Whether the government can sustain claims that there is no persecution, especially with an EPC meeting planned in Yerevan.
 
-## Key Questions Discussed
+# Key Questions Discussed
 
 ### CSI visit
 
@@ -84,13 +85,11 @@ Joel Veldkamp (CSI) returns to discuss CSI’s latest Armenia visit, including a
 * How credible are the allegations that church leaders face prosecution for threats or incitement, versus political persecution?
 * Can the government keep international scrutiny limited, given upcoming high-visibility meetings (including the EPC gathering in Yerevan)?
 
-## Referenced Articles & Sources
+# Referenced Articles & Sources
 
-* Report mentioned at the CSI/ACPR conference: **Injustice in Armenia: Mass political persecutions of 2025 (May–September)**
-  [https://drive.google.com/file/d/1cF8bcqCOAgPDCaK9Oa-uDFxCCEH5CwHv/view?usp=sharing](https://drive.google.com/file/d/1cF8bcqCOAgPDCaK9Oa-uDFxCCEH5CwHv/view?usp=sharing)
+* Report mentioned at the CSI/ACPR conference: [**Injustice in Armenia: Mass political persecutions of 2025 (May–September)**](https://drive.google.com/file/d/1cF8bcqCOAgPDCaK9Oa-uDFxCCEH5CwHv/view?usp=sharing)
 
-* Council of Europe exchange amplified by CSI (re: Ararat Mirzoyan questioned):
-  [https://x.com/CSI_humanrights/status/2018206820452442524](https://x.com/CSI_humanrights/status/2018206820452442524)
+* [Council of Europe exchange amplified by CSI (re: Ararat Mirzoyan questioned):](https://x.com/CSI_humanrights/status/2018206820452442524)
 
 * CSI tweets from Armenia (as referenced in outline):
   * [https://x.com/CSI_humanrights/status/2019064982831329697](https://x.com/CSI_humanrights/status/2019064982831329697)
