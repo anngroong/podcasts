@@ -93,10 +93,10 @@ Joel Veldkamp (CSI) returns to discuss CSI’s latest Armenia visit, including a
   [https://x.com/CSI_humanrights/status/2018206820452442524](https://x.com/CSI_humanrights/status/2018206820452442524)
 
 * CSI tweets from Armenia (as referenced in outline):
-  [https://x.com/CSI_humanrights/status/2019064982831329697](https://x.com/CSI_humanrights/status/2019064982831329697)
-  [https://x.com/CSI_humanrights/status/2018777515272163653](https://x.com/CSI_humanrights/status/2018777515272163653)
-  [https://x.com/CSI_humanrights/status/2018657968062185911](https://x.com/CSI_humanrights/status/2018657968062185911)
-  [https://x.com/CSI_humanrights/status/2018745705532211565](https://x.com/CSI_humanrights/status/2018745705532211565)
+  * [https://x.com/CSI_humanrights/status/2019064982831329697](https://x.com/CSI_humanrights/status/2019064982831329697)
+  * [https://x.com/CSI_humanrights/status/2018777515272163653](https://x.com/CSI_humanrights/status/2018777515272163653)
+  * [https://x.com/CSI_humanrights/status/2018657968062185911](https://x.com/CSI_humanrights/status/2018657968062185911)
+  * [https://x.com/CSI_humanrights/status/2018745705532211565](https://x.com/CSI_humanrights/status/2018745705532211565)
 
 # Wrap-up
 
