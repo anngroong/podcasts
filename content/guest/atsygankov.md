@@ -1,9 +1,9 @@
 +++
 Date = 2026-11-23T04:45:01+04:00
-title = "Andrei P.Tsygankov"
+title = "Andrei P. Tsygankov"
 Pronouns = ""
 Twitter = ""
-Website = ""
+Website = "https://internationalrelations.sfsu.edu/people/andrei-p-tsygankov"
 Type = "guest"
 Facebook = "andrei.tsygankov.9"
 Linkedin = "andrei-tsygankov-91639421/"
@@ -18,4 +18,4 @@ Twitch = ""
 #guest_group = "cog"
 +++
 
-__Andrei P. Tsygankov__ is a Professor of International Relations at San Francisco State University. He studies Russian foreign policy, IR theory, and Western perceptions of Russia. His books include Russia’s Foreign Policy (Bloomsbury), a trilogy on Russian IR theory (Routledge), and “Canceling” Russia (Palgrave).
+__Andrei P. Tsygankov__ is a Professor of International Relations at San Francisco State University. He studies Russian foreign policy, IR theory, and Western perceptions of Russia. His books include [Russia’s Foreign Policy](https://a.co/d/0izauT7T) (Bloomsbury), a trilogy on Russian IR theory (Routledge), and [“Canceling” Russia](https://a.co/d/07NNNT6d) (Palgrave).
