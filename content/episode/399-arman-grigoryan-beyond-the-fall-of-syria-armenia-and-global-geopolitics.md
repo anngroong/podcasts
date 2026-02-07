@@ -78,7 +78,7 @@ In this episode of the Groong Podcast, Dr. Arman Grigoryan provides an in-depth 
 
 ## Links and Resources
 - [Link Tree](https://linktr.ee/groong)
-- [Patreon - Support Groong](https://www.patreon.com/ann_groong)
+- [Patreon - Support Groong](https://www.patreon.com/groong)
 - [Buy Me a Coffee - Support Groong](https://www.buymeacoffee.com/groong)
 
 ---

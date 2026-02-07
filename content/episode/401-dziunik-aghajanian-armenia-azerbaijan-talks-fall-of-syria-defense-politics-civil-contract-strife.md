@@ -89,7 +89,7 @@ With critical analysis and nuanced discussion, this episode is essential listeni
 
 ### **Links and Resources**
 
-* [Patreon - Support Groong](https://www.patreon.com/ann_groong)
+* [Patreon - Support Groong](https://www.patreon.com/groong)
 * [Buy Me a Coffee - Support Groong](https://www.buymeacoffee.com/groong)
 
 That's our [Week in Review](https://podcasts.groong.org/), we hope you found it helpful. We invite your feedback and your suggestions, you can [find us](https://linktr.ee/groong) on most social media and podcast platforms.

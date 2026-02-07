@@ -79,7 +79,7 @@ Episode 438 | Recorded: May 21, 2025 """
 
 ### **Links and Resources**
 
-* [Patreon - Support Groong](https://www.patreon.com/ann_groong)
+* [Patreon - Support Groong](https://www.patreon.com/groong)
 * [Buy Me a Coffee - Support Groong](https://www.buymeacoffee.com/groong)
 
 ---

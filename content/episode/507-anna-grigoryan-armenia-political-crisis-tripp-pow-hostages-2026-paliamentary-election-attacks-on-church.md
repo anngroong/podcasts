@@ -107,7 +107,7 @@ Anna Grigoryan joins us to assess four Armenians returning from Baku amid contin
 # Wrap-up
 
 ### **Don't forget to support us:**
-* [Patreon - Support Groong](https://www.patreon.com/ann_groong)
+* [Patreon - Support Groong](https://www.patreon.com/groong)
 * [Buy Me a Coffee - Support Groong](https://www.buymeacoffee.com/groong)
 
 That’s our [show](https://podcasts.groong.org/)! We hope you found it useful, and you will SHARE OUR SHOWS with your friends on Social Media. That is a great way to support us.

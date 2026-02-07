@@ -131,7 +131,7 @@ In this Week in Review, we look at Armenia’s role at the SCO summit, where Pas
 # Wrap-up
 
 ### **Don't forget to support us:**
-* [Patreon - Support Groong](https://www.patreon.com/ann_groong)
+* [Patreon - Support Groong](https://www.patreon.com/groong)
 * [Buy Me a Coffee - Support Groong](https://www.buymeacoffee.com/groong)
 
 

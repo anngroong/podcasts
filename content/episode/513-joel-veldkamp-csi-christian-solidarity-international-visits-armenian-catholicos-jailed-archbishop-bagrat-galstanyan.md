@@ -100,7 +100,7 @@ Joel Veldkamp (CSI) returns to discuss CSI’s latest Armenia visit, including a
 # Wrap-up
 
 ### **Don't forget to support us:**
-* [Patreon - Support Groong](https://www.patreon.com/ann_groong)
+* [Patreon - Support Groong](https://www.patreon.com/groong)
 * [Buy Me a Coffee - Support Groong](https://www.buymeacoffee.com/groong)
 
 That’s our [show](https://podcasts.groong.org/)! We hope you found it useful. Please find us on [Social Media](https://linktr.ee/groong) and follow us everywhere you get your Armenian news.

@@ -149,7 +149,7 @@ The EU was 15.9% and Turkey was 5.4%.
 # Wrap-up
 
 ### **Don't forget to support us:**
-* [Patreon - Support Groong](https://www.patreon.com/ann_groong)
+* [Patreon - Support Groong](https://www.patreon.com/groong)
 * [Buy Me a Coffee - Support Groong](https://www.buymeacoffee.com/groong)
 
 

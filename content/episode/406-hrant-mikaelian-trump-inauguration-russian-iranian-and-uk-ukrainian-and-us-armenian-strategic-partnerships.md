@@ -101,5 +101,5 @@ That's our [Week in Review](https://podcasts.groong.org/), we hope you found it 
 Thanks to __Laura Osborn__ for the music on our podcasts.
 
 Don't forget to support us!
-* [Patreon - Support Groong](https://www.patreon.com/ann_groong)
+* [Patreon - Support Groong](https://www.patreon.com/groong)
 * [Buy Me a Coffee - Support Groong](https://www.buymeacoffee.com/groong)

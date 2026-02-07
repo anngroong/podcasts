@@ -86,7 +86,7 @@ In this Conversations on Groong episode, we speak with Ambassador Alberto M. Fer
 ## Other Resources
 
 - [Groong Podcast Linktree](https://linktr.ee/groong)  
-- [Support Groong on Patreon](https://www.patreon.com/ann_groong)  
+- [Support Groong on Patreon](https://www.patreon.com/groong)  
 - [Buy Me a Coffee – Support Groong](https://www.buymeacoffee.com/groong)
 
 

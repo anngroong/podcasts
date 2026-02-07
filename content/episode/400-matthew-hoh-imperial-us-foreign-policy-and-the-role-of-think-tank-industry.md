@@ -71,7 +71,7 @@ In this episode of *Conversations on Groong*, we dive deep into the intricate dy
 # Other Resources
 
 - [Link Tree](https://linktr.ee/groong)
-- [Patreon - Support Groong](https://www.patreon.com/ann_groong)
+- [Patreon - Support Groong](https://www.patreon.com/groong)
 - [Buy Me a Coffee - Support Groong](https://www.buymeacoffee.com/groong)
 
 ---

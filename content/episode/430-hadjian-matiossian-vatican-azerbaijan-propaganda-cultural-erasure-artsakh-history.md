@@ -97,7 +97,7 @@ Together, we examine how the Vatican’s actions fit into a larger pattern of co
 
 ## Other Resources
 
-- [Support Groong on Patreon](https://www.patreon.com/ann_groong)
+- [Support Groong on Patreon](https://www.patreon.com/groong)
 - [Buy Me A Coffee - Support Groong](https://www.buymeacoffee.com/groong)
 
 

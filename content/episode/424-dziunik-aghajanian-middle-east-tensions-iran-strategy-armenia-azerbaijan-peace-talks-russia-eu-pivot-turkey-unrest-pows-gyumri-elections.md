@@ -101,7 +101,7 @@ In this episode of the *Groong Week in Review*, we sit down with former Armenian
 ## Other Resources
 
 - [Link Tree](https://linktr.ee/groong)  
-- [Support Groong on Patreon](https://www.patreon.com/ann_groong)  
+- [Support Groong on Patreon](https://www.patreon.com/groong)  
 - [Buy Me a Coffee – Support Groong](https://www.buymeacoffee.com/groong)  
 
 # Wrap-up

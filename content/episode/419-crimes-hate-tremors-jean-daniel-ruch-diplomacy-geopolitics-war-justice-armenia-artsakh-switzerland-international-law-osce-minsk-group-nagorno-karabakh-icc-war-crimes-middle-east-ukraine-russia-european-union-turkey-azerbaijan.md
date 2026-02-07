@@ -107,7 +107,7 @@ This episode provides an **unfiltered look at diplomacy, power struggles, and th
 ---
 
 ## **Other Resources**
-💡 [Patreon – Support Groong](https://www.patreon.com/ann_groong)  
+💡 [Patreon – Support Groong](https://www.patreon.com/groong)  
 ☕ [Buy Me a Coffee – Support Groong](https://www.buymeacoffee.com/groong)  
 🔗 [Linktree – Stay Connected](https://linktr.ee/groong)  
 📰 [Groong News & Updates](https://groong.org/news/)  

@@ -95,7 +95,7 @@ Gev has held prominent roles with ANCA Western Region and the Armenian Youth Fed
 
 ### **Links and Resources**
 
-* [Patreon - Support Groong](https://www.patreon.com/ann_groong)
+* [Patreon - Support Groong](https://www.patreon.com/groong)
 * [Buy Me a Coffee - Support Groong](https://www.buymeacoffee.com/groong)
 
 ---

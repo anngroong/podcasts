@@ -76,7 +76,7 @@ In this Conversations on Groong episode, we speak with Levon Zourabian, Vice Pre
 ## Other Resources
 
 - [Linktree](https://linktr.ee/groong)  
-- [Patreon – Support Groong](https://www.patreon.com/ann_groong)  
+- [Patreon – Support Groong](https://www.patreon.com/groong)  
 - [Buy Me a Coffee – Support Groong](https://www.buymeacoffee.com/groong)
 
 # Wrap-up
@@ -86,6 +86,6 @@ That’s our [show](https://podcasts.groong.org/)! We hope you found it useful. 
 Thanks to **Laura Osborn** for the music on our podcasts.
 
 Don't forget to support us!
-* [Patreon - Support Groong](https://www.patreon.com/ann_groong)
+* [Patreon - Support Groong](https://www.patreon.com/groong)
 * [Buy Me a Coffee - Support Groong](https://www.buymeacoffee.com/groong)
 

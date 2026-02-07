@@ -79,7 +79,7 @@ This Week in Review episode was recorded on April 29, 2025. We’re joined by di
 ## Other Resources
 
 - [Link Tree](https://linktr.ee/groong)  
-- [Support Groong on Patreon](https://www.patreon.com/ann_groong)  
+- [Support Groong on Patreon](https://www.patreon.com/groong)  
 - [Buy Me a Coffee – Support Groong](https://www.buymeacoffee.com/groong)  
 
 # Wrap-up

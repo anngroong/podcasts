@@ -72,7 +72,7 @@ In this *Week in Review* episode, we discuss with Dr. Anna Karapetyan Azerbaijan
 
 ### **Links and Resources**
 
-* [Patreon - Support Groong](https://www.patreon.com/ann_groong)
+* [Patreon - Support Groong](https://www.patreon.com/groong)
 * [Buy Me a Coffee - Support Groong](https://www.buymeacoffee.com/groong)
 
 ---
