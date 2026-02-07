@@ -71,7 +71,7 @@ James W.Carden and Pietro A. Shakarian assess Trump 2.0’s “Donroe Doctrine�
   https://www.axios.com/2026/02/06/tim-scott-trump-obama-ape-video
 - The Realist Review (Substack)  
   https://therealistreview.substack.com/
-- Indiana University Press: *Anastas Mikoyan*  
+- Dr. Pietro Shakarian's book: *Anastas Mikoyan*
   https://iupress.org/9780253073556/anastas-mikoyan/
 
 
