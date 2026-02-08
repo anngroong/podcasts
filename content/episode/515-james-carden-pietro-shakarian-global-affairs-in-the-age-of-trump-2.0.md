@@ -1,6 +1,6 @@
 +++
 Date = 2026-02-07T00:08:00+04:00
-upcoming = true
+upcoming = false
 
 title = "James Carden & Pietro Shakarian - Global Affairs in the Age of Trump 2.0 | Ep 515, Feb 7, 2026"
 subtitle = "Conversations on Groong - Recorded on February 6, 2026"
@@ -9,10 +9,10 @@ episode_image = "img/episode/515/thumbnail-515.webp"
 episode_banner = "img/episode/515/banner-515.webp"
 images = ["img/episode/515/banner-515.webp"]
 
-podcast_file = "" 
-podcast_duration = ""
-podcast_bytes = ""
-youtube = ""
+podcast_file = "18642069-james-carden-pietro-shakarian-global-affairs-in-the-age-of-trump-2-0-ep-515-feb-7-2026.mp3"
+podcast_duration = "4076"
+podcast_bytes = "48960447"
+youtube = "xMJbLDXADGU"
 
 hosts = ["asbed", "hovik"]
 guests = ["jcarden", "pshakarian"]
