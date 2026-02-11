@@ -1,6 +1,6 @@
 +++
 Date = 2026-02-11T02:30:00+04:00
-upcoming = true
+upcoming = false
 
 title = "Philippe Raffi Kalfayan - Europe and America, JD Vance in Armenia, Pashinyan vs. Church | Ep 516, Feb 8, 2026"
 subtitle = "Groong Week in Review - February 8, 2026"
@@ -9,10 +9,10 @@ episode_image = "img/episode/516/thumbnail-516.webp"
 episode_banner = "img/episode/516/banner-516.webp"
 images = ["img/episode/516/banner-516.webp"]
 
-podcast_file     = ""
-podcast_duration = ""
-podcast_bytes    = ""
-youtube = ""
+podcast_file     = "18665455-philippe-raffi-kalfayan-europe-and-america-jd-vance-in-armenia-pashinyan-vs-the-armenian-church-ep-516-feb-8-2026.mp3"
+podcast_duration = "3702"
+podcast_bytes    = "44461355"
+youtube = "nzyLDoPOREY"
 
 hosts = ["asbed", "hovik"]
 guests = ["prkalfayan"]
