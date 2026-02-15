@@ -73,6 +73,10 @@ James W.Carden and Pietro A. Shakarian assess Trump 2.0’s “Donroe Doctrine�
   https://therealistreview.substack.com/
 - Dr. Pietro Shakarian's book: *Anastas Mikoyan*  
   https://iupress.org/9780253073556/anastas-mikoyan/
+- Dr. Shakarian's latest article on the topic in *The Nation* is __JD Vance: A Prisoner of the Caucasus__  
+  https://www.thenation.com/article/world/vance-russia-armenia-genocide/
+
+
 
 
 
