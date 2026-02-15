@@ -21,7 +21,7 @@ aliases = ["/517"]
 
 series = ["cog", "video"]
 categories = ["Armenia", "Politics"]
-#tags = []
+tags = ["Armenian News", "Armenia", "JD Vance", "Yerevan", "Tsitsernakaberd", "Armenian Genocide", "Turkey", "Erdogan", "US Armenia relations", "TRIPP", "Zangezur Corridor", "Syunik", "sovereignty", "transit corridor", "Azerbaijan", "Ilham Aliyev", "Baku", "Armenian prisoners", "POWs", "hostages", "energy", "AI", "Firebird AI factory", "data center", "Hrazdan", "small nuclear reactor", "SMR", "Metsamor", "Rosatom", "uranium fuel supply", "energy security", "drones", "V-BAT", "military aid", "Armenian Church", "Catholicos", "Armenia elections", "Nikol Pashinyan"]
 
 Description = """
 
@@ -49,3 +49,4 @@ Episode 517 | Recorded: February 13, 2026
 That’s our [show](https://podcasts.groong.org/)! We hope you found it useful. Please find us on [Social Media](https://linktr.ee/groong) and follow us everywhere you get your Armenian news.
 
 Thanks to **Laura Osborn** for the music on our podcasts.
+
