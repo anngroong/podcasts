@@ -9,10 +9,10 @@ episode_image = "img/episode/517/thumbnail-517.webp"
 episode_banner = "img/episode/517/banner-517.webp"
 images = ["img/episode/517/banner-517.webp"]
 
-podcast_file = "###.mp3" # the name of the podcast file, after the media prefix.
-podcast_duration = ""
-podcast_bytes = ""
-#youtube = ""
+podcast_file     = "18685232-jd-vance-in-armenia-and-azerbaijan-ep-517-feb-15-2026.mp3"
+podcast_duration = "3694"
+podcast_bytes    = "44368284"
+youtube = "4FEVG-lJVkE"
 
 hosts = ["asbed", "hovik"]
 #guests = []
