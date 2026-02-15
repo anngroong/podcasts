@@ -107,18 +107,27 @@ Total facility demand ≈ **110-140 MW**
 
 ## Referenced Articles & Sources
 
+### Tsitsernakaberd, Genocide recognition, and protocol optics
 - [Pelosi Congressional Delegation Visit Dzidzernagapert](https://asbarez.com/pelosi-congressional-delegation-visit-dzidzernagapert/)
+
+### Nuclear cooperation and reactor economics
 - [US and Armenia sign agreement on nuclear energy](https://world-nuclear-news.org/articles/us-armenia-sign-agreement-on-nuclear-energy)
-- [How much electricity do data centers use?](https://solartechonline.com/blog/how-much-electricity-data-center-use-guide)
+- [Vance’s “$9B export” figure sparks confusion](https://oc-media.org/vances-9-billion-figure-for-exports-in-us-armenia-nuclear-energy-cooperation-sparks-confusion/)
 - [Opposition figure comments on nuclear deal and China offer](https://www.panorama.am/en/news/2026/02/10/opposition-figure-nuclear-deal/3151690)
 - [Rosatom VVER-1200 cost reference (Xudabao-3)](https://asiatimes.com/2021/08/its-full-speed-ahead-at-xudabao-3-nuclear-plant/)
 - [Korea to resume construction of Shin Hanul 3 and 4](https://www.neimagazine.com/news/korea-to-resume-construction-of-shin-hanul-34-10946507/)
-- [Vance’s “$9B export” figure sparks confusion](https://oc-media.org/vances-9-billion-figure-for-exports-in-us-armenia-nuclear-energy-cooperation-sparks-confusion/)
-- [CivilNet clip on Vance and “prisoners” (X)](https://x.com/CivilNetTV/status/2021205593768280256)
-- [Vance endorsement remarks on Armenia government site](https://www.primeminister.am/en/press-release/item/2026/02/09/Nikol-Pashinyan-J-D-Vance-Announcement/)
-- [Vance and Aliyev sign “Strategic Partnership Charter” (Minval)](https://minval.az/news/124515952)
-- [Vance claims to have discussed release of prisoners with Aliyev](https://asbarez.com/vance-claims-to-have-discussed-release-of-prisoners-with-aliyev/)
+
+### Firebird AI factory, data centers, and power draw
+- [How much electricity do data centers use?](https://solartechonline.com/blog/how-much-electricity-data-center-use-guide)
 - [Supermicro GB300 NVL72 datasheet (rack power reference)](https://www.supermicro.com/datasheet/datasheet_SuperCluster_GB300_NVL72.pdf)
+
+### Elections, endorsement, and domestic politics
+- [Vance endorsement remarks on Armenia government site](https://www.primeminister.am/en/press-release/item/2026/02/09/Nikol-Pashinyan-J-D-Vance-Announcement/)
+
+### Azerbaijan visit, charter signing, and “prisoners” claims
+- [Vance and Aliyev sign “Strategic Partnership Charter” (Minval)](https://minval.az/news/124515952)
+- [CivilNet clip on Vance and “prisoners” (X)](https://x.com/CivilNetTV/status/2021205593768280256)
+- [Vance claims to have discussed release of prisoners with Aliyev](https://asbarez.com/vance-claims-to-have-discussed-release-of-prisoners-with-aliyev/)
 
 # Wrap-up
 
