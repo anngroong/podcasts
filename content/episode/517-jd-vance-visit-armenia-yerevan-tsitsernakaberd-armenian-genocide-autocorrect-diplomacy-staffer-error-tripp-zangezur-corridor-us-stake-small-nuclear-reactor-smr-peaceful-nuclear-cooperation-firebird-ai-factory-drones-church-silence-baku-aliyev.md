@@ -1,6 +1,5 @@
 +++
 Date = 2026-02-15T11:00:00-08:00
-upcoming = true # set to true if you want this to be listed as upcoming, etc, etc
 
 title = "JD Vance in Armenia and Azerbaijan | Ep 517, Feb 15, 2026"
 subtitle = "Conversations on Groong - Feb 15, 2026"
