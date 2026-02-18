@@ -100,10 +100,9 @@ In this episode, guest host Bedros Afeyan speaks with documentary filmmaker Dian
 
 # Referenced Articles & Sources
 
+- [Ojakh, on the other side of silence](https://www.capuseen.com/films/9253-ojakh-on-the-other-side-of-silence) - in original French, with English subtitles.
 - [The Critical Corner (TCC) – ANN/Groong](https://groong.org/tcc)
-
 - [Bedros Afeyan, *A Critical Essay on the Movie Ojakh: A Marvel to Behold* (Dec 15, 2025)](https://groong.org/tcc/tcc-20251215-bedros-afeyan-ojakh-documentary-diana-mkrtchyan.html)
-
 - [Erhan Arik – *Horovel* Photography Exhibit](https://www.depoistanbul.net/en/exhibition-horovel/)
 
 
