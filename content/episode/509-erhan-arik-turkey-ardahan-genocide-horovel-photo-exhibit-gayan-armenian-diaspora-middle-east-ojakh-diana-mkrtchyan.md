@@ -76,6 +76,7 @@ Bedros Afeyan speaks with photographer and photojournalist Erhan Arik about the 
 - __Ojakh__ (documentary project with Diana Mkrtchyan)
 - __Our Seeds__ / Tohum (documentary project)
 - __Yearning / Garod__ (film referenced as an analogy)
+- [__Ojakh, on the other side of silence__](https://www.capuseen.com/films/9253-ojakh-on-the-other-side-of-silence) - in original French, with English subtitles.
 
 
 
