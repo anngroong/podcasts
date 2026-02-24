@@ -38,7 +38,7 @@ Description = """
 * Politics, Christianity, Nakharar Power Dynamics
 
 
-Episode 518 | Recorded: February 22, 2026
+Episode 518 | Recorded: February 22, 2026"""
 
 +++
 
