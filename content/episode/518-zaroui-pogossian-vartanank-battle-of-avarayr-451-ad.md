@@ -29,7 +29,7 @@ Description = """
 * [linktr.ee/Groong](https://linktr.ee/groong)
 
 #### Guest:
-* [Prof. Zaroui Pogossian](https://podcasts.groong.org/guest/apogossian)
+* [Prof. Zaroui Pogossian](https://podcasts.groong.org/guest/zpogossian)
 
 #### Topics:
 * Vardanank Wars and Battle of Avarayr
