@@ -75,9 +75,10 @@ In the inaugural **Groong Deep History** episode, historian **Prof. Zaroui Pogos
     * Eghishe:
         * [Eghishe: “History of Vardan and The Armenian War” (archive.org)](archive.org)
         * Video of Armenian [narration](https://www.youtube.com/playlist?list=PLFXf6rKUk-7xlJaNAaAfEyRxw2NdwkPtX) of Eghishe’s history
+        * Archbishop Boghos Levon Zekian’s [analysis](https://dn720005.ca.archive.org/0/items/zekiyan-1980-eghishe-as-witness/Zekiyan_1980_Eghishe_as_Witness.pdf) of Eghishe’s history
     * Parpetsi:
         * [Ghazar P'arpec'i's History of the Armenians (attalus.org)](http://attalus.org/armenian/gpintro.htm)
-* [Battle of Avarayr](https://arar.sci.am/dlibra/publication/192516/edition/174891?language=en) by Hayk Hakobyan
+* [Battle of Avarayr](https://arar.sci.am/dlibra/publication/192516/edition/174891?language=en) by historian Hayk Hakobyan
 * [Interview](https://www.youtube.com/watch?v=gW7MgHK5FPY) of Hayk Hakobyan on Bun TV
 
 # Wrap-up
