@@ -9,9 +9,9 @@ episode_image = "img/episode/520/thumbnail-520.webp"
 episode_banner = "img/episode/520/banner-520.webp"
 images = ["img/episode/520/banner-520.webp"]
 
-podcast_file     = ""
-podcast_duration = ""
-podcast_bytes    = ""
+podcast_file     = "18786762-hrant-mikaelian-iran-war-effect-on-armenia-sumgait-pogroms-ep-520-mar-1-2026.mp3"
+podcast_duration = "2963"
+podcast_bytes    = "35592554"
 youtube = "TA-sYfuQYgk"
 
 hosts = ["asbed", "hovik"]
