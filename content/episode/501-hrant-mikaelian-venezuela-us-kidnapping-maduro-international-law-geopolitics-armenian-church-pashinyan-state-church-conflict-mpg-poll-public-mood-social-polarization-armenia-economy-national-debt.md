@@ -18,8 +18,8 @@ guests = ["hmikaelian"]
 episode = "501"
 aliases = ["/501"]
 
-series = ["wir", "video", "poll"]
-categories = ["Armenia", "Politics"]
+series = ["wir", "video"]
+categories = ["Armenia", "Politics", "Poll"]
 tags = ["Armenian News", "Venezuela", "Armenian Church", "MPG Survey", "MPG Poll", "Hrant Mikaelian", "Armenia", "Economy", "Azerbaijan", "Artsakh", "Nagorno Karabakh", "Republic of Artsakh", "Religious Persecution", "Attacks on Church", "Nikol Pashinyan", "Ilham Aliyev", "Nicolas Maduro", "Delcy Rodriguez", "Donald Trump", "Shoghakat", "Media Repression", "Freedom of Religion", "Freedom of Speech", "Apostolic Church", "Armenian Catholicos", "Karekin II", "Garegin II", "Bern", "Switzerland", "Mer Dzevov", "Samvel Karapetyan", "Pativ Unem", "Armenia Alliance", "Hayastan Dashinq"]
 
 Description = """
