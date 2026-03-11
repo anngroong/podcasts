@@ -1,6 +1,6 @@
 +++
 Date = 2026-03-11T01:00:00+04:00
-upcoming = true
+upcoming = false
 
 title = "Hrant Mikaelian - Iran War, IRI Poll Review, Armenian Political Landscape for 2026 Election | Ep 521, Mar 8, 2026"
 subtitle = "Groong Week in Review - March 8, 2026"
@@ -9,10 +9,10 @@ episode_image = "img/episode/521/thumbnail-521.webp"
 episode_banner = "img/episode/521/banner-521.webp"
 images = ["img/episode/521/banner-521.webp"]
 
-podcast_file     = ""
-podcast_duration = ""
-podcast_bytes    = ""
-youtube = ""
+podcast_file     = "18828570-hrant-mikaelian-iran-war-update-iri-poll-review-armenian-political-landscape-ep-521-mar-8-2026.mp3"
+podcast_duration = "4622"
+podcast_bytes    = "55503895"
+youtube = "ZLG9iJ6uxyI"
 
 hosts = ["asbed", "hovik"]
 guests = ["hmikaelian"]
