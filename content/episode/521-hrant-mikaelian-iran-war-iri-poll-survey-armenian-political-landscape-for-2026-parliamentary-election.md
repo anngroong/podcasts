@@ -126,6 +126,51 @@ We discuss with Hrant Mikaelian the expanding war on Iran and what it could mean
 - [Groong Ep. 521 Episode Page](https://podcasts.groong.org/521-hrant-mikaelian-venezuela-us-kidnapping-maduro-international-law-geopolitics-armenian-church-pashinyan-state-church-conflict-mpg-poll-public-mood-social-polarization-armenia-economy-national-debt/)
 - [Episode 521](https://podcasts.groong.org/521)
 
+## IRI Poll Screenshots
+
+### Slide 2: Detailed Methodology
+
+![alt_text](/img/episode/521/iri/poll-02.webp "image_tooltip")
+
+### General Outlook
+
+#### Slide 6: Generally speaking, do you think that Armenia is heading in the right direction or the wrong direction?
+
+![alt_text](/img/episode/521/iri/poll-06.webp "image_tooltip")
+
+#### Slide 8: What are the main problems Armenia is currently facing?
+
+![alt_text](/img/episode/521/iri/poll-08.webp "image_tooltip")
+
+#### Slide 14: Household: Problems, Time Series
+
+![alt_text](/img/episode/521/iri/poll-14.webp "image_tooltip")
+
+### Attitude Towards Politicians and Political Institutions
+
+#### Slide 18: Satisfaction with Institutions
+
+![alt_text](/img/episode/521/iri/poll-18.webp "image_tooltip")
+
+#### Slide 24: Institutions: Church
+
+![alt_text](/img/episode/521/iri/poll-24.webp "image_tooltip")
+
+#### Slide 26: Institutions: Church vs. Church Leadership
+
+![alt_text](/img/episode/521/iri/poll-267.png "image_tooltip")
+
+### Elections
+
+![alt_text](/img/episode/521/iri/poll-308.webp "image_tooltip")
+
+#### Slide 31: Which party did you vote for in 2021?
+
+![alt_text](/img/episode/521/iri/poll-31.webp "image_tooltip")
+
+####  Slide 33: Which party will you vote for in 2026?
+
+![alt_text](/img/episode/521/iri/poll-33..png "image_tooltip")
 
 
 # Wrap-up
