@@ -71,16 +71,45 @@ We discuss with Hrant Mikaelian the expanding war on Iran and what it could mean
   - anomalies around recalled turnout in the 2021 election
   - party preference numbers, especially the gap between the IRI and Empirica findings on Civil Contract and Strong Armenia
   
-![MPG Slide 3](/img/episode/521/poll/mpg-03.webp "Slide 3: Most important issues facing Armenia")
+#### Slide 2: Detailed Methodology
+![IRI Slide 2](/img/episode/521/poll/iri-02.webp "Slide 2: Detailed Methodology")
 
 
-![MPG Slide 3](/img/episode/521/poll/mpg-03.webp "Slide 3: Most important issues facing Armenia")
+#### Slide 6: Generally speaking, do you think that Armenia is heading in the right direction or the wrong direction?
+![IRI Slide 6](/img/episode/561/poll/iri-06.webp "Slide 6: XXX")
 
 
-![MPG Slide 3](/img/episode/521/poll/mpg-03.webp "Slide 3: Most important issues facing Armenia")
+#### Slide 8: What are the main problems Armenia is currently facing?
+![IRI Slide 8](/img/episode/521/poll/iri-08.webp "Slide 8: What are the main problems Armenia is currently facing?")
 
 
-![MPG Slide 3](/img/episode/521/poll/mpg-03.webp "Slide 3: Most important issues facing Armenia")
+#### Slide 14: Household: Problems, Time Series
+![IRI Slide 14](/img/episode/521/poll/iri-14.webp "Slide 14: Household: Problems, Time Series")
+
+
+#### Slide 18: Satisfaction with Institutions
+![IRI Slide 18](/img/episode/521/poll/iri-18.webp "Slide 18: Satisfaction with Institutions")
+
+
+#### Slide 24: Institutions: Church
+![IRI Slide 24](/img/episode/521/poll/iri-24.webp "Slide 24: Institutions: Church")
+
+
+#### Slide 26: Institutions: Church vs. Church Leadership
+![IRI Slide 26](/img/episode/521/poll/iri-26.webp "Slide 26: Institutions: Church vs. Church Leadership")
+
+
+#### Slide 30: Did you vote in June, 2021
+![IRI Slide 30](/img/episode/521/poll/iri-30.webp "Slide 30: Did you vote in June, 2021")
+
+
+#### Slide 31: Which party did you vote for in 2021?
+![IRI Slide 31](/img/episode/521/poll/iri-31.webp "Slide 31: Which party did you vote for in 2021?")
+
+
+#### Slide 34: Which party did you vote for if elections were to be held next Sunday]
+![IRI Slide 34](/img/episode/521/poll/iri-34.webp "Slide 34: Which party did you vote for if elections were to be held next Sunday")
+
 
 
 
