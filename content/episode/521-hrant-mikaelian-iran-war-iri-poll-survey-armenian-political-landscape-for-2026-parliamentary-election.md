@@ -76,7 +76,7 @@ We discuss with Hrant Mikaelian the expanding war on Iran and what it could mean
 
 
 #### Slide 6: Generally speaking, do you think that Armenia is heading in the right direction or the wrong direction?
-![IRI Slide 6](/img/episode/561/poll/iri-06.webp "Slide 6: XXX")
+![IRI Slide 6](/img/episode/521/poll/iri-06.webp "Slide 6: XXX")
 
 
 #### Slide 8: What are the main problems Armenia is currently facing?
