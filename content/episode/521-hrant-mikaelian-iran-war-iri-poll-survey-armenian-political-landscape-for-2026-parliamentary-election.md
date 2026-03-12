@@ -48,18 +48,19 @@ We discuss with Hrant Mikaelian the expanding war on Iran and what it could mean
 
 # Main Topics Addressed
 
-### Iran war update
+## Iran war update
 - The panel discussed the 11th day of the U.S.-Israeli war on Iran, including attacks on Iranian oil infrastructure near Tehran and the broader economic and geopolitical fallout.
 - Hrant argued that the selection of Ayatollah Mojtaba Khamenei signaled continuity and escalation rather than regime collapse, and reflected the growing weight of Iran’s security apparatus.
 - The conversation examined whether the war was likely to move toward diplomacy, what an American off-ramp might look like, and what Iran could plausibly count as a strategic victory.
 - They also discussed how the war could affect the TRIPP and Armenia’s regional position.
 
-### Azerbaijan-Iran tensions during the war
+## Azerbaijan-Iran tensions during the war
 - The hosts reviewed the rapid escalation after Azerbaijan accused Iran of a drone strike, followed by threats, mobilization, and then a quick de-escalation after the Aliyev-Pezeshkian call.
 - Hrant described Azerbaijan’s behavior as opportunistic but constrained, arguing that Baku is unlikely to enter the war directly unless Iran faces state collapse or severe disintegration.
 - The conversation also explored the apparent difference between the posture of Iran’s presidency and that of the IRGC on Azerbaijan, Israel, and the regional balance.
 
-# IRI poll review
+## IRI poll review
+
 - The show examined the latest IRI poll, focusing first on the polling window, sample size, reported margin of error, and especially the unusually high 22% response rate.
 - The hosts and Hrant questioned whether the timing of the poll, during JD Vance’s visit to Armenia, may have affected responses.
 - They also discussed Pashinyan’s meetings with IRI president Dan Twining, and whether the government appeared to have advance familiarity with the poll’s results.
@@ -76,7 +77,7 @@ We discuss with Hrant Mikaelian the expanding war on Iran and what it could mean
 
 
 #### Slide 6: Generally speaking, do you think that Armenia is heading in the right direction or the wrong direction?
-![IRI Slide 6](/img/episode/521/poll/iri-06.webp "Slide 6: XXX")
+![IRI Slide 6](/img/episode/521/poll/iri-06.webp "Slide 6: Right or wrong direction?")
 
 
 #### Slide 8: What are the main problems Armenia is currently facing?
@@ -111,13 +112,7 @@ We discuss with Hrant Mikaelian the expanding war on Iran and what it could mean
 ![IRI Slide 34](/img/episode/521/poll/iri-34.webp "Slide 34: Which party did you vote for if elections were to be held next Sunday")
 
 
-
-
-  
-  
-  
-
-# Armenia’s political landscape before the elections
+## Armenia’s political landscape before the elections
 - The final part of the show surveyed the opposition field ahead of the parliamentary elections.
 - Hrant framed the race as different from prior elections because it is no longer only a referendum on the current government versus former governments.
 - He discussed the roles, prospects, and voter bases of:
@@ -128,7 +123,7 @@ We discuss with Hrant Mikaelian the expanding war on Iran and what it could mean
 - A key thread in this section was that newer opposition actors may benefit from not being associated either with Pashinyan’s failures or with the older ruling elite.
 - The episode closed with a discussion of why the opposition still struggles to convert dissatisfaction into support, with Hrant pointing to media imbalance, weak national reach, and a strongly pro-government broadcast landscape.
 
-## Key Questions Discussed
+# Key Questions Discussed
 
 - What signal did Iran send by elevating Mojtaba Khamenei after the assassination of Ali Khamenei?
 - Is Iran showing signs of military exhaustion, or does it still retain escalation capacity?
@@ -143,7 +138,6 @@ We discuss with Hrant Mikaelian the expanding war on Iran and what it could mean
 - Why does the IRI party-preference slide differ so much from the Empirica numbers?
 - Which opposition forces have real growth potential, and what is blocking them from reaching undecided voters?
 
-
 # Referenced Articles & Sources
 
 - [Pezeshkian Apology Report, Politico Europe](https://www.politico.eu/article/iran-masoud-pezeshkian-apologize-bomb-neighbor-israel-us-war/)
@@ -155,59 +149,11 @@ We discuss with Hrant Mikaelian the expanding war on Iran and what it could mean
 - [Groong Ep. 521 Episode Page](https://podcasts.groong.org/521-hrant-mikaelian-venezuela-us-kidnapping-maduro-international-law-geopolitics-armenian-church-pashinyan-state-church-conflict-mpg-poll-public-mood-social-polarization-armenia-economy-national-debt/)
 - [Episode 521](https://podcasts.groong.org/521)
 
-## IRI Poll Screenshots
-
-### Slide 2: Detailed Methodology
-
-![alt_text](/img/episode/521/iri/poll-02.webp "image_tooltip")
-
-### General Outlook
-
-#### Slide 6: Generally speaking, do you think that Armenia is heading in the right direction or the wrong direction?
-
-![alt_text](/img/episode/521/iri/poll-06.webp "image_tooltip")
-
-#### Slide 8: What are the main problems Armenia is currently facing?
-
-![alt_text](/img/episode/521/iri/poll-08.webp "image_tooltip")
-
-#### Slide 14: Household: Problems, Time Series
-
-![alt_text](/img/episode/521/iri/poll-14.webp "image_tooltip")
-
-### Attitude Towards Politicians and Political Institutions
-
-#### Slide 18: Satisfaction with Institutions
-
-![alt_text](/img/episode/521/iri/poll-18.webp "image_tooltip")
-
-#### Slide 24: Institutions: Church
-
-![alt_text](/img/episode/521/iri/poll-24.webp "image_tooltip")
-
-#### Slide 26: Institutions: Church vs. Church Leadership
-
-![alt_text](/img/episode/521/iri/poll-267.png "image_tooltip")
-
-### Elections
-
-![alt_text](/img/episode/521/iri/poll-308.webp "image_tooltip")
-
-#### Slide 31: Which party did you vote for in 2021?
-
-![alt_text](/img/episode/521/iri/poll-31.webp "image_tooltip")
-
-####  Slide 33: Which party will you vote for in 2026?
-
-![alt_text](/img/episode/521/iri/poll-33..png "image_tooltip")
-
-
 # Wrap-up
 
 ### **Don't forget to support us:**
 * [Patreon - Support Groong](https://www.patreon.com/groong)
 * [Buy Me a Coffee - Support Groong](https://www.buymeacoffee.com/groong)
-
 
 That’s our [show](https://podcasts.groong.org/)! We hope you found it useful. Please find us on [Social Media](https://linktr.ee/groong) and follow us everywhere you get your Armenian news.
 
