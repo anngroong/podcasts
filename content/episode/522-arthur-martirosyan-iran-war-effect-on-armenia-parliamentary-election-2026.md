@@ -1,6 +1,6 @@
 +++
 Date = 2026-03-16T02:00:00+04:00
-upcoming = true
+upcoming = false
 
 title = "Arthur Martirosyan - Iran War, Effect on Armenia, June Parliamentary | Ep 522, Mar 15, 2026"
 subtitle = "Groong Week in Review - March 15, 2026"
@@ -9,10 +9,10 @@ episode_image = "img/episode/522/thumbnail-522.webp"
 episode_banner = "img/episode/522/banner-522.webp"
 images = ["img/episode/522/banner-522.webp"]
 
-podcast_file     = ""
-podcast_duration = ""
-podcast_bytes    = ""
-youtube = ""
+podcast_file     = "18863164-arthur-martirosyan-iran-war-effect-on-armenia-june-parliamentary-ep-522-mar-15-2026.mp3"
+podcast_duration = "3085"
+podcast_bytes    = "37054080"
+youtube = "tAZu09ucvlA"
 
 hosts = ["asbed", "hovik"]
 guests = ["amartirosyan"]
