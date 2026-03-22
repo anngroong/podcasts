@@ -11,11 +11,12 @@ GitHub = ""
 Thumbnail = "img/guest/YoungMin-Lee-1.webp"
 Pinterest = ""
 Instagram = "YoungMinSkies"
-YouTube = "YoungMinSkies"
+YouTube = "@YoungMinSkies"
 Telegram = ""
 Twitch = ""
 #Aka = []
 #guest_group = ""
 +++
 
-__YoungMin__ is a traveler and vlogger, who visited Artsakh, Nagorno Karabakh, earlier in 2026. He [documented his Artsakh experience](https://www.youtube.com/watch?v=y4jE8qRIz60) in a video on his YouTube channel YoungMin Skies. Artsakh was YoungMin's 129'th country visited (in 2026).
+__YoungMin__ is a traveler and vlogger, who visited Artsakh, Nagorno Karabakh, earlier in 2026. He [documented his Artsakh experience](https://www.youtube.com/watch?v=y4jE8qRIz60) in a video on his YouTube channel YoungMin Skies. Artsakh was YoungMin's 129'th country visited.
+
