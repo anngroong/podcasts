@@ -1,9 +1,9 @@
 +++
-Date = 2026-03-23T11:00:00-07:00
+Date = 2026-03-22T18:00:00-07:00
 upcoming = true
 
-title = "YoungMin - Travel Blogger’s Visit to Artsakh, post September 2023 | Ep 526, Mar 23, 2026"
-subtitle = "Conversations on Groong - March 23, 2026"
+title = "YoungMin - Travel Blogger’s Visit to Artsakh, post September 2023 | Ep 526, Mar 22, 2026"
+subtitle = "Conversations on Groong - March 22, 2026"
 
 episode_image = "img/episode/526/thumbnail-526.webp"
 episode_banner = "img/episode/526/banner-526.webp"
