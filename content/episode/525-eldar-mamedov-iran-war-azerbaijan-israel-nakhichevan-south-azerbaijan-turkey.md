@@ -1,6 +1,5 @@
 +++
 Date = 2026-03-22T11:00:00-07:00
-upcoming = true
 
 title = "Eldar Mamedov - Iran War: The Northern Front | Ep 525, Mar 22, 2026"
 subtitle = "Conversations on Groong - March 22, 2026"
