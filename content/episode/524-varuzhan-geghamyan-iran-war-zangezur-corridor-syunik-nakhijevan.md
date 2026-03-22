@@ -41,9 +41,10 @@ Episode 524 | Recorded: March 19, 2026
 #IranWar #VaruzhanGeghamyan #ZangezurCorridor #Syunik #ArmeniaGeopolitics"""
 +++
 
-This episode examines the ongoing US-Israeli war on Iran through a regional lens, focusing on the war’s broader strategic aims, Azerbaijan’s possible role as a northern pressure point against Iran, Turkey’s ambiguous posture, and Armenia’s growing vulnerability in the middle of these shifts. The conversation also looks at the geopolitical meaning of the TRIPP or “Zangezur Corridor” project, the recent centralization of control over Nakhijevan, and Varuzhan Geghamyan’s new book on the historical roots and present danger of the corridor agenda.
+# Summary
+We examine the ongoing US-Israeli war on Iran through a regional lens, focusing on the war’s broader strategic aims, Azerbaijan’s possible role as a northern pressure point against Iran, Turkey’s ambiguous posture, and Armenia’s growing vulnerability in the middle of these shifts. Prof.Geghamyan also looks at the geopolitical meaning of the TRIPP or “Zangezur Corridor” project, the recent centralization of control over Nakhijevan, and Geghamyan’s new book “The Armenian Wedge in the Path of Turan: The Issue of the “Zangezur Corridor,” on the historical roots and present danger of the corridor agenda.
 
-## Main Topics Addressed
+# Main Topics Addressed
 
 - The current state of the US-Israeli war on Iran, and the question of whether military escalation has strengthened rather than weakened Iran.
 - Whether Washington and Tel Aviv are pursuing the same war aims, or whether their objectives diverge at the strategic level.
@@ -55,7 +56,7 @@ This episode examines the ongoing US-Israeli war on Iran through a regional lens
 - Armenia’s exposure to regional pressure through the TRIPP or “Zangezur Corridor” framework, and whether current policy leaves the country more secure or more vulnerable.
 - Varuzhan Geghamyan’s new book, *The Armenian Wedge in the Path of Turan: The Issue of the “Zangezur Corridor”*, and its argument that the corridor is part of a much older Turkish-Azerbaijani geopolitical project.
 
-## Key Questions Discussed
+# Key Questions Discussed
 
 - Why are we in this war, and what larger strategic logic is driving it?
 - Are the US and Israel pursuing the same outcome in Iran?
@@ -72,7 +73,7 @@ This episode examines the ongoing US-Israeli war on Iran through a regional lens
 - What is the central argument of Varuzhan’s new book, and how has it been received?
 - Will the book be translated into English?
 
-## Referenced Articles & Sources
+# Referenced Articles & Sources
 
 - [MAIRD Hosts Book Presentation of “The Armenian Wedge in the Path of Turan: The Issue of the Zangezur Corridor”](https://newsroom.aua.am/2025/12/08/maird-hosts-book-presentation-zangezur-corridor/)
 - [Varuzhan Geghamyan on the Anti-Azerbaijani Wave in Turkish Media](https://tert.am/en/news/2026/03/07/Varuzhan%20Geghamyan/4262892)
