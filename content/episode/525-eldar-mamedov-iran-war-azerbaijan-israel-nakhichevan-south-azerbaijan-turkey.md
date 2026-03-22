@@ -9,9 +9,9 @@ episode_image = "img/episode/525/thumbnail-525.webp"
 episode_banner = "img/episode/525/banner-525.webp"
 images = ["img/episode/525/banner-525.webp"]
 
-podcast_file = "###.mp3" # the name of the podcast file, after the media prefix.
-podcast_duration = ""
-podcast_bytes = ""
+podcast_file     = "18885600-eldar-mamedov-iran-war-the-northern-front-ep-525-mar-22-2026.mp3"
+podcast_duration = "2834"
+podcast_bytes    = "34043021"
 youtube = "pWd_-iNIM8E"
 
 hosts = ["asbed", "hovik"]
