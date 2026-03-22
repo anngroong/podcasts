@@ -84,7 +84,11 @@ We examine the ongoing US-Israeli war on Iran through a regional lens, focusing 
 
 # Wrap-up
 
-That’s our [show](https://podcasts.groong.org/)! We hope you found it useful. Please find us on [Social Media](https://linktr.ee/groong) and follow us everywhere you get your Armenian news.
+### **Links and Resources**
 
-Thanks to **Laura Osborn** for the music on our podcasts.
+* [Patreon - Support Groong](https://www.patreon.com/groong)
+* [Buy Me a Coffee - Support Groong](https://www.buymeacoffee.com/groong)
 
+That's our [Week in Review](https://podcasts.groong.org/), we hope you found it helpful. We invite your feedback and your suggestions, you can [find us](https://linktr.ee/groong) on most social media and podcast platforms.
+
+Thanks to __Laura Osborn__ for the music on our podcasts.
