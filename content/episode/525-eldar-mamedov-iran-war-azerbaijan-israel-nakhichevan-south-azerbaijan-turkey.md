@@ -41,9 +41,10 @@ Episode 525 | Recorded: March 20, 2026
 #GroongPodcast #EldarMamedov #IranWar #Azerbaijan #SouthCaucasus"""
 +++
 
-In this episode of *Conversations on Groong*, we speak with Eldar Mamedov about the widening regional dimensions of the Iran war, with a focus on Azerbaijan’s role, the risk of a northern front, and the strategic interests of Israel, Turkey, and the United States. We examine whether there are any realistic offramps to end the war, how tensions between Iran and Azerbaijan have evolved after the Nakhijevan flareup, what Azerbaijan’s ties with Israel may mean in practice, and how recent constitutional changes in Nakhijevan may reflect deeper geopolitical shifts.
+# Summary
+We speak with Eldar Mamedov about the widening regional dimensions of the Iran war, with a focus on Azerbaijan’s role, the risk of a northern front, and the strategic interests of Israel, Turkey, and the United States. We examine whether there are any realistic offramps to end the war, how tensions between Iran and Azerbaijan have evolved after the Nakhijevan flareup, what Azerbaijan’s ties with Israel may mean in practice, and how recent constitutional changes in Nakhijevan may reflect deeper geopolitical shifts.
 
-### Main Topics Addressed
+# Main Topics Addressed
 
 - The search for realistic offramps in the Iran war, and the conditions under which the main parties might consider negotiations.
 - Azerbaijan’s officially neutral posture toward Iran, and the recurring moments when tensions break into the open.
@@ -56,7 +57,7 @@ In this episode of *Conversations on Groong*, we speak with Eldar Mamedov about 
 - Divergences and overlaps between Turkish and Azerbaijani interests in the context of the Iran war.
 - Recent constitutional amendments that reduce Nakhijevan’s autonomy and remove references to the treaties of Moscow and Kars.
 
-### Key Questions Discussed
+# Key Questions Discussed
 
 - Under what conditions might the sides accept negotiations rather than continue the war?
 - What are the incentives and goals driving each side in the conflict?
@@ -73,7 +74,7 @@ In this episode of *Conversations on Groong*, we speak with Eldar Mamedov about 
 - Could Azerbaijan play a role in any future dismemberment of Iran, and under what circumstances?
 - What is the significance of Nakhijevan’s reduced autonomy and the removal of references to the Moscow and Kars treaties?
 
-### Referenced Articles & Sources
+# Referenced Articles & Sources
 
 - [Will Azerbaijan Join the War Against Iran?](https://www.theamericanconservative.com/will-azerbaijan-join-the-war-against-iran/)
 - [Israeli Air Force attacked Iranian Navy sites on the Caspian Sea, Jerusalem Post report](https://www.jpost.com/israel-news/defense-news/article-890567)
