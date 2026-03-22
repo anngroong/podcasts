@@ -30,7 +30,7 @@ Description = """
 * [linktr.ee/Groong](https://linktr.ee/groong)
 
 #### Guest:
-* [YoungMin Skies](https://podcasts.groong.org/guest/youngmin)
+* [YoungMin](https://podcasts.groong.org/guest/youngmin)
 
 #### Topics:
 * YoungMin’s journey into post-2023 Artsakh
