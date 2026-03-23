@@ -1,6 +1,5 @@
 +++
-Date = 2026-03-22T18:00:00-07:00
-upcoming = true
+Date = 2026-03-22T18:30:00-07:00
 
 title = "YoungMin - Travel Blogger’s Visit to Artsakh, post September 2023 | Ep 526, Mar 22, 2026"
 subtitle = "Conversations on Groong - March 22, 2026"
@@ -9,10 +8,10 @@ episode_image = "img/episode/526/thumbnail-526.webp"
 episode_banner = "img/episode/526/banner-526.webp"
 images = ["img/episode/526/banner-526.webp"]
 
-podcast_file     = ""
-podcast_duration = ""
-podcast_bytes    = ""
-youtube = ""
+podcast_file     = "18889493-youngmin-travel-blogger-s-visit-to-occupied-and-ethnically-cleansed-artsakh-ep-526-mar-22-2026.mp3"
+podcast_duration = "2875"
+podcast_bytes    = "34530207"
+youtube = "j9QYiYFnj68"
 
 hosts = ["asbed", "hovik"]
 guests = ["youngmin"]
@@ -21,7 +20,7 @@ aliases = ["/526"]
 
 series = ["cog", "video"]
 categories = ["Artsakh", "Kagorno Karabakh"]
-tags = ["Armenian News", "Artsakh", "Nagorno Karabakh", "YoungMin", "YoungMin Skies", "Armenia", "Azerbaijan", "Ethnic Cleansing", "44-Day War", "Agdam", "Baku", "Travel Scam", "Mosul", "Iraq", "Iran", "Bagdad", "Stepanakert", "Askeran", "Azerbaijani Airlines", "Oil Money", "Credit Fraud", "Tourists", "Tourism", "Fizuli Airport", "Stepanakert Airport"]
+tags = ["Armenian News", "Artsakh", "Nagorno-Karabakh", "YoungMin", "YoungMin Skies", "Armenia", "Azerbaijan", "Ethnic Cleansing", "Artsakh Genocide", "44-Day War", "Agdam", "Baku", "Travel Scam", "Dark Tourism", "Mosul", "Iraq", "Iran", "Baghdad", "Stepanakert", "Askeran", "Azerbaijani Airlines", "Oil Money", "Credit Fraud", "Tourists", "Tourism", "Fuzuli Airport", "Stepanakert Airport", "Occupied Artsakh", "Armenian Refugees", "South Caucasus", "Ilham Aliyev", "Karabakh"]
 
 Description = """
 
@@ -39,10 +38,9 @@ Description = """
 * In Agdam, Askeran, and Stepanakert
 * Memory, loss, and the aftermath of Ethnic Cleansing
 
-
 Episode 526 | Recorded: March 21, 2026
 
-"""
+#Artsakh #Armenia #YoungMin #NagornoKarabakh #EthnicCleansing"""
 
 +++
 
@@ -80,12 +78,10 @@ YoungMin joins Groong to discuss his visit to Artsakh after the 2023 ethnic clea
 - How did his own Korean background shape the way he understood Armenian loss and displacement?
 - What hope, if any, does he see for Armenia after such a traumatic rupture?
 
-
 # Referenced Articles & Sources
 
 - [**Visiting Artsakh in 2026: The Country That Vanished Overnight**](https://www.youtube.com/watch?v=y4jE8qRIz60) — YoungMin Skies
 - [**YoungMin Skies YouTube Channel**](https://www.youtube.com/@YoungMinSkies)
-
 
 # Wrap-up
 
