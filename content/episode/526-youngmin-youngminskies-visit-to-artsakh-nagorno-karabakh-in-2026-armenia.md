@@ -30,6 +30,8 @@ Description = """
 
 #### Guest:
 * [YoungMin](https://podcasts.groong.org/guest/youngmin)
+  - YouTube: [https://www.youtube.com/@YoungMinSkies](https://www.youtube.com/@YoungMinSkies)
+  - Instagram: [https://www.instagram.com/YoungMinSkies](https://www.instagram.com/YoungMinSkies)
 
 #### Topics:
 * YoungMin’s journey into post-2023 Artsakh
