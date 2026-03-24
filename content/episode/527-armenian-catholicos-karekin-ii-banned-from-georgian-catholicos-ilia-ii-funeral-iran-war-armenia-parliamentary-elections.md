@@ -9,9 +9,9 @@ episode_image = "img/episode/527/thumbnail-527.webp"
 episode_banner = "img/episode/527/banner-527.webp"
 images = ["img/episode/527/banner-527.webp"]
 
-podcast_file     = ""
-podcast_duration = ""
-podcast_bytes    = ""
+podcast_file     = "18903001-hovik-asbed-karekin-ii-travel-banned-from-ilia-ii-funeral-iran-war-armenia-parliamentary-election-ep-527-mar-22-2026.mp3"
+podcast_duration = "2652"
+podcast_bytes    = "31858706"
 youtube = "Tg5M13dQFms"
 
 hosts = ["hovik", "asbed"]
@@ -30,9 +30,11 @@ Description = """
 * [linktr.ee/Groong](https://linktr.ee/groong)
 
 #### Topics:
-* Karekin II travel-banned from attending Catholicos Ilia II Funeral
-* Iran War update
-* Armenian June Elections
+* Georgian Patriarch Ilia II passes away
+* Karekin II travel banned from funeral
+* Iran war update
+* June election in Armenia
+
 
 Episode 527 | Recorded: March 23, 2026
 
