@@ -1,6 +1,6 @@
 +++
 Date = 2026-03-24T11:00:00-08:00
-upcoming = true
+upcoming = false
 
 title = "Hovik & Asbed - Karekin II & Ilia II Funeral, Iran War, Armenia Elections | Ep 527, Mar 22, 2026"
 subtitle = "Groong Week in Review - March 22, 2026"
@@ -12,7 +12,7 @@ images = ["img/episode/527/banner-527.webp"]
 podcast_file     = ""
 podcast_duration = ""
 podcast_bytes    = ""
-youtube = ""
+youtube = "Tg5M13dQFms"
 
 hosts = ["hovik", "asbed"]
 #guests = []
