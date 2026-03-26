@@ -17,4 +17,4 @@ Twitch = ""
 #guest_group = "cog"
 +++
 
-Dr. Anna Karapetyan is a political scientist, based in Los Angeles.
+Dr. Anna Karapetyan is a political scientist based in Los Angeles.
