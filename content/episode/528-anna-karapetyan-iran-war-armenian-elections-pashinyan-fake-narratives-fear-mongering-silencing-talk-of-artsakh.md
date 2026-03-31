@@ -25,7 +25,7 @@ explicit = "no" # values are "yes" or "no"
 series = ["wir"]
 categories = ["Iran", "Armenia", "Artsakh", "Election"]
 
-tags = ["Armenian News", "Artsakh", "Nagorno Karabakh", "Anna Karapetyan", "Iran", "Iran War", "USA", "Donald Trump", "Armenia", "Azerbaijan", "South Caucasus", "TRIPP", "Trump Route", "Zangezur Corridor", "Firebird", "AI", Data Center", "Environmental Impact Report", "Constitutional Changes", "National Referendum", "Concessions", "Ilham Aliyev", "Nikol Pashinyan", "Armenian Elections", "Formula 1", "F1", "Baku", "Grand Prix", "AGMI", "Armenian Genocide", "Ethnic Cleansing", "Armine Mosiyan", "Party of War", "Party of Peace"]
+tags = ["Armenian News", "Artsakh", "Nagorno Karabakh", "Anna Karapetyan", "Iran", "Iran War", "USA", "Donald Trump", "Armenia", "Azerbaijan", "South Caucasus", "TRIPP", "Trump Route", "Zangezur Corridor", "Firebird", "AI", "Data Center", "Environmental Impact Report", "Constitutional Changes", "National Referendum", "Concessions", "Ilham Aliyev", "Nikol Pashinyan", "Armenian Elections", "Formula 1", "F1", "Baku", "Grand Prix", "AGMI", "Armenian Genocide", "Ethnic Cleansing", "Armine Mosiyan", "Party of War", "Party of Peace"]
 
 
 Description = """
