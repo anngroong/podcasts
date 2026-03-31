@@ -3,7 +3,7 @@ Date = 2025-04-15T00:10:36-07:00
 upcoming = false
 
 title = "Anna Karapetyan - Iran-Armenia Military Exercises, Azerbaijan Border Shootings, Mirzoyan at Antalya Diplomatic Forum, Genocide Denial by the Armenian Government | Ep 428, Apr 13, 2025"
-subtitle = "ANN Groong Week in Review - April 13, 2024"
+subtitle = "ANN Groong Week in Review - April 13, 2025"
 
 podcast_file = "16987818-anna-karapetyan-iran-armenia-military-exercises-azerbaijan-border-shootings-mirzoyan-at-antalya-diplomatic-forum-genocide-denial-by-the-armenian-government-ep-428-apr-13-2025.mp3"
 podcast_duration = "3238"
