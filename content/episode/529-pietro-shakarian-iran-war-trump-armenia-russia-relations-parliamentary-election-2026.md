@@ -1,15 +1,15 @@
 +++
-Date = 2026-04-04T02:00:00-07:00
+Date = 2026-04-04T11:00:00-07:00
 upcoming = true
 
 title = "Pietro Shakarian - Iran War, Armenia and Russia, June Parliamentary Elections | Ep 529, Apr 4, 2026"
 subtitle = "Conversations on Groong - April 4, 2026"
 author = "Armenian News Network - Groong"
 
-podcast_file     = ""
-podcast_duration = ""
-podcast_bytes    = ""
-youtube = ""
+podcast_file     = "18961076-pietro-shakarian-iran-war-armenia-and-russia-june-parliamentary-elections-ep-529-apr-4-2026.mp3"
+podcast_duration = "3661"
+podcast_bytes    = "43966292"
+youtube = "KAwhaobKnCk"
 
 hosts = ["hovik", "asbed"]
 guests = ["pshakarian"]
@@ -25,7 +25,6 @@ truncate = ""
 series = ["COG"]
 categories = ["Armenia", "history"]
 tags = ["Armenian News", "Iran", "Russia", "Armenia", "Azerbaijan", "TRIPP", "Pietro Shakarian", "Iranian Protests", "Turkey", "Zangezur Corridor", "Southern Azerbaijan", "Israel", "Mossad", "CIA", "Donald Trump", "Comprehensive Strategic Partnership", "US", "EU", "Donald Trump", "Israel", "Benjamin Netanyahu", "Ali Khamenei", "Vladimir Solovyov", "Margareta Simonyan", "Armenian POWs", "Syrian Mercenaries"]
-
 
 Description = """
 
