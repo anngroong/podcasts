@@ -1,6 +1,5 @@
 +++
 Date = 2026-04-04T11:00:00-07:00
-upcoming = true
 
 title = "Pietro Shakarian - Iran War, Armenia and Russia, June Parliamentary Elections | Ep 529, Apr 4, 2026"
 subtitle = "Conversations on Groong - April 4, 2026"
