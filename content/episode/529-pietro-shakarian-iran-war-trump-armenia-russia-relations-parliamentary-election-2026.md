@@ -40,8 +40,9 @@ Description = """
 * Armenia-Russia Relations
 * Parliamentary Elections in Armenia
 
+Episode 529 | Recorded on April 3, 2026
 
-Episode 529 | Recorded on April 3, 2026"""
+#IranIsraelWar #IsraelIranConflict #IsraelConflict #Armenia #MiddleEastCrisis #ArmeniaElections #PietroShakarian #TRIPP"""
 
 +++
 
