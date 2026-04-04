@@ -9,7 +9,7 @@ author = "Armenian News Network - Groong"
 podcast_file     = "18961076-pietro-shakarian-iran-war-armenia-and-russia-june-parliamentary-elections-ep-529-apr-4-2026.mp3"
 podcast_duration = "3661"
 podcast_bytes    = "43966292"
-youtube = "KAwhaobKnCk"
+youtube = "kMLldTswIIA"
 
 hosts = ["hovik", "asbed"]
 guests = ["pshakarian"]
