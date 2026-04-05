@@ -140,13 +140,13 @@ We discuss with Hrant Mikaelian the expanding war on Iran and what it could mean
 
 # Referenced Articles & Sources
 
+- [IRI: Public Opinion Survey: Residents of Armenia | February 2026](https://www.iri.org/resources/public-opinion-survey-residents-of-armenia-february-2026/)
 - [Pezeshkian Apology Report, Politico Europe](https://www.politico.eu/article/iran-masoud-pezeshkian-apologize-bomb-neighbor-israel-us-war/)
 - [Iran-Azerbaijan Incident, Iran in Yerevan](https://x.com/iraninyerevan/status/2030581517181718624)
 - [Aliyev-Pezeshkian Call and Aid Announcement, Ultra Ehsan](https://x.com/ultra_ehsan/status/2030748312962474425)
 - [Previous MPG Poll Discussion, Groong Ep. 521](https://podcasts.groong.org/521)
 - [Pashinyan Meeting with IRI President Dan Twining](https://www.primeminister.am/hy/press-release/item/2025/02/06/Nikol-Pashinyan-meeting-Daniel-Tvining/)
 - [Survey Response Rates Report, LAPOP / Vanderbilt](https://www.vanderbilt.edu/lapop/insights/IMN009en.pdf)
-- [Groong Ep. 521 Episode Page](https://podcasts.groong.org/521-hrant-mikaelian-venezuela-us-kidnapping-maduro-international-law-geopolitics-armenian-church-pashinyan-state-church-conflict-mpg-poll-public-mood-social-polarization-armenia-economy-national-debt/)
 - [Episode 521](https://podcasts.groong.org/521)
 
 # Wrap-up
