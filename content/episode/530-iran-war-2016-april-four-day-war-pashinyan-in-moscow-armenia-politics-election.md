@@ -1,6 +1,6 @@
 +++
 Date = 2026-04-08T04:00:00-08:00
-upcoming = true
+upcoming = false
 
 title = "Hovik & Asbed - Iran War, April 2016 War, Armenia & Russia, Politics & Election | Ep 530, Apr 5, 2026"
 subtitle = "Groong Week in Review - April 5, 2026"
@@ -9,10 +9,10 @@ episode_image = "img/episode/530/thumbnail-530.webp"
 episode_banner = "img/episode/530/banner-530.webp"
 images = ["img/episode/530/banner-530.webp"]
 
-podcast_file     = ""
-podcast_duration = ""
-podcast_bytes    = ""
-youtube = ""
+podcast_file     = "18984716-hovik-asbed-iran-war-april-2016-war-armenia-russia-politics-election-ep-530-apr-5-2026.mp3"
+podcast_duration = "3506"
+podcast_bytes    = "42110619"
+youtube = "QAkX9PiR484"
 
 hosts = ["hovik", "asbed"]
 #guests = []
