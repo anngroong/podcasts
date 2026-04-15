@@ -1,6 +1,5 @@
 +++
-Date = 2026-04-15T01:00:00+04:00
-upcoming = true
+Date = 2026-04-16T18:00:00+04:00
 
 title = "Hrant Mikaelian - US-Iran Talks, Orban Loses, Armenian Parliamentary Elections, MPG Polls | Ep 531, Apr 12, 2026"
 subtitle = "Groong Week in Review - April 12, 2026"
@@ -9,10 +8,10 @@ episode_image = "img/episode/531/thumbnail-531.webp"
 episode_banner = "img/episode/531/banner-531.webp"
 images = ["img/episode/531/banner-531.webp"]
 
-podcast_file     = ""
-podcast_duration = ""
-podcast_bytes    = ""
-youtube = ""
+podcast_file     = "19022990-hrant-mikaelian-us-iran-talks-orban-loses-armenia-polls-ep-531-apr-12-2026.mp3"
+podcast_duration = "4586"
+podcast_bytes    = "55063581"
+youtube = "ZzhV5xsXFks"
 
 hosts = ["asbed", "hovik"]
 guests = ["hmikaelian"]
@@ -38,14 +37,51 @@ Description = """
 * Armenian Parliamentary Elections
 * Polls: MPG, IRI, ARAR, EVN
 
+Episode 531 | Recorded: April 14, 2026
 
-Episode 531 | Recorded: March 10, 2026
-
-#IranWar #EpicFury #ArmenianElections #IranIsraelConflict"""
+#Armenia #IranWar #ArmenianPolitics #HungaryElections #ArmeniaPolls"""
 +++
 
 # Summary
 
+This Week in Review examines how foreign shocks and internal political pressures are converging for Armenia. We look at the breakdown of US-Iran talks and the threat of a new naval blockade, Viktor Orban’s defeat in Hungary and what it may mean for the region, and fresh polling in Armenia on security, war, free speech, voter participation, and party support ahead of the 2026 elections. The episode also explores whether the Abkhaz railway could offer Armenia a real alternative to routes that deepen dependence on Azerbaijan and Turkey, and what the latest polling says about the opposition’s position. :contentReference[oaicite:0]{index=0}
+
+## Main Topics Addressed
+
+- The collapse of the US-Iran talks in Islamabad and the announced US naval blockade of Iranian ports
+- Whether any negotiated off-ramp still exists in the Iran war
+- Viktor Orban’s loss in Hungary and the foreign policy implications for Armenia’s region
+- What Hungary’s opposition victory may teach the Armenian opposition
+- Armenia’s latest polling results on security, the economy, and voter priorities
+- Public opinion in Armenia on the Iran war and Armenia’s response to it
+- The Abkhaz railway as a possible alternative route to Russia
+- Whether support for TRIPP may weaken if the Iran war changes regional dynamics
+- Public views on fear, free speech, and democratic conditions in Armenia
+- Expected turnout and party support ahead of the 2026 parliamentary elections
+- The gap between the MPG and EVN/ArmES polling results
+- The weak polling of Wings of Unity and the breakup with Hayaqve :contentReference[oaicite:1]{index=1}
+
+## Key Questions Discussed
+
+- Did the Islamabad talks fail because both sides are no longer seriously looking for peace?
+- How could Orban’s defeat affect Hungary’s policy toward the South Caucasus?
+- What lessons should Armenia’s opposition draw from Hungary’s united opposition model?
+- Can opposition parties in Armenia answer the public’s top concern, security?
+- Could the Abkhaz railway become a viable and cheaper route for Armenia’s trade with Russia?
+- Has the Iran war changed Armenian public opinion on TRIPP and regional dependence?
+- What do the polling results say about Armenian attitudes toward Iran, the US, and Israel?
+- If the Iran war continues into the election period, how might it affect voting behavior?
+- What does it mean that a large share of Armenians say people are afraid to speak openly?
+- How should the latest party ratings be translated into mandates and coalition math?
+- Why do MPG and EVN/ArmES show such different pictures of the political field?
+- Why is Wings of Unity performing so poorly despite apparent political space for it? :contentReference[oaicite:2]{index=2}
+
+## Referenced Articles & Sources
+
+- [Russia Demands Georgia Restore Rail Traffic Through Abkhazia](https://jamestown.org/russia-demands-georgia-restore-rail-traffic-through-abkhazia/)
+- [Definition of "illiberal"](https://www.merriam-webster.com/dictionary/illiberal) :contentReference[oaicite:3]{index=3}
+- [EVN Report: Incumbent Party Swings New Poll Numbers: Armenia’s Parliamentary Elections Take Shape](https://evnreport.com/elections/incumbent-party-swings-new-poll-numbers-armenias-parliamentary-elections-take-shape/)
+- [MPG: Բազառ-Բլոտ. Հայաստանի՝ Իրանի և ԱՄՆ/Իսրայել միջև պատերազմում ներքաշվելու վտանգի, Հայաստանում հասարակական տրամադրության, քաղաքական իրավիճակի և 2026 թվականի խորհրդարանական ընտրությունների մասին կարծիքները](https://gallup.am/product/bazar-blvot/)
 
 ## MPG poll review
   
@@ -79,9 +115,6 @@ Episode 531 | Recorded: March 10, 2026
 
 #### Slide 15: If parliamentary elections were held next Sunday, which party would you vote for?
 ![IRI Slide 15](/img/episode/531/poll/mpg-15.webp "Slide 15: If parliamentary elections were held next Sunday, which party would you vote for?")
-
-
-
 
 # Wrap-up
 
