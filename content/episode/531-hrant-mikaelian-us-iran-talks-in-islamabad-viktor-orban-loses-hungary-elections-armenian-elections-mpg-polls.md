@@ -44,7 +44,7 @@ Episode 531 | Recorded: April 14, 2026
 
 # Summary
 
-This Week in Review examines how foreign shocks and internal political pressures are converging for Armenia. We look at the breakdown of US-Iran talks and the threat of a new naval blockade, Viktor Orban’s defeat in Hungary and what it may mean for the region, and fresh polling in Armenia on security, war, free speech, voter participation, and party support ahead of the 2026 elections. The episode also explores whether the Abkhaz railway could offer Armenia a real alternative to routes that deepen dependence on Azerbaijan and Turkey, and what the latest polling says about the opposition’s position. :contentReference[oaicite:0]{index=0}
+This Week in Review examines how foreign shocks and internal political pressures are converging for Armenia. We look at the breakdown of US-Iran talks and the threat of a new naval blockade, Viktor Orban’s defeat in Hungary and what it may mean for the region, and fresh polling in Armenia on security, war, free speech, voter participation, and party support ahead of the 2026 elections. The episode also explores whether the Abkhaz railway could offer Armenia a real alternative to routes that deepen dependence on Azerbaijan and Turkey, and what the latest polling says about the opposition’s position.
 
 ## Main Topics Addressed
 
@@ -59,7 +59,7 @@ This Week in Review examines how foreign shocks and internal political pressures
 - Public views on fear, free speech, and democratic conditions in Armenia
 - Expected turnout and party support ahead of the 2026 parliamentary elections
 - The gap between the MPG and EVN/ArmES polling results
-- The weak polling of Wings of Unity and the breakup with Hayaqve :contentReference[oaicite:1]{index=1}
+- The weak polling of Wings of Unity and the breakup with Hayaqve
 
 ## Key Questions Discussed
 
@@ -74,12 +74,12 @@ This Week in Review examines how foreign shocks and internal political pressures
 - What does it mean that a large share of Armenians say people are afraid to speak openly?
 - How should the latest party ratings be translated into mandates and coalition math?
 - Why do MPG and EVN/ArmES show such different pictures of the political field?
-- Why is Wings of Unity performing so poorly despite apparent political space for it? :contentReference[oaicite:2]{index=2}
+- Why is Wings of Unity performing so poorly despite apparent political space for it?
 
 ## Referenced Articles & Sources
 
 - [Russia Demands Georgia Restore Rail Traffic Through Abkhazia](https://jamestown.org/russia-demands-georgia-restore-rail-traffic-through-abkhazia/)
-- [Definition of "illiberal"](https://www.merriam-webster.com/dictionary/illiberal) :contentReference[oaicite:3]{index=3}
+- [Definition of "illiberal"](https://www.merriam-webster.com/dictionary/illiberal)
 - [EVN Report: Incumbent Party Swings New Poll Numbers: Armenia’s Parliamentary Elections Take Shape](https://evnreport.com/elections/incumbent-party-swings-new-poll-numbers-armenias-parliamentary-elections-take-shape/)
 - [MPG: Բազառ-Բլոտ. Հայաստանի՝ Իրանի և ԱՄՆ/Իսրայել միջև պատերազմում ներքաշվելու վտանգի, Հայաստանում հասարակական տրամադրության, քաղաքական իրավիճակի և 2026 թվականի խորհրդարանական ընտրությունների մասին կարծիքները](https://gallup.am/product/bazar-blvot/)
 
