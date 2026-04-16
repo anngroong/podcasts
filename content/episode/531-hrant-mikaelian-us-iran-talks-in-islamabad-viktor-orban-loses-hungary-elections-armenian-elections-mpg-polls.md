@@ -9,8 +9,8 @@ episode_banner = "img/episode/531/banner-531.webp"
 images = ["img/episode/531/banner-531.webp"]
 
 podcast_file     = "19022990-hrant-mikaelian-us-iran-talks-orban-loses-armenia-polls-ep-531-apr-12-2026.mp3"
-podcast_duration = "4586"
-podcast_bytes    = "55063581"
+podcast_duration = "4581"
+podcast_bytes    = "55013739"
 youtube = "ZzhV5xsXFks"
 
 hosts = ["asbed", "hovik"]
