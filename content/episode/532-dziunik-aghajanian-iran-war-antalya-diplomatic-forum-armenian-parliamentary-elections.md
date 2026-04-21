@@ -1,6 +1,6 @@
 +++
 Date = 2026-04-21T04:30:00-08:00
-upcoming = true
+upcoming = false
 
 title = "Dziunik Aghajanian - Iran War, Antalya Diplomatic Forum, Armenian Parliamentary Elections | Ep 532, Apr 19, 2026"
 subtitle = "Groong Week in Review - April 19, 2026"
@@ -9,9 +9,9 @@ episode_image = "img/episode/532/thumbnail-532.webp"
 episode_banner = "img/episode/532/banner-532.webp"
 images = ["img/episode/532/banner-532.webp"]
 
-podcast_file     = ""
-podcast_duration = ""
-podcast_bytes    = ""
+podcast_file     = "19051152-dziunik-aghajanian-iran-war-antalya-armenian-parliamentary-elections-ep-532-apr-19-2026.mp3"
+podcast_duration = "4033"
+podcast_bytes    = "48432939"
 youtube = "ZVo_CJepX2Y"
 
 hosts = ["asbed", "hovik"]
