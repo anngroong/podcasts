@@ -11,10 +11,12 @@ GitHub = ""
 Thumbnail = "img/guest/Warwick-Powell-1.webp"
 Pinterest = ""
 Instagram = ""
-YouTube = ""
+YouTube = "TIOTalksWithWarwickPowell"
 Twitch = ""
 #Aka = []
 #guest_group = "cog"
 +++
 
 __Prof. Warwick Powell__ is Adjunct Professor at Queensland University of Technology in Brisbane, Australia, and a Senior Fellow at Taihe Institute in Beijing. He is the author of "China, Trust and Digital Supply Chains". "Dynamics of a Zero Trust World". His work focuses on digital innovation, technologies, and international political economy.
+
+Dr. Powell is the author of "[Thermoeconomics in a Time of Monsters: Rethinking Theory, China and International Geopolitical Economy](https://a.co/d/09ePVWBX)".
