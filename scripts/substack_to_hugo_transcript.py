@@ -534,7 +534,7 @@ def main() -> int:
     meta = parse_episode_file(episode_path)
     segments = parse_transcript(transcript_path)
     if not segments:
-        print("No transcript segments were parsed. Check the transcript format.", file=sys.stderr)
+        print(f"No transcript segments were parsed for episode {show_number}. Check the transcript format.", file=sys.stderr)
         return 1
 
     merged = merge_segments(segments)
