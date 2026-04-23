@@ -22,7 +22,7 @@ In this Week in Review episode, Ambassador Dziunik Aghajanian discusses the stal
 - **Episode Number:** 532
 - **Show Page:** [https://podcasts.groong.org/532](https://podcasts.groong.org/532)
 - **YouTube:** [https://youtu.be/ZVo_CJepX2Y](https://youtu.be/ZVo_CJepX2Y)
-- **Hosts:** [asbed](https://podcasts.groong.org/host/asbed), [hovik](https://podcasts.groong.org/host/hovik)
+- **Hosts:** [Asbed Bedrossian](https://podcasts.groong.org/host/asbed), [Hovik Manucharyan](https://podcasts.groong.org/host/hovik)
 - **Guests:** [Dziunik Aghajanian](https://podcasts.groong.org/guest/dzaghajanian)
 
 ## Links
