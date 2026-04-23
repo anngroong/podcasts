@@ -2712,3 +2712,4 @@ The links are in the show notes.
 
 Hovik (00:47:37):
 Thank you for listening and we'll talk to you soon.
+
