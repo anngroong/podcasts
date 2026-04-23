@@ -35,7 +35,7 @@ jobs:
       - name: Check out repository
         uses: actions/checkout@v4
         with:
-          fetch-depth: 2
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -55,8 +55,11 @@ jobs:
 
             if [[ "$BEFORE" == "0000000000000000000000000000000000000000" ]]; then
               git ls-files 'transcripts/*.txt' > changed_transcripts.txt
-            else
+            elif git cat-file -e "$BEFORE^{commit}" 2>/dev/null; then
               git diff --name-only "$BEFORE" "$AFTER" -- 'transcripts/*.txt' > changed_transcripts.txt
+            else
+              echo "Warning: before SHA $BEFORE not available locally; falling back to all transcripts."
+              git ls-files 'transcripts/*.txt' > changed_transcripts.txt
             fi
           fi
 
