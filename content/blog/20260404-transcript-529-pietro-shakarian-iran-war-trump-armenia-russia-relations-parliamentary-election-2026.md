@@ -293,7 +293,7 @@ That must be April Fool's or something. But yeah, we're in an A day and age. whe
 
 No, it's not protecting Armenians from anything.
 
-**Pietro:** I remember, I believe it was on Groom. I believe it was on this podcast where you had James Carden come on. And James said that, you know, I actually I'm not sure if it was Groom or 168.am or one of these podcasts that Carden was on. But the interviewer and it might have been you, Asbed, actually.
+**Pietro:** I remember, I believe it was on Groong. I believe it was on this podcast where you had James Carden come on. And James said that, you know, I actually I'm not sure if it was Groong or 168.am or one of these podcasts that Carden was on. But the interviewer and it might have been you, Asbed, actually.
 
 The interviewer asked, you know, what does this do for Armenia? And James responded, it puts a target on its back. And that really hasn't changed. And actually, you know what?
 
@@ -443,7 +443,7 @@ I don't remember the episode, but you can search for it on our channel.
 
 **Asbed:** Go to podcasts.groong.org. Check out the shows, all the shows, and you can find Pietro's show right there. I think it was around the August timeframe, if I'm not wrong.
 
-**Hovik:** Yeah, you can just Google it, Pietro Shakarian Groom.
+**Hovik:** Yeah, you can just Google it, Pietro Shakarian Groong.
 
 **Asbed:** That's right. It does come up at this point.
 

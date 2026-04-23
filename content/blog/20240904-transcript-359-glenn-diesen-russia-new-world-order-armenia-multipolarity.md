@@ -34,7 +34,7 @@ categories = ["Russia", "Ukraine", "Video", "World Order"]
 
 > **Warning:** This is a rush transcript generated automatically and may contain errors.
 
-**Asbed:** Welcome to this Conversations on Grooming episode. Today, we're talking about Russia and the incoming New World Order. We have with us Dr. Glenn Deason of the University of Southeast Norway.
+**Asbed:** Welcome to this Conversations on Groong episode. Today, we're talking about Russia and the incoming New World Order. We have with us Dr. Glenn Deason of the University of Southeast Norway.
 
 Hello, Dr. Deason. Welcome to the show.
 
