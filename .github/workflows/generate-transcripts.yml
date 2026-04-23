@@ -1,0 +1,100 @@
+name: Generate transcript blog posts
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'transcripts/*.txt'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    # Avoid reacting to the bot's own write-back push.
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Determine transcript show IDs to generate
+        id: detect
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          BEFORE="${{ github.event.before || '' }}"
+          AFTER="${{ github.sha }}"
+
+          : > show_ids.txt
+
+          if [[ "${{ github.event_name }}" == "workflow_dispatch" ]]; then
+            find transcripts -maxdepth 1 -type f -name '*.txt' -printf '%f\n' \
+              | sed -E 's/^([0-9]+)-.*$/\1/' \
+              | sort -u > show_ids.txt
+          elif [[ -z "$BEFORE" || "$BEFORE" == "0000000000000000000000000000000000000000" ]]; then
+            git ls-files 'transcripts/*.txt' \
+              | xargs -n1 basename \
+              | sed -E 's/^([0-9]+)-.*$/\1/' \
+              | sort -u > show_ids.txt
+          else
+            git diff --name-only "$BEFORE" "$AFTER" -- 'transcripts/*.txt' \
+              | xargs -r -n1 basename \
+              | sed -E 's/^([0-9]+)-.*$/\1/' \
+              | sort -u > show_ids.txt
+          fi
+
+          if [[ ! -s show_ids.txt ]]; then
+            echo "count=0" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+
+          COUNT=$(wc -l < show_ids.txt | tr -d ' ')
+          echo "count=$COUNT" >> "$GITHUB_OUTPUT"
+          {
+            echo 'show_ids<<EOF'
+            cat show_ids.txt
+            echo 'EOF'
+          } >> "$GITHUB_OUTPUT"
+
+          echo "Generating for show IDs:"
+          cat show_ids.txt
+
+      - name: Generate transcript blog posts
+        if: steps.detect.outputs.count != '0'
+        shell: bash
+        run: |
+          set -euo pipefail
+          while IFS= read -r SHOW_ID; do
+            [[ -n "$SHOW_ID" ]] || continue
+            python3 scripts/substack_to_hugo_transcript.py "$SHOW_ID"
+          done <<< "${{ steps.detect.outputs.show_ids }}"
+
+      - name: Commit generated blog posts
+        if: steps.detect.outputs.count != '0'
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          if git diff --quiet -- content/blog; then
+            echo "No generated blog changes to commit."
+            exit 0
+          fi
+
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+
+          git add content/blog
+          git commit -m 'Generate transcript blog posts'
+          git push
