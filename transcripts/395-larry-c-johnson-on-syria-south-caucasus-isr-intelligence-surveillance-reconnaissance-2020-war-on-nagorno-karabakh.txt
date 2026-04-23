@@ -1,0 +1,3533 @@
+Asbed (00:00:01):
+Hello everyone, and welcome to this Conversations on Groong episode.
+
+Asbed (00:00:05):
+Today we're going to be focusing on the recent regime change operation in Syria and
+
+Asbed (00:00:09):
+its implications for the region,
+
+Asbed (00:00:11):
+as well as how these developments project into the South Caucasus,
+
+Asbed (00:00:14):
+given Turkey and Azerbaijan's ambitions in Armenia.
+
+Asbed (00:00:18):
+We'll also delve into the critical role of intelligence,
+
+(00:00:22):
+surveillance,
+
+Asbed (00:00:22):
+and reconnaissance,
+
+Asbed (00:00:23):
+known as ISR in modern warfare,
+
+Asbed (00:00:26):
+and explore how these capabilities have influenced conflicts like the 2020 war on Karabakh.
+
+Asbed (00:00:34):
+Our guest today is Larry C. Johnson
+
+Asbed (00:00:36):
+a former CIA analyst and State Department counterterrorism officer specializing in terrorism,
+
+Asbed (00:00:42):
+national security,
+
+Asbed (00:00:43):
+and foreign policy.
+
+Asbed (00:00:44):
+Now a political consultant and commentator,
+
+Asbed (00:00:47):
+he is known for his critical views on US foreign policy and intelligence practices.
+
+Hovik (00:00:53):
+This promises to be a fascinating discussion, so stay tuned.
+
+Hovik (00:00:57):
+But before we begin, a quick reminder.
+
+Hovik (00:00:59):
+If you enjoy deep dive coverage of Armenia,
+
+Hovik (00:01:01):
+the South Caucasus,
+
+Hovik (00:01:02):
+and the region,
+
+Hovik (00:01:03):
+please hit the subscribe button.
+
+Hovik (00:01:05):
+We're the only comprehensive English language podcast focused on Armenia and the region,
+
+Hovik (00:01:09):
+bringing you long-form interviews such as this one with experts across a variety of fields.
+
+Hovik (00:01:15):
+And if you're watching this on YouTube, then drop us a comment.
+
+Hovik (00:01:18):
+We'd love to read your feedback, so please continue the dialogue in the comments section.
+
+Asbed (00:01:22):
+And lastly, if you enjoy this podcast, please consider supporting us.
+
+Asbed (00:01:26):
+Your help will make it easier for us to produce quality content.
+
+Asbed (00:01:30):
+Visit podcasts.groong.org / donate for details.
+
+Asbed (00:01:35):
+All right, let's get on with our show now.
+
+Asbed (00:01:39):
+Mr. Larry Johnson, welcome to the show.
+
+Asbed (00:01:41):
+Hey, thanks for having me.
+
+Hovik (00:01:43):
+Welcome to the show, Mr. Johnson.
+
+Hovik (00:01:44):
+Great to have you.
+
+Asbed (00:01:45):
+I appreciate the invite.
+
+Asbed (00:01:46):
+Mr. Johnson, you are frequently featured on a variety of platforms, especially on YouTube.
+
+Asbed (00:01:51):
+You give a lot of interviews,
+
+Asbed (00:01:53):
+but for those who may not be familiar with your story,
+
+Asbed (00:01:55):
+can you share a little bit about your background for our audience?
+
+Larry (00:01:59):
+Sure.
+
+Larry (00:02:00):
+You could say my entire life has been, I'm a guy who can't hold a job.
+
+Larry (00:02:03):
+So I spent four years with the Central Intelligence Agency from 85 to 89.
+
+Larry (00:02:09):
+where I did both work on the operations side of the house,
+
+Larry (00:02:13):
+but most of my career was with the intelligence analysis side.
+
+Larry (00:02:18):
+I moved from there to State Department.
+
+Larry (00:02:21):
+So when I was at CIA, I had State Department cover.
+
+Larry (00:02:24):
+That was my cover identity.
+
+Larry (00:02:26):
+Then I became real state and worked in the Office of the Coordinator for Counterterrorism for four years.
+
+Larry (00:02:33):
+And then starting in 1994, began a consulting business
+
+Larry (00:02:37):
+And that has continued until today.
+
+Larry (00:02:41):
+Several different iterations,
+
+Larry (00:02:42):
+but two of the main things they focused on during that time was scripting terrorism
+
+Larry (00:02:47):
+exercises for the US military special operations world.
+
+Larry (00:02:52):
+And I did that for about 23 years.
+
+Larry (00:02:55):
+So I worked with every top secret classified military unit that there is.
+
+Larry (00:03:03):
+and got some knowledge about the world and how the United States operates in it in
+
+Larry (00:03:09):
+terms of intelligence collection and ISR in particular,
+
+Larry (00:03:13):
+as well as my other part of the consulting business,
+
+Larry (00:03:16):
+or as we did international financial investigations,
+
+Larry (00:03:19):
+money laundering cases.
+
+Larry (00:03:21):
+And one of our clients was the European Union when we brought a civil racketeering
+
+Larry (00:03:27):
+case against the tobacco companies for money laundering.
+
+Larry (00:03:30):
+Philip Morris settled with the European Union in 2004,
+
+Larry (00:03:34):
+I believe it was,
+
+Larry (00:03:35):
+for $1.5 billion,
+
+Larry (00:03:37):
+which sounds like a lot of money.
+
+Larry (00:03:40):
+I mean, it'd be a lot of money.
+
+(00:03:41):
+Maybe back then.
+
+Larry (00:03:41):
+Yeah, but that's about a week of cash flow for Philip Morris.
+
+Larry (00:03:48):
+So it didn't cause any lasting harm to him.
+
+Larry (00:03:53):
+And what I learned out of that was a lot of U.S.
+
+Larry (00:03:57):
+corporations, U.S.
+
+Larry (00:03:58):
+banks,
+
+Larry (00:04:00):
+They are up to their eyebrows in dealing with drug money.
+
+Larry (00:04:06):
+Drug money is a lucrative endeavor.
+
+Larry (00:04:10):
+So that's why I say follow the money,
+
+Larry (00:04:14):
+because when you follow the money,
+
+Larry (00:04:16):
+you usually find out what's going on.
+
+Asbed (00:04:17):
+Thank you for that.
+
+Asbed (00:04:19):
+So Syria happened.
+
+Asbed (00:04:21):
+The terrorists are now forming a government in Syria.
+
+Asbed (00:04:24):
+So let's just cut to the chase.
+
+Asbed (00:04:26):
+Do you think that Russian and Iranian intel services missed this whole thing?
+
+Asbed (00:04:30):
+Or do you think that there were backroom deals maybe that determined the current outcome?
+
+Larry (00:04:36):
+No, I don't think they missed it at all.
+
+Larry (00:04:38):
+I think they knew what was coming.
+
+Larry (00:04:40):
+They just couldn't,
+
+Larry (00:04:41):
+you know,
+
+Larry (00:04:42):
+you see a car wreck getting ready to happen and all you can do is watch it take place.
+
+Larry (00:04:46):
+Multiple reports now.
+
+Larry (00:04:49):
+that both Iran and Russia made several entreaties to Bashar Assad about providing support,
+
+Larry (00:04:58):
+additional support to the military,
+
+Larry (00:05:01):
+about increased training and increased financial aid.
+
+Larry (00:05:05):
+And Assad turned it all down.
+
+Larry (00:05:07):
+This coincided with the Arab League bringing recognition back to Assad.
+
+Larry (00:05:14):
+And so he basically was in their good graces.
+
+Larry (00:05:17):
+And I don't know if he was deceived by them, completely bamboozled.
+
+Larry (00:05:25):
+But whatever was done, you know, and maybe he was paid off, too.
+
+Larry (00:05:31):
+That's always a possibility.
+
+Larry (00:05:34):
+I think
+
+Larry (00:05:35):
+You know, all of this has been done for the sake of Israel.
+
+Larry (00:05:39):
+I mean,
+
+Larry (00:05:40):
+there's there,
+
+(00:05:41):
+you know,
+
+Larry (00:05:41):
+Turkey,
+
+Larry (00:05:42):
+you know,
+
+Larry (00:05:43):
+Turkey is getting what it wants in terms of regaining territory that believes was
+
+Larry (00:05:46):
+taken away from it at the end of World War One,
+
+Larry (00:05:49):
+100 plus years ago.
+
+Larry (00:05:52):
+But this all the current drive, the intelligence operations were all centered around securing Israel's
+
+Larry (00:06:03):
+I guess making Israel more secure is the proper way to present it.
+
+Larry (00:06:10):
+Nobody expected,
+
+Larry (00:06:11):
+I don't even think the operations planners on the intel side expected this thing to
+
+Larry (00:06:18):
+coalesce and fall apart for Assad as quickly as it did.
+
+Larry (00:06:22):
+But it did.
+
+Larry (00:06:25):
+There's a lot of projection.
+
+Larry (00:06:26):
+I keep hearing these people, oh boy, this hurt Russia.
+
+Larry (00:06:30):
+Really?
+
+Larry (00:06:31):
+Okay.
+
+Larry (00:06:32):
+Explain to me how it hurt Russia.
+
+Larry (00:06:33):
+Yeah,
+
+Asbed (00:06:34):
+it's tough to understand because Russia still has that naval base in Tartus and it
+
+Asbed (00:06:40):
+projects a lot of power in the Mediterranean and the North African continent from there.
+
+Asbed (00:06:46):
+And they've already had an agreement with HTS.
+
+(00:06:50):
+Yeah,
+
+Larry (00:06:50):
+but not that much in terms of,
+
+Larry (00:06:52):
+you know,
+
+(00:06:53):
+again,
+
+Larry (00:06:53):
+I think people really overstate the importance of Tartus because it's,
+
+(00:06:59):
+you know,
+
+Larry (00:06:59):
+Russia is not a naval power.
+
+Larry (00:07:03):
+It's not a maritime power.
+
+Larry (00:07:05):
+It has a very formidable submarine fleet for delivering nuclear weapons.
+
+Larry (00:07:12):
+But beyond that, it hasn't invested a lot of money in aircraft carriers.
+
+Larry (00:07:16):
+It's got some destroyers and cruisers here and there.
+
+Larry (00:07:20):
+But for Russia, the real difference between Russia and the United States
+
+Larry (00:07:28):
+When the United States gets involved with the country, we're going to overthrow it.
+
+Larry (00:07:31):
+We're going to install new rulers.
+
+Larry (00:07:33):
+We're going to, you know, we break it, we buy it kind of thing.
+
+Larry (00:07:37):
+And yet we hopefully we never really take responsibility for it.
+
+Larry (00:07:40):
+But we're, you know, we get ourselves completely meddled in.
+
+Larry (00:07:45):
+Russia doesn't.
+
+Larry (00:07:46):
+You know, Russia actually operates on a principle.
+
+Larry (00:07:49):
+Hey, it's your country.
+
+Larry (00:07:50):
+We're here to help.
+
+Larry (00:07:51):
+We'll help you if you want.
+
+Larry (00:07:54):
+But we're not going to tell you, you know, we're not going to be your mother-in-law.
+
+Larry (00:07:57):
+We're not going to tell you what you have to do.
+
+Larry (00:07:59):
+We're not going to coerce you.
+
+Larry (00:08:01):
+We're not going to compel you.
+
+Larry (00:08:03):
+And if you don't want our help, that's fine, too.
+
+Larry (00:08:05):
+And that's what happened.
+
+Larry (00:08:07):
+Russia was prepared to fight and assist Assad.
+
+Larry (00:08:13):
+Assad and his generals made the decision not to fight.
+
+(00:08:16):
+Right.
+
+Larry (00:08:16):
+That seems to be the case.
+
+Larry (00:08:20):
+this collaboration between Turkey and Israel.
+
+Larry (00:08:25):
+Yeah, this is a temporary victory.
+
+Larry (00:08:28):
+I would say it's almost a Pyrrhic victory because now they own it.
+
+Larry (00:08:35):
+Last I checked, Syria is not on the border of Russia.
+
+Larry (00:08:39):
+And Syria is not on the border of Iran.
+
+Larry (00:08:43):
+And why does that matter?
+
+Larry (00:08:44):
+The refugees that are going to be flowing in and out,
+
+Larry (00:08:49):
+the criminal gangs that are going to be operating across those frontiers,
+
+Larry (00:08:54):
+the terrorist groups that are going to be moving back and forth,
+
+Larry (00:08:58):
+it's going to create chaos for all the countries that border Syria.
+
+Larry (00:09:03):
+So that means Turkey's going to have problems,
+
+Larry (00:09:06):
+Iraq's going to have problems,
+
+Larry (00:09:08):
+Jordan in particular is going to have some problems,
+
+Larry (00:09:11):
+Lebanon,
+
+Larry (00:09:12):
+big time,
+
+Larry (00:09:13):
+and even ultimately Israel.
+
+Larry (00:09:16):
+Israel thinks, oh, yeah, they're destroying all of this Syrian military infrastructure.
+
+Larry (00:09:23):
+But they're also pushing out their lines of communication.
+
+Larry (00:09:27):
+And all of this presupposes that Israel has a pretty robust strategic depth in
+
+Larry (00:09:34):
+terms of its military resources.
+
+Larry (00:09:36):
+And it doesn't.
+
+Larry (00:09:37):
+You know, it doesn't have an ample supply of manpower to call upon.
+
+Larry (00:09:42):
+It's got a very limited supply.
+
+Larry (00:09:44):
+And so now they're increasing territory that they're going to have to, quote, police monitor.
+
+Larry (00:09:52):
+And despite the claims of Jolani, this current HTS, you know, the
+
+Larry (00:10:01):
+that, oh, yeah, we don't want war with Israel.
+
+Larry (00:10:04):
+That's not going to last long.
+
+Larry (00:10:06):
+There are too many jihadist members of HTS and now Nusra and ISIS still active that
+
+Larry (00:10:16):
+are not going to sit by and watch Israel desecrate the Al-Aqsa Mosque.
+
+Larry (00:10:21):
+It's not going to happen.
+
+Larry (00:10:22):
+So, you know, it's crazy.
+
+Asbed (00:10:25):
+As far as the Hayat Tahrir al-Sham and their allies go, what was Turkey's role in this offensive?
+
+Larry (00:10:33):
+They helped organize it,
+
+Larry (00:10:34):
+organize it and plan it through their MIT,
+
+Larry (00:10:37):
+through their intelligence organization,
+
+Larry (00:10:40):
+working in close cooperation with the United States,
+
+Larry (00:10:44):
+with the CIA and with MI6.
+
+Larry (00:10:47):
+Why do I say that?
+
+Larry (00:10:48):
+I don't you know,
+
+Larry (00:10:49):
+I'm not read into the program,
+
+Larry (00:10:50):
+but all I can tell you is when when you see this Jolani show up on CNN.
+
+Larry (00:10:57):
+And get the softball interview and the whole thing,
+
+Larry (00:11:01):
+how stage manages the woman wearing the head covering and,
+
+Larry (00:11:05):
+you know,
+
+Larry (00:11:06):
+the guy,
+
+(00:11:07):
+you know,
+
+Larry (00:11:07):
+the only thing he didn't do was go on and say.
+
+Larry (00:11:11):
+hi, my name's Jolani, my pronouns are they, them, you know, didn't do that, okay?
+
+Larry (00:11:16):
+He didn't come off as, you know, completely flamboyant, shall we say.
+
+Larry (00:11:23):
+But,
+
+(00:11:25):
+you know,
+
+Larry (00:11:25):
+this,
+
+Larry (00:11:26):
+then on top of it,
+
+Larry (00:11:27):
+when you say that there are,
+
+Larry (00:11:29):
+we see that Ukrainian officers,
+
+Larry (00:11:31):
+Ukrainian military personnel,
+
+Larry (00:11:33):
+drone operators are operating in Turkey and in northern Syria.
+
+Larry (00:11:38):
+Well,
+
+Larry (00:11:39):
+Turkey didn't go to Ukraine and say, hey, Zelensky, can we borrow some of your boys?
+
+Larry (00:11:45):
+We're planning a little affair here.
+
+Larry (00:11:49):
+That was the United States and the United Kingdom polled people that they could
+
+Larry (00:11:54):
+trust and they had confidence in them and put them down there.
+
+Larry (00:11:58):
+So, yeah, Turkey was willingly going along with this.
+
+Larry (00:12:03):
+And let's be clear,
+
+Larry (00:12:05):
+this intelligence cooperation to take down Bashar al-Assad dates back at least 15 years,
+
+Larry (00:12:16):
+at least,
+
+Larry (00:12:17):
+if not longer.
+
+(00:12:19):
+Well,
+
+(00:12:19):
+in fact,
+
+Larry (00:12:19):
+you can go back to Dwight Eisenhower when he was trying to get rid of,
+
+(00:12:23):
+I think,
+
+Larry (00:12:23):
+Hafez Assad back then.
+
+Larry (00:12:26):
+But so this is,
+
+(00:12:27):
+you know,
+
+Larry (00:12:27):
+the United States has for almost 70 years has been actively trying to get control of Syria.
+
+Larry (00:12:34):
+This is that proverbial dog chasing the car.
+
+Larry (00:12:37):
+Once you catch it, then what do you do?
+
+Hovik (00:12:39):
+Yeah.
+
+Hovik (00:12:40):
+So given all this,
+
+(00:12:42):
+I mean,
+
+Hovik (00:12:42):
+it's difficult to prognosticate,
+
+Hovik (00:12:44):
+but how would you expect the situation in Syria to evolve in the coming months,
+
+Hovik (00:12:49):
+years?
+
+Larry (00:12:50):
+You don't see the Kurds laying down their weapons and turning to Turkey and saying,
+
+Larry (00:12:56):
+hey,
+
+Larry (00:12:57):
+let's be friends.
+
+Larry (00:12:59):
+That's not happening.
+
+Larry (00:13:00):
+They're fighting today as we speak.
+
+Larry (00:13:03):
+And the Turks, the groups backed by Turkey are pushing the Kurds to the east, back across the Euphrates.
+
+Larry (00:13:12):
+So that's not a good sign.
+
+Asbed (00:13:17):
+Well, they're backed by the US.
+
+Asbed (00:13:19):
+Does that mean that the US is probably going to end up staying there and then
+
+Asbed (00:13:22):
+continuing this whole,
+
+(00:13:24):
+you know,
+
+Asbed (00:13:24):
+it's kind of funny because,
+
+Asbed (00:13:25):
+I mean,
+
+(00:13:26):
+it's not funny,
+
+Asbed (00:13:26):
+but it's two NATO allies,
+
+Asbed (00:13:28):
+the US and Turkey,
+
+Asbed (00:13:30):
+who are going to back different horses.
+
+Hovik (00:13:32):
+It's also interesting because Trump, in his first term, wanted to get out of Syria.
+
+Hovik (00:13:37):
+So is he going to stay there?
+
+Larry (00:13:39):
+I think they will.
+
+Larry (00:13:41):
+I don't see them abandoning it.
+
+Larry (00:13:44):
+But we'll see if Trump goes back to what his policy was before.
+
+Larry (00:13:51):
+They could argue now,
+
+Larry (00:13:52):
+you know,
+
+Larry (00:13:53):
+I think a real argument could be made that this region is going to be very volatile.
+
+Larry (00:13:56):
+Nobody's going to be in control.
+
+Larry (00:13:58):
+That's the problem.
+
+Larry (00:14:00):
+Erdogan thinks that, oh, OK, I've got this under control now.
+
+Larry (00:14:03):
+He doesn't.
+
+Larry (00:14:05):
+This is, you know, he does not have the leverage.
+
+Larry (00:14:10):
+What he has created is a problem that he may have to actually send Turkish forces
+
+Larry (00:14:14):
+into Syria to intervene,
+
+Larry (00:14:17):
+to at least try to get better control of Aleppo and Idlib,
+
+Larry (00:14:23):
+for example.
+
+Larry (00:14:25):
+But,
+
+Larry (00:14:26):
+you know,
+
+Larry (00:14:27):
+down south,
+
+Larry (00:14:29):
+where the Druze are,
+
+Larry (00:14:31):
+where you have more of a Shia population,
+
+(00:14:34):
+you know,
+
+Larry (00:14:34):
+they're going to be targets,
+
+Larry (00:14:37):
+as well as the Alouettes.
+
+Larry (00:14:38):
+They're going to be targets of these Sunnis.
+
+Larry (00:14:42):
+You know, a lot of people in the West just don't appreciate the depth of the sectarian intensity of
+
+Larry (00:14:53):
+That is, you know, drives and motivates these people.
+
+Larry (00:14:57):
+Their religious beliefs don't allow for forgiveness or compromise.
+
+Larry (00:15:04):
+It's very rigid.
+
+Larry (00:15:05):
+It's very black and white.
+
+Larry (00:15:07):
+You're either a believer or you're a heretic.
+
+Larry (00:15:11):
+And.
+
+Larry (00:15:12):
+You know, Jolani, they can try to put the best PR face on him.
+
+(00:15:18):
+You know,
+
+Larry (00:15:18):
+it's that old saying,
+
+Larry (00:15:20):
+I don't care how much lipstick you put on a pig,
+
+Larry (00:15:22):
+the pig still doesn't look like Marilyn Monroe.
+
+Larry (00:15:26):
+And Jolani,
+
+(00:15:28):
+you know,
+
+Larry (00:15:28):
+they're not going to be able to dress him up to make him appear to be Mahatma Gandhi.
+
+Larry (00:15:33):
+You know, he's not a statesman.
+
+Larry (00:15:36):
+You know, he's a 43-year-old guy who's spent much of the last 20 years chopping heads, killing people.
+
+Larry (00:15:46):
+And now all of a sudden he's going to be a statesman?
+
+Larry (00:15:48):
+I don't think so.
+
+Larry (00:15:50):
+And he also does not have the experience to sort of navigate all these turbulent
+
+Larry (00:15:59):
+political waters is the best way to describe it.
+
+Larry (00:16:03):
+But, you know, Turkey is genuinely a bad actor here.
+
+(00:16:07):
+All,
+
+Larry (00:16:07):
+you know,
+
+Larry (00:16:09):
+Erdogan has,
+
+(00:16:10):
+you know,
+
+Larry (00:16:10):
+talked,
+
+(00:16:11):
+you know,
+
+Larry (00:16:11):
+all he's done is talk about defending the rights of the Palestinian people.
+
+Larry (00:16:15):
+Now he's up to, he's in bed with the Israelis.
+
+Asbed (00:16:19):
+Well, yeah, so far it's been all talk and no walk.
+
+Hovik (00:16:22):
+We keep joking that under the Erdogan administration earlier, like I guess said,
+
+Hovik (00:16:27):
+a couple more than a decade ago his foreign minister had a book called zero
+
+Hovik (00:16:31):
+problems problems with neighbors and now they have zero neighbors without problems
+
+Hovik (00:16:36):
+but it seems like Erdogan seems to prefer to thrive under adversity and so far it
+
+Hovik (00:16:41):
+has worked out for him for instance they have been able to capture Nagorno-Karabakh
+
+Hovik (00:16:46):
+which we'll talk about uh you know which is uh it's one of our ancient parts of our
+
+Hovik (00:16:51):
+homeland and
+
+Hovik (00:16:53):
+It seems like, you know, they've been exporting instability.
+
+(00:16:58):
+I mean,
+
+Hovik (00:16:58):
+it's still on their border,
+
+Hovik (00:16:59):
+but it's not,
+
+Hovik (00:17:00):
+you know,
+
+Hovik (00:17:01):
+at least inside Turkey,
+
+Hovik (00:17:02):
+people haven't felt it,
+
+Hovik (00:17:03):
+even though the Lira is tanking and so forth.
+
+Hovik (00:17:05):
+Well,
+
+Larry (00:17:06):
+while I don't pretend to be an expert on the whole Armenian experience,
+
+Larry (00:17:11):
+I do know enough that Turkey seems to have been involved in a little genocide with
+
+Larry (00:17:17):
+respect to the Armenian people.
+
+Larry (00:17:18):
+And that tends to leave a scar.
+
+Larry (00:17:22):
+You know, the one thing that separates people that come out of places like Armenia, Azerbaijan, Iran,
+
+Larry (00:17:34):
+They have long memories.
+
+Larry (00:17:37):
+And one of my CIA buddies,
+
+Larry (00:17:40):
+he was,
+
+Larry (00:17:41):
+so he was a case officer for,
+
+Larry (00:17:43):
+he was running Iranian intelligence assets.
+
+Larry (00:17:47):
+And one day he had a meeting scheduled and this Iranian comes in and he was just,
+
+Larry (00:17:52):
+he was visibly,
+
+Larry (00:17:53):
+emotionally distraught.
+
+Larry (00:17:55):
+He was upset.
+
+Larry (00:17:57):
+And my friend said to him, well, what's wrong?
+
+Larry (00:17:59):
+He goes,
+
+Larry (00:18:00):
+It was that murder of these women and children.
+
+Larry (00:18:03):
+It was ungodly.
+
+Larry (00:18:06):
+It was wrong.
+
+Larry (00:18:08):
+And my friend said, oh, I haven't heard about that.
+
+Larry (00:18:12):
+He said, let me, he said, how many?
+
+Larry (00:18:14):
+And he said, oh, there were probably 3,000.
+
+Larry (00:18:18):
+3,000, good Lord, where did it take place?
+
+Larry (00:18:20):
+No, it was right over here.
+
+Larry (00:18:22):
+There's this location.
+
+Larry (00:18:23):
+Oh, okay.
+
+Larry (00:18:24):
+Now, when did this take place?
+
+Larry (00:18:26):
+And the guy paused, he says, oh, I think it was 600 AD.
+
+Larry (00:18:32):
+Now, they're talking about it like it had just happened this week or last week.
+
+Larry (00:18:39):
+But it was something that had happened centuries ago.
+
+Asbed (00:18:42):
+Very long memory.
+
+(00:18:44):
+Unfortunately,
+
+Hovik (00:18:44):
+it's very difficult because,
+
+Hovik (00:18:47):
+you know,
+
+Hovik (00:18:48):
+if you had said this in,
+
+Hovik (00:18:50):
+let's say,
+
+Hovik (00:18:52):
+2019,
+
+Hovik (00:18:53):
+when Nagorno-Karabakh,
+
+Hovik (00:18:54):
+which is an ethnically Armenian populated region,
+
+Hovik (00:18:56):
+was still Armenian,
+
+Hovik (00:18:58):
+we would say,
+
+Hovik (00:18:59):
+oh,
+
+Hovik (00:19:00):
+these Armenians keep bringing up 100 years of history.
+
+Hovik (00:19:03):
+And it happened again.
+
+Hovik (00:19:04):
+And it's some of the same ideology.
+
+Hovik (00:19:07):
+But since we're talking about the South Caucasus,
+
+Hovik (00:19:10):
+it does remain a critical region where essentially global and regional powers intersect.
+
+Hovik (00:19:16):
+And it's a pretty volatile environment.
+
+Hovik (00:19:19):
+So in 2020,
+
+Hovik (00:19:20):
+Azerbaijan attacked Nagorno-Karabakh,
+
+Hovik (00:19:23):
+and analysts warned of a potential escalation targeting the southern regions of
+
+Hovik (00:19:28):
+Armenia now.
+
+Hovik (00:19:29):
+So after that time,
+
+Hovik (00:19:32):
+and Azerbaijan is openly threatening Armenia that it will take the so-called
+
+Hovik (00:19:40):
+“Zangezur Corridor”,
+
+Hovik (00:19:41):
+the southern provinces of Armenia,
+
+Hovik (00:19:42):
+Syunik and Vayots Dzor,
+
+Hovik (00:19:44):
+by force if it needs to.
+
+Hovik (00:19:46):
+And their goal,
+
+Hovik (00:19:48):
+according to their pan-Turkic ideology,
+
+Hovik (00:19:50):
+is to create the so-called “Zangezur Corridor”,
+
+Hovik (00:19:53):
+which would link,
+
+Hovik (00:19:54):
+because essentially Armenia is sort of geographically a wedge between Turkey and Azerbaijan.
+
+Hovik (00:20:01):
+And in fact, former, I believe, Prime Minister of Turkey, Tansu Çiller, called us the damned wedge.
+
+Hovik (00:20:07):
+But, you know, so from a Turkish perspective, from the pan-Turkic perspective,
+
+Hovik (00:20:13):
+goal.
+
+Hovik (00:20:14):
+Establishing this corridor is pretty important, but also this benefits several different powers.
+
+Hovik (00:20:25):
+The United States,
+
+Hovik (00:20:26):
+because it is able to contain Iran,
+
+Hovik (00:20:30):
+it's able to put pressure on Iran from the north,
+
+Hovik (00:20:33):
+and of course Israel,
+
+Hovik (00:20:34):
+who is always ever present in these discussions.
+
+Hovik (00:20:38):
+And we know that Azerbaijan and Turkey are adept at using global
+
+Hovik (00:20:43):
+crises to initiate land grabs just like they did in 2020 when they started that war
+
+Hovik (00:20:48):
+amidst COVID and the US presidential election and of course the current land grab
+
+Hovik (00:20:53):
+that they did in Syria right now and Armenian watchers are generally concerned that
+
+Hovik (00:21:02):
+people are not paying attention maybe there's nothing we can do and maybe the
+
+Hovik (00:21:07):
+people will continue to say that well what could we do if Armenia does not
+
+Hovik (00:21:11):
+protect itself,
+
+Hovik (00:21:12):
+but the reality is that Armenia,
+
+Hovik (00:21:14):
+unless Iran and Russia intervene to protect,
+
+(00:21:22):
+you know,
+
+Hovik (00:21:22):
+north-south communication,
+
+Hovik (00:21:24):
+and Armenia is basically on that route,
+
+(00:21:26):
+then,
+
+Hovik (00:21:26):
+you know,
+
+(00:21:27):
+there's a good chance,
+
+Hovik (00:21:27):
+I mean,
+
+Hovik (00:21:28):
+many are worried,
+
+Hovik (00:21:29):
+and I don't want to spread panic,
+
+Hovik (00:21:30):
+but many are worried that Armenia will be the next
+
+Hovik (00:21:34):
+place for operation.
+
+Hovik (00:21:35):
+In fact,
+
+Hovik (00:21:36):
+in the sphere of English language podcasters,
+
+Hovik (00:21:39):
+I believe only Douglas MacGregor was the one who brought up this issue in a recent
+
+Hovik (00:21:43):
+podcast with Daniel Davis.
+
+Hovik (00:21:45):
+But do you think that this adventure that Turkey started could embolden it to also
+
+Hovik (00:21:52):
+now push for a territorial grab in Armenia?
+
+(00:21:55):
+No,
+
+(00:21:55):
+actually,
+
+Larry (00:21:55):
+I think it'll probably end up being good news for Armenia because it will get
+
+Larry (00:22:00):
+Turkey so bogged down in Syria that
+
+Larry (00:22:04):
+that it won't have the resources or the focus to be able to do that.
+
+Larry (00:22:09):
+In fact,
+
+Larry (00:22:10):
+I would almost argue that if they weren't bogged down in Syria,
+
+(00:22:14):
+yeah,
+
+Larry (00:22:14):
+then that might be more of a possibility.
+
+Larry (00:22:17):
+Pashinyan, he's the leader of Armenia right now, right?
+
+(00:22:21):
+Right.
+
+Larry (00:22:21):
+He's the prime minister.
+
+Larry (00:22:22):
+Yeah, so he's playing a really dangerous game because the United States...
+
+Larry (00:22:31):
+The CIA is in there and they're sweet-talking them.
+
+(00:22:34):
+You know,
+
+Larry (00:22:34):
+the best way to think of this is Pashinyan is like that woman at the bar that's had
+
+Larry (00:22:39):
+a little too much to drink.
+
+Larry (00:22:42):
+And the United States is this Lothario, this serial rapist, trying to get her out of the bar.
+
+Larry (00:22:49):
+Okay?
+
+Larry (00:22:52):
+If Armenians are foolish enough to believe that the United States government is their friend,
+
+Larry (00:22:58):
+And oh, yeah, we're here to help you.
+
+Larry (00:23:00):
+We're here to promote your freedom and democracy.
+
+Larry (00:23:04):
+You know, if they're dumb enough to believe that, then you know what?
+
+Larry (00:23:08):
+Maybe what happens, they deserve it.
+
+Larry (00:23:10):
+You know, it's a hard way to say it.
+
+Larry (00:23:12):
+But the fact of the matter is the United States only wants to use Armenia for one reason.
+
+Larry (00:23:19):
+as a tool to attack Russia.
+
+Larry (00:23:22):
+This is all about taking Russia out because Russia's got the resources.
+
+Larry (00:23:28):
+Armenia's got some.
+
+Larry (00:23:30):
+But, you know, Armenia is a speck on the map compared to what Russia represents.
+
+Larry (00:23:35):
+And so the strategic vision for the United States, we normally don't do strategy well.
+
+Larry (00:23:41):
+But in this case,
+
+Larry (00:23:42):
+the strategy is to get in there,
+
+Larry (00:23:44):
+get Armenia as a way to distract,
+
+Larry (00:23:48):
+to try to weaken Russia.
+
+Larry (00:23:50):
+And they could give a shit what happens to Armenians.
+
+Larry (00:23:53):
+I mean,
+
+Larry (00:23:54):
+I hate to be so blunt about it and so crude,
+
+Larry (00:23:57):
+but I'm at the point now where I am just becoming enraged day after day.
+
+Larry (00:24:04):
+It is an unrelenting attack by the United States on the world order.
+
+Larry (00:24:11):
+We see it in Georgia.
+
+Larry (00:24:13):
+We see it in Romania.
+
+Larry (00:24:15):
+And we're seeing it in Armenia.
+
+Larry (00:24:18):
+And unfortunately, Pashinyan has been, I think he's been completely gamed.
+
+Hovik (00:24:23):
+You may know how this is being done since you've been on that side of the world.
+
+Hovik (00:24:27):
+We asked our previous guest, Ivan Katchanovsky, about the personal motivations for Zelensky.
+
+Hovik (00:24:34):
+How do you get someone who is a leader of a country to act against this country's
+
+Hovik (00:24:39):
+interests in such a blatant manner that everyone else can see what's happening?
+
+Asbed (00:24:45):
+Well,
+
+Asbed (00:24:46):
+many people,
+
+Asbed (00:24:47):
+many observers in Armenia actually think that these people are CIA assets,
+
+(00:24:51):
+basically,
+
+Asbed (00:24:51):
+who got installed at the top.
+
+(00:24:53):
+Yeah.
+
+Asbed (00:24:53):
+Very well, could be.
+
+Asbed (00:24:54):
+Plain and simple.
+
+Asbed (00:24:55):
+Yeah.
+
+(00:24:56):
+Yeah.
+
+(00:24:56):
+Yeah.
+
+Hovik (00:24:56):
+I just want to add that in the last 20 or so years,
+
+Hovik (00:25:00):
+I don't know if there's ever been a case of the head of the CIA and MI6 visiting Armenia.
+
+Hovik (00:25:06):
+And over the last two years, they have each visited Armenia at least once.
+
+Hovik (00:25:10):
+I think the head of MI6 visited Armenia.
+
+Hovik (00:25:13):
+Richard Moore visited Armenia twice.
+
+Hovik (00:25:15):
+And when they come to Armenia, they directly meet Pashinyan.
+
+Hovik (00:25:19):
+They don't meet their counterparts in Armenia.
+
+Hovik (00:25:22):
+They meet Pashinyan directly.
+
+Larry (00:25:25):
+That tells you, look, they didn't come to provide volunteer hours at a soup kitchen.
+
+Larry (00:25:32):
+Hey, would you like another bowl of borscht or whatever?
+
+Larry (00:25:36):
+No, you know, they are engaged.
+
+Larry (00:25:41):
+Armenia is simply a springboard to go after Russia.
+
+Larry (00:25:45):
+That's all.
+
+Larry (00:25:46):
+You know, it'd be one thing if there was actually genuine concern about the Armenian people.
+
+Larry (00:25:54):
+You know, and one of the aspects of CIA tradecraft and British, you know, all spy tradecraft,
+
+Larry (00:26:01):
+is when you are trying to recruit somebody to betray their country,
+
+Larry (00:26:07):
+to give you information,
+
+Larry (00:26:09):
+it's much like a seduction.
+
+Larry (00:26:12):
+And at the heart of it,
+
+Larry (00:26:15):
+you are trying to convince the other person that you really are their friend,
+
+Larry (00:26:20):
+that you really have their best interest at heart.
+
+Larry (00:26:23):
+But you don't.
+
+Larry (00:26:26):
+That your best interest goes as long as they do what you want them to do.
+
+Larry (00:26:31):
+And the moment they start saying, wait a minute, I'm not comfortable with this.
+
+Larry (00:26:35):
+All of a sudden, they wind up on the wrong side of the table.
+
+Larry (00:26:39):
+And frankly, the world stage is littered with the bodies.
+
+Larry (00:26:44):
+of people that thought that they were the buddies of the CIA.
+
+Larry (00:26:47):
+Ever heard of a guy named Saddam Hussein?
+
+Larry (00:26:49):
+How about Manuel Noriega?
+
+Larry (00:26:51):
+You know,
+
+Larry (00:26:52):
+so where the United States would get in bed and make,
+
+Larry (00:26:56):
+you know,
+
+Larry (00:26:57):
+we would have a good relations with these people.
+
+Larry (00:27:00):
+We would facilitate their criminal activity or what we call their criminal activity.
+
+Larry (00:27:05):
+And then, then when it becomes convenient for us, we turn on them.
+
+Larry (00:27:10):
+So that, but it's not just for like one person like Pashinyan
+
+Larry (00:27:14):
+that it'll happen to the whole Armenian population there.
+
+Larry (00:27:18):
+And I would argue that Russia takes a very radically different approach,
+
+Larry (00:27:25):
+much more pragmatic in terms of understanding,
+
+Larry (00:27:29):
+hey,
+
+Larry (00:27:30):
+these guys are our neighbors.
+
+Larry (00:27:33):
+And the fact that Armenia and Azerbaijan both side by side,
+
+Larry (00:27:41):
+Russia's gonna try to have good relations with both.
+
+Larry (00:27:44):
+But, you know, it's like one of those situations, you go back to high school.
+
+Larry (00:27:49):
+Well, if you're going to be friends with him, you can't be friends with me.
+
+Larry (00:27:51):
+You know, wait a second.
+
+Larry (00:27:54):
+You know, there has to be a little bit more maturity enter into this.
+
+Larry (00:27:57):
+So it's dangerous what's taking place.
+
+Hovik (00:28:02):
+It's a very opportune,
+
+Hovik (00:28:03):
+I mean,
+
+Hovik (00:28:04):
+apt that you mentioned that because Iran is keenly aware of the pan-tyrannic threat.
+
+Hovik (00:28:11):
+but also the Israeli threat on its northern borders.
+
+Hovik (00:28:15):
+Maybe for Iran, I don't know which one is more important.
+
+Hovik (00:28:19):
+Meanwhile, Russia is a little bit, as you said, more pragmatic.
+
+Hovik (00:28:23):
+And by that, I mean in November 9, 2020, when there was a ceasefire that was inked on November 9, 2020,
+
+Hovik (00:28:34):
+One point that appeared in that ceasefire document was this so-called opening of
+
+Hovik (00:28:40):
+trade routes,
+
+Hovik (00:28:41):
+and under the guise of opening trade routes,
+
+Hovik (00:28:44):
+there's explicit mention of connecting the mainland Azerbaijan with its exclave of Nakhijevan,
+
+Hovik (00:28:53):
+and that's what the Turks are calling the "Zangezur Corridor".
+
+(00:28:57):
+They,
+
+Hovik (00:28:57):
+in fact,
+
+Hovik (00:28:58):
+ceremoniously went to Shushi,
+
+Hovik (00:28:59):
+the Armenian city of Shushi,
+
+Hovik (00:29:02):
+that is on,
+
+Hovik (00:29:03):
+you know,
+
+Hovik (00:29:05):
+one of the highest points in the region.
+
+Hovik (00:29:07):
+And they inked the Shushi Declaration where they said that Turkey and Azerbaijan
+
+Hovik (00:29:12):
+will jointly sort of open the “Zangezur Corridor”.
+
+Hovik (00:29:17):
+So one of the points in that deal was that Russian border guard troops would be
+
+Hovik (00:29:22):
+stationed on that corridor.
+
+Hovik (00:29:24):
+But Turkey and Azerbaijan are treating this as their own,
+
+Hovik (00:29:27):
+like,
+
+Hovik (00:29:28):
+centuries-old project,
+
+Hovik (00:29:29):
+and they are interpreting it as an extraterritorial corridor to Armenia.
+
+Hovik (00:29:35):
+So they're trying to
+
+Hovik (00:29:37):
+We can weaken the geopolitical status of that region.
+
+Hovik (00:29:42):
+And I'm not sure if Azerbaijan and Turkey make another land grab.
+
+Hovik (00:29:47):
+I mean, amidst all this.
+
+Hovik (00:29:48):
+And it doesn't have to be too complicated because it's only,
+
+Hovik (00:29:51):
+I believe,
+
+Hovik (00:29:52):
+at its narrowest point,
+
+Hovik (00:29:53):
+it's like...
+
+Hovik (00:29:54):
+40 kilometers or something like that.
+
+Hovik (00:29:57):
+I'm not sure if even Russia would be willing to react.
+
+Hovik (00:30:03):
+And at this point, given what happened in Syria, I'm not sure that Iran would be able to react.
+
+Hovik (00:30:08):
+Shouldn't Russia be more concerned,
+
+Hovik (00:30:10):
+though,
+
+(00:30:11):
+about,
+
+Hovik (00:30:11):
+since you're an expert in counterterrorism,
+
+Hovik (00:30:15):
+shouldn't Russia be more concerned about the pan-Turkic
+
+Hovik (00:30:17):
+threat because it has its own like soft underbelly in Chechnya and Dagestan,
+
+Hovik (00:30:24):
+where these irredentist feelings can be cultivated in the future.
+
+Larry (00:30:30):
+Well, yeah, no, it's one of those things that Russia is having to carefully navigate.
+
+Larry (00:30:36):
+You know, Turkey, Erdogan is overplaying his hand and that shouldn't surprise anybody.
+
+Larry (00:30:45):
+But you saw a statement,
+
+Larry (00:30:47):
+was it yesterday,
+
+Larry (00:30:48):
+day before yesterday,
+
+Larry (00:30:49):
+where he claimed that sort of the only two real global leaders are Vladimir Putin and,
+
+Larry (00:30:57):
+ta-da,
+
+Larry (00:30:59):
+Reçep Erdogan.
+
+Larry (00:31:03):
+He's quite modest.
+
+Larry (00:31:05):
+Yeah, man of great humility, absolutely.
+
+Larry (00:31:07):
+Absolutely.
+
+Larry (00:31:09):
+You know, and you've got to wonder if Xi Jinping is sitting there going, what the hell?
+
+Larry (00:31:15):
+Because Xi Jinping's also seen pictures of these Islamic Uyghur fighters there in Syria.
+
+Larry (00:31:25):
+And they're talking about going back and attacking China.
+
+Larry (00:31:29):
+So,
+
+(00:31:30):
+yes,
+
+Larry (00:31:30):
+the Chinese are always usually about business,
+
+Larry (00:31:34):
+but I think this is ultimately going to catch their attention.
+
+Larry (00:31:39):
+Russia is, you know, Turkey has used up its credit with Russia.
+
+Larry (00:31:47):
+Let me put it that way.
+
+Asbed (00:31:49):
+That's an important point.
+
+Larry (00:31:51):
+And Russia harbors no illusions about what Erdogan is, that the ultimate self-serving bastard.
+
+Larry (00:32:01):
+that it won't even matter if it's necessarily in the best interest of Turkey or not.
+
+Larry (00:32:06):
+As long as it serves his vainglorious objectives, he'll do it.
+
+Larry (00:32:14):
+And that's why he's betrayed Russia over and over.
+
+Larry (00:32:16):
+And the promise to keep the Azov captives in tow and then releasing them a year and
+
+Larry (00:32:26):
+a half ago is just one example.
+
+Larry (00:32:30):
+collaborating with Ukraine and with Western intelligence to bring in Ukrainian
+
+Larry (00:32:36):
+fighters that were going into Syria.
+
+Larry (00:32:39):
+So, you know, Russia, I think, understands the score on that.
+
+Larry (00:32:43):
+So they will again, I think your concerns are valid.
+
+Larry (00:32:50):
+But there is sort of let's look at the bright side here of Turkey getting itself embroiled.
+
+Larry (00:32:59):
+militarily in Syria, this is going to create a major distraction and major complications.
+
+Larry (00:33:09):
+Because as you point out right now,
+
+Larry (00:33:11):
+you've got the Kurdish forces backed by the United States,
+
+Larry (00:33:15):
+the rebel forces backed by Turkey,
+
+Larry (00:33:17):
+they're fighting.
+
+Larry (00:33:19):
+If the United States decides to militarily intervene, what does Turkey do?
+
+Larry (00:33:23):
+And not that there'd be any great U.S.
+
+Larry (00:33:26):
+military, but I'm just saying this is not going to bring peace and harmony.
+
+Larry (00:33:31):
+It's going to create turmoil and chaos.
+
+Larry (00:33:34):
+And when you've got turmoil and chaos,
+
+Larry (00:33:36):
+the last thing you want to do is go provoke more by seizing territory in a place
+
+Larry (00:33:42):
+like Armenia.
+
+Larry (00:33:43):
+Of course, let's be candid about it.
+
+Larry (00:33:49):
+If Pashinyan continues...
+
+Larry (00:33:51):
+to basically tell the Russians, hey, go pound sand.
+
+Larry (00:33:56):
+you know, we're not a member of the CSTO anymore.
+
+Larry (00:33:59):
+That organization sucks.
+
+Larry (00:34:01):
+That's basically what he said the other day.
+
+Larry (00:34:03):
+I can see Russia standing back and saying,
+
+(00:34:05):
+oh,
+
+Larry (00:34:05):
+Azerbaijan and Turkey,
+
+Larry (00:34:06):
+hey,
+
+Larry (00:34:07):
+you want to take that chunk of land?
+
+Larry (00:34:08):
+That's, you know, no sweat off our nose.
+
+Larry (00:34:11):
+You know, why would they want to intervene on behalf of Armenia in that situation?
+
+Larry (00:34:16):
+When the current Armenian leader is cozying up to the West and what Russian
+
+Larry (00:34:21):
+intelligence is telling them is the West is determined to cause as much
+
+Larry (00:34:26):
+terrorism, chaos, and disruption in Russia as possible because they want to destroy Russia.
+
+Asbed (00:34:33):
+Larry,
+
+Asbed (00:34:34):
+I'm interested in your contrarian view that with Syria,
+
+Asbed (00:34:38):
+Turkey may be bogged down in that embroilment and not think so much about Armenia
+
+Asbed (00:34:43):
+and their “Zangezur Corridor”.
+
+Asbed (00:34:45):
+But it seems to me that instead of committing a lot of Turkish troops,
+
+Asbed (00:34:50):
+Erdogan is renting all these mercenaries because there have been some Uyghurs and
+
+Asbed (00:34:56):
+Turkomans and other people who've been found.
+
+Asbed (00:34:58):
+So rather than Syrians fighting for their own independence,
+
+Asbed (00:35:01):
+he's got all these mercenaries fighting in Syria.
+
+Asbed (00:35:04):
+Some of them,
+
+Asbed (00:35:05):
+I think I read,
+
+Asbed (00:35:06):
+have been found with Turkish Liras because they get paid in Turkish Liras in their pockets.
+
+Asbed (00:35:10):
+Is this going to be an MO going forward?
+
+Asbed (00:35:12):
+Because obviously the same thing happened in Nagorno-Karabakh in 2020.
+
+Asbed (00:35:16):
+There were a lot of,
+
+Asbed (00:35:18):
+I think it was the same thing,
+
+Asbed (00:35:19):
+Turkmen and Syrian,
+
+Asbed (00:35:20):
+they said,
+
+Asbed (00:35:21):
+mercenaries fighting on the side of the Azerbaijanis.
+
+Asbed (00:35:24):
+Initially,
+
+Asbed (00:35:25):
+thousands of those people died on the hills of Karabakh until,
+
+(00:35:29):
+you know,
+
+Asbed (00:35:29):
+Azerbaijani troops led by Turkish generals started taking over.
+
+Asbed (00:35:33):
+So is this going to be an MO in the 21st century that we have all these rented people who are
+
+Asbed (00:35:38):
+building their own military capabilities and eventually turn on China or something?
+
+Larry (00:35:43):
+Well, let's not exaggerate their military capabilities.
+
+Larry (00:35:48):
+They're capable of creating a lot of chaos,
+
+Larry (00:35:52):
+but they are fairly easy to defeat with conventional military force.
+
+Larry (00:35:58):
+There's an unlimited number of them.
+
+Larry (00:36:00):
+Man, they’re limited.
+
+Larry (00:36:01):
+I would say there's a limited number because I've run across a couple of these guys.
+
+Larry (00:36:07):
+I testified in a court case against one 20 years ago.
+
+Larry (00:36:13):
+He decided, ah, I want to get my jihad on.
+
+Larry (00:36:16):
+So he went and he joined Al-Qaeda.
+
+Larry (00:36:18):
+And then they were getting him up in the middle of the night to do prayers.
+
+Larry (00:36:22):
+And then they had to get up at like 5 a.m.
+
+Larry (00:36:24):
+to go exercise.
+
+Larry (00:36:26):
+And then they got this paltry little breakfast at like 7 a.m.
+
+Larry (00:36:30):
+And then it was back to prayer.
+
+Larry (00:36:32):
+And then it was just, he lasted about a week.
+
+Larry (00:36:36):
+And he goes, oh, I hate this.
+
+Larry (00:36:39):
+There's too much pain, too much suffering.
+
+Larry (00:36:44):
+But the problem is you've got this force, but there is the population there in Syria.
+
+Larry (00:36:52):
+They've not been raptured.
+
+Larry (00:36:54):
+God didn't take them up into the heavens.
+
+Larry (00:36:56):
+They're there.
+
+Larry (00:36:57):
+They're going to need to eat.
+
+Larry (00:37:00):
+They're going to need medical care.
+
+Larry (00:37:02):
+And if they don't get that, they're going to go someplace where they can get it.
+
+Larry (00:37:06):
+So if it's not being provided,
+
+Larry (00:37:09):
+if these guerrilla fighters who are not predisposed to actually govern territory
+
+Larry (00:37:16):
+and provide for people's needs,
+
+Larry (00:37:19):
+those people have to go elsewhere.
+
+(00:37:21):
+Where are they going to go?
+
+Larry (00:37:21):
+Well, Turkey.
+
+Larry (00:37:23):
+Turkey's already got a huge Syrian refugee problem.
+
+Larry (00:37:26):
+They're trying to get rid of them, not bring more in.
+
+Larry (00:37:28):
+So all of a sudden, Turkey's going to be confronted with
+
+Larry (00:37:32):
+What do we do to install or try to get some sort of governing force in place in
+
+Larry (00:37:38):
+Syria that will start improving the lives of the people,
+
+Larry (00:37:42):
+making sure that food flows?
+
+Larry (00:37:44):
+They're still operating under Western sanctions.
+
+Larry (00:37:47):
+which are preventing a lot of aid.
+
+Larry (00:37:51):
+So that's what I'm saying.
+
+Larry (00:37:53):
+That's where this gets complicated.
+
+Larry (00:37:55):
+It's not just a matter of signing up some mercenaries and saying, go sick them, go get them, boys.
+
+Larry (00:38:00):
+Yeah, they can do that, but it doesn't mean that they're automatically going to triumph over the Shias.
+
+Larry (00:38:10):
+You know, this notion that, oh boy, Iran's lost.
+
+Larry (00:38:14):
+Poor Iran,
+
+Larry (00:38:15):
+they're out of the...
+
+Larry (00:38:16):
+It's like,
+
+Larry (00:38:18):
+has anybody ever wandered around those desert areas out there?
+
+Larry (00:38:22):
+It's centuries-old smuggling routes.
+
+Larry (00:38:27):
+I mean, nobody in centuries has controlled those.
+
+Larry (00:38:32):
+So, and the notion that there's nobody, that all of the border guards like in Jordan are incorruptible.
+
+Larry (00:38:41):
+I mean, they're, you know, they're stand up guys who will never take a bribe.
+
+Larry (00:38:45):
+Oh, please.
+
+Larry (00:38:48):
+You know, so that's what I'm saying.
+
+Larry (00:38:50):
+Iran's not going to sit back and wait to get punched in the nose.
+
+Larry (00:38:55):
+In fact,
+
+Larry (00:38:56):
+if nothing else right now,
+
+Larry (00:38:58):
+I think Iran is probably taking steps to build a nuclear weapon right now and will
+
+Larry (00:39:05):
+unveil it maybe in the next three to six months.
+
+Larry (00:39:09):
+Because they recognize that if they have a nuke,
+
+Larry (00:39:13):
+then Israel and the United States are not going to mess with them.
+
+Larry (00:39:16):
+It's always if they don't have it, we're going to come get you.
+
+Larry (00:39:19):
+We're going to attack you.
+
+Larry (00:39:20):
+We're going to destroy you so that you can't get it.
+
+Larry (00:39:23):
+I mean, the logic of this is off the charts.
+
+Larry (00:39:26):
+But that's why I say this.
+
+Larry (00:39:31):
+Turkey is not it's not finding a situation where everything is falling into place
+
+Larry (00:39:38):
+and the local population is going,
+
+(00:39:41):
+oh,
+
+Larry (00:39:41):
+thank God the Turks have come.
+
+Larry (00:39:43):
+Let's be calm.
+
+Larry (00:39:45):
+Now, the purges, the murders, the mass executions, that's going to increase.
+
+Larry (00:39:50):
+And when that starts happening, the refugees, people start moving.
+
+Asbed (00:39:54):
+And to underscore your point, I think Iran has accelerated its enrichment program right now.
+
+Hovik (00:40:01):
+Let's talk ISR for a little bit.
+
+Hovik (00:40:03):
+In modern warfare,
+
+(00:40:05):
+intelligence,
+
+Hovik (00:40:05):
+surveillance,
+
+Hovik (00:40:06):
+and reconnaissance is cornerstone,
+
+(00:40:08):
+I think,
+
+Hovik (00:40:08):
+for achieving strategic and tactical dominance on a battlefield.
+
+Hovik (00:40:13):
+In a 2023 article on your website,
+
+(00:40:16):
+Sonar21,
+
+Hovik (00:40:16):
+you,
+
+(00:40:18):
+in fact,
+
+Hovik (00:40:18):
+liken ISR to the Eye of Sauron,
+
+Hovik (00:40:21):
+which is interesting.
+
+Hovik (00:40:23):
+It rhymes, but... And I, being from the tech sector, I know how...
+
+Hovik (00:40:31):
+how much progress there is even in a duration of a year or two years in terms of
+
+Hovik (00:40:37):
+artificial intelligence,
+
+Hovik (00:40:39):
+computer vision,
+
+Hovik (00:40:40):
+all of that being used to comb over petabytes of data every day.
+
+Hovik (00:40:47):
+But just to underscore this,
+
+Hovik (00:40:49):
+or just to sort of maybe get your thoughts,
+
+Hovik (00:40:51):
+how critical is ISR in determining the outcome of conflicts nowadays?
+
+Hovik (00:40:57):
+And can you give examples of recent wars where maybe ISR played a decisive role?
+
+Larry (00:41:01):
+Well, let's talk about how ISR has changed over the last.
+
+Larry (00:41:06):
+So, yeah, last 24 years, quarter of a century.
+
+Larry (00:41:08):
+Good God, you know, how did I get that old?
+
+Larry (00:41:11):
+Seems like yesterday I was sitting there working on these military exercises.
+
+Larry (00:41:15):
+So, you know, and here I'm talking about the special operations community, what they use.
+
+Larry (00:41:23):
+So, you know, there would be a KC-135 rivet joint.
+
+Larry (00:41:26):
+There would be.
+
+Larry (00:41:33):
+other planes,
+
+Larry (00:41:35):
+collection platforms,
+
+Larry (00:41:36):
+but mostly it was fixed wing,
+
+Larry (00:41:39):
+fixed wing collection and or satellite.
+
+Larry (00:41:42):
+And when that data was collected,
+
+Larry (00:41:45):
+there was always a time lag because it had to come in and they get processed and
+
+Larry (00:41:51):
+maybe analyzed before it could be given to a commander for,
+
+Larry (00:41:56):
+say,
+
+Larry (00:41:57):
+a decision on the battlefield.
+
+Larry (00:42:00):
+I remember when it was about March of 2003, when they first started getting the regular drone feeds.
+
+Larry (00:42:12):
+So the drones,
+
+Larry (00:42:13):
+the CIA had the drones active in 2000,
+
+(00:42:15):
+2001,
+
+Larry (00:42:15):
+but it was considered a top secret program at the time.
+
+Larry (00:42:21):
+And then they began showing this capability to take live video and feed it back to headquarters.
+
+Larry (00:42:30):
+I mean,
+
+Larry (00:42:31):
+one of my one of my CIA buddies at the time was laughing,
+
+(00:42:34):
+you know,
+
+Larry (00:42:34):
+because right after 9-11,
+
+Larry (00:42:36):
+they were they were tracking what they said were some Al Qaeda suspects driving
+
+Larry (00:42:44):
+down the road in the truck.
+
+Larry (00:42:45):
+And the next thing you know, this truck stops.
+
+Larry (00:42:48):
+the two guys get out of the truck and start having sex, okay?
+
+Larry (00:42:52):
+And they're filming, you know, see how he's recording this, just hooting and hollering at it.
+
+Larry (00:42:59):
+But you couple that with then the ability to do video conferencing, secure video conferencing.
+
+Larry (00:43:08):
+And all of a sudden, you know, by 2006, you were getting regular drone video footage
+
+Larry (00:43:17):
+of a particular area.
+
+Larry (00:43:18):
+So you get that immediate information and yeah,
+
+Larry (00:43:22):
+it could be analyzed,
+
+Larry (00:43:23):
+but you also had people seen at real time,
+
+Larry (00:43:25):
+able to make real world decisions about targeting.
+
+Larry (00:43:29):
+What we've seen over the last two and a half years,
+
+Larry (00:43:33):
+going on three years now in Ukraine,
+
+Larry (00:43:37):
+was this the drone warfare
+
+Larry (00:43:41):
+has become so fully integrated with the ISR that it's,
+
+Larry (00:43:48):
+you know,
+
+Larry (00:43:49):
+it's real time now that there is across the board.
+
+Larry (00:43:53):
+And it's so fast in ways that some people just don't understand.
+
+Larry (00:43:58):
+So it's changed the entire picture of how military activity is being carried out now.
+
+Larry (00:44:08):
+Does that mean everybody has the best intelligence?
+
+Larry (00:44:14):
+When you target and when you focus it on a target, yes, you're going to get good information.
+
+Larry (00:44:19):
+But for example,
+
+Larry (00:44:20):
+right now,
+
+Larry (00:44:21):
+I would argue Israel,
+
+Larry (00:44:24):
+for example,
+
+Larry (00:44:25):
+has very poor information about Iran and its actual capabilities.
+
+Larry (00:44:30):
+And I hear a lot of comments in the West about how weak Iran is.
+
+Larry (00:44:36):
+And I disagree.
+
+Larry (00:44:39):
+I think Iran is much stronger militarily than they're letting on.
+
+Larry (00:44:45):
+And there is this tendency in the West to confuse patience with weakness.
+
+Larry (00:44:51):
+And somebody that's not a hothead and is cautious in taking their time and making a
+
+Larry (00:44:56):
+decision can oftentimes be viewed as weak when they're anything but.
+
+Larry (00:45:02):
+So the role that ISR has played, and you sort of alluded to it, you're getting so much information now.
+
+Larry (00:45:12):
+How do you sort out what's important from what's not important?
+
+Larry (00:45:16):
+How do you parse through that?
+
+Larry (00:45:18):
+And so that's where these are always guided by what are called collection plans
+
+Larry (00:45:24):
+that the intelligence community comes up and says,
+
+Larry (00:45:27):
+okay,
+
+Larry (00:45:28):
+this is what we want to focus on.
+
+Larry (00:45:31):
+One of the problems with the collection plan is you say, hey, we're looking for this red Corvette.
+
+Larry (00:45:42):
+Okay, so get all the choppers up, get all the drones up.
+
+Larry (00:45:46):
+We need to go over the freeways and find the red Corvette.
+
+Larry (00:45:50):
+Well, you find out later that the report was, it was a blue Volkswagen.
+
+Larry (00:45:59):
+And so you're looking for this red Corvette and you're ignoring the blue Volkswagen's everywhere.
+
+Larry (00:46:04):
+But you're focused, you're looking only for the red Corvette.
+
+Larry (00:46:07):
+You're not paying attention to the blue Volkswagen.
+
+Larry (00:46:10):
+So I'm like, oh my God, that was important.
+
+Larry (00:46:12):
+We should have paid attention to that.
+
+Larry (00:46:15):
+So that's one of the biases and risks that come with this.
+
+Hovik (00:46:20):
+So there's also something within NATO that interested me.
+
+Hovik (00:46:26):
+They have joint ISR.
+
+Hovik (00:46:28):
+And I'm just wondering how NATO countries share and collaborate on this because I
+
+(00:46:34):
+could imagine,
+
+(00:46:34):
+for instance,
+
+Hovik (00:46:34):
+that the US has pretty powerful
+
+Hovik (00:46:37):
+capabilities that are always on they're always no well probably not as uh powerful
+
+Hovik (00:46:44):
+as you allude I guess I mean uh you tempered my my uh expectations a little bit but
+
+Hovik (00:46:51):
+i would say that they still have some pretty significant capability and how is that
+
+Hovik (00:46:56):
+information shared between NATO countries like for instance does turkey as a member
+
+Hovik (00:47:02):
+get access to a part of that information and if so what part
+
+Larry (00:47:07):
+Well, I would say it really depends on the collection platform that's used.
+
+Larry (00:47:13):
+So there will be different ways of collecting intelligence,
+
+Larry (00:47:20):
+and some of those will be classified at the secret level.
+
+Larry (00:47:23):
+Some would be classified as top secret.
+
+Larry (00:47:26):
+Some will be classified as top secret special access program, a SAP, that it's in a compartment.
+
+Larry (00:47:34):
+So you're limited in what you could share out of that.
+
+Larry (00:47:37):
+We saw that.
+
+Larry (00:47:38):
+We saw examples of that recently.
+
+Larry (00:47:40):
+Remember when that document,
+
+Larry (00:47:42):
+the two documents were leaked about Israel's preparations for retaliation on Iran?
+
+Larry (00:47:51):
+And one of the documents in particular, it was classified top secret, speak at, but it's also five eyes.
+
+Larry (00:48:02):
+So you had lots of different classifications attached to it.
+
+Larry (00:48:08):
+And then as you read down, you would see paragraphs would be classified.
+
+Larry (00:48:14):
+One would be top secret,
+
+Larry (00:48:16):
+one would be secret,
+
+Larry (00:48:17):
+one would be top secret five eyes,
+
+Larry (00:48:20):
+one would be top secret US and British only.
+
+Larry (00:48:24):
+So what happens is,
+
+Larry (00:48:27):
+depending upon the kind of platform used to collect the information,
+
+Larry (00:48:31):
+and then that will determine
+
+Larry (00:48:34):
+Who gets to see it?
+
+Larry (00:48:36):
+Are they cleared for it or not?
+
+Larry (00:48:38):
+And invariably,
+
+Larry (00:48:39):
+the United States has collection capabilities that they do not share with other
+
+Larry (00:48:46):
+foreign governments.
+
+Larry (00:48:48):
+You know, they'll use different code letters to symbolize some of those methods.
+
+Asbed (00:48:55):
+And that includes within NATO, correct?
+
+Asbed (00:48:57):
+Absolutely.
+
+Larry (00:48:58):
+Okay.
+
+Larry (00:48:59):
+So NATO doesn't, what a U.S., what I would see at the CIA, the average person in NATO wouldn't see.
+
+Larry (00:49:08):
+you know, when I had my active clearances.
+
+Larry (00:49:12):
+So it's just,
+
+(00:49:15):
+they will,
+
+Larry (00:49:15):
+a lot of times,
+
+Larry (00:49:16):
+you know,
+
+Larry (00:49:17):
+if the intelligence is classified as no foreign,
+
+Larry (00:49:20):
+that means no,
+
+Larry (00:49:21):
+you can't share it with any foreigner.
+
+Larry (00:49:24):
+You'll see the other term, or con, means originator controlled.
+
+Larry (00:49:29):
+So whoever produced that intelligence, the one who's going to control access to it.
+
+Larry (00:49:35):
+And if it's like CIA generated information, well, they're going to tell foreigners, screw you.
+
+Larry (00:49:39):
+We're never sharing that with you.
+
+Asbed (00:49:41):
+So when something is classified,
+
+Asbed (00:49:44):
+let's say need to know,
+
+Asbed (00:49:46):
+and somebody has like Turkey has access to some of this data inside NATO.
+
+Asbed (00:49:51):
+Does that also cover what they can share going forward?
+
+Asbed (00:49:58):
+We're trying to understand,
+
+(00:50:00):
+for example,
+
+Asbed (00:50:00):
+how much access Turkey had to information that is available to NATO members and
+
+Asbed (00:50:06):
+whether they leveraged those assets,
+
+Asbed (00:50:08):
+that information to help Azerbaijan in its war against Nagorno-Karabakh and Armenia
+
+(00:50:14):
+in 2020.
+
+Asbed (00:50:14):
+Because, you know...
+
+Asbed (00:50:19):
+Even during the first hour,
+
+Asbed (00:50:20):
+Azerbaijan had the kind of information that needed to destroy a lot of the air
+
+Asbed (00:50:24):
+defenses available to Armenia.
+
+Asbed (00:50:26):
+And there's no way that Azerbaijan has that kind of information on its own.
+
+Asbed (00:50:30):
+Turkey, maybe, but then we certainly know that NATO has that capability.
+
+(00:50:35):
+Yeah,
+
+(00:50:35):
+no,
+
+Larry (00:50:35):
+in that case,
+
+(00:50:36):
+yeah,
+
+Larry (00:50:36):
+I would not at all doubt that if Turkey had access to intelligence like that,
+
+Larry (00:50:42):
+that it could pass it on to Azerbaijan.
+
+Larry (00:50:44):
+Absolutely.
+
+Larry (00:50:46):
+I understand, too, there are long standing relationships between Turkish intelligence.
+
+Larry (00:50:55):
+I guess it's called MIT and the U.S.
+
+Larry (00:50:59):
+intelligence, CIA.
+
+Larry (00:51:01):
+That liaison, you know, it's called liaison reporting in many aspects.
+
+Larry (00:51:08):
+Turkey actually can have more leverage because the United States has sort of fallen
+
+Larry (00:51:15):
+short of collecting human assets and has become more dependent on liaison reporting.
+
+Larry (00:51:22):
+What liaison reporting is you get a relationship with an intelligence service like Turkey's.
+
+Larry (00:51:28):
+And then they give you all of their good intelligence,
+
+(00:51:31):
+pass it to you,
+
+Larry (00:51:31):
+and then you republish it and say,
+
+(00:51:33):
+oh,
+
+Larry (00:51:33):
+this is what's going on in Turkey because we got it from our Turkish colleagues.
+
+Larry (00:51:38):
+So, yeah, I think the scenario you lay out is highly likely.
+
+Asbed (00:51:44):
+Does that imply that there was some sort of tacit approval from NATO for Turkey to proceed with that?
+
+Asbed (00:51:54):
+Because it was something maybe the United States wanted to see?
+
+Asbed (00:51:57):
+Because we've also heard firsthand from our colleagues that State Department types
+
+Asbed (00:52:03):
+were actually looking around the Armenian diaspora members to understand how the
+
+Asbed (00:52:08):
+diaspora would...
+
+Asbed (00:52:11):
+react to a depopulation of Artsakh, Nagorno-Karabakh, a few months later.
+
+Asbed (00:52:17):
+So putting these things together,
+
+Asbed (00:52:19):
+we're wondering,
+
+Asbed (00:52:20):
+was this a NATO-led or NATO-tolerated activity on the part of Turkey to assist
+
+Asbed (00:52:27):
+Azerbaijan in the ethnic cleansing?
+
+Larry (00:52:29):
+Yeah, no, it certainly looks that way.
+
+Larry (00:52:31):
+You know, I have no particular knowledge on that.
+
+Larry (00:52:34):
+But, you know, the case you lay out is quite credible.
+
+Larry (00:52:38):
+Yes, that's exactly how it could have happened.
+
+Larry (00:52:43):
+It's also possible that it was missed, but a lot depends on what was coming in from the U.S.
+
+Larry (00:52:53):
+Embassy in Yerevan, what was coming from the CIA chief of station, because they're reporting back.
+
+Larry (00:53:03):
+They've also got their assets and they've got their priorities,
+
+Larry (00:53:07):
+what they're supposed to collect on,
+
+Larry (00:53:09):
+what they're supposed to do.
+
+Larry (00:53:11):
+And so to that extent, as well as carrying out covert activities, covert operations.
+
+Hovik (00:53:18):
+So the 2020 war, I mean, everyone could see it coming.
+
+Hovik (00:53:24):
+It was the sort of thing that everyone knew was going to happen.
+
+Hovik (00:53:26):
+It was just the day that it was going to happen.
+
+Hovik (00:53:28):
+Right.
+
+Hovik (00:53:30):
+And for Armenian analysts, everyone agrees that
+
+Hovik (00:53:35):
+biggest determinant.
+
+Hovik (00:53:37):
+And the reason why you didn't want to go to this war at any cost was because Turkey
+
+(00:53:42):
+was going to be involved.
+
+Hovik (00:53:42):
+And if Turkey is involved, then it's going to be bad news.
+
+Hovik (00:53:47):
+But there's also this document by RAND Corporation in 2019 extending Russia,
+
+Hovik (00:53:52):
+where it's talking about the same things,
+
+Hovik (00:53:55):
+whether it's Belarus,
+
+Hovik (00:53:56):
+whether it's Ukraine,
+
+Hovik (00:53:57):
+whether it's Syria,
+
+Hovik (00:53:59):
+everything that's happening today,
+
+Hovik (00:54:00):
+that document talks about it like it's a game of Risk.
+
+Hovik (00:54:04):
+and that's what's leading us to ask these questions from our guests and
+
+Hovik (00:54:10):
+My mental state right now,
+
+Hovik (00:54:12):
+I think most Armenians,
+
+Hovik (00:54:13):
+is we're like this person whose family has been murdered and the killer is walking
+
+Hovik (00:54:21):
+free and he's trying to investigate how this happened.
+
+Hovik (00:54:25):
+Who killed my family?
+
+Hovik (00:54:26):
+And it's very difficult from an Armenian perspective because Armenia is a small country.
+
+Hovik (00:54:30):
+So we don't have the resources of the New York Times,
+
+Hovik (00:54:33):
+for instance,
+
+Hovik (00:54:34):
+to investigate journalistically in a comprehensive way.
+
+Hovik (00:54:38):
+okay well what was the nato ISR role exactly and it benefited it certainly in this
+
+Hovik (00:54:45):
+2019 RAND corporation report it said that they're going to exploit tensions in the
+
+Hovik (00:54:48):
+south caucasus did they actually approve this did Biden approve this or was this
+
+Hovik (00:54:54):
+just something that Turkey said okay well you know i'm gonna do this and no one can
+
+Hovik (00:54:58):
+do anything but then uh some of the things that happened like for instance that the
+
+Hovik (00:55:03):
+first hour uh you know
+
+Hovik (00:55:05):
+all the air defenses in a precise targeting got destroyed tells us that it was
+
+Hovik (00:55:11):
+something that was out of the ordinary because for instance,
+
+Hovik (00:55:14):
+Azerbaijan tried to attack Armenia in 2016,
+
+Hovik (00:55:18):
+nothing.
+
+Hovik (00:55:19):
+And now all of a sudden Turkey is involved and we're seeing this.
+
+Hovik (00:55:23):
+Anyway,
+
+Hovik (00:55:24):
+when we're investigating this,
+
+Hovik (00:55:25):
+when we're investigating the NATO capabilities and trying to rule out or confirm
+
+Hovik (00:55:30):
+how involved NATO
+
+Hovik (00:55:33):
+uh united states government were in this operation in the 2020 war but I don't
+
+Larry (00:55:39):
+think I don't think it's so much nato i would steer clear looking at NATO I'd look
+
+Larry (00:55:44):
+specifically at the United States and Turkey and Israel of course yeah yeah yeah
+
+Larry (00:55:49):
+You know,
+
+Larry (00:55:50):
+and that intelligence sharing,
+
+Larry (00:55:52):
+you know,
+
+(00:55:53):
+look,
+
+Larry (00:55:53):
+Turkey is in a position that it can bargain for intelligence from Israel.
+
+Larry (00:55:58):
+Israel wants certain things out of Turkey and Turkey is OK.
+
+Larry (00:56:01):
+This is what we need from you.
+
+Larry (00:56:04):
+And the specific they could even task Israel to get certain intelligence from the
+
+Larry (00:56:11):
+United States,
+
+Larry (00:56:13):
+knowing that the United States would give it to Israel and not give it to Turkey,
+
+Larry (00:56:16):
+but then require Israel to pass it on to Turkey.
+
+Larry (00:56:20):
+Right.
+
+Larry (00:56:21):
+So I wouldn't look at this, though, as NATO.
+
+Larry (00:56:24):
+This is strictly, I'd say this is strictly U.S., Turkey and Israel, that triad right there.
+
+Larry (00:56:31):
+And, you know, because Turkey, again, is pursuing what it sees as in its national interest.
+
+Larry (00:56:40):
+And that's what makes this whole region so volatile, so dangerous.
+
+Hovik (00:56:45):
+I think that we could also probably include the UK, but then we're expanding.
+
+Hovik (00:56:51):
+But I think that the United States essentially has the majority of the satellites
+
+Hovik (00:56:57):
+and the drones and everything.
+
+Larry (00:56:59):
+Yeah, US has the intel assets.
+
+Larry (00:57:01):
+Britain is a raggedy-ass old poodle.
+
+Larry (00:57:05):
+OK,
+
+Larry (00:57:06):
+they're like some nasty little dog,
+
+Larry (00:57:09):
+needs a haircut,
+
+Larry (00:57:10):
+has an annoying bark and,
+
+(00:57:13):
+you know,
+
+Larry (00:57:13):
+just but is is elderly,
+
+Larry (00:57:16):
+too.
+
+Larry (00:57:18):
+They don't have satellite assets.
+
+Larry (00:57:20):
+They're they're entirely dependent on the United States for ISR.
+
+Larry (00:57:25):
+You know, and they have no military force to speak of there.
+
+Larry (00:57:30):
+Yeah, they are.
+
+Larry (00:57:31):
+They are a terribly meddlesome intelligence outfit.
+
+Larry (00:57:38):
+They have great capability on that front.
+
+Larry (00:57:40):
+And they have some stellar intelligence officers.
+
+Larry (00:57:45):
+And we've seen them over the years, like people like Alastair Crooke.
+
+Larry (00:57:49):
+You look at Alastair, he's not a formidable guy physically.
+
+Larry (00:57:54):
+But mentally, man is Superman.
+
+Hovik (00:57:59):
+The next question that we wanted to ask you is, Karen Kwiatkowski was with us last week.
+
+Hovik (00:58:06):
+And we wanted to know what the Trump administration is going to do in terms of this
+
+Hovik (00:58:13):
+global Russia versus West war.
+
+Hovik (00:58:17):
+And she said that she believes that the Trump administration will cut financing to Ukraine.
+
+Hovik (00:58:22):
+But she also cautioned that the U.S.
+
+Hovik (00:58:25):
+deep state, which is more powerful than Trump, will be able to divert savings from Ukraine elsewhere.
+
+Hovik (00:58:32):
+And it will still be a confrontation on a global scale.
+
+Hovik (00:58:35):
+So just because, let's say, Ukraine will be, you know, will be frozen, there will be conflicts elsewhere.
+
+Hovik (00:58:41):
+You know, what are your thoughts about those concerns?
+
+Larry (00:58:46):
+I think Trump,
+
+Larry (00:58:48):
+on the one hand,
+
+Larry (00:58:49):
+he's better equipped to deal with the deep state now than he was in 2016,
+
+Larry (00:58:51):
+that's for sure.
+
+Larry (00:58:54):
+He was naive, didn't have a clue what he was doing back then.
+
+Larry (00:59:00):
+On the other hand,
+
+Larry (00:59:01):
+unfortunately,
+
+Larry (00:59:03):
+he is surrounding himself with the people that have been nominated for national
+
+Larry (00:59:12):
+security posts in his administration.
+
+Larry (00:59:15):
+are just as bad as the Tony Blinkens, Jake Sullivans that currently populate the Biden administration.
+
+Larry (00:59:22):
+So, you know, ideologically, they're really no different.
+
+Larry (00:59:29):
+But we've seen before where Trump had,
+
+Larry (00:59:31):
+you know,
+
+Larry (00:59:32):
+he appointed John Bolton and Mark Milley,
+
+Larry (00:59:40):
+the chairman of the Joint Chiefs of Staff.
+
+Larry (00:59:43):
+So, yeah, he made terrible appointments and was able to work around those people.
+
+Larry (00:59:50):
+to pursue his ambitions.
+
+Larry (00:59:52):
+So I think Trump is enough of a narcissist in terms of wanting to have a great
+
+Larry (01:00:02):
+presidency and be well remembered that he's going to be disinclined to expand the
+
+Larry (01:00:10):
+war in Russia because I don't see Russia and Putin insulting Trump
+
+Larry (01:00:18):
+The way Trudeau did yesterday.
+
+Larry (01:00:21):
+I mean, Trudeau's a moron.
+
+(01:00:23):
+You know,
+
+Larry (01:00:24):
+he goes over and kisses his kiss and ass to Trump and Mar-a-Lago and then comes
+
+Larry (01:00:29):
+back up to Canada and trashes him.
+
+Larry (01:00:32):
+Trump remembers that stuff.
+
+Larry (01:00:35):
+And that's why you don't see Vladimir Putin come out trash talking Trump at all.
+
+Larry (01:00:41):
+In fact, whatever he says, he says, oh, no, he's a remarkable man.
+
+Larry (01:00:44):
+He's a strong man.
+
+Larry (01:00:47):
+Putin knows how to play Trump.
+
+Larry (01:00:49):
+You've got to put enough butter on his ass that he'll be sliding wherever you want him to slide.
+
+Asbed (01:00:54):
+Of course, Trump insulted both Mexico and Canada quite a bit.
+
+Asbed (01:00:58):
+Didn't he say, basically, they should be the 51st and 52nd states?
+
+Asbed (01:01:04):
+Because we're bankrolling them to the tune of,
+
+Asbed (01:01:06):
+what,
+
+Asbed (01:01:07):
+$300 billion and a couple of hundred billion dollars.
+
+Larry (01:01:10):
+Yeah, but he's playing from a position of strength.
+
+Larry (01:01:12):
+Everything he's saying is true.
+
+Asbed (01:01:13):
+Yeah, I think he called Trudeau the governor of Canada.
+
+Larry (01:01:18):
+Yeah, when they met before, he said, hey, you should become the 51st state.
+
+Larry (01:01:23):
+And then yesterday, or the day before, Trump then came back and said, yeah.
+
+Larry (01:01:29):
+Oh, yeah.
+
+Larry (01:01:30):
+Hey, Governor Trudeau, you know, I mean, deliberately trolling.
+
+(01:01:35):
+So,
+
+Larry (01:01:35):
+you know,
+
+Larry (01:01:36):
+in those positions with both Mexico and Canada,
+
+(01:01:39):
+yeah,
+
+Larry (01:01:39):
+the United States can flex a lot of muscle there because they are ultimately
+
+Larry (01:01:44):
+dependent on us.
+
+Larry (01:01:46):
+You know, like it or not, but, you know, he's got to play a different game with China and Russia.
+
+Larry (01:01:53):
+And I said,
+
+(01:01:55):
+Putin,
+
+Larry (01:01:55):
+at least,
+
+Larry (01:01:56):
+when you watch Putin's public comments with respect to Trump,
+
+Larry (01:02:00):
+Putin's no dummy.
+
+Larry (01:02:02):
+The man is just an extraordinary politician who understands the international arena.
+
+Larry (01:02:09):
+Trump may not.
+
+Larry (01:02:11):
+Putin certainly does.
+
+(01:02:12):
+Yeah,
+
+Hovik (01:02:12):
+I think we're done with our questions,
+
+Hovik (01:02:14):
+but any parting thoughts or any parting advice to us about what's going on in our region?
+
+Larry (01:02:22):
+I would carefully watch what what transpires now.
+
+Larry (01:02:30):
+If Turkey gets full control of what's going on in Syria, then I'd be nervous.
+
+Larry (01:02:37):
+But to the extent that Turkey remains distracted, both with Syria and with Ukraine,
+
+Larry (01:02:44):
+then its chances for being more meddlesome, I think, go down.
+
+Asbed (01:02:49):
+For a while.
+
+Larry (01:02:50):
+Yeah, at least over the short term.
+
+Larry (01:02:52):
+But I think Pashinyan is playing a very dangerous game, sucking up to the United States.
+
+Larry (01:02:59):
+Like I said, I describe my country as we're like a serial rapist.
+
+Larry (01:03:07):
+You don't want to be on a dating app with a serial rapist, okay?
+
+Larry (01:03:09):
+Yeah.
+
+Larry (01:03:12):
+Or if you do, then you know what you're asking for.
+
+Hovik (01:03:15):
+The fact is that they're doing that.
+
+Hovik (01:03:19):
+But the painful part is they're not capable of leading that or even walking the walk.
+
+Hovik (01:03:25):
+Because,
+
+Hovik (01:03:26):
+for instance,
+
+Hovik (01:03:27):
+they had this meeting with the EU and the United States on April 4th in Brussels,
+
+Hovik (01:03:33):
+I believe.
+
+Hovik (01:03:34):
+And it was leaked that the topic of that discussion was how to get food to Armenia
+
+Hovik (01:03:39):
+in case there is a conflict with Russia.
+
+Hovik (01:03:41):
+And the secretary of the National Security Council in Armenia said,
+
+Hovik (01:03:47):
+well,
+
+Hovik (01:03:49):
+Armenia is 99% like a wheat country.
+
+Hovik (01:03:52):
+We eat bread a lot in the Middle East.
+
+Hovik (01:03:57):
+And he's saying, well, we should just try to pivot to rice.
+
+Hovik (01:04:02):
+And you can understand that if...
+
+Hovik (01:04:05):
+Armenia invested in rice fields,
+
+Hovik (01:04:07):
+or if it had a channel to get rice already,
+
+(01:04:10):
+you say,
+
+Hovik (01:04:10):
+okay,
+
+(01:04:11):
+well,
+
+Hovik (01:04:11):
+I'm less concerned now,
+
+Hovik (01:04:12):
+but there's zero forethought in terms of,
+
+(01:04:16):
+okay,
+
+Hovik (01:04:16):
+well,
+
+Hovik (01:04:17):
+how are we going to,
+
+Hovik (01:04:18):
+let's say,
+
+Hovik (01:04:19):
+you know,
+
+Hovik (01:04:20):
+cut all this wheat and get rice so that people don't starve.
+
+Asbed (01:04:23):
+It's Jake Sullivan's way of saying, let them eat cake.
+
+Hovik (01:04:27):
+Yeah.
+
+Hovik (01:04:28):
+Let them eat rice.
+
+Hovik (01:04:29):
+And unfortunately, it's not even...
+
+Hovik (01:04:32):
+Even those plans, there's no way for us to see if they're able to implement those plans.
+
+Hovik (01:04:39):
+This is what makes people a little bit more nervous.
+
+Larry (01:04:45):
+The only plan that really is afoot is to figure out how to destabilize Russia.
+
+Larry (01:04:49):
+And to that extent, Armenia is just a stepping stone on that path.
+
+Asbed (01:04:55):
+All right.
+
+Asbed (01:04:56):
+Let's leave it there for today.
+
+Asbed (01:04:57):
+Thank you very much, Larry Johnson, for joining us today.
+
+Larry (01:05:01):
+Thank you, Asbed and Hovik.
+
+Larry (01:05:02):
+It was a pleasure.
+
+Larry (01:05:03):
+I appreciate it.
+
+Larry (01:05:04):
+I'm honored to be considered someone worth talking to.
+
+Asbed (01:05:09):
+Thank you very much.
+
+Asbed (01:05:10):
+We feel privileged to have you on our show, and we hope to stay in touch with you.
+
+(01:05:15):
+All right.
+
+Larry (01:05:15):
+Please do.
+
+Larry (01:05:16):
+Take care.
+
+Asbed (01:05:17):
+Bye.
+
+Asbed (01:05:18):
+That's our show today.
+
+Asbed (01:05:19):
+This episode was recorded on December 12, 2024.
+
+Asbed (01:05:23):
+We've been talking with Mr.
+
+Asbed (01:05:24):
+Larry C. Johnson,
+
+Asbed (01:05:26):
+who is a former intelligence officer and expert on issues related to terrorism,
+
+Asbed (01:05:30):
+national security,
+
+Asbed (01:05:31):
+and foreign policy.
+
+Asbed (01:05:33):
+As a CIA analyst in the 80s, Johnson was engaged in issues related to terrorism and security.
+
+Asbed (01:05:40):
+He then worked at the US State Department's counterterrorism office.
+
+Asbed (01:05:44):
+Johnson has since worked as a political consultant and commentator on issues
+
+Asbed (01:05:48):
+related to terrorism and security.
+
+Asbed (01:05:50):
+He's known for his critical views on the U.S.
+
+Asbed (01:05:53):
+foreign policy and intelligence practices.
+
+Hovik (01:05:56):
+Folks, don't forget that you can support us, like, and share our shows with your friends.
+
+Hovik (01:06:02):
+And if you're up for it, why not even support us on Patreon?
+
+Hovik (01:06:05):
+podcasts.groong.org.
+
+Hovik (01:06:08):
+will get you all the information you need to donate to us in various different ways.
+
+Asbed (01:06:13):
+I'm Asbed Bedrossian.
+
+Hovik (01:06:15):
+And I'm Hovik Manucharyan.
+
+Asbed (01:06:17):
+Please find us on social media and follow us everywhere you get your Armenian news.
+
+Asbed (01:06:22):
+The links are going to be in the show notes on podcasts.groong.org / episode-number.
+
+Asbed (01:06:28):
+Thank you in advance.
+
+Asbed (01:06:29):
+Goodbye.
