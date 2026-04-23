@@ -1,0 +1,2816 @@
+Asbed (00:00:02):
+Hello everyone, and welcome to this Conversations on Groong episode.
+
+Asbed (00:00:06):
+Today, we're going to be talking about China on the world stage.
+
+Asbed (00:00:10):
+At a time when the US is initiating tariff wars with everyone,
+
+Asbed (00:00:14):
+including friendly countries,
+
+Asbed (00:00:16):
+we're going to explore what really is driving this tariff regime and what it means
+
+Asbed (00:00:20):
+for the US-China relationship.
+
+Asbed (00:00:22):
+So today we're talking with Professor Warwick Powell from the University of
+
+Asbed (00:00:26):
+Queensland in Australia,
+
+Asbed (00:00:27):
+and also the Taihe Institute in Beijing.
+
+Asbed (00:00:31):
+Professor Warwick Powell, welcome to the show.
+
+Powell (00:00:34):
+It's great to be with you both.
+
+Hovik (00:00:36):
+Welcome, Professor Powell.
+
+Hovik (00:00:39):
+So,
+
+Hovik (00:00:39):
+Professor,
+
+Asbed (00:00:39):
+you describe your work to be,
+
+Asbed (00:00:41):
+quote,
+
+Asbed (00:00:42):
+at the intersection of digital innovation and technologies and international
+
+Asbed (00:00:46):
+political economy,
+
+Asbed (00:00:48):
+unquote.
+
+Asbed (00:00:48):
+And you have a particular interest in the place of China in the future of
+
+Asbed (00:00:52):
+international economics,
+
+Asbed (00:00:54):
+political and social systems.
+
+Asbed (00:00:57):
+As this is your first time on our show,
+
+Asbed (00:00:59):
+please tell us a little bit about your work and how you came to focus on China and
+
+Asbed (00:01:03):
+its place in a changing landscape of geopolitics and technological innovation.
+
+Powell (00:01:08):
+Sure, I'll do my best.
+
+Powell (00:01:09):
+It's a big topic,
+
+Powell (00:01:10):
+but hopefully I can give a reasonably succinct overview of the sorts of things that
+
+Powell (00:01:16):
+have interested me over many years and which provide the focal points for the work
+
+Powell (00:01:21):
+that I do from a research and an education point of view.
+
+Powell (00:01:25):
+My interest in China,
+
+Powell (00:01:26):
+of course,
+
+Powell (00:01:27):
+go back many decades now to the time when I did my undergraduate work and then into
+
+Powell (00:01:32):
+my first phases of postgraduate life and then eventually working in government in Australia,
+
+Powell (00:01:38):
+where China was emerging in the early 1990s as a very significant part of
+
+Powell (00:01:45):
+of the region.
+
+Powell (00:01:46):
+And so it was important for Australia,
+
+Powell (00:01:50):
+Australian governments,
+
+Powell (00:01:51):
+enterprises and other forms of organizations to develop a better understanding of
+
+Powell (00:01:56):
+what was happening in China,
+
+Powell (00:01:57):
+which suited me perfectly fine because I had a background in that arena.
+
+Powell (00:02:03):
+And of course, I have my own personal and family interest in the world of China as well.
+
+Powell (00:02:09):
+I'm from Hong Kong originally.
+
+Powell (00:02:11):
+And whilst I've been in Australia most of my life,
+
+Powell (00:02:14):
+I still have many family members and friends all through southern China,
+
+Powell (00:02:19):
+Hong Kong,
+
+Powell (00:02:20):
+Macau and those sorts of
+
+Powell (00:02:23):
+My work has, as you mentioned, looks at the intersection of a number of things.
+
+Powell (00:02:29):
+One is the role of China.
+
+Powell (00:02:31):
+The other one is global geopolitical economy,
+
+Powell (00:02:34):
+which aims to provide a macro context for how China may or may not fit into the
+
+Powell (00:02:41):
+dynamics of the world.
+
+Powell (00:02:42):
+And as we drill further into a place and how it connects with other places,
+
+Powell (00:02:47):
+I'm interested in supply chain interconnections and ultimately the technologies
+
+Powell (00:02:52):
+that enable enterprises to interact with each other.
+
+Powell (00:02:55):
+And that's where we start to touch on the digital dimensions, whether they are
+
+Powell (00:03:01):
+digital infrastructure to enable data about supply chains to be captured and shared,
+
+Powell (00:03:06):
+or whether they are digital infrastructure to support the future of transnational
+
+Powell (00:03:13):
+payment systems.
+
+Powell (00:03:14):
+So in some ways, you could think of it as a layered cake.
+
+Powell (00:03:18):
+Start off at the international geopolitical economy and then progressively drill
+
+Powell (00:03:22):
+down into areas of specific interest.
+
+Hovik (00:03:26):
+Well, let's talk about some of those topics, I guess.
+
+Hovik (00:03:31):
+If you're listening to this and you have been under a rock for the last week,
+
+Hovik (00:03:35):
+you will know,
+
+Hovik (00:03:36):
+and you're just listening to us,
+
+Hovik (00:03:38):
+you will know that the Trump administration has introduced a sweeping package of tariffs,
+
+Hovik (00:03:42):
+invoking emergency powers while doing that,
+
+Hovik (00:03:46):
+and framing the move as a strategy to restore American manufacturing.
+
+Hovik (00:03:50):
+The tariffs have been placed across many countries in the world,
+
+Hovik (00:03:55):
+And the reasoning is that it is meant to address trade imbalances, especially with China.
+
+Hovik (00:04:00):
+It seems like China was the main target though.
+
+Hovik (00:04:03):
+Critics...
+
+Hovik (00:04:05):
+including international economists like Jeffrey Sachs and those such as yourself,
+
+Hovik (00:04:09):
+have argued that the logic behind these policies is deeply flawed.
+
+Hovik (00:04:14):
+You argue that these tariffs are a political response to a misguided economic problem.
+
+Hovik (00:04:19):
+So,
+
+Hovik (00:04:19):
+Professor,
+
+Hovik (00:04:20):
+what is the real cause of the problem that they're trying to solve,
+
+Hovik (00:04:24):
+which in my opinion,
+
+Hovik (00:04:25):
+I guess,
+
+Hovik (00:04:25):
+is America's industrial decline?
+
+Hovik (00:04:29):
+And why are tariffs the wrong tool to fix this?
+
+Powell (00:04:32):
+Look,
+
+Powell (00:04:33):
+I think it's important to try to understand what it is that people may mean when
+
+Powell (00:04:38):
+they talk about rejuvenating American manufacturing and by implication what they
+
+Powell (00:04:45):
+mean by the underlying problem.
+
+Powell (00:04:50):
+The target of rejuvenating manufacturing or American manufacturing is the end outcome.
+
+Powell (00:04:56):
+But there's clearly some sense of what the problem may be,
+
+Powell (00:05:00):
+certainly at a symptomology level and perhaps not so much at a causation level.
+
+Powell (00:05:06):
+At a symptom level,
+
+Powell (00:05:07):
+the argument that is usually used around all of this is that America no longer
+
+Powell (00:05:12):
+makes anything and that America is overly dependent on the
+
+Powell (00:05:19):
+on the production capabilities of other countries around the world for the things
+
+Powell (00:05:23):
+that America consumes.
+
+Powell (00:05:26):
+Now,
+
+Powell (00:05:26):
+on both of those fronts,
+
+Powell (00:05:27):
+there is a little bit of exaggeration,
+
+Powell (00:05:30):
+if you will,
+
+Powell (00:05:30):
+around the extent to which the problem currently exists.
+
+Powell (00:05:35):
+And therefore, it also affects the way in which the problem has been ultimately diagnosed.
+
+Powell (00:05:41):
+If you look at the long run pattern of the American economic model,
+
+Powell (00:05:47):
+What we see is that on two critical measures,
+
+Powell (00:05:50):
+namely employment as a share of GDP and output as a share of GDP,
+
+Powell (00:05:54):
+the manufacturing sector has exhibited a declining pattern for the best part of
+
+Powell (00:06:00):
+four to five decades,
+
+Powell (00:06:01):
+starting from the 1960s.
+
+Powell (00:06:04):
+And we see that fall in both employment and output contribution terms,
+
+Powell (00:06:10):
+particularly clearly all the way through to about 2010.
+
+Powell (00:06:15):
+Now,
+
+Powell (00:06:15):
+the reason why this longest sweep of history is important is because it shows that
+
+Powell (00:06:21):
+prima facie trade with China or the entry of China into the world trade network via
+
+Powell (00:06:27):
+its ascension to the World Trade Organization in 2001 did not come inside with the
+
+Powell (00:06:35):
+emergence of this hollowing out of manufacturing problem.
+
+Powell (00:06:39):
+So hollowing out began in the 1960s,
+
+Powell (00:06:42):
+and in fact,
+
+Powell (00:06:43):
+by the mid 1970s,
+
+Powell (00:06:45):
+early 1980s,
+
+Powell (00:06:46):
+there was plenty of academic work as well as political hand-wringing around the
+
+Powell (00:06:52):
+concerns of a declining share of manufacturing to the American economy.
+
+Powell (00:06:58):
+Now, what that tells us is that the problem isn't so much trade itself.
+
+Powell (00:07:04):
+And I would suggest that,
+
+Powell (00:07:06):
+in fact,
+
+Powell (00:07:06):
+the dynamics of trade are a consequence of deindustrialisation rather than the
+
+Powell (00:07:13):
+cause of it.
+
+Powell (00:07:15):
+The other thing to bear in mind before I go on too much more is that from about
+
+Powell (00:07:19):
+2010 onwards,
+
+Powell (00:07:21):
+American manufacturing's contribution to employment and output more or less
+
+Powell (00:07:25):
+leveled out.
+
+Powell (00:07:26):
+So it had reached,
+
+Powell (00:07:27):
+in a sense,
+
+Powell (00:07:28):
+the bottom level within the overall structure of the American economy.
+
+Powell (00:07:34):
+And it hasn't really changed a lot over that period of time since around 2010 to now.
+
+Powell (00:07:41):
+The recent years has seen a modest uptick in manufacturing employment,
+
+Powell (00:07:47):
+but certainly not at levels as high as overall employment growth is concerned,
+
+Powell (00:07:52):
+which suggests,
+
+Powell (00:07:53):
+of course,
+
+Powell (00:07:53):
+that manufacturing does not put jobs on as quickly as the economy as a whole.
+
+Powell (00:07:58):
+And output has also experienced a little bit of an uptick in the last few years,
+
+Powell (00:08:02):
+in large part as a response to the stimulus post-COVID or as part of COVID and the
+
+Powell (00:08:12):
+activation of surplus capacity within the manufacturing system.
+
+Powell (00:08:17):
+But by and large, for the last 15 years, American manufacturing has largely plateaued out.
+
+Powell (00:08:22):
+The problem around this idea that trying to turn that dynamic around through
+
+Powell (00:08:29):
+trade-related measures is that it has the symptomology and the causation arrows
+
+Powell (00:08:35):
+around the wrong way.
+
+Powell (00:08:37):
+American manufacturing hollowed out in large part as a result of two broad factors
+
+Powell (00:08:44):
+wrapped by one macro trend.
+
+Powell (00:08:47):
+The immediate factors was technology substitution for labour, where machines...
+
+Powell (00:08:54):
+were increasingly implemented to replace labour where possible.
+
+Powell (00:08:58):
+And when that became difficult to do or more expensive to do than alternatives,
+
+Powell (00:09:03):
+the alternatives such as offshoring and labour intensive manufacturing began to
+
+Powell (00:09:07):
+take place.
+
+Powell (00:09:08):
+The macro trend wrapping around all of this was the progressive financialisation of
+
+Powell (00:09:13):
+the American political economy.
+
+Powell (00:09:15):
+And by that,
+
+Powell (00:09:16):
+I mean the growing extent to which the financial system,
+
+Powell (00:09:20):
+the marketplace of stocks and bonds and derivatives and foreign exchange began to
+
+Powell (00:09:26):
+dominate the economic landscape in terms of the use of available money capital.
+
+Powell (00:09:34):
+So as enterprises earned money from their manufacturing activities and collected
+
+Powell (00:09:40):
+profits progressively,
+
+Powell (00:09:42):
+rather than substantially investing those back into the manufacturing sector to
+
+Powell (00:09:47):
+continue to expand local capacity,
+
+Powell (00:09:51):
+The funds actually were progressively diverted into the financialised sector where
+
+Powell (00:09:57):
+monetised profits could be achieved at a far greater rate of knots.
+
+Powell (00:10:01):
+So that's your broad dynamic.
+
+Powell (00:10:03):
+The idea that you can play around with relative pricing,
+
+Powell (00:10:06):
+which is what tariffs are,
+
+Powell (00:10:08):
+in the hopes that that will fundamentally transform the deep structures of the
+
+Powell (00:10:14):
+American economic system is really a fantasy.
+
+Hovik (00:10:19):
+So there's this trend over the last,
+
+Hovik (00:10:21):
+I guess,
+
+Hovik (00:10:22):
+several years,
+
+Hovik (00:10:23):
+including maybe even more,
+
+Hovik (00:10:25):
+but at least that's what in the news you can read about,
+
+Hovik (00:10:29):
+is that China is becoming less and less reliant on U.S.
+
+Hovik (00:10:34):
+markets.
+
+Hovik (00:10:34):
+So what impact,
+
+Hovik (00:10:36):
+if any,
+
+Hovik (00:10:36):
+will this new wave of tariffs have on China's economy and the global trade posture
+
+Hovik (00:10:42):
+of China as well?
+
+Powell (00:10:44):
+Yeah,
+
+Powell (00:10:44):
+because look,
+
+Powell (00:10:45):
+it's a very interesting question because it also points to another long run
+
+Powell (00:10:49):
+historical pattern,
+
+Powell (00:10:50):
+and that is the progressive reduction in the role of the American market and the
+
+Powell (00:10:56):
+American economy in global trade.
+
+Powell (00:10:58):
+So these days,
+
+Powell (00:11:00):
+the American market represents a little bit less than 15% of global imports,
+
+Powell (00:11:05):
+which is around half of what it was 25 years or so ago.
+
+Powell (00:11:10):
+In other words,
+
+Powell (00:11:11):
+the United States market is simply not as important as it once was in a relative sense.
+
+Powell (00:11:17):
+The reason that has happened in large part is because the markets of all the other
+
+Powell (00:11:23):
+countries in the world have grown at a rate faster than the United States market
+
+Powell (00:11:27):
+has grown.
+
+Powell (00:11:29):
+The expansion of countries of the global south,
+
+Powell (00:11:33):
+including south trade as well as trade with China,
+
+Powell (00:11:37):
+has meant that China has,
+
+Powell (00:11:39):
+over the course of the last 25 years,
+
+Powell (00:11:41):
+emerged as the most significant trading partner for over 150 countries now.
+
+Powell (00:11:48):
+And in a relative sense,
+
+Powell (00:11:51):
+it means that the US market simply doesn't have the same economic pull as it once did.
+
+Powell (00:11:58):
+From a geopolitical point of view,
+
+Powell (00:11:59):
+of course,
+
+Powell (00:12:00):
+that means that the US market doesn't bring with it the kind of leverage that
+
+Powell (00:12:05):
+perhaps it might have a generation or a generation and a half ago,
+
+Powell (00:12:09):
+whereby decisions made by Congress or by the United States president could have
+
+Powell (00:12:16):
+outsized impacts on what happened in terms of the contours of global commerce.
+
+Powell (00:12:22):
+That cannot happen anymore.
+
+Powell (00:12:24):
+The United States simply doesn't have the same kind of leverage.
+
+Powell (00:12:27):
+More to the point,
+
+Powell (00:12:28):
+the US economic system is not able to produce the kinds of things for the rest of
+
+Powell (00:12:38):
+the world that
+
+Powell (00:12:39):
+can't be sourced from other parts of the world.
+
+Powell (00:12:42):
+So there are very,
+
+Powell (00:12:43):
+very few things now that the United States economic system produces that others in
+
+Powell (00:12:48):
+the world can't buy from other suppliers.
+
+Powell (00:12:53):
+And that ultimately means that
+
+Powell (00:12:56):
+a regime based on punitive tariffs in the attempt to create price-based barriers to
+
+Powell (00:13:04):
+exporters to the United States market,
+
+Powell (00:13:06):
+as well as ultimately giving rise to retaliatory measures from others,
+
+Powell (00:13:11):
+will more likely than not damage the United States economic system than it will
+
+Powell (00:13:18):
+other systems around the world.
+
+Powell (00:13:20):
+Now,
+
+Powell (00:13:20):
+I say that not because I think that there are,
+
+Powell (00:13:23):
+you know,
+
+Powell (00:13:23):
+simple win-wins or win-losses in this particular set of dynamics.
+
+Powell (00:13:28):
+And in fact,
+
+Powell (00:13:30):
+the outbreak of some kind of a trade war,
+
+Powell (00:13:33):
+big or small,
+
+Powell (00:13:34):
+does generate what is in effect lose-lose outcomes.
+
+Powell (00:13:38):
+The real issue is the extent to which different parties will lose and the extent to
+
+Powell (00:13:44):
+which different parties around the world can adapt quicker to the new circumstance
+
+Powell (00:13:49):
+than the others.
+
+Hovik (00:13:51):
+And we know that China is spearheading this alliance called BRICS,
+
+Hovik (00:13:57):
+or not an alliance,
+
+Hovik (00:13:58):
+maybe a loose association of countries.
+
+Hovik (00:14:01):
+So my question is,
+
+Hovik (00:14:02):
+how might this tariff escalation affect BRICS countries,
+
+Hovik (00:14:07):
+especially as it looks to expand its economic influence and reduce dependence on
+
+Hovik (00:14:12):
+Western-led trade systems?
+
+Powell (00:14:14):
+A logical response for most countries will be to seek to expand and consolidate
+
+Powell (00:14:20):
+their trading relationships with each other.
+
+Powell (00:14:23):
+So I think we're going to start to see that take place a lot more.
+
+Powell (00:14:27):
+BRICS,
+
+Powell (00:14:28):
+as one of those multilateral institutions that has been developed to facilitate
+
+Powell (00:14:34):
+more intensive trade and easier low-cost trade between its member states,
+
+Powell (00:14:38):
+will no doubt come into its own.
+
+Powell (00:14:40):
+And BRICS isn't the only one.
+
+Powell (00:14:42):
+There are other trade-based
+
+Powell (00:14:45):
+organizations or networks of countries,
+
+Powell (00:14:47):
+such as the Regional Comprehensive Economic Partnership,
+
+Powell (00:14:51):
+which is the free trade agreement that was initiated by ASEAN in Asia,
+
+Powell (00:14:58):
+which now includes ASEAN's 10 members.
+
+Powell (00:15:01):
+together with Australia, New Zealand, Japan, Republic of Korea and China.
+
+Powell (00:15:06):
+And there are other free trade or open trade arrangements that cover different
+
+Powell (00:15:13):
+continents in the world.
+
+Powell (00:15:14):
+So I think that BRICS as one of those,
+
+Powell (00:15:17):
+and obviously the BRICS member states represents a very substantial part of the
+
+Powell (00:15:21):
+global economy,
+
+Powell (00:15:23):
+will play an important role
+
+Powell (00:15:26):
+reinforcing the benefits of multilateral trade whilst the United States,
+
+Powell (00:15:31):
+in effect,
+
+Powell (00:15:33):
+deals itself out of the flows of goods in particular.
+
+Hovik (00:15:40):
+And, you know, commentators, including
+
+Hovik (00:15:44):
+A favorite one that many of our listeners might listen to,
+
+Hovik (00:15:47):
+Alexander Mercouris,
+
+Hovik (00:15:48):
+for instance,
+
+Hovik (00:15:49):
+have termed this move by the U.S.
+
+Hovik (00:15:52):
+as the ‘end of globalization’.
+
+Hovik (00:15:56):
+Do you agree with this characterization?
+
+Hovik (00:15:58):
+And we talked about BRICS,
+
+Hovik (00:16:00):
+we talked about China,
+
+Hovik (00:16:00):
+but what might this portend overall for world trade in general?
+
+Powell (00:16:05):
+This reminds me a little bit of the debates in the early 1990s,
+
+Powell (00:16:09):
+which was all about whether or not we were entering into a period of globalization.
+
+Powell (00:16:14):
+And just as those debates ultimately were fraught by simplistic ideas of what
+
+Powell (00:16:19):
+globalization meant,
+
+Powell (00:16:20):
+I think that the discussions today at the back end of this 30 odd years would do
+
+Powell (00:16:30):
+well to reflect on the lessons of the earlier debates.
+
+Powell (00:16:34):
+those early debates in a sense tried to construct a caricature of the dynamics of
+
+Powell (00:16:41):
+intensified global trade and investment flows and also to some extent people flows
+
+Powell (00:16:46):
+and those debates tended to overstate the extent to which nation states diminished
+
+Powell (00:16:52):
+in their importance and and that nation states were in effect being replaced by
+
+Powell (00:16:57):
+multinational companies
+
+Powell (00:16:59):
+So I would caution against this sort of broad sweeping description that this is the
+
+Powell (00:17:06):
+end of globalisation,
+
+Powell (00:17:07):
+in part because we need to have a tighter idea of what it is that we're talking about.
+
+Powell (00:17:12):
+What I would suggest,
+
+Powell (00:17:13):
+though,
+
+Powell (00:17:14):
+is that we are certainly seeing a transformation qualitatively,
+
+Powell (00:17:19):
+certainly.
+
+Powell (00:17:20):
+between a globalisation that was largely dominated by interactions between North America,
+
+Powell (00:17:28):
+Europe and the Japanese economic systems to one that involves a lot more countries
+
+Powell (00:17:35):
+than that.
+
+Powell (00:17:36):
+The period from the 1990s through to the mid-2000s and perhaps towards the end of
+
+Powell (00:17:42):
+the 2000s still saw the G7 economies as the dominant parts of a global economic system.
+
+Powell (00:17:53):
+What we now see 15 years on is that those economies are no longer as dominant as they once were.
+
+Powell (00:18:01):
+So that's the first thing I'd say.
+
+Powell (00:18:02):
+And so perhaps it's probably fairer to say that we are witnessing the passing of
+
+Powell (00:18:07):
+globalisation with transatlantic characteristics to a world in which we have
+
+Powell (00:18:14):
+globalisation with multipolar characteristics.
+
+Powell (00:18:18):
+multipolar characteristics because we currently see an ongoing expansion of trade,
+
+Powell (00:18:24):
+notwithstanding the headwinds that global trade has experienced.
+
+Powell (00:18:28):
+And in fact,
+
+Powell (00:18:29):
+trade has been buttressed by the development of the multipolar institutions or the
+
+Powell (00:18:34):
+multilateral institutions that I touched on earlier,
+
+Powell (00:18:37):
+as well as the ongoing expansion of the infrastructure necessary to facilitate
+
+Powell (00:18:42):
+trade in many parts of the world that have historically been
+
+Powell (00:18:46):
+kept out of the loops of the high-value trading circuits.
+
+Powell (00:18:50):
+And that kind of infrastructure,
+
+Powell (00:18:51):
+of course,
+
+Powell (00:18:52):
+includes transportation infrastructure,
+
+Powell (00:18:55):
+whether it's railways across continents or expanded port facilities to enable
+
+Powell (00:19:01):
+large-scale cargo ships to come to and fro.
+
+Powell (00:19:06):
+So I don't think we're seeing the end of globalisation per se,
+
+Powell (00:19:10):
+in large part because I think it's a little bit too loose to be too meaningful to
+
+Powell (00:19:15):
+It's a bit too caricatured, if you will.
+
+Powell (00:19:18):
+But we're certainly seeing a transition from a transnational or a multinational
+
+Powell (00:19:24):
+economy dominated by the transatlantic worlds to one in which the global economic
+
+Powell (00:19:31):
+system is far more multipolar in nature.
+
+Asbed (00:19:34):
+I guess I've also heard the term reshoring or friendshoring as an alternative as well,
+
+Asbed (00:19:40):
+in the sense that some of these countries like in the West are trying to align
+
+Asbed (00:19:46):
+their trade a little more with their geopolitics.
+
+Powell (00:19:49):
+Yeah,
+
+Powell (00:19:50):
+look,
+
+Powell (00:19:51):
+it certainly became popular in the context of the pandemic where these concerns or
+
+Powell (00:19:59):
+attitudes towards the risk of critical supplies being in the hands of unfriendly
+
+Powell (00:20:06):
+partners really became prominent in the minds of
+
+Powell (00:20:11):
+politicians in various parts of the world,
+
+Powell (00:20:14):
+and mainly,
+
+Powell (00:20:14):
+I might add,
+
+Powell (00:20:15):
+in the sort of Western parts of the world,
+
+Powell (00:20:18):
+whether it's the transatlantic economies or their sort of Asian offshoots,
+
+Powell (00:20:23):
+including here in Australia,
+
+Powell (00:20:24):
+where I am.
+
+Powell (00:20:25):
+You know,
+
+Powell (00:20:27):
+in 2020,
+
+Powell (00:20:27):
+for example,
+
+Powell (00:20:28):
+the national government at the time reacted quite strongly to concerns around
+
+Powell (00:20:33):
+supply chains and initiated a number of inquiries
+
+Powell (00:20:38):
+in terms of supply chain vulnerability with a view to developing and promoting
+
+Powell (00:20:43):
+policies that would encourage friend-shoring and near-shoring.
+
+Powell (00:20:47):
+In practical terms, none of that has actually happened.
+
+Powell (00:20:51):
+The existing supply chain networks in the world are changing slowly but surely,
+
+Powell (00:20:58):
+and that's part of a longer-term series of patterns.
+
+Powell (00:21:01):
+And perhaps accelerated a little bit as a result of the post-pandemic reactions and
+
+Powell (00:21:07):
+more recently geopolitical risks.
+
+Powell (00:21:10):
+And I think one of the broad patterns we're seeing is,
+
+Powell (00:21:14):
+particularly in the Asia region,
+
+Powell (00:21:16):
+is a consolidation in a geographical sense.
+
+Powell (00:21:18):
+So supply chains are getting a little bit shorter.
+
+Powell (00:21:22):
+by and large, and regions are trading more intensely with each other.
+
+Powell (00:21:29):
+So,
+
+Powell (00:21:30):
+for instance,
+
+Powell (00:21:31):
+the RCEP countries,
+
+Powell (00:21:32):
+which are the 10 ASEAN ones and the five others,
+
+Powell (00:21:35):
+trade from those 15 countries.
+
+Powell (00:21:40):
+Of that, about 60% is now intra-regional trade.
+
+Powell (00:21:45):
+So more than half of the trade between
+
+Powell (00:21:48):
+involving those 15 countries actually just involve trade with each other.
+
+Powell (00:21:52):
+I wouldn't be surprised if those sorts of patterns continue to develop over time.
+
+Powell (00:21:57):
+So,
+
+Powell (00:21:57):
+you know,
+
+Powell (00:21:58):
+trade within the African continent,
+
+Powell (00:22:01):
+for example,
+
+Powell (00:22:03):
+is likely to intensify as time goes by,
+
+Powell (00:22:06):
+whereas by and large,
+
+Powell (00:22:07):
+historically,
+
+Powell (00:22:09):
+Countries on the African continent have tended not to trade with other countries on
+
+Powell (00:22:14):
+the continent,
+
+Powell (00:22:15):
+but with their former colonial masters,
+
+Powell (00:22:21):
+so to speak.
+
+Powell (00:22:22):
+So we are going to see some changes in the contours of Europe.
+
+Powell (00:22:27):
+global commerce.
+
+Powell (00:22:30):
+The idea of reshoring and friendshoring is a great soundbite for social media and
+
+Powell (00:22:38):
+political campaign purposes,
+
+Powell (00:22:40):
+but it's very hard to turn that slogan into reality when
+
+Powell (00:22:45):
+Supply chains are invariably complex these days and often straddle multiple countries.
+
+Powell (00:22:52):
+And they do that because different countries have emerged over time with different
+
+Powell (00:22:58):
+kinds of specialisations that they can bring to the table and enable through
+
+Powell (00:23:03):
+effective coordination and collaboration,
+
+Powell (00:23:06):
+the creation of some amazing products around the world.
+
+Hovik (00:23:12):
+Makes sense.
+
+Hovik (00:23:13):
+Armenia lives in a great neighborhood.
+
+Hovik (00:23:16):
+You know, we have Iran to our south, we have Turkey to our west, and Russia north of us.
+
+Hovik (00:23:22):
+And we are also involved,
+
+Hovik (00:23:25):
+you know,
+
+Hovik (00:23:25):
+we have been involved in wars,
+
+Hovik (00:23:28):
+you know,
+
+Hovik (00:23:28):
+as recently as five years ago,
+
+Hovik (00:23:29):
+and some would say continuously.
+
+Hovik (00:23:31):
+So I wanted to ask you this next set of questions.
+
+Hovik (00:23:36):
+because I think that many feel that what happens in Iran or what happens to Iran is
+
+Hovik (00:23:41):
+going to be very consequential for Armenia.
+
+Hovik (00:23:43):
+The recent weeks have seen tensions between the United States and Iran escalate rapidly.
+
+Hovik (00:23:50):
+Iran has closed its airspace,
+
+Hovik (00:23:52):
+in fact,
+
+Hovik (00:23:53):
+most recently,
+
+Hovik (00:23:54):
+and placed its military on full combat readiness in response to U.S.
+
+Hovik (00:23:59):
+deployment of stealth bombers to Diego Garcia.
+
+Hovik (00:24:02):
+While talks with Iran
+
+Hovik (00:24:05):
+are reportedly being hosted by Oman.
+
+Hovik (00:24:07):
+So there's this track of both countries trying to have discussions or have
+
+Hovik (00:24:15):
+diplomacy while the threat of wars is still sort of escalating.
+
+Hovik (00:24:20):
+Meanwhile, China and Russia have also responded with calls for diplomacy.
+
+Hovik (00:24:25):
+with China stressing sovereignty and dialogue and Russia warning that any U.S.
+
+Hovik (00:24:29):
+strike on Iran would be catastrophic.
+
+Hovik (00:24:32):
+As part of a growing multipolar response,
+
+Hovik (00:24:35):
+the Iran-Russia-China axis appears to be solidifying under the strain of the U.S.
+
+Hovik (00:24:41):
+pressure.
+
+Hovik (00:24:42):
+So with Iran on high alert and U.S.
+
+Hovik (00:24:45):
+building up its military assets in the region,
+
+Hovik (00:24:47):
+do you see this as posturing ahead of negotiations or
+
+Hovik (00:24:53):
+Are we beyond that and this is a prelude to open conflict?
+
+Powell  (00:24:57):
+Well,
+
+Powell (00:24:58):
+I think we can hope that it's the former,
+
+Powell (00:25:00):
+but perhaps brace ourselves for the possibility that it's the latter.
+
+Powell (00:25:04):
+We can hope that it's former because any significant outbreak of warfare and
+
+Powell (00:25:12):
+violence can have devastating effects,
+
+Powell (00:25:15):
+not only in terms of the people,
+
+Powell (00:25:18):
+the victims of
+
+Powell (00:25:19):
+of the military campaigns,
+
+Powell (00:25:21):
+but ultimately also in terms of how that reverberates around the immediate
+
+Powell (00:25:26):
+neighborhood and ultimately into global networks.
+
+Powell (00:25:30):
+Obviously the global networks relate to,
+
+Powell (00:25:32):
+so I'm thinking purely in economic terms,
+
+Powell (00:25:35):
+global networks relate to oil and energy.
+
+Powell (00:25:41):
+So we hope, I guess, that this is posturing with a view to getting to a negotiation table.
+
+Powell (00:25:49):
+My concern,
+
+Powell (00:25:50):
+I guess,
+
+Powell (00:25:50):
+is that the United States does have a decades-long track record of limited
+
+Powell (00:25:58):
+posturing and a lot more kinetic response as its preferred way of dealing with
+
+Powell (00:26:04):
+whatever it sees are its problems.
+
+Powell (00:26:07):
+And the question of Iran is intimately tied up with the way in which the United
+
+Powell (00:26:13):
+States frames its foreign policy relationship with Israel and therefore what's
+
+Powell (00:26:20):
+going on in Palestine.
+
+Powell (00:26:25):
+creates a very complex and potentially explosive environment,
+
+Powell (00:26:31):
+in part because of the nature of the domestic political influence of the Jewish
+
+Powell (00:26:39):
+lobby and how that can affect the ways in which the United States Congress and the
+
+Powell (00:26:47):
+presidency ultimately responds to these sorts of issues.
+
+Powell (00:26:52):
+If the
+
+Powell (00:26:56):
+or that it is the only issue,
+
+Powell (00:26:57):
+but if the real issue relates to Iran's nuclear program,
+
+Powell (00:27:03):
+then chest-beating about bombing Iran has clearly so far not budged the
+
+Powell (00:27:11):
+decision-makers in Iran in relation to how it stands on the major issues.
+
+Powell (00:27:17):
+Resolving this issue of a potential nuclear issue
+
+Powell (00:27:22):
+enabled Iran is ultimately best done,
+
+Powell (00:27:26):
+it would seem to me,
+
+Powell (00:27:28):
+by constructive negotiations and engagement.
+
+Powell (00:27:31):
+And that will mean not just in a bilateral sense,
+
+Powell (00:27:35):
+but ultimately,
+
+Powell (00:27:37):
+without a doubt,
+
+Powell (00:27:38):
+I think,
+
+Powell (00:27:39):
+enlisting
+
+Powell (00:27:41):
+Russia into these discussions and perhaps to some extent also China.
+
+Powell (00:27:46):
+This idea of an axis of course is again a little bit of a throwaway line and it
+
+Powell (00:27:50):
+goes back to Bush who talked about axes of evil and that sort of stuff.
+
+Powell (00:27:56):
+I think
+
+Powell (00:27:58):
+Another way of thinking about it with perhaps less emotional baggage,
+
+Powell (00:28:04):
+if you will,
+
+Powell (00:28:05):
+or a bit less colour,
+
+Powell (00:28:06):
+is simply that countries understand that if they are under pressure from
+
+Powell (00:28:11):
+particularly big ones,
+
+Powell (00:28:13):
+that they need to,
+
+Powell (00:28:15):
+you know,
+
+Powell (00:28:16):
+buttress their own positions by cultivating relationships with others.
+
+Powell (00:28:21):
+People and countries are stronger together, and I think Iran quite clearly understands that.
+
+Hovik (00:28:29):
+And given the coordination between Russia and China on this issue,
+
+Hovik (00:28:34):
+on Iran,
+
+Hovik (00:28:35):
+what are the wider implications to both of these,
+
+Hovik (00:28:39):
+in your opinion,
+
+Hovik (00:28:41):
+amidst this standoff and the geopolitical alliance between Russia,
+
+Hovik (00:28:47):
+China,
+
+Hovik (00:28:47):
+and Iran,
+
+Hovik (00:28:48):
+which seems to be a strong underpinning for China's economic policies,
+
+Hovik (00:28:53):
+at least,
+
+Hovik (00:28:54):
+if not geopolitical policies?
+
+Powell (00:28:56):
+Yeah,
+
+Powell (00:28:56):
+and I think that there's something more to it too than simply,
+
+Powell (00:28:59):
+you know,
+
+Powell (00:29:01):
+the economic dimension.
+
+Powell (00:29:02):
+The economic dimension, I think, underpins these sorts of relationships, of course.
+
+Powell (00:29:07):
+But there is something about...
+
+Powell (00:29:11):
+a different way in which both China and Russia frames the future of global
+
+Powell (00:29:18):
+international relations,
+
+Powell (00:29:19):
+that is,
+
+Powell (00:29:20):
+relations between states,
+
+Powell (00:29:22):
+that is underpinned by the principles of multipolarity,
+
+Powell (00:29:26):
+that is quite different from the ways in which the United States has traditionally
+
+Powell (00:29:30):
+framed international relations.
+
+Powell (00:29:33):
+So the United States has generally framed international relations where the US sits
+
+Powell (00:29:38):
+at the core and it is able,
+
+Powell (00:29:41):
+through dint of its economic size and its military preponderance around the world,
+
+Powell (00:29:46):
+to impose its will.
+
+Powell (00:29:49):
+That world not only is waning,
+
+Powell (00:29:53):
+but it's also not the ways in which Russia and China tend to frame
+
+Powell (00:29:59):
+international relations, certainly in a practical sense and also in a normative sense.
+
+Powell (00:30:04):
+So,
+
+Powell (00:30:04):
+you know,
+
+Powell (00:30:04):
+the Chinese have long argued for principles that in effect speak to a multipolar
+
+Powell (00:30:11):
+environment where
+
+Powell (00:30:13):
+issues are resolved through dialogue and where we accept the need to create
+
+Powell (00:30:21):
+environments in which difference can exist and in which they can prosper in an
+
+Powell (00:30:27):
+environment of coexistence.
+
+Powell (00:30:29):
+That's a particularly Chinese approach to international relationships.
+
+Powell (00:30:35):
+Russia,
+
+Powell (00:30:35):
+not dissimilarly,
+
+Powell (00:30:37):
+also emphasizes the idea of indivisible security,
+
+Powell (00:30:42):
+which was something that underpinned
+
+Powell (00:30:46):
+the declaration out of Helsinki back in 1975, but has never seen the light of day.
+
+Powell (00:30:51):
+And certainly after the dissolution of the Soviet Union in 1991 was put on the back
+
+Powell (00:30:58):
+burner by the Western powers because it was no longer seen as something that they
+
+Powell (00:31:03):
+needed to pay any serious note to given American primacy.
+
+Powell (00:31:10):
+So China and Russia both bring a certain sensibility to tackling what are difficult issues,
+
+Powell (00:31:16):
+you know,
+
+Powell (00:31:16):
+when there are longstanding historical conflicts and grievances and differences.
+
+Powell (00:31:22):
+The question is,
+
+Powell (00:31:22):
+is how does one go about resolving them,
+
+Powell (00:31:26):
+not only in so far as a short term,
+
+Powell (00:31:28):
+which is to prevent these grievances from spilling over into kinetic waters?
+
+Powell (00:31:35):
+conflict,
+
+Powell (00:31:36):
+but to create institutions that enable the disputing parties,
+
+Powell (00:31:43):
+in a sense,
+
+Powell (00:31:43):
+to transcend their historic grievances and build a new form of indivisible coexistence.
+
+Powell (00:31:53):
+And that approach
+
+Powell (00:31:57):
+takes a lot more time and a lot more patience to achieve than the approach of
+
+Powell (00:32:02):
+beating your chest and threatening to bomb somebody.
+
+Powell (00:32:05):
+We can all remember that the United States 20 odd years ago went into that part of
+
+Powell (00:32:12):
+the world,
+
+Powell (00:32:13):
+and I'm meaning Iraq in this case,
+
+Powell (00:32:16):
+on the basis of trumped up and ultimately falsified evidence,
+
+Powell (00:32:21):
+so to speak,
+
+Powell (00:32:22):
+of weapons of mass destruction.
+
+Powell (00:32:25):
+The worry is that the current environment has a lot of resonance with that
+
+Powell (00:32:31):
+historical experience where there are parts of the United States body politic that
+
+Powell (00:32:35):
+is itching for a war.
+
+Powell (00:32:38):
+There are obsessions about Iran as enemy,
+
+Powell (00:32:43):
+and there is a pent-up pressure within the American political community,
+
+Powell (00:32:51):
+in certain sections anyway,
+
+Powell (00:32:52):
+to take preemptive action.
+
+Powell (00:32:55):
+this has been the pattern of American foreign policy for a long time and that's why
+
+Powell (00:33:02):
+it's a worry the upside at the moment if you can say that this is an upside is that
+
+Powell (00:33:10):
+there are strong countervailing pressures against that
+
+Powell (00:33:14):
+And namely,
+
+Powell (00:33:15):
+the interest of Russia and the interest of China within this particular set of circumstances.
+
+Powell (00:33:22):
+And those interests,
+
+Powell (00:33:23):
+I think,
+
+Powell (00:33:24):
+are weighing on the capacity of the United States to act capriciously and wantonly.
+
+Asbed (00:33:34):
+Professor,
+
+Asbed (00:33:34):
+you mentioned a little earlier the rise of the global south and the growing
+
+Asbed (00:33:40):
+prominence of BRICS.
+
+Asbed (00:33:41):
+This is the block that we talked about.
+
+Asbed (00:33:44):
+It was led by Brazil, Russia, China, and India and South Africa.
+
+Asbed (00:33:49):
+The weaponization of the dollar by the United States has only intensified the
+
+Asbed (00:33:55):
+efforts among these countries to find alternatives to international trade using the dollar.
+
+Asbed (00:34:01):
+China and Russia in particular are pushing forward with a payment system like the
+
+Asbed (00:34:07):
+BRICS Clear,
+
+Asbed (00:34:08):
+I think they call it,
+
+Asbed (00:34:09):
+aiming to reduce reliance on the U.S.
+
+Asbed (00:34:10):
+dollar and bypass Western financial choke points.
+
+Asbed (00:34:14):
+Is the rise of alternatives to trading with the West making punitive actions like
+
+Asbed (00:34:19):
+sanctions and tariffs less effective in the current world climate?
+
+Powell (00:34:24):
+Look, I think you hit the nail on the head.
+
+Powell (00:34:27):
+The evolution of alternative payment systems and the willingness of states to
+
+Powell (00:34:36):
+measure their exchanges with each other in units of currency that are not the US
+
+Powell (00:34:42):
+dollar is a sign of a...
+
+Powell (00:34:49):
+a maturation of multipolarity.
+
+Powell (00:34:52):
+The ability,
+
+Powell (00:34:53):
+therefore,
+
+Powell (00:34:54):
+for those who control one particular national currency,
+
+Powell (00:34:59):
+the US dollar,
+
+Powell (00:35:00):
+as well as the institutions that administer it,
+
+Powell (00:35:03):
+whether it's SWIFT or whatever,
+
+Powell (00:35:08):
+the days of being able to do that are certainly numbered.
+
+Powell (00:35:14):
+By all means,
+
+Powell (00:35:15):
+it is possible to exercise authority over SWIFT and force SWIFT to disconnect a
+
+Powell (00:35:23):
+range of banks from that particular information network.
+
+Powell (00:35:27):
+But as the case of Russia has shown in the last three years,
+
+Powell (00:35:31):
+The mere act of doing that did not stop the ability of Russian enterprises to trade
+
+Powell (00:35:39):
+with others in the world and for those trades to be settled by Russian banks
+
+Powell (00:35:44):
+interacting with counter-party banks in other parts of the world.
+
+Powell (00:35:49):
+So the days of US dollar weaponization as a tool that countries need to be fearful of are over.
+
+Powell (00:36:00):
+there is already an infrastructure that enables currency multipolarity to become
+
+Powell (00:36:07):
+part and parcel of the natural order of things.
+
+Powell (00:36:11):
+And we see that with the proliferation of interbank swap agreements between
+
+Powell (00:36:17):
+the central banks of various countries we see that with the development of
+
+Powell (00:36:21):
+alternative interbank messaging systems as alternative messaging systems to swift
+
+Powell (00:36:28):
+and we are now starting to see the emergence of a range of digital infrastructure
+
+Powell (00:36:34):
+such as the enbridge project as well as no doubt the bricks clear project
+
+Powell (00:36:43):
+the participating national central banks to manage their respective ledgers in a
+
+Powell (00:36:49):
+way that is credible and dependable with each other,
+
+Powell (00:36:53):
+and all of that to take place without the ability of the United States to intervene
+
+Powell (00:37:00):
+in those processes.
+
+Asbed (00:37:03):
+Could this have specific long-term effects on US capital markets and global
+
+Asbed (00:37:09):
+financial flows,
+
+Asbed (00:37:10):
+and what kind of effects?
+
+Powell  (00:37:11):
+Look,
+
+Powell (00:37:12):
+it will have an effect in that the principal reason why US capital markets over the
+
+Powell (00:37:21):
+last 40 years have burgeoned and expanded to the extent that they have is because
+
+Powell (00:37:27):
+they are the means by which
+
+Powell (00:37:31):
+Surplus trading countries,
+
+Powell (00:37:33):
+that is countries who have merchandise goods surpluses with the United States,
+
+Powell (00:37:37):
+are able to do something with their dollar holdings other than simply hold the
+
+Powell (00:37:42):
+dollars in accounts.
+
+Powell (00:37:44):
+And should countries...
+
+Powell (00:37:48):
+the United States dollar less and less for their real economy transactions,
+
+Powell (00:37:54):
+then they will,
+
+Powell (00:37:55):
+over time,
+
+Powell (00:37:56):
+actually have less need for US capital markets as the mechanisms by which they
+
+Powell (00:38:02):
+cycle their dollar holdings.
+
+Powell (00:38:04):
+Now,
+
+Powell (00:38:04):
+the implication of that is that the capital markets in the US begin to increasingly
+
+Powell (00:38:11):
+look inwards.
+
+Powell (00:38:13):
+They are heavily financialized, meaning that
+
+Powell (00:38:17):
+The size of these capital markets is incredibly disconnected now from the
+
+Powell (00:38:22):
+productive capacity of the real economy.
+
+Powell (00:38:25):
+Now, the real economy isn't just, of course, the creation or the production of tangible things.
+
+Powell (00:38:29):
+It also includes services.
+
+Powell (00:38:32):
+But nonetheless, this is the real economy of use value creation.
+
+Powell (00:38:37):
+Use values are things that humans and human organisations find useful.
+
+Powell (00:38:44):
+And as a result of them being useful, they're valuable.
+
+Powell (00:38:47):
+The capital markets in and of themselves are basically marketplaces of what I would
+
+Powell (00:38:52):
+call exchange values.
+
+Powell (00:38:54):
+These are things that can't actually be used in production or consumption systems directly,
+
+Powell (00:38:59):
+other than as ways of
+
+Powell (00:39:02):
+denominating either an exchange value of a number of things or they represent legal
+
+Powell (00:39:08):
+rights to future value.
+
+Powell (00:39:10):
+So this is what some economists in times past have described as the world of fictitious capital.
+
+Powell (00:39:18):
+The expansion of this world of fictitious capital,
+
+Powell (00:39:21):
+particularly over the last 40 years or so,
+
+Powell (00:39:25):
+has significantly outgrown the capacity of the underlying real economy in the
+
+Powell (00:39:31):
+United States to absorb.
+
+Powell (00:39:33):
+The fact that it has grown to,
+
+Powell (00:39:36):
+in a sense,
+
+Powell (00:39:36):
+absorb or cycle US dollars that have found their way out into the rest of the world
+
+Powell (00:39:42):
+means that it was the capital markets that emerged as a consequence of American
+
+Powell (00:39:48):
+trade as opposed to anything else.
+
+Powell (00:39:51):
+Should the US evolve to be an even more introverted market,
+
+Powell (00:39:59):
+economy and the tariffs,
+
+Powell (00:40:00):
+of course,
+
+Powell (00:40:01):
+are pointing in that direction,
+
+Powell (00:40:04):
+then the outsize of the American capital markets will begin to be a challenge for
+
+Powell (00:40:13):
+the American political economy.
+
+Powell (00:40:16):
+Now, the challenge, of course, comes in a few ways.
+
+Powell (00:40:20):
+One is that as rights to future value,
+
+Powell (00:40:24):
+when it comes to cashing in those rights and making a claim on the real economy,
+
+Powell (00:40:30):
+the question is whether or not the real economy in America can make the value
+
+Powell (00:40:35):
+claims being made upon it.
+
+Powell (00:40:37):
+from the fictitious capital markets.
+
+Powell (00:40:40):
+The second one,
+
+Powell (00:40:41):
+of course,
+
+Powell (00:40:41):
+is that these fictitious capital assets themselves have a life of their own,
+
+Powell (00:40:47):
+and they are the basis upon which we have seen over the course of the last 40 years
+
+Powell (00:40:52):
+a growing income disparity and wealth disparity in the United States whereby owners
+
+Powell (00:40:59):
+of capital wealth
+
+Powell (00:41:01):
+much of which now is denominated in fictitious capital terms,
+
+Powell (00:41:06):
+are able to dictate terms across the rest of the economy.
+
+Powell (00:41:11):
+And that results in all sorts of things, including significant asset inflation.
+
+Powell (00:41:18):
+Asset inflation is a problem because it drives up the cost of accessing critical assets,
+
+Powell (00:41:24):
+whether they're housing or factories or land.
+
+Powell (00:41:27):
+that inhibits the ability of the rest of the real economy and the rest of the real society,
+
+Powell (00:41:32):
+you know,
+
+Powell (00:41:33):
+after all,
+
+Powell (00:41:33):
+people need places to live,
+
+Powell (00:41:35):
+to be able to function properly.
+
+Powell (00:41:37):
+So these chronic imbalances that are unfolding as we speak can be accelerated,
+
+Powell (00:41:46):
+leading to a significant overhang in the sheer scale of the state
+
+Powell (00:41:52):
+of fictitious capital and money capital flows that are now bearing down on a real
+
+Powell (00:41:58):
+economic system whose capacity is nowhere near as great.
+
+Hovik (00:42:02):
+Interesting.
+
+Hovik (00:42:04):
+We,
+
+Hovik (00:42:05):
+of course,
+
+Hovik (00:42:05):
+we briefly talked about Iran previously already,
+
+Hovik (00:42:09):
+but,
+
+Hovik (00:42:10):
+you know,
+
+Hovik (00:42:10):
+I was really interested,
+
+Hovik (00:42:12):
+how might a,
+
+Hovik (00:42:14):
+if things do come,
+
+Hovik (00:42:16):
+you know,
+
+Hovik (00:42:18):
+to head in terms of worst case scenario,
+
+Hovik (00:42:21):
+how might a US strike or even the threat of,
+
+Hovik (00:42:25):
+you know,
+
+Hovik (00:42:25):
+continued threat of one,
+
+Hovik (00:42:26):
+I guess,
+
+Hovik (00:42:27):
+impact the cohesion of BRICS in general and the efforts to de-dollarize and
+
+Hovik (00:42:35):
+restructure global trade between these countries?
+
+Powell (00:42:41):
+Look, if we're talking about military strikes, I'm sure that there'll be other
+
+Powell (00:42:46):
+more competent observers to talk about specifically what the tactical approaches
+
+Powell (00:42:50):
+would be,
+
+Powell (00:42:50):
+but obviously long-range bombers and those sorts of things would be used insofar as
+
+Powell (00:42:55):
+its implications geopolitically.
+
+Powell (00:42:59):
+I think the jury,
+
+Powell (00:43:01):
+in a sense,
+
+Powell (00:43:01):
+is out as far as what kind of shockwaves this would send across the world.
+
+Powell (00:43:07):
+One possible reaction or one possible consequence is that it will scare everybody
+
+Powell (00:43:13):
+back into the old ways and,
+
+Powell (00:43:16):
+in a sense,
+
+Powell (00:43:18):
+put the world back to how it was in terms of its political and power relationships.
+
+Powell (00:43:23):
+I doubt that that will be what happens.
+
+Powell (00:43:25):
+I doubt that in large part because both Russia and China,
+
+Powell (00:43:29):
+are no longer in a position where they think they are vulnerable to this kind of
+
+Powell (00:43:35):
+scare tactic from the United States.
+
+Powell (00:43:38):
+Needless to say,
+
+Powell (00:43:38):
+a military intervention in Iran will be,
+
+Powell (00:43:41):
+as I mentioned earlier,
+
+Powell (00:43:42):
+incredibly devastating for the people of the country as well as the medium-term
+
+Powell (00:43:47):
+economic system because a lot of things will be destroyed in the process.
+
+Powell (00:43:52):
+But I doubt that it will necessarily result in
+
+Powell (00:43:57):
+BRICS countries suddenly cowering in the face of this kind of violence from the Americans.
+
+Powell (00:44:03):
+In fact,
+
+Powell (00:44:04):
+it is just as possible that in the face of this kind of unprovoked violence,
+
+Powell (00:44:09):
+that BRICS countries and the countries of the Global South more generally will
+
+Powell (00:44:15):
+appreciate the importance of coordinating
+
+Powell (00:44:19):
+and acting together in ways that bolster the multilateral system and also at the
+
+Powell (00:44:26):
+same time provide each and every one of them with the protective cover that many of
+
+Powell (00:44:31):
+them will need.
+
+Asbed (00:44:33):
+Professor, before we hit the final topic, just a quick question.
+
+Asbed (00:44:37):
+You mentioned that we seem to be heading into a world tariff climate.
+
+Asbed (00:44:43):
+Do you think this is more a Trump thing or do you think this is a US thing?
+
+Powell (00:44:47):
+In terms of tariffs, you mean?
+
+Asbed (00:44:49):
+Yeah, the tariff wars and this new MO that the U.S.
+
+Asbed (00:44:55):
+wants to work with the rest of the world with.
+
+Asbed (00:44:57):
+I'm just wondering if this is something that the United States,
+
+Asbed (00:45:00):
+this is a natural progression of the thinking of the United States,
+
+Asbed (00:45:03):
+or is this more of a phenomenon of the Trump administration that might blow over
+
+Asbed (00:45:09):
+after he is gone?
+
+Asbed (00:45:09):
+Yeah.
+
+Powell (00:45:12):
+I think President Trump is as much a symptom of the broader set of circumstances as
+
+Powell (00:45:17):
+he is a cause of the current state of flux.
+
+Powell (00:45:22):
+The broader set of circumstances is the progressive situation
+
+Powell (00:45:28):
+Diminution of American authority, unblemished and unquestioned authority over the world.
+
+Powell (00:45:35):
+The 30 years or so of American primacy, I think, is over.
+
+Powell (00:45:40):
+We have certainly been experiencing a period of significant change.
+
+Powell (00:45:45):
+displacement anxiety is how I would describe it,
+
+Powell (00:45:48):
+particularly from the United States and its beltway institutions,
+
+Powell (00:45:54):
+you know,
+
+Powell (00:45:54):
+the political parties in particular.
+
+Powell (00:45:57):
+And so I think that the underlying conditions that have given rise to the last 10
+
+Powell (00:46:06):
+plus years of American policy response haven't gone away.
+
+Powell (00:46:13):
+The policy responses have varied in some ways from administration to administration,
+
+Powell (00:46:19):
+but they all,
+
+Powell (00:46:21):
+in a sense,
+
+Powell (00:46:21):
+seek to accomplish a few things.
+
+Powell (00:46:25):
+One is to bring back as much resource as they possibly can to North America itself.
+
+Powell (00:46:33):
+And,
+
+Powell (00:46:33):
+you know,
+
+Powell (00:46:34):
+Biden tried to do that with a continuation of Trump's first term sanctions and tariffs.
+
+Powell (00:46:43):
+Biden also did that through a number of fairly grandiose efforts at industry policy,
+
+Powell (00:46:50):
+you know,
+
+Powell (00:46:51):
+the CHIPS Act and things like that.
+
+Powell (00:46:53):
+The Trump 2.0 tariffs in many ways is a continuation on that theme,
+
+Powell (00:46:58):
+which is an effort to bring things back to the American homeland.
+
+Powell (00:47:04):
+The second part of the response is aimed at containing China in particular.
+
+Powell (00:47:12):
+This effort to contain the development and growth of another country,
+
+Powell (00:47:16):
+and in this case China,
+
+Powell (00:47:18):
+and previously Russia,
+
+Powell (00:47:19):
+is the other side of the coin.
+
+Powell (00:47:23):
+So the US has, for quite a number of years,
+
+Powell (00:47:28):
+aimed to weaken and reduce the ability of others in the world to develop as a way
+
+Powell (00:47:37):
+of ensuring American primacy.
+
+Powell (00:47:39):
+And now that that has been failing dismally,
+
+Powell (00:47:44):
+it now seeks to firstly intensify the pressure around key things such as
+
+Powell (00:47:49):
+semiconductors and artificial intelligence in particular,
+
+Powell (00:47:53):
+but also it tried it on with Russia in terms of financial sanctions.
+
+Powell (00:47:58):
+Now, none of that has worked to plan.
+
+Powell (00:48:01):
+These two economies have defied the attempts by Washington to dictate terms.
+
+Powell (00:48:10):
+In fact,
+
+Powell (00:48:10):
+the more that Washington tried to dictate terms,
+
+Powell (00:48:14):
+the worse things got from Washington's point of view.
+
+Powell (00:48:18):
+these economies and their societies,
+
+Powell (00:48:21):
+you know,
+
+Powell (00:48:21):
+and I'm talking about the quality of the people,
+
+Powell (00:48:25):
+the education levels that they have,
+
+Powell (00:48:27):
+as well as the sort of cultural determination that places under pressure can often
+
+Powell (00:48:32):
+bring to the table,
+
+Powell (00:48:34):
+have simply shown that
+
+Powell (00:48:36):
+trying to stop others from developing and stop others from being able to have a
+
+Powell (00:48:41):
+meaningful place in the world,
+
+Powell (00:48:44):
+to be at the table as equals is simply no longer possible.
+
+Powell (00:48:49):
+Will Washington continue this for a while longer, even after Trump goes?
+
+Powell (00:48:53):
+My own suspicion,
+
+Powell (00:48:54):
+and it's only a suspicion,
+
+Powell (00:48:56):
+is that it will continue beyond Trump and it will continue until it no longer works actively.
+
+Powell (00:49:07):
+not functional as a response type.
+
+Powell (00:49:10):
+So we're in for a period
+
+Powell (00:49:13):
+maybe another 10 years or so of American efforts to divide and conquer,
+
+Powell (00:49:21):
+to destabilise parts of the world so that it can distract others from their
+
+Powell (00:49:28):
+principal purpose,
+
+Powell (00:49:29):
+which is their own economic development,
+
+Powell (00:49:31):
+and ultimately also provide time for the United States to consolidate resources
+
+Powell (00:49:39):
+back to
+
+Powell (00:49:40):
+on the American mainland in the event that it wants to pursue whatever policy or
+
+Powell (00:49:47):
+strategy it has in mind to put the world back into its place.
+
+Powell (00:49:51):
+Yeah.
+
+Asbed (00:49:53):
+Well,
+
+Asbed (00:49:53):
+as international trade and industrialization goes,
+
+Asbed (00:49:57):
+the two largest countries in the world by population,
+
+Asbed (00:50:00):
+China and India,
+
+Asbed (00:50:01):
+have similar world infrastructure concepts,
+
+Asbed (00:50:04):
+ideas,
+
+Asbed (00:50:05):
+projects,
+
+Asbed (00:50:05):
+initiatives.
+
+Asbed (00:50:06):
+I'm not sure exactly what I should call them.
+
+Asbed (00:50:08):
+China has the Belt and Road Initiative,
+
+Asbed (00:50:10):
+while India has the International North-South Trade Corridor,
+
+Asbed (00:50:14):
+the INSTC.
+
+Asbed (00:50:16):
+Both countries are generally trying to put aside their local and regional
+
+Asbed (00:50:20):
+animosities towards each other for the greater good of the continent and maybe also
+
+Asbed (00:50:24):
+the rest of the world.
+
+Asbed (00:50:25):
+What's the driving impetus behind these initiatives?
+
+Asbed (00:50:29):
+It's probably not by coincidence that both 1.5 billion strong countries have come
+
+Asbed (00:50:33):
+up with similar infrastructure projects.
+
+Asbed (00:50:36):
+They're somewhat similar to the old Silk Road in the idea that they're joining
+
+Asbed (00:50:42):
+Western and Eastern markets together.
+
+Asbed (00:50:45):
+So why do these countries have similar projects?
+
+Powell (00:50:49):
+Well,
+
+Powell (00:50:49):
+the Belt and Road Initiative is substantially larger than India's initiative,
+
+Powell (00:50:53):
+which is comparatively modest.
+
+Powell (00:50:55):
+But they are both countries that have long and, I mean, well before the Europeans arrived.
+
+Powell (00:51:04):
+So we're talking well beyond the last 500 years.
+
+Powell (00:51:06):
+So both of these parts of the world,
+
+Powell (00:51:08):
+these civilizational states,
+
+Powell (00:51:10):
+have long had trading relationships with others in the world.
+
+Powell (00:51:15):
+And those trading relationships have been facilitated both in a maritime sense and
+
+Powell (00:51:20):
+also in a continental sense.
+
+Powell (00:51:22):
+The fact that both of these civilizational states are reaching back into their deep
+
+Powell (00:51:28):
+collective memories as far as how they have prospered in times past.
+
+Powell (00:51:34):
+It's not surprising,
+
+Powell (00:51:35):
+really,
+
+Powell (00:51:35):
+because geography actually is quite determinative in a sense that it establishes
+
+Powell (00:51:42):
+the foundational ground rules that you have to play with.
+
+Powell (00:51:46):
+The fact that these two great civilizational states border each other and
+
+Powell (00:51:52):
+historically have also seen them differ.
+
+Powell (00:51:56):
+manage,
+
+Powell (00:51:56):
+I think,
+
+Powell (00:51:56):
+relationships that have largely been mutually beneficial tells us that whilst
+
+Powell (00:52:03):
+friction arises from time to time,
+
+Powell (00:52:05):
+and I think it's impossible for neighbouring countries to always avoid friction,
+
+Powell (00:52:11):
+but the fact that they have historically been able to manage those differences
+
+Powell (00:52:16):
+whilst coexisting and at times prospering together tells us that there's something
+
+Powell (00:52:21):
+deep in the historical memory.
+
+Powell (00:52:24):
+that informs the general posture of the national leaders from both places,
+
+Powell (00:52:33):
+that points to a capacity to,
+
+Powell (00:52:38):
+again,
+
+Powell (00:52:39):
+manage differences with a view that those differences should not overshadow the
+
+Powell (00:52:44):
+opportunities that come with better coordination and perhaps even collaboration.
+
+Powell (00:52:51):
+People often say that if India and China could put their differences aside and get
+
+Powell (00:53:00):
+their collective acts together,
+
+Powell (00:53:02):
+that they will be a very difficult combination to beat.
+
+Powell (00:53:07):
+And there is some truth in that because in the long run...
+
+Powell (00:53:11):
+GDP and population have always been quite tightly correlated,
+
+Powell (00:53:16):
+mediated,
+
+Powell (00:53:17):
+of course,
+
+Powell (00:53:17):
+by technology and ways in which societies harness those technologies and harness
+
+Powell (00:53:23):
+those resources.
+
+Powell (00:53:24):
+But GDP and population are things that can be quite tightly coordinated.
+
+Powell (00:53:31):
+And India has tremendous prospects over the next 30 to 50 years to fulfil many of its ambitions.
+
+Powell (00:53:39):
+i think it is best placed to fulfill those ambitions by more effective coordination
+
+Powell (00:53:46):
+with china and and there is a lot of mutual benefit to be gained by these two great
+
+Powell (00:53:53):
+civilizational states of history by you know getting their acts together and and
+
+Powell (00:54:00):
+moving on from some of the more recent difficulties that have affected their
+
+Powell (00:54:05):
+relationships
+
+Asbed (00:54:07):
+At present,
+
+Asbed (00:54:07):
+would you say that the BRI,
+
+Asbed (00:54:09):
+the Belt and Road Initiative,
+
+Asbed (00:54:11):
+and the INSTC are competing or cooperating world initiatives?
+
+Asbed (00:54:16):
+Because at least in Armenia's region in the South Caucasus,
+
+Asbed (00:54:21):
+one is the East-West or the Middle Corridor,
+
+Asbed (00:54:24):
+and the other one is the North-South Corridor.
+
+Asbed (00:54:27):
+So I'm asking because I'm interested in knowing how small and medium countries,
+
+Asbed (00:54:32):
+well,
+
+Asbed (00:54:33):
+in our case,
+
+Asbed (00:54:34):
+you're on an Armenian podcast,
+
+Asbed (00:54:36):
+how should Armenia navigate what sometimes seem to be competing projects?
+
+Powell (00:54:41):
+Well, I think it's important to see infrastructure like this as potentially complementary.
+
+Powell (00:54:46):
+They serve different purposes and they firstly connect up to different nodes in the world.
+
+Powell (00:54:51):
+So that's the first thing to remember is that they provide different networks of connectivity.
+
+Powell (00:54:57):
+The second thing as a result is to remember that the more connectivity and the more
+
+Powell (00:55:01):
+connective possibilities that a place has,
+
+Powell (00:55:05):
+the more able it is to find new value connections around the world.
+
+Powell (00:55:09):
+If you can't connect up to some other part of the world,
+
+Powell (00:55:12):
+then you don't have access to either their technologies and their know-how or their markets.
+
+Powell (00:55:17):
+So these infrastructure projects,
+
+Powell (00:55:19):
+these transportation infrastructure projects,
+
+Powell (00:55:22):
+really create what I would describe as networks of infrastructure that facilitate flow.
+
+Powell (00:55:30):
+So this is the infrastructure of value flow.
+
+Powell (00:55:33):
+And value, if you imagine it like you would imagine...
+
+Powell (00:55:37):
+a neural network,
+
+Powell (00:55:38):
+you know,
+
+Powell (00:55:38):
+where neurons are firing energy and they're connecting with each other and energy
+
+Powell (00:55:43):
+flows in all directions.
+
+Powell (00:55:45):
+This is exactly the kind of effect that this array of infrastructure projects can
+
+Powell (00:55:50):
+actually bring to the table.
+
+Powell (00:55:52):
+There'll be parts of an economy that will find it valuable and useful to tap into
+
+Powell (00:55:57):
+the north-south flows,
+
+Powell (00:56:00):
+and there will be other parts that will find it valuable to tap into the east-west flows.
+
+Powell (00:56:05):
+So networks can be incredibly complementary with each other and they create
+
+Powell (00:56:09):
+opportunities and options.
+
+Asbed (00:56:12):
+So for the record, I couldn't agree with you more.
+
+Asbed (00:56:14):
+I think that if the purpose of all this transit is actually doing trade between
+
+Asbed (00:56:22):
+these countries,
+
+Asbed (00:56:23):
+then there is absolutely nothing stopping east-west from south-north or vice versa.
+
+Asbed (00:56:28):
+It's only when the politics of the region starts interfering that people think that
+
+Asbed (00:56:32):
+they need to have control
+
+Asbed (00:56:34):
+and ownership of the land before trade is possible.
+
+Asbed (00:56:38):
+And I'm specifically talking about what Azerbaijan and Turkey call the ‘Zangezur Corridor’,
+
+Asbed (00:56:43):
+that they cannot have it in the hands of Armenia before they do their trade.
+
+Asbed (00:56:47):
+So that's just commentary from me.
+
+Asbed (00:56:49):
+But we're going to leave it there for today, Professor.
+
+Asbed (00:56:52):
+Thank you so much for coming on the show.
+
+Asbed (00:56:55):
+This was a great conversation.
+
+Asbed (00:56:56):
+I hope we will have you on the show again.
+
+Powell (00:56:59):
+It's been an absolute pleasure, gentlemen.
+
+Powell (00:57:00):
+Look forward to it.
+
+Hovik (00:57:02):
+Thank you.
+
+Asbed (00:57:03):
+That's our show today.
+
+Asbed (00:57:04):
+And this episode was recorded on April 6, 2025.
+
+Asbed (00:57:07):
+We've been talking with Professor Warwick Powell,
+
+Asbed (00:57:11):
+who is adjunct professor at Queensland University of Technology in Brisbane,
+
+Asbed (00:57:16):
+Australia.
+
+Asbed (00:57:17):
+He's also a senior fellow at Taihe Institute in Beijing.
+
+Asbed (00:57:21):
+He is the author of China and Digital Supply Chains, Dynamics of a Zero Trust World.
+
+Asbed (00:57:27):
+And his work focuses on digital innovation technologies and international political economy.
+
+Asbed (00:57:33):
+For more information on everybody in this show,
+
+Asbed (00:57:36):
+check out our show notes at podcast.room.org slash episode number.
+
+Asbed (00:57:41):
+I'm Asbed Bedrossian in Los Angeles.
+
+Hovik (00:57:44):
+And I'm Hovik Manucharyan in Yerevan.
+
+Asbed (00:57:47):
+Okay.
+
+Asbed (00:57:47):
+Well, find us on social media.
+
+Asbed (00:57:50):
+Everywhere you get your Armenian news.
+
+Asbed (00:57:52):
+The links are going to be in the show notes.
+
+Hovik (00:57:54):
+And don't forget to comment on this video.
+
+Hovik (00:57:56):
+Help us get more feedback and improve our reach.
+
+Hovik (00:58:00):
+Yes.
+
+Asbed (00:58:01):
+Comment on this video.
+
+Asbed (00:58:03):
+Join our Substack pages.
+
+Asbed (00:58:05):
+And our shows are also published there.
+
+Asbed (00:58:07):
+Thank you very much.
+
+Asbed (00:58:09):
+And bye-bye.

@@ -1,0 +1,6014 @@
+Asbed (00:00:04):
+Hello, everyone, and welcome to this Conversations on Groong episode.
+
+Asbed (00:00:08):
+Today,
+
+Asbed (00:00:08):
+we're speaking with Scott Horton,
+
+Asbed (00:00:10):
+author,
+
+Asbed (00:00:11):
+radio host,
+
+Asbed (00:00:11):
+and editorial director of Antiwar.com and the Libertarian Institute.
+
+Asbed (00:00:16):
+With over 6,000 interviews under his belt, Scott has long challenged U.S.
+
+Asbed (00:00:21):
+foreign policy.
+
+Asbed (00:00:22):
+His new book,
+
+Asbed (00:00:23):
+Provoked,
+
+Asbed (00:00:24):
+argues that the 2022 invasion of Ukraine wasn't unprovoked,
+
+Asbed (00:00:28):
+but the result of decades of Western escalation.
+
+Hovik (00:00:31):
+But before that, a brief interruption from your least annoying sponsor, us.
+
+Hovik (00:00:36):
+If you like what we do,
+
+Hovik (00:00:37):
+consider fueling our caffeine addiction and keeping the lights on at Groom as well.
+
+Hovik (00:00:41):
+You can go to podcasts.groong.org / donate and you'll find links to our Patreon
+
+Hovik (00:00:47):
+and BuyMeACoffee pages.
+
+Hovik (00:00:49):
+But,
+
+Hovik (00:00:49):
+of course,
+
+Hovik (00:00:50):
+we don't want to break your bank,
+
+Hovik (00:00:52):
+so the algorithm gods do accept other offerings,
+
+Hovik (00:00:54):
+including likes,
+
+Hovik (00:00:55):
+comments,
+
+Hovik (00:00:56):
+and shares with your friends,
+
+Hovik (00:00:58):
+enemies,
+
+Hovik (00:00:59):
+coworkers,
+
+Hovik (00:01:00):
+and that one guy from Twitter who always is wrong.
+
+Hovik (00:01:03):
+It really helps us, so we appreciate it.
+
+Hovik (00:01:07):
+All right, enough groveling for your grub.
+
+Hovik (00:01:10):
+Let's get to it.
+
+Asbed (00:01:11):
+Let's get to it.
+
+Asbed (00:01:13):
+Scott Horton, welcome to the Groong Podcast.
+
+Scott (00:01:16):
+Hi, thank you both very much for having me.
+
+Scott (00:01:17):
+Good to be with you.
+
+Hovik (00:01:18):
+It's a pleasure to have you.
+
+Hovik (00:01:20):
+Scott,
+
+Hovik (00:01:21):
+before we dive into your book and other topics,
+
+Hovik (00:01:23):
+I wanted to ask you about the anti-war movement in general in the United States.
+
+Hovik (00:01:28):
+You know,
+
+Hovik (00:01:29):
+in the late 1990s and 2000s,
+
+Hovik (00:01:31):
+there were actual alternative viewpoints presented in mainstream media,
+
+Hovik (00:01:34):
+discussions challenging the war in Yugoslavia,
+
+Hovik (00:01:37):
+for instance,
+
+Hovik (00:01:37):
+the bombing of Belgrade and the Iraq War.
+
+Hovik (00:01:41):
+Today, it's almost unbelievable that such discourse existed.
+
+Hovik (00:01:46):
+You're the editorial director of antiwar.com and a go-to resource for many in the
+
+Hovik (00:01:50):
+anti-war community,
+
+Hovik (00:01:51):
+especially today when mainstream media has become equivalent to a Pravda.
+
+Hovik (00:01:56):
+It's gotten so crazy now that we're seeing a genocide in Gaza streamed live on TV
+
+Hovik (00:02:00):
+without significant major civil discontent.
+
+Hovik (00:02:04):
+So I wanted to ask,
+
+Hovik (00:02:05):
+what happened to the anti-war sentiments and the anti-war movement in general?
+
+Scott (00:02:11):
+Yeah, well, so there's a lot there already.
+
+Scott (00:02:13):
+I'll tell you,
+
+Scott (00:02:16):
+I think the anti-war movement even then was not as plugged in to the
+
+Scott (00:02:23):
+Israel-Palestine movement or the Palestinians' plight or really interested in that.
+
+Scott (00:02:30):
+Although, of course, the cruelty during the Intifada and all that
+
+Scott (00:02:36):
+on both parts,
+
+Scott (00:02:37):
+but especially the Israeli government's part pales in comparison with what's going
+
+Scott (00:02:43):
+on right now.
+
+Scott (00:02:44):
+So at that time, it was really not exactly center stage either.
+
+Scott (00:02:51):
+Although there's always been some leftists who are very interested in the issue,
+
+Scott (00:02:55):
+but by and large,
+
+Scott (00:02:57):
+otherwise,
+
+Scott (00:02:57):
+no.
+
+Scott (00:02:58):
+But then, you know, you bring up the Kosovo War.
+
+Scott (00:03:02):
+The only real,
+
+Scott (00:03:03):
+like,
+
+Scott (00:03:03):
+dissent in the major media at that time was on right-wing talk radio out in the country.
+
+Scott (00:03:08):
+You know,
+
+Scott (00:03:09):
+TV and newspapers,
+
+Scott (00:03:10):
+the Weekly Standard,
+
+Scott (00:03:11):
+the National Review,
+
+Scott (00:03:12):
+and John McCain and the leadership of the Republican Party,
+
+Scott (00:03:16):
+they all supported the war with Bill Clinton.
+
+Scott (00:03:19):
+But it was sort of the right-wing rabble out in flyover country that just...
+
+Scott (00:03:24):
+They couldn't just see following Bill Clinton into any war was what it was really about, right?
+
+Scott (00:03:28):
+If it had been President McCain or President Bush leading it,
+
+Scott (00:03:32):
+they would have more or less supported it probably.
+
+Scott (00:03:34):
+But I don't think... Well, I don't want to sell them short.
+
+Scott (00:03:39):
+I mean, there were definitely... Antiwar.com was killing it back then.
+
+Scott (00:03:42):
+That was when they got their real start.
+
+Scott (00:03:43):
+I mean, they were already going in 95, but that was when they got their real start.
+
+Scott (00:03:47):
+And they really were the stars of the anti-Kosovo war movement during that time.
+
+Scott (00:03:53):
+I remember I had already been exposed to antiwar.com a little bit,
+
+Scott (00:03:57):
+but I remember listening to AM radio in San Antonio,
+
+Scott (00:04:00):
+550 AM,
+
+Scott (00:04:02):
+and the callers would call in and go,
+
+Scott (00:04:03):
+oh,
+
+Scott (00:04:04):
+that's not true.
+
+Scott (00:04:04):
+They debunked that on antiwar.com this morning.
+
+Scott (00:04:07):
+So that was where they were really getting going.
+
+Scott (00:04:10):
+And there were people who specialized in what is really going on here, but...
+
+Scott (00:04:17):
+Not as much as you'd like, because it is so complicated, the breakup of Yugoslavia.
+
+Scott (00:04:21):
+You've got to really dive in to know.
+
+Scott (00:04:24):
+It's very hard for people to do much about.
+
+Scott (00:04:27):
+But you know what, though?
+
+Scott (00:04:28):
+There was a real lack of enthusiasm for the thing.
+
+Scott (00:04:31):
+And when they tried to get an authorization passed, they couldn't in the Congress.
+
+Scott (00:04:36):
+So there was enough conservative dissent,
+
+Scott (00:04:38):
+even though Newt Gingrich and Trent Lott,
+
+Scott (00:04:40):
+the leaders of the Republicans at that time,
+
+Scott (00:04:42):
+supported it.
+
+Scott (00:04:44):
+the rank and file,
+
+Scott (00:04:46):
+you know,
+
+Scott (00:04:46):
+were with Ron Paul and that one,
+
+Scott (00:04:47):
+at least for,
+
+Scott (00:04:48):
+at least when it came to the vote,
+
+Scott (00:04:52):
+they didn't have,
+
+Scott (00:04:53):
+you know,
+
+Scott (00:04:54):
+enough votes there.
+
+Scott (00:04:55):
+It was close, I guess.
+
+Scott (00:04:58):
+But then I guess what I'm really saying is it's all wrapped up in partisanship, right?
+
+Scott (00:05:01):
+Because then W.
+
+Scott (00:05:02):
+Bush comes in and from the point of view of a liberal Democrat or a leftist of any kind,
+
+Scott (00:05:09):
+a progressive or anybody on the left side of the spectrum,
+
+Scott (00:05:12):
+Well, this numbskull is from Houston, Texas, they thought, right?
+
+Scott (00:05:17):
+Meaning just he represents oil interests.
+
+Scott (00:05:20):
+Evil, icky energy corporations is, you know, he's just kind of all over him.
+
+Scott (00:05:26):
+And so they just didn't trust that.
+
+Scott (00:05:27):
+They just saw that as as corrupt and him as inept, which, of course, is true.
+
+Scott (00:05:32):
+And the guy's IQ is probably 90 or something.
+
+Scott (00:05:36):
+He's a horrible governor, a horrible president and a horrible idiot.
+
+Scott (00:05:40):
+And so if you weren't a Republican who was invested in wanting to believe in this
+
+Scott (00:05:45):
+guy or trying to somehow caricature him as the second coming of Reagan,
+
+Scott (00:05:49):
+you know,
+
+Scott (00:05:49):
+the Democrats always try to pretend their new guy is like John Kennedy in some way.
+
+Scott (00:05:55):
+And they, you know, there were people who really wanted to believe in W. Bush.
+
+Scott (00:05:59):
+But for everybody else, it was like, come on, man.
+
+Scott (00:06:02):
+You know, it was so blatant.
+
+Scott (00:06:04):
+He was so ham-handed in his BS-ery that you'd have had to really want to be in on
+
+Scott (00:06:10):
+believing in the thing to go along with it.
+
+Scott (00:06:13):
+And then...
+
+Scott (00:06:15):
+Oh,
+
+Scott (00:06:15):
+so you're telling me once,
+
+Scott (00:06:16):
+you know,
+
+Scott (00:06:16):
+after America gets hit by Egyptians working for a Saudi hiding in Afghanistan,
+
+Scott (00:06:22):
+you want to hit Iraq?
+
+Scott (00:06:23):
+All right, then.
+
+Scott (00:06:24):
+And so...
+
+Scott (00:06:27):
+you know for people again on the right they're like oh yeah terrorist enemy but on
+
+Scott (00:06:31):
+the left they're going well this guy just wants to steal oil now the truth is he
+
+Scott (00:06:36):
+just wanted to steal oil for Israel that was what the whole plan was just for
+
+Scott (00:06:40):
+Israel to save a nickel a barrel it wasn't for us at all it was the clean break
+
+Scott (00:06:44):
+plan for the Israelis um but uh
+
+Scott (00:06:51):
+So for liberals, it was just it was too easy.
+
+Scott (00:06:53):
+Right.
+
+Scott (00:06:54):
+If you remember at that time,
+
+Scott (00:06:55):
+you had,
+
+Scott (00:06:56):
+you know,
+
+Scott (00:06:57):
+every nitwit in Hollywood coming out and saying,
+
+Scott (00:07:00):
+well,
+
+Scott (00:07:00):
+George Bush is a bad guy and they're lying us into war.
+
+Scott (00:07:03):
+And this is all a bunch of crap.
+
+Scott (00:07:04):
+And even though they were a bunch of liberal idiots, they were right.
+
+Scott (00:07:08):
+It was just because they weren't invested in him.
+
+Scott (00:07:10):
+They could see right through how dishonest the whole thing was.
+
+Scott (00:07:15):
+And so,
+
+Scott (00:07:17):
+you know,
+
+Scott (00:07:17):
+I protested here in Austin with 50,000 people on February 15th and March 15th of
+
+Scott (00:07:24):
+2003 trying to stop the war.
+
+Scott (00:07:26):
+And I'm from this town and I've been at some leftist protests before.
+
+Scott (00:07:30):
+But I remember thinking, Jesus, where did all these people come from?
+
+Scott (00:07:33):
+Like, what school did they all go to?
+
+Scott (00:07:35):
+Like, I'm from here.
+
+Scott (00:07:36):
+Like, there's so many hippies.
+
+Scott (00:07:38):
+It was unbelievable how many people,
+
+Scott (00:07:40):
+and they weren't all hippies,
+
+Scott (00:07:41):
+but how many people,
+
+Scott (00:07:42):
+virtually all leftists,
+
+Scott (00:07:43):
+were out there protesting.
+
+Scott (00:07:44):
+It was huge.
+
+Scott (00:07:46):
+And so it was just the consensus on the left that we don't have to do this.
+
+Scott (00:07:50):
+And it was only,
+
+Scott (00:07:51):
+you know,
+
+Scott (00:07:51):
+the poll numbers only really shifted when the war became inevitable because people
+
+Scott (00:07:55):
+felt under such pressure to support the war.
+
+Scott (00:07:57):
+If we're going to have a war, then you got to be for it.
+
+Scott (00:08:00):
+So even Pat Buchanan,
+
+Scott (00:08:01):
+you know,
+
+Scott (00:08:02):
+who,
+
+Scott (00:08:02):
+you know,
+
+Scott (00:08:03):
+our favorite paleo con anti-war guy who founded the American conservative magazine
+
+Scott (00:08:07):
+to try to stop the war.
+
+Scott (00:08:09):
+Once the war started,
+
+Scott (00:08:10):
+he goes,
+
+Scott (00:08:11):
+well,
+
+Scott (00:08:11):
+you know,
+
+Scott (00:08:11):
+of course,
+
+Scott (00:08:12):
+you got to support the troops out in the war.
+
+Scott (00:08:14):
+Right.
+
+Scott (00:08:14):
+So everybody was.
+
+Scott (00:08:16):
+The social psychology of that public pressure to go along was really intense.
+
+Scott (00:08:21):
+And so once the war was absolutely inevitable weeks away,
+
+Scott (00:08:25):
+then the poll numbers really shifted to 60,
+
+Scott (00:08:28):
+70 percent support and belief in the thing and whatever,
+
+Scott (00:08:30):
+because people didn't want to be on the outside of that.
+
+Scott (00:08:32):
+Well, you're not on Saddam Hussein side, are you?
+
+Scott (00:08:34):
+Well, geez, no.
+
+Scott (00:08:36):
+I just wanted to give the inspectors more time to work or whatever.
+
+Scott (00:08:39):
+But if we're going anyway, then, of course, hoorah, you know.
+
+Scott (00:08:42):
+And then so opposition to W. Bush's war really was Democratic Party based that whole time.
+
+Scott (00:08:48):
+I mean,
+
+Scott (00:08:48):
+if you look at Cindy Sheehan,
+
+Scott (00:08:50):
+who is the absolute most sincere anti-war protester in history,
+
+Scott (00:08:55):
+you had all these absolute cynical grifters climbing on her back to try to get
+
+Scott (00:08:59):
+their political power.
+
+Scott (00:09:01):
+And so,
+
+Scott (00:09:01):
+you know,
+
+Scott (00:09:02):
+particularly for the Democrats to win the midterms of 2006,
+
+Scott (00:09:04):
+all these huge,
+
+Scott (00:09:06):
+you know,
+
+Scott (00:09:07):
+this huge movement sort of glom on to the trend of being anti Iraq war at that time.
+
+Scott (00:09:13):
+It was good politics to do so.
+
+Scott (00:09:15):
+And then, you know, it wasn't even Barack Obama.
+
+Scott (00:09:18):
+It was just Nancy Pelosi when she won.
+
+Scott (00:09:21):
+And when the Democrats re-won the House and the Senate in 2006 and took power in 07,
+
+Scott (00:09:27):
+That was it.
+
+Scott (00:09:28):
+Antiwar movement.
+
+Scott (00:09:29):
+Forget that.
+
+Scott (00:09:29):
+And it was like it's it's a real miracle.
+
+Scott (00:09:32):
+It's a lesson in in American Democratic Party politics where they can just turn
+
+Scott (00:09:36):
+these protest groups on and off like a switch,
+
+Scott (00:09:38):
+basically.
+
+Scott (00:09:39):
+And once they got their power back in 07, they just turned it off.
+
+Scott (00:09:42):
+And that was it for the Democrat antiwar movement at that time before Obama ever even got there.
+
+Hovik (00:09:47):
+Would I be correct in saying that the thing was so.
+
+Hovik (00:09:51):
+tied to 9-11 where Americans perceived it as close to home,
+
+Hovik (00:09:55):
+but also it was a little bit far from Israel.
+
+Hovik (00:09:58):
+So people could safely, without criticizing Israel, you know, criticize the war.
+
+Hovik (00:10:05):
+Do you think that's a factor or maybe I'm misreading it?
+
+Scott (00:10:09):
+Well,
+
+Scott (00:10:09):
+I mean,
+
+Scott (00:10:09):
+so fast forward a bit to,
+
+Scott (00:10:11):
+you know,
+
+Scott (00:10:11):
+just the protests over the last year and a half.
+
+Scott (00:10:13):
+You had, you know, really extensive protests on the campuses during Democrat times.
+
+Scott (00:10:18):
+Right.
+
+Scott (00:10:18):
+I mean,
+
+Scott (00:10:19):
+this was the left half of the left really going or maybe the left three quarters of
+
+Scott (00:10:25):
+the left going after the very center left.
+
+Scott (00:10:28):
+It seems more and more.
+
+Scott (00:10:30):
+On the Democrat side,
+
+Scott (00:10:31):
+like it's not just the leftists,
+
+Scott (00:10:34):
+but it's just Democrat voters are absolutely sick and tired of Israel and their
+
+Scott (00:10:39):
+cruelty and subsidizing it,
+
+Scott (00:10:41):
+participating in it.
+
+Scott (00:10:43):
+But then the owners of the Democratic Party and the donors and the billionaires who
+
+Scott (00:10:46):
+keep the whole thing going.
+
+Scott (00:10:47):
+I mean, this is there's nothing prejudiced to say this.
+
+Scott (00:10:50):
+It's just true.
+
+Scott (00:10:51):
+It's in the Wall Street Journal that like there literally are just a small handful
+
+Scott (00:10:55):
+of Zionist Jews who finance the entire or two thirds of the Democratic Party.
+
+Scott (00:11:00):
+You know, they take in donations from regular people.
+
+Scott (00:11:03):
+They also have a very small handful of pro-Zionists who pony up billions to run the thing.
+
+Scott (00:11:09):
+And that's it.
+
+Scott (00:11:10):
+So they get their way.
+
+Scott (00:11:12):
+So you have, you know, in 2010, I think it was.
+
+Scott (00:11:15):
+No, I guess it would have been 2012.
+
+Scott (00:11:18):
+They had a convention in L.A.
+
+Scott (00:11:20):
+So the Barack Obama's second convention.
+
+Scott (00:11:23):
+And they had a resolution that was pro-Israel.
+
+Scott (00:11:30):
+And they did the yeas and nays in the convention.
+
+Scott (00:11:34):
+And the nays had it.
+
+Scott (00:11:35):
+I mean, it was thunder in there.
+
+Scott (00:11:38):
+And then the chair was the mayor of L.A.
+
+Scott (00:11:42):
+at the time.
+
+Scott (00:11:44):
+Sorry, I forget his name, Hispanic fellow.
+
+Scott (00:11:47):
+And he,
+
+Scott (00:11:48):
+you can see on the footage,
+
+Scott (00:11:49):
+he doesn't know what to do because the yeas are like a quarter to three quarters
+
+Scott (00:11:54):
+nays in the room or something.
+
+Scott (00:11:55):
+It's just thunder, says nay.
+
+Scott (00:11:58):
+And then he looks over to his left and he goes, the eyes have it.
+
+Scott (00:12:02):
+And everyone's like, what?
+
+Scott (00:12:04):
+You know,
+
+Scott (00:12:04):
+so like that that is has been the case is going to be the case on the Democratic
+
+Scott (00:12:10):
+side where they have this huge crack up going on over Israel,
+
+Scott (00:12:14):
+Palestine.
+
+Scott (00:12:14):
+But now still,
+
+Scott (00:12:15):
+you might ask,
+
+Scott (00:12:16):
+geez,
+
+Scott (00:12:16):
+isn't it weird how after the Republican president took power?
+
+Scott (00:12:21):
+The one that they hate more than any Republican at all of all.
+
+Scott (00:12:26):
+And then his ceasefire breaks down,
+
+Scott (00:12:28):
+the Israelis violate it and restart the bombing campaign again.
+
+Scott (00:12:32):
+Well, where are all the leftist protests now?
+
+Scott (00:12:35):
+I mean, the colleges are terrified, so the colleges are clamping down.
+
+Scott (00:12:38):
+But,
+
+Scott (00:12:39):
+you know,
+
+Scott (00:12:40):
+the kids could just organize at school and then go protest down at the Capitol building,
+
+Scott (00:12:44):
+right?
+
+Scott (00:12:44):
+Like a lot of these capital cities are university towns,
+
+Scott (00:12:48):
+too,
+
+Scott (00:12:48):
+or they could go protest at their local city council or something.
+
+Scott (00:12:51):
+They could do something.
+
+Scott (00:12:53):
+And I don't know,
+
+Scott (00:12:54):
+maybe maybe I really don't realize the extent of the threat of college
+
+Scott (00:12:58):
+administrators about what they're going to do to these kids if they keep protesting.
+
+Scott (00:13:02):
+But it raises the question about the control of these groups where they can really
+
+Scott (00:13:07):
+just turn them on and off like this.
+
+Scott (00:13:09):
+It's reminiscent of like Serbia and Georgia and Ukraine and Kyrgyzstan and the
+
+Scott (00:13:13):
+color code of revolutions where you have these,
+
+Scott (00:13:16):
+you know,
+
+Scott (00:13:16):
+very well financed mobs of
+
+Scott (00:13:19):
+student groups and young kids out protesting and then accept when they want them not to.
+
+Scott (00:13:24):
+And then they're gone.
+
+Scott (00:13:25):
+And I got a great example of this was during January 6th.
+
+Scott (00:13:30):
+How come there were no leftists at the Capitol on January 6th waging a counter
+
+Scott (00:13:36):
+protest against the right who were there to protest in favor of Trump?
+
+Scott (00:13:40):
+And the answer is there was a Time magazine article where they talked about all how
+
+Scott (00:13:45):
+they fortified the election,
+
+Scott (00:13:46):
+which they're really just describing how they stole it.
+
+Scott (00:13:50):
+And they talk about,
+
+Scott (00:13:51):
+for example,
+
+Scott (00:13:52):
+they were able to control these groups and tell them yes or no what to do,
+
+Scott (00:13:57):
+which way to go,
+
+Scott (00:13:58):
+when to go and when to leave.
+
+Scott (00:14:00):
+And on January 6th, they sent out text messages.
+
+Scott (00:14:03):
+Somehow all of these leftist groups,
+
+Scott (00:14:06):
+I mean,
+
+Scott (00:14:06):
+we're talking Antifa and Black Bloc who,
+
+Scott (00:14:09):
+you know,
+
+Scott (00:14:09):
+fancy themselves communist leftist revolutionaries and all this stuff.
+
+Scott (00:14:13):
+They're getting a text message on their phone from Democrat Party,
+
+Scott (00:14:17):
+you know,
+
+Scott (00:14:18):
+HQ from George Soros's,
+
+Scott (00:14:20):
+you know,
+
+Scott (00:14:20):
+little smithers.
+
+Scott (00:14:21):
+They're telling them don't go today.
+
+Scott (00:14:24):
+We have this handled.
+
+Scott (00:14:25):
+We know what we're doing.
+
+Scott (00:14:26):
+We're doing it without us.
+
+Scott (00:14:28):
+So every leftist stay home from January 6th.
+
+Scott (00:14:30):
+And then what happened?
+
+Scott (00:14:31):
+Every leftist stayed home from January 6th.
+
+Scott (00:14:34):
+Nobody showed up because the switch had been turned off.
+
+Scott (00:14:38):
+We're doing it.
+
+Scott (00:14:39):
+We're not doing the left.
+
+Scott (00:14:40):
+We're trapping the right this time.
+
+Scott (00:14:42):
+And we don't need leftist actors on there giving them an excuse.
+
+Scott (00:14:46):
+So everybody stay away.
+
+Scott (00:14:47):
+And they all stayed away.
+
+Scott (00:14:49):
+But meanwhile, they can flip the switch on and they'll burn Washington, D.C.
+
+Scott (00:14:53):
+to the ground.
+
+Scott (00:14:54):
+You know,
+
+Scott (00:14:55):
+if you just look at just a few months before,
+
+Scott (00:14:57):
+these were the same people who were rioting in Washington,
+
+Hovik (00:15:00):
+you know?
+
+Hovik (00:15:00):
+Yeah.
+
+Hovik (00:15:01):
+So you mentioned the flipping the switch and we feel a lot like it because we had a
+
+Hovik (00:15:06):
+little color revolution in Armenia as well.
+
+Hovik (00:15:10):
+Yeah, it is definitely that I can relate to our Armenians can relate as well.
+
+Hovik (00:15:16):
+But,
+
+Hovik (00:15:16):
+you know,
+
+Hovik (00:15:16):
+given you mentioned color revolutions,
+
+Hovik (00:15:18):
+actually,
+
+Hovik (00:15:19):
+let's talk about your latest book.
+
+Hovik (00:15:21):
+It's called Provoked, How Washington Started the Cold War, the New Cold War with Russia.
+
+Hovik (00:15:26):
+and the catastrophe in Ukraine.
+
+Hovik (00:15:28):
+It is a sweeping 700-page indictment of US foreign policy since the end of the Cold War.
+
+Hovik (00:15:33):
+You draw on declassified records,
+
+Hovik (00:15:35):
+memoirs,
+
+Hovik (00:15:36):
+mainstream sources,
+
+Hovik (00:15:36):
+and you argue that decades of broken promises,
+
+Hovik (00:15:39):
+NATO expansion,
+
+Hovik (00:15:41):
+and interference in Russia's neighborhood set stage for the 2022 war.
+
+Hovik (00:15:47):
+The book is great, in my opinion, and it has earned high praise across the political spectrum.
+
+Hovik (00:15:52):
+So, also, it's not a quick read.
+
+Hovik (00:15:55):
+I am still going through it,
+
+Hovik (00:15:57):
+but I think it's essential for anyone to try to understand how we got here.
+
+Hovik (00:16:02):
+First of all, Respect, 700 pages.
+
+Hovik (00:16:04):
+Can I just ask how long it took you to write it?
+
+Scott (00:16:08):
+About two years,
+
+Scott (00:16:10):
+maybe two and a half,
+
+Scott (00:16:11):
+but I have a lot of other projects,
+
+Scott (00:16:13):
+so there are times where I had to just stop working on it for a while in a row and
+
+Scott (00:16:16):
+then get back to it.
+
+Scott (00:16:17):
+The Hamas War was like a four-month setback until I just quit Twitter and just went
+
+Scott (00:16:23):
+full-on to the book.
+
+Scott (00:16:25):
+I was lucky.
+
+Scott (00:16:26):
+At the time,
+
+Scott (00:16:27):
+I finally quit,
+
+Scott (00:16:27):
+but I did have a radio show on KPFK in Los Angeles for about 15 years.
+
+Scott (00:16:32):
+So...
+
+Scott (00:16:35):
+When I decided to quit Twitter and just get full back to the book,
+
+Scott (00:16:39):
+I decided,
+
+Scott (00:16:39):
+well,
+
+Scott (00:16:40):
+once a week,
+
+Scott (00:16:41):
+I'm going to interview one of my guys from antiwar.com to talk all about Gaza on
+
+Scott (00:16:46):
+the radio in L.A.
+
+Scott (00:16:47):
+And that way...
+
+Scott (00:16:49):
+I'm doing my part to cover that war on the best platform that I have.
+
+Scott (00:16:55):
+Most people can hear me.
+
+Scott (00:16:56):
+And I'm just going to spend the rest of the time tuning it out and just reading my
+
+Scott (00:17:00):
+history and reading all these books and writing this book.
+
+Scott (00:17:02):
+So overall, it took me about two and a half years, I guess.
+
+Hovik (00:17:07):
+Okay.
+
+Hovik (00:17:07):
+And just reading the subtitle, you claim that the U.S.
+
+Hovik (00:17:10):
+started a new Cold War.
+
+Hovik (00:17:12):
+Do you think that there was ever a moment of real opportunity for lasting peace
+
+Hovik (00:17:17):
+with Russia after the Cold War ended?
+
+Hovik (00:17:20):
+Oh, yeah, of course.
+
+Hovik (00:17:21):
+I mean...
+
+Hovik (00:17:23):
+What was the sort of decision boundary after which it was sort of a point of no return,
+
+Hovik (00:17:28):
+in your opinion?
+
+Scott (00:17:31):
+Well... I mean...
+
+Scott (00:17:35):
+At what point did the invasion and Russia's,
+
+Scott (00:17:38):
+you know,
+
+Scott (00:17:39):
+complete break with the West,
+
+Scott (00:17:41):
+you know,
+
+Scott (00:17:41):
+really when was like the very last draw?
+
+Scott (00:17:44):
+I mean, not really until the invasion in 22.
+
+Scott (00:17:47):
+I mean,
+
+Scott (00:17:48):
+you could say it would have been,
+
+Scott (00:17:49):
+you know,
+
+Scott (00:17:50):
+maybe the ouster of Trump the first time,
+
+Scott (00:17:52):
+which they really did cheat and screw him in 2020.
+
+Scott (00:17:55):
+I mean, he's overall he's really won three times.
+
+Scott (00:17:59):
+They intervened so massively against him in 20 the same way they did in 16.
+
+Scott (00:18:05):
+So that may have been it.
+
+Scott (00:18:06):
+Once Joe Biden got in there, we were just screwed after that.
+
+Scott (00:18:09):
+There's no way he was going to be able to... He just didn't have the motive.
+
+Scott (00:18:12):
+He didn't want to see the conflict resolved.
+
+Scott (00:18:15):
+He wanted to see it exploited.
+
+Scott (00:18:17):
+But through all of the missteps of H.W.
+
+Scott (00:18:20):
+Bush,
+
+Scott (00:18:21):
+Bill Clinton,
+
+Scott (00:18:21):
+W.
+
+Scott (00:18:22):
+Bush,
+
+Scott (00:18:22):
+and Barack Obama,
+
+Scott (00:18:24):
+and for that matter,
+
+Scott (00:18:25):
+for Donald Trump and what he did wrong in his first term to make things worse,
+
+Scott (00:18:29):
+which he did some things,
+
+Scott (00:18:31):
+I think it was still all...
+
+Scott (00:18:35):
+reversible, could have been saved.
+
+Scott (00:18:37):
+In fact,
+
+Scott (00:18:38):
+especially,
+
+Scott (00:18:38):
+you know,
+
+Scott (00:18:39):
+if he is take Donald Trump's inauguration in 2017,
+
+Scott (00:18:44):
+just take away all that Russiagate hype and just have him treated like he's just
+
+Scott (00:18:50):
+any other president.
+
+Scott (00:18:51):
+You know,
+
+Scott (00:18:52):
+I remember when in December of 2000,
+
+Scott (00:18:58):
+when the Supreme Court finally decided we're going to stop recounting the votes.
+
+Scott (00:19:02):
+We hereby say that George Bush won Florida.
+
+Scott (00:19:05):
+And then on every channel,
+
+Scott (00:19:07):
+including MSNBC and CNN,
+
+Scott (00:19:09):
+every news girl clicked her heels and said,
+
+Scott (00:19:11):
+President-elect George W.
+
+Scott (00:19:13):
+Bush today.
+
+Scott (00:19:13):
+That's it.
+
+Scott (00:19:15):
+We all respect him as the legitimate winner of the process because the guy said, and that's it.
+
+Scott (00:19:21):
+Right.
+
+Scott (00:19:21):
+And they just you know, they did not all favor Bush.
+
+Scott (00:19:24):
+They mostly would have preferred that Al Gore had won that thing.
+
+Scott (00:19:26):
+And hell, they had some pretty legitimate objections to the way that that race had been called.
+
+Scott (00:19:32):
+You know, in fact, it turned out we only found out about a month after September 11th.
+
+Scott (00:19:38):
+They finally finished their final recount.
+
+Scott (00:19:41):
+And Al Gore won Florida, right?
+
+Scott (00:19:43):
+I mean,
+
+Scott (00:19:43):
+that is what happened was they stopped the recount before they were done and they
+
+Scott (00:19:47):
+gave it to W.
+
+Scott (00:19:48):
+Bush.
+
+Scott (00:19:48):
+Oh, well, and I'm no Al Gore partisan.
+
+Scott (00:19:51):
+I'm just saying everyone on TV was like,
+
+Scott (00:19:54):
+this guy W.
+
+Scott (00:19:55):
+Bush is as legitimate as any leader has ever been.
+
+Scott (00:19:58):
+So say we all right.
+
+Scott (00:19:59):
+Like they just whatever.
+
+Scott (00:20:01):
+That's the job is to support the regime.
+
+Scott (00:20:04):
+Well, Donald Trump comes in and they go, nope, this guy's an infection.
+
+Scott (00:20:09):
+The regime must come together to prevent him from having power,
+
+Scott (00:20:13):
+even though he had won the election.
+
+Scott (00:20:15):
+And they convinced themselves that it's just such an aberration.
+
+Scott (00:20:17):
+Hillary should have won.
+
+Scott (00:20:19):
+Somehow he stole it.
+
+Scott (00:20:20):
+It was either the Russians or it was the Facebook ads or it was the some kind of
+
+Scott (00:20:23):
+thing that made him illegitimate,
+
+Scott (00:20:26):
+even though.
+
+Scott (00:20:28):
+Donald Trump is Americana, man.
+
+Scott (00:20:30):
+Donald Trump is the golden arches.
+
+Scott (00:20:31):
+He's Coca-Cola classic.
+
+Scott (00:20:33):
+Are you kidding me?
+
+Scott (00:20:34):
+He's Michael Jackson and Madonna and Tony Hawk and everything of the 1980s.
+
+Scott (00:20:39):
+He is American culture.
+
+Scott (00:20:41):
+He was always...
+
+Scott (00:20:43):
+You know,
+
+Scott (00:20:43):
+put forward to American TV and movie audiences as like the epitome of American
+
+Scott (00:20:49):
+yuppies success.
+
+Scott (00:20:50):
+Right.
+
+Scott (00:20:51):
+He gets a cameo in Home Alone 2.
+
+Scott (00:20:53):
+He's mentioned in rap lyrics like twice a year or whatever for.
+
+Scott (00:20:59):
+our whole lives.
+
+Scott (00:21:01):
+Right.
+
+Scott (00:21:01):
+The guy is he's the most famous billionaire.
+
+Scott (00:21:03):
+I mean, certainly now he's the most famous American who ever lived.
+
+Scott (00:21:06):
+But even then, he was a mega star.
+
+Scott (00:21:09):
+Right.
+
+Scott (00:21:10):
+What they call not a superstar because a superstar is just like Elizabeth Taylor.
+
+Scott (00:21:13):
+A mega star is like Donald Trump or Michael Jackson or like that piece of crap from
+
+Scott (00:21:20):
+U2 or what,
+
+Scott (00:21:22):
+you know,
+
+Scott (00:21:22):
+these people who are just absolutely huge.
+
+Scott (00:21:25):
+Right.
+
+Scott (00:21:26):
+I mean,
+
+Scott (00:21:27):
+So,
+
+Scott (00:21:28):
+and in fact,
+
+Scott (00:21:28):
+this is how I knew he was going to win the election when I read that The Apprentice
+
+Scott (00:21:32):
+had been on for 14 seasons.
+
+Scott (00:21:35):
+Now,
+
+Scott (00:21:35):
+gentlemen,
+
+Scott (00:21:35):
+I got to tell you,
+
+Scott (00:21:36):
+I don't watch primetime broadcast TV,
+
+Scott (00:21:39):
+but I know that Americans do.
+
+Scott (00:21:41):
+And 14 seasons?
+
+Scott (00:21:43):
+Are you kidding me?
+
+Scott (00:21:44):
+I didn't even know that.
+
+Scott (00:21:45):
+But once I did read that, I was like, oh, well, he's just going to win.
+
+Scott (00:21:48):
+I mean, what are you going to do?
+
+Scott (00:21:49):
+This guy, people know him.
+
+Scott (00:21:52):
+They feel like they know him.
+
+Scott (00:21:55):
+In a way,
+
+Scott (00:21:55):
+you know,
+
+Scott (00:21:55):
+like like only you can like you relate to your most personal,
+
+Scott (00:22:00):
+like your favorite sports broadcast or your your or your,
+
+Scott (00:22:04):
+you know,
+
+Scott (00:22:04):
+FN morning show on your drive to work for the last 20 years.
+
+Scott (00:22:09):
+The same two guys, Bob and Jim or whatever they are in your town who do the morning drive.
+
+Scott (00:22:13):
+You know what I mean?
+
+Scott (00:22:14):
+Like people really know Trump.
+
+Scott (00:22:16):
+Of course he won against Hillary Clinton, the most hated woman in the society.
+
+Scott (00:22:20):
+That's who you ran.
+
+Scott (00:22:22):
+But they said, nope, it must have been stolen.
+
+Scott (00:22:25):
+It couldn't have been legit that the most famous American ever won as the Republican.
+
+Scott (00:22:31):
+You know, it's completely crazy the way that they did that.
+
+Scott (00:22:35):
+But then what that meant then, too, was it really poisoned the brains of Democrats.
+
+Scott (00:22:40):
+Right.
+
+Scott (00:22:40):
+Because.
+
+Scott (00:22:41):
+It meant that.
+
+Scott (00:22:44):
+Instead of.
+
+Scott (00:22:46):
+like during W.
+
+Scott (00:22:47):
+Bush kind of rallying against him and his government and what he was doing with it.
+
+Scott (00:22:53):
+Instead, they rallied around the government
+
+Scott (00:22:56):
+to protect the people from the elected leader of the government, right?
+
+Scott (00:23:01):
+So it was just like if you take Egypt in 2013.
+
+Scott (00:23:06):
+So they won their revolution in 2011.
+
+Scott (00:23:08):
+And what was the revolution?
+
+Scott (00:23:09):
+The revolution was four elections.
+
+Scott (00:23:12):
+From now on in Egypt,
+
+Scott (00:23:14):
+this 5,000-year-old civilization,
+
+Scott (00:23:16):
+from now on,
+
+Scott (00:23:17):
+we're gonna have regular elections.
+
+Scott (00:23:19):
+And on the first time,
+
+Scott (00:23:21):
+the Muslim Brotherhood won for the parliamentary election and the presidential election.
+
+Scott (00:23:26):
+They won barely.
+
+Scott (00:23:27):
+I mean, we're talking 50 point 51 percent type numbers, right?
+
+Scott (00:23:33):
+They just barely squeaked it out.
+
+Scott (00:23:36):
+And then what did the liberals do?
+
+Scott (00:23:37):
+The left side,
+
+Scott (00:23:38):
+I mean,
+
+Scott (00:23:39):
+the split is not perfect,
+
+Scott (00:23:40):
+but there's a pretty okay analogy between the left and right in America,
+
+Scott (00:23:44):
+between the religious Muslim Brotherhood on one side and basically all of the
+
+Scott (00:23:50):
+intellectuals from city life and the labor union types and the university types and
+
+Scott (00:23:55):
+everybody on the more social democratic liberal side.
+
+Scott (00:24:00):
+And then what did they all do?
+
+Scott (00:24:02):
+instead of busting their asses to consolidate political parties and alliances and
+
+Scott (00:24:09):
+build a democratic left to face the Muslim Brotherhood in the next elections,
+
+Scott (00:24:15):
+They took Saudi money to go outside and protest and cry and say that they hate the
+
+Scott (00:24:23):
+Republicans so much that they prefer that the military dictatorship come back,
+
+Scott (00:24:28):
+which they happily obliged them.
+
+Scott (00:24:30):
+After one and a half years in the summer of 2013,
+
+Scott (00:24:32):
+the military came in over through the Muslim Brotherhood and said,
+
+Scott (00:24:37):
+we're here to answer your call.
+
+Scott (00:24:39):
+You desperately asked for your military dictatorship to return.
+
+Scott (00:24:43):
+Because you can't stand waiting to try again to win an election.
+
+Scott (00:24:47):
+So you're just going to come turn to us.
+
+Scott (00:24:50):
+Well, that's what the American Democrats did.
+
+Scott (00:24:52):
+That's the exact same thing as Donald Trump winning.
+
+Scott (00:24:55):
+It's like the Muslim Brotherhood won here.
+
+Scott (00:24:56):
+And the American Democrats said,
+
+Scott (00:24:58):
+no,
+
+Scott (00:24:58):
+we side with the military,
+
+Scott (00:25:00):
+in this case,
+
+Scott (00:25:01):
+the CIA and FBI,
+
+Scott (00:25:02):
+national security state,
+
+Scott (00:25:04):
+framing this guy to limit his power,
+
+Scott (00:25:08):
+if not outright overthrow him.
+
+Scott (00:25:11):
+just because they didn't like losing the election.
+
+Scott (00:25:13):
+And then instead of working hard to make sure they win the next one,
+
+Scott (00:25:16):
+they could win the next one.
+
+Scott (00:25:17):
+They just sided with the state, which ended up siding with them again.
+
+Scott (00:25:22):
+And really, as we said, already screwed him in 20.
+
+Scott (00:25:25):
+But they were unable they were unable to hold back the tide in 24 because they were cheating.
+
+Scott (00:25:31):
+Right.
+
+Scott (00:25:31):
+They had to cheat.
+
+Scott (00:25:32):
+It didn't quite work to stop him in the first the first time it did the second time.
+
+Scott (00:25:37):
+But cheaters never win ultimately.
+
+Scott (00:25:39):
+Right.
+
+Scott (00:25:40):
+They could be rid of him by now.
+
+Scott (00:25:41):
+And now he's in the first year of his what could have been his third term here when
+
+Hovik (00:25:46):
+he could be at home.
+
+Hovik (00:25:48):
+So,
+
+Hovik (00:25:48):
+Scott,
+
+Hovik (00:25:48):
+you in your book,
+
+Hovik (00:25:49):
+you extensively document the use of color revolutions as part of a U.S.
+
+Hovik (00:25:52):
+foreign policy tool set and how the sequence of these color revolutions set stage
+
+Hovik (00:25:58):
+for the war in Ukraine.
+
+Hovik (00:26:00):
+Can you give us a little bit more detail on how,
+
+Hovik (00:26:02):
+let's say,
+
+Hovik (00:26:02):
+the Rose Revolution in Georgia and the Euromaidan in Ukraine in 2014 fit into that sequence?
+
+Hovik (00:26:10):
+Sure.
+
+Scott (00:26:11):
+So the color revolutions really start out,
+
+Scott (00:26:13):
+uh,
+
+Scott (00:26:13):
+with the Clinton administration in the Balkans and they intervene in Albania and in,
+
+Scott (00:26:19):
+um,
+
+Scott (00:26:21):
+in,
+
+Scott (00:26:22):
+I guess in,
+
+Scott (00:26:23):
+I think it's Slovakia,
+
+Scott (00:26:24):
+but the,
+
+Scott (00:26:25):
+the okay.
+
+Scott (00:26:26):
+98 campaign was one.
+
+Scott (00:26:29):
+Um,
+
+Scott (00:26:30):
+and then,
+
+Scott (00:26:30):
+which I don't think that really counts as the Balkans,
+
+Scott (00:26:33):
+but anyway,
+
+Scott (00:26:34):
+um,
+
+Scott (00:26:35):
+maybe it does.
+
+Scott (00:26:36):
+I don't know.
+
+Scott (00:26:37):
+Um,
+
+Scott (00:26:38):
+But then they also intervene in Croatia in '99 against Tudjman,
+
+Scott (00:26:42):
+who had been their guy,
+
+Scott (00:26:43):
+who then they stabbed in the back.
+
+Scott (00:26:45):
+But he ended up dying right before the election anyway.
+
+Scott (00:26:47):
+But then in 2000,
+
+Scott (00:26:49):
+they did the bulldozer revolution against Slobodan Milosevic in Serbia to overthrow him.
+
+Scott (00:26:55):
+And then they went to Georgia in 2003 with the Rose Revolution, as you mentioned.
+
+Scott (00:27:01):
+So the template for these...
+
+Scott (00:27:03):
+It's not perfect because the situations vary.
+
+Scott (00:27:06):
+But basically what it is is they're targeting countries that are like semi-democratic, right?
+
+Scott (00:27:10):
+They have regular elections,
+
+Scott (00:27:12):
+but they're still pretty corrupt and got strongmen leaders and so forth and ones
+
+Scott (00:27:17):
+that are independent from the United States and American foreign policy interests.
+
+Scott (00:27:21):
+And so what they do is they normally what happens is
+
+Scott (00:27:27):
+they dispute an election and they'll have their own pollsters their own exit
+
+Scott (00:27:31):
+pollsters um and all their own political operatives and poll watchers and so forth
+
+Scott (00:27:37):
+and they'll just come out and announce well our exit polls say that our guy should
+
+Scott (00:27:42):
+win by 23 points
+
+Scott (00:27:44):
+And then when the strongman wins again,
+
+Scott (00:27:47):
+whether through ballot box stuffing or not,
+
+Scott (00:27:50):
+they go,
+
+Scott (00:27:50):
+ah,
+
+Scott (00:27:50):
+see,
+
+Scott (00:27:51):
+they're lying and they're the ones stealing the election.
+
+Scott (00:27:53):
+And so then you have a massive protest and a refusal to go alone.
+
+Scott (00:27:59):
+In the case of Georgia in 03, I think it probably really was essentially like that because.
+
+Asbed (00:28:06):
+It was almost exactly like that last year in 2024.
+
+Scott (00:28:10):
+Yeah.
+
+Scott (00:28:10):
+Well, I know three.
+
+Scott (00:28:12):
+What happened was the president's party got second and the dissidents party got first.
+
+Scott (00:28:22):
+they said well you know on our further analysis and recount and balloting it was
+
+Scott (00:28:26):
+this other third party that got second place so now the national governor first
+
+Scott (00:28:32):
+place so or no i guess second so now the national government the ruling party is
+
+Scott (00:28:37):
+going to make their coalition government with this other party not with the
+
+Scott (00:28:41):
+opposition and the opposition guys then held a big riot and this is the joke right
+
+Scott (00:28:46):
+is that you
+
+Scott (00:28:47):
+Regardless of how corrupt the Shevardnadze regime was at that time,
+
+Scott (00:28:51):
+which they were very corrupt.
+
+Scott (00:28:53):
+He's the former Soviet foreign minister, was the president at that time.
+
+Scott (00:28:56):
+No matter how corrupt he was or what he was trying to do in getting away with his
+
+Scott (00:29:02):
+shenanigans to try to stay in power there.
+
+Scott (00:29:05):
+The opposition party that was getting screwed,
+
+Scott (00:29:08):
+they didn't have the power to do anything about it,
+
+Scott (00:29:10):
+except for the fact that the United States of America stepping in and allied with
+
+Scott (00:29:14):
+George Soros and four or five different organizations run and financed by him,
+
+Scott (00:29:21):
+including the International Renaissance Foundation,
+
+Scott (00:29:24):
+the Soros Foundation and others.
+
+Scott (00:29:26):
+So.
+
+Scott (00:29:28):
+And then USAID,
+
+Scott (00:29:29):
+the National Endowment for Democracy,
+
+Scott (00:29:31):
+the International Republican Institute,
+
+Scott (00:29:32):
+National Democratic Institute,
+
+Scott (00:29:34):
+and all of them were all involved as well.
+
+Scott (00:29:37):
+And it was George Soros.
+
+Scott (00:29:38):
+In fact,
+
+Scott (00:29:38):
+it was Tucker Carlson's father writing for Voice of America who explained it was
+
+Scott (00:29:44):
+George Soros who bought all the roses,
+
+Scott (00:29:46):
+had them shipped in,
+
+Scott (00:29:47):
+you know,
+
+Scott (00:29:47):
+from outside the country,
+
+Scott (00:29:48):
+you know,
+
+Scott (00:29:49):
+trucks full of roses for everyone to have for the big protest,
+
+Scott (00:29:52):
+for the symbol of the protest movement and everything.
+
+Scott (00:29:55):
+And then they ended up just essentially storming the parliament,
+
+Scott (00:29:57):
+chasing the president out of town and seizing power for themselves.
+
+Scott (00:30:00):
+And then Shaakashvili,
+
+Scott (00:30:02):
+you know,
+
+Scott (00:30:02):
+was a loyal American sock puppet,
+
+Scott (00:30:04):
+but ended up going crazy and starting a war in 2008 after Bush promised not officially,
+
+Scott (00:30:10):
+but unofficially,
+
+Scott (00:30:10):
+but sort of officially to semi-officially invite them into NATO someday.
+
+Scott (00:30:16):
+The thing is,
+
+Scott (00:30:16):
+is they had an outstanding border dispute with these two breakaway provinces,
+
+Scott (00:30:20):
+South Ossetia and Abkhazia.
+
+Scott (00:30:23):
+And so he thought what he would do is go ahead and resolve that border dispute with
+
+Scott (00:30:26):
+violence now so he could get into NATO later.
+
+Scott (00:30:29):
+And that and I think he had some encouragement from the vice president's office and
+
+Scott (00:30:33):
+from John McCain's campaign staff and others kind of encouraging him and.
+
+Scott (00:30:41):
+He ended up launching this attack in August 2008, which the Russians quickly crushed.
+
+Scott (00:30:48):
+Notably,
+
+Scott (00:30:48):
+Dick Cheney advised W.
+
+Scott (00:30:50):
+Bush to fire missiles at the Roki Tunnel to collapse the tunnel onto the Russian
+
+Scott (00:30:54):
+troops coming under the Caucasus Mountains.
+
+Scott (00:30:57):
+And W. Bush and Stephen Hadley shut that down and said, no, we're not doing that.
+
+Scott (00:31:01):
+But so the promise to bring Georgia into NATO almost led directly to a war between
+
+Scott (00:31:07):
+NATO and the Russian Federation within four months over Georgia.
+
+Scott (00:31:10):
+um then in um in 2005 they did the uh failed denim revolution in Belarus the
+
+Scott (00:31:21):
+successful lemon or tulip revolution in Kyrgyzstan and the sort of half successful
+
+Scott (00:31:28):
+cedar revolution in Lebanon...
+
+Scott (00:31:33):
+In Kyrgyzstan,
+
+Scott (00:31:34):
+it was basically,
+
+Scott (00:31:36):
+you know,
+
+Scott (00:31:36):
+an ethnic riot where,
+
+Scott (00:31:38):
+you know,
+
+Scott (00:31:38):
+the country is very divided between North and South.
+
+Scott (00:31:41):
+And so the Americans just paid a bunch of agitators on the Southern side to riot over,
+
+Scott (00:31:46):
+you know,
+
+Scott (00:31:47):
+policies that they didn't like from the new guy.
+
+Scott (00:31:49):
+And by the way, they had supported, like somebody said, you're so full of it.
+
+Scott (00:31:54):
+Some guy on Twitter,
+
+Scott (00:31:55):
+you don't know what you're talking about because,
+
+Scott (00:31:57):
+or maybe it was just an emailer to me.
+
+Scott (00:31:59):
+You know what you're talking about?
+
+Scott (00:32:00):
+Because I read that America supported the government in Kyrgyzstan in 2003.
+
+Scott (00:32:05):
+And I just said,
+
+Scott (00:32:06):
+so yeah,
+
+Scott (00:32:07):
+well,
+
+Scott (00:32:08):
+how many times around the sun did the earth go between then and the time that
+
+Scott (00:32:11):
+America overthrew the SOB?
+
+Scott (00:32:13):
+Because...
+
+Scott (00:32:14):
+They turned on him.
+
+Scott (00:32:15):
+This is exactly what happened.
+
+Scott (00:32:17):
+2003, nothing.
+
+Scott (00:32:18):
+In 2005, they overthrew the guy.
+
+Scott (00:32:21):
+And they did, too.
+
+Scott (00:32:22):
+And I quote in the book, it's actually kind of hilarious.
+
+Scott (00:32:26):
+The Wall Street Journal has this huge article about how,
+
+Scott (00:32:29):
+yeah,
+
+Scott (00:32:29):
+we're gearing up to overthrow this guy.
+
+Scott (00:32:31):
+And then...
+
+Scott (00:32:32):
+Like five days after it's done,
+
+Scott (00:32:34):
+the New York Times runs a big article about,
+
+Scott (00:32:36):
+yep,
+
+Scott (00:32:37):
+we just overthrew this guy.
+
+Scott (00:32:38):
+All right.
+
+Scott (00:32:38):
+And they're both like these giant like 5000 word pieces that just have all of these
+
+Scott (00:32:43):
+details and quotes and official admissions and bragging and boasting about how
+
+Scott (00:32:48):
+we're the ones who get this done.
+
+Scott (00:32:51):
+And so then in and oh,
+
+Scott (00:32:55):
+and I skipped,
+
+Scott (00:32:55):
+I'm sorry,
+
+Scott (00:32:56):
+in 2004,
+
+Scott (00:32:57):
+of course,
+
+Scott (00:32:58):
+was the famous Orange Revolution in Ukraine.
+
+Scott (00:33:01):
+And this is the one where, you know, again, I think Yanukovych probably was stealing it.
+
+Scott (00:33:06):
+He was the designated successor of Leonid Kuchma, who is the outgoing president at that time.
+
+Scott (00:33:13):
+And it looks like Kuchma's guys probably were trying to stuff ballot boxes and
+
+Scott (00:33:18):
+and drive people around to vote multiple times and whatever to make sure that he won.
+
+Scott (00:33:23):
+But then the Americans intervened massively.
+
+Scott (00:33:27):
+I mean,
+
+Scott (00:33:27):
+with hundreds of millions of dollars in supporting these NGOs and this massive carnival,
+
+Scott (00:33:33):
+all of these giant orange flags and flat screen TVs and,
+
+Scott (00:33:38):
+you know,
+
+Scott (00:33:39):
+heaters and hot food and entertainment and all of this stuff.
+
+Scott (00:33:44):
+to keep people out there.
+
+Scott (00:33:45):
+In fact,
+
+Scott (00:33:45):
+they had these polystyrene boards,
+
+Scott (00:33:48):
+they can lay on the ground that are really great from insulating from the cold.
+
+Scott (00:33:52):
+So you can just lay this board down on the ground,
+
+Scott (00:33:54):
+it's kind of soft foam rubber type thing,
+
+Scott (00:33:56):
+and then just put your tent around that,
+
+Scott (00:33:58):
+put your sleeping bag on top of that,
+
+Scott (00:34:00):
+and you can sleep outside in the cold,
+
+Scott (00:34:02):
+you know,
+
+Scott (00:34:02):
+and keep you insulated from the cold of the ground.
+
+Scott (00:34:06):
+All of that was supplied by foreign money, hundreds of millions of dollars worth to
+
+Scott (00:34:12):
+you know, hold this, essentially this giant carnival to build up support.
+
+Scott (00:34:16):
+And then they pressured the government every way they possibly could.
+
+Scott (00:34:20):
+And they used American trained lawyers on the Supreme court decided that they just
+
+Scott (00:34:26):
+invented this completely unconstitutional third round of voting so they could hold
+
+Scott (00:34:31):
+another vote.
+
+Scott (00:34:33):
+And then that time they decided that the American backed side one,
+
+Scott (00:34:38):
+Victor Yushchenko and Yulia Tymoshenko,
+
+Scott (00:34:41):
+And yet,
+
+Scott (00:34:42):
+once they took power,
+
+Scott (00:34:43):
+they immediately turned on each other,
+
+Scott (00:34:44):
+almost immediately turned on each other over Timoshenko trying to make a deal with
+
+Scott (00:34:48):
+the Russians over their natural gas supplies and transport through the country.
+
+Scott (00:34:53):
+And they drove the country into the ground.
+
+Scott (00:34:56):
+And they were both thrown out.
+
+Scott (00:34:58):
+In the next election in 2006,
+
+Scott (00:35:00):
+just two years later,
+
+Scott (00:35:02):
+Yanukovych,
+
+Scott (00:35:03):
+the guy that they stopped,
+
+Scott (00:35:04):
+became prime minister.
+
+Scott (00:35:06):
+And in fact, part of their deal in 04 was that...
+
+Scott (00:35:11):
+the dissident Yushchenko can have the presidency,
+
+Scott (00:35:18):
+but they have to strengthen the prime ministership.
+
+Scott (00:35:21):
+So then, or no, I guess,
+
+Scott (00:35:24):
+Maybe they were the ones pushing for strengthening the prime ministership because
+
+Scott (00:35:27):
+Timoshenko was going to get that role.
+
+Scott (00:35:29):
+But then just within a couple of years,
+
+Scott (00:35:32):
+now their rival,
+
+Scott (00:35:33):
+their hated rival Yanukovych is in there.
+
+Scott (00:35:34):
+And now he's got the newly enhanced powers of the presidency of the prime ministership.
+
+Scott (00:35:39):
+And then he runs for president in 2010.
+
+Scott (00:35:43):
+And he crushes Yushchenko, who gets like 5% or less in the first round.
+
+Scott (00:35:48):
+And Yushchenko is, Yanukovych is elected in the election of 2010.
+
+Scott (00:35:53):
+And with the help of Paul Manafort,
+
+Scott (00:35:56):
+who is a notorious American political advisor and lobbyist who supports pretty
+
+Scott (00:36:02):
+unsavory regimes.
+
+Scott (00:36:03):
+He and Roger Stone and their other associates supported unsavory regimes around the
+
+Scott (00:36:07):
+world and helped get him in power.
+
+Scott (00:36:10):
+And as long as we're now finally on Ukraine,
+
+Scott (00:36:12):
+it's good I saved Ukraine for last for the color-coded revolutions there because
+
+Scott (00:36:16):
+even though I skipped around a little bit,
+
+Scott (00:36:18):
+Because, I mean, this is the story that we're on here.
+
+Scott (00:36:24):
+And so basically what happened was in 2014,
+
+Scott (00:36:26):
+well,
+
+Scott (00:36:27):
+first of all,
+
+Scott (00:36:29):
+in 2010,
+
+Scott (00:36:30):
+Paul Manafort helped the guy win.
+
+Scott (00:36:37):
+Now,
+
+Scott (00:36:37):
+people listening to this might be familiar with Paul Manafort from the claims that
+
+Scott (00:36:42):
+he was Vladimir Putin's secret agent controlling Donald Trump.
+
+Scott (00:36:45):
+He came to be Donald Trump's campaign manager in 2016.
+
+Scott (00:36:48):
+And they went, aha, this guy worked with Yanukovych.
+
+Scott (00:36:53):
+And everybody knows Yanukovych ain't nothing but a sock puppet of Vladimir Putin.
+
+Scott (00:36:57):
+And so that means that Paul Manafort is Vladimir Putin's secret agent controlling Trump.
+
+Scott (00:37:02):
+Ain't that fun.
+
+Scott (00:37:02):
+And every liberal Democrat woman in America all believed it because it all fits together,
+
+Scott (00:37:06):
+you see.
+
+Scott (00:37:08):
+And yet the thing of it was that Paul Manafort obviously was working for American interests.
+
+Scott (00:37:14):
+That was why he worked for Yanukovych, as he was trying to move him west.
+
+Scott (00:37:19):
+And Yanukovych was going along with it, wanted to do so as well.
+
+Scott (00:37:23):
+And I urge people,
+
+Scott (00:37:24):
+if you're interested in this stuff,
+
+Scott (00:37:25):
+to watch this great interview that Manafort did with Patrick Bette David,
+
+Scott (00:37:30):
+the famous podcaster guy.
+
+Scott (00:37:32):
+And in that interview,
+
+Scott (00:37:34):
+and he's just telling the truth,
+
+Scott (00:37:35):
+like he's so obviously sincere here,
+
+Scott (00:37:38):
+and there's plenty of other information to corroborate,
+
+Scott (00:37:40):
+you know,
+
+Scott (00:37:40):
+what he's talking about,
+
+Scott (00:37:41):
+what he explains that.
+
+Scott (00:37:43):
+His whole purpose in helping Yanukovych win in 2010 was to move him west.
+
+Scott (00:37:48):
+And the first thing they did after he won was they went to Brussels, not to Moscow.
+
+Scott (00:37:54):
+And what was going on there was people say,
+
+Scott (00:37:56):
+oh,
+
+Scott (00:37:56):
+the Russian backed party of regions or the Russian leaning party of regions.
+
+Scott (00:38:00):
+But in fact, it was an Eastern party and was controlled by corrupt Eastern Ukrainian oligarchs.
+
+Scott (00:38:06):
+However, they wanted to move west, too.
+
+Scott (00:38:09):
+They were not just Russian sock puppets themselves.
+
+Scott (00:38:12):
+They were sick and tired of being treated like the redheaded stepchild by the Russian oligarchs.
+
+Scott (00:38:17):
+And also the situation in business and politics in Ukraine is so corrupt.
+
+Scott (00:38:22):
+It's the kind of thing where when the new president wins,
+
+Scott (00:38:25):
+he might just nationalize your company and give it to his brother-in-law.
+
+Scott (00:38:28):
+And this kind of just total kleptocracy, crazy stuff.
+
+Scott (00:38:31):
+And this is what was happening to the Eastern oligarchs businesses.
+
+Scott (00:38:35):
+So what they wanted to do was try to push Ukraine into this association agreement
+
+Scott (00:38:40):
+with the EU,
+
+Scott (00:38:40):
+which is not full membership,
+
+Scott (00:38:42):
+but a beginning on the path to membership to the EU,
+
+Scott (00:38:45):
+because the rules of EU membership preclude that kind of agreement.
+
+Scott (00:38:50):
+instability in the economy, right?
+
+Scott (00:38:52):
+That kind of just overt corruption to that degree.
+
+Scott (00:38:57):
+And they were sick and tired of being pushed around by the Russians.
+
+Scott (00:39:00):
+So that was why Manafort was even there.
+
+Scott (00:39:02):
+If you take a look at the guy, I'm not saying he was CIA because I don't know that.
+
+Scott (00:39:06):
+And I guess maybe he wasn't CIA.
+
+Scott (00:39:08):
+But if you look at the guy,
+
+Scott (00:39:08):
+you might think that he was with his very fancy suits and cuff links and everything.
+
+Scott (00:39:14):
+Like he definitely would fit in with the agency guys.
+
+Scott (00:39:18):
+He clearly...
+
+Scott (00:39:20):
+was representing American and Western interests here.
+
+Scott (00:39:24):
+There is no indication whatsoever that his goal here was to help Russia accomplish anything.
+
+Scott (00:39:32):
+And if you listen to that interview of Patrick Pet David,
+
+Scott (00:39:34):
+he makes his position absolutely clear.
+
+Scott (00:39:36):
+He goes,
+
+Scott (00:39:37):
+listen,
+
+Scott (00:39:37):
+when I'm doing this,
+
+Scott (00:39:39):
+it doesn't matter anyway,
+
+Scott (00:39:40):
+because George W.
+
+Scott (00:39:41):
+Bush and Barack Obama were getting along with Vladimir Putin at that time.
+
+Scott (00:39:47):
+So it's not like I was doing even anything that I was doing was helping him in any
+
+Scott (00:39:52):
+way or was like meant to be some kind of compromise with him.
+
+Scott (00:39:56):
+That ain't treason.
+
+Scott (00:39:58):
+Y'all didn't make up all this.
+
+Scott (00:39:59):
+We hate Putin so much stuff until after 2014 and the loss of Crimea.
+
+Scott (00:40:05):
+And, you know, even later than that.
+
+Scott (00:40:06):
+So.
+
+Scott (00:40:08):
+But if you watch that interview with Patrick Bet-David and Paul Manafort,
+
+Scott (00:40:12):
+it makes it very clear what his interests were and what Yanukovych was trying to do.
+
+Scott (00:40:17):
+Yanukovych was trying to move West,
+
+Scott (00:40:19):
+trying to move away from Russia,
+
+Scott (00:40:21):
+not doing the loyal bidding of Vladimir Putin.
+
+Scott (00:40:26):
+So then in 2014, well, first of all, in the fall of 2013,
+
+Scott (00:40:35):
+He's made a deal or he's making a deal to join the EU.
+
+Scott (00:40:41):
+And, you know, Reuters has this report where he faces down his cabinet.
+
+Scott (00:40:47):
+He goes, I don't want to hear anything more about it.
+
+Scott (00:40:49):
+All of you just shut your trap.
+
+Scott (00:40:51):
+The decision is made.
+
+Scott (00:40:52):
+The deal is done.
+
+Scott (00:40:53):
+We're making the deal with the EU.
+
+Scott (00:40:55):
+OK, so everybody just shut up and leave me alone about it.
+
+Scott (00:40:58):
+That's what we're doing.
+
+Scott (00:41:00):
+But then.
+
+Scott (00:41:01):
+Angela Merkel, the chancellor of Germany, she's the one who screwed everything up.
+
+Scott (00:41:06):
+And I have that on the authority of George Soros and Henry Kissinger,
+
+Scott (00:41:10):
+both who George Soros said,
+
+Scott (00:41:12):
+oh,
+
+Scott (00:41:13):
+this is typical Angela Merkel overreaching.
+
+Scott (00:41:16):
+Jeez.
+
+Scott (00:41:16):
+You know,
+
+Scott (00:41:17):
+you can hear the disdain in his voice when he talks about how she absolutely
+
+Scott (00:41:20):
+botched this negotiation because she is playing too hard a hardball with Ukraine.
+
+Scott (00:41:25):
+Listen, Ukraine, here's what you're going to do.
+
+Scott (00:41:27):
+You're going to get just a five billion dollar loan,
+
+Scott (00:41:29):
+which is just barely enough to roll over your debt from last year.
+
+Scott (00:41:32):
+Right.
+
+Scott (00:41:33):
+To pay your interest from last year.
+
+Scott (00:41:34):
+You're not really getting any relief whatsoever from us or from the IMF.
+
+Scott (00:41:38):
+And by the way, you're going to have to completely slash your pension program.
+
+Scott (00:41:41):
+You're going to have to slash your gasoline subsidies for poor people and all this
+
+Scott (00:41:45):
+stuff and do this severe austerity regime and give all the money to us.
+
+Scott (00:41:49):
+And then Putin comes in and says,
+
+Scott (00:41:51):
+well,
+
+Scott (00:41:52):
+oh,
+
+Scott (00:41:52):
+and you can't if you're going to have a deal with us,
+
+Scott (00:41:54):
+you can't have a deal with Russia.
+
+Scott (00:41:56):
+And Putin comes in and he was mixed signals on this.
+
+Scott (00:41:58):
+He said publicly, we don't care if you have a deal with them.
+
+Scott (00:42:00):
+But I think privately he was telling them,
+
+Scott (00:42:02):
+no,
+
+Scott (00:42:02):
+if you have a deal with them,
+
+Scott (00:42:03):
+you can't have a deal with us either.
+
+Scott (00:42:04):
+He was worried about,
+
+Scott (00:42:07):
+you know,
+
+Scott (00:42:07):
+the Russian market being flooded with cheaper finished European Union and stuff.
+
+Scott (00:42:12):
+It was protectionist policy, basically.
+
+Scott (00:42:16):
+And for Eastern Ukraine and for Russia.
+
+Scott (00:42:21):
+And so and then Putin said,
+
+Scott (00:42:22):
+look,
+
+Scott (00:42:22):
+I'll give you a 15 billion dollar loan at a sweet low interest rate.
+
+Scott (00:42:26):
+And I'll cut you a deal.
+
+Scott (00:42:27):
+We can settle on our on your outstanding gas debts to me for,
+
+Scott (00:42:32):
+you know,
+
+Scott (00:42:32):
+they had stolen a bunch of gas and not paid transit fees and all this stuff.
+
+Scott (00:42:37):
+So he said, we can work out all the oil dispute.
+
+Scott (00:42:42):
+Well, I guess it's the Russians that owe them the transfer fees.
+
+Scott (00:42:46):
+Anyway, we can resolve all of that.
+
+Scott (00:42:49):
+And I'll give you a big loan if you just stick with me and not the EU Association.
+
+Scott (00:42:57):
+And now Henry Kissinger, I cited Soros and his disdain, Kissinger as well.
+
+Scott (00:43:02):
+Said, oh, my God, I can't believe the way you guys did this.
+
+Scott (00:43:05):
+And he said,
+
+Scott (00:43:06):
+listen,
+
+Scott (00:43:06):
+if you were being serious about this and you really wanted to do a trade deal with
+
+Scott (00:43:11):
+Ukraine where you're,
+
+Scott (00:43:13):
+you know,
+
+Scott (00:43:14):
+doing this soft integration with the EU.
+
+Scott (00:43:19):
+And you're really trying to do this well.
+
+Scott (00:43:22):
+then this would take place over a series of years of negotiations with Ukraine and
+
+Scott (00:43:28):
+Russia and all of the most important players involved.
+
+Scott (00:43:33):
+Germany and everyone else would be sitting at conference tables hammering this
+
+Scott (00:43:36):
+thing out over a period of years.
+
+Scott (00:43:39):
+in order to get this right.
+
+Scott (00:43:42):
+And instead you do this rush job thing where it's absolutely like just insultingly
+
+Scott (00:43:48):
+at Russian expense in this way.
+
+Scott (00:43:51):
+It was absolutely stupid to do it.
+
+Scott (00:43:53):
+You force this guy to turn back the other way.
+
+Scott (00:43:57):
+And that's, you know, the leaders of America's expansionist movement in Eastern Europe.
+
+Scott (00:44:03):
+Just saying that it was people on the Western side would overplay their hand and
+
+Scott (00:44:08):
+screwed everything up.
+
+Scott (00:44:09):
+So then...
+
+Scott (00:44:11):
+Once Yanukovych announces that he's postponing signing the deal, that's it.
+
+Scott (00:44:16):
+It's basically he's announcing that it's off.
+
+Scott (00:44:18):
+And then you had people from the west of the country who I don't know how
+
+Scott (00:44:23):
+determined they really were to have a deal with the EU.
+
+Scott (00:44:25):
+But what they were determined was to not have a new deal with Russia,
+
+Scott (00:44:29):
+which they saw as keeping Ukraine essentially subsumed under Russia.
+
+Scott (00:44:34):
+uh you know Russian control and so they're you know they're the country is very
+
+Scott (00:44:39):
+divided culturally or what's what was the country then not what's left of it now um
+
+Scott (00:44:45):
+was very divided uh about all of this stuff and so there were people who leaned
+
+Scott (00:44:49):
+toward Russia the vast majority of the country opposed membership in nato but you
+
+Scott (00:44:55):
+know membership in the eu
+
+Scott (00:44:56):
+was closer to 50 50.
+
+Scott (00:44:58):
+And for people in the far west of the country,
+
+Scott (00:45:01):
+they absolutely supported it and they absolutely hated the idea of turning away
+
+Scott (00:45:06):
+from the deal and sticking with the Russians.
+
+Scott (00:45:09):
+So
+
+Scott (00:45:10):
+I mean, it's no coincidence.
+
+Scott (00:45:12):
+It literally was a George Soros guy who originally called for the protest movement
+
+Scott (00:45:17):
+on the Maidan.
+
+Scott (00:45:19):
+A guy named Mustafa, whatever the hell, I'm sorry, I forget.
+
+Scott (00:45:23):
+Kadima, something like that.
+
+Scott (00:45:27):
+No, that was Ariel Sharon's party.
+
+Scott (00:45:29):
+Mustafa something.
+
+Scott (00:45:31):
+But...
+
+Scott (00:45:33):
+Again,
+
+Scott (00:45:33):
+you have the same thing again with the USAID,
+
+Scott (00:45:36):
+the NED,
+
+Scott (00:45:38):
+IRI and NDI and all of the George Soros organizations,
+
+Scott (00:45:43):
+including other NGOs backed by America's allies in Western Europe,
+
+Scott (00:45:47):
+poured tens or even hundreds of millions of dollars into supporting this massive
+
+Scott (00:45:52):
+you know,
+
+Scott (00:45:53):
+carnival type protest movement over from the end of November through December and
+
+Scott (00:45:57):
+January and February,
+
+Scott (00:45:59):
+right through the coldest of the winter of 2013 and 14.
+
+Scott (00:46:04):
+You had all these people out there by the tens and hundreds of thousands.
+
+Scott (00:46:09):
+And the government screwed up.
+
+Scott (00:46:11):
+themselves,
+
+Scott (00:46:12):
+you know,
+
+Scott (00:46:12):
+the provocateurs attacked police at the very beginning and then the government
+
+Scott (00:46:17):
+clamped down and tried to cleanse the square,
+
+Scott (00:46:19):
+you know,
+
+Scott (00:46:20):
+clean everybody out of there.
+
+Scott (00:46:21):
+And that just caused a big reaction and caused more people to come.
+
+Scott (00:46:24):
+At one point in January, the protest movement was kind of running out of steam.
+
+Scott (00:46:30):
+People were starting to go home.
+
+Scott (00:46:32):
+And then the government passed a new law outlawing protest,
+
+Scott (00:46:35):
+or at least,
+
+Scott (00:46:36):
+you know,
+
+Scott (00:46:36):
+clamping down,
+
+Scott (00:46:37):
+passing all new restrictions on protests.
+
+Scott (00:46:39):
+And that brought everybody right back out again.
+
+Scott (00:46:41):
+You know, so they had their own role in their ham-handed approach to dealing with the situation.
+
+Scott (00:46:46):
+Now, the coup d'etat, as it's often referred to, was really a coup de something.
+
+Scott (00:46:53):
+I don't know exactly which French term for a coup it was when Joe Biden sends
+
+Scott (00:46:58):
+Victoria Nuland,
+
+Scott (00:46:59):
+Robert Kagan's wife,
+
+Scott (00:47:00):
+to essentially strong arm the president into firing his entire government and
+
+Scott (00:47:04):
+hiring the protest leaders to be the government while they're waiting on new
+
+Scott (00:47:08):
+elections by the end of the year.
+
+Scott (00:47:10):
+That was their compromise in overthrowing the guy.
+
+Scott (00:47:14):
+And finally, he gave in to that.
+
+Scott (00:47:16):
+And the promise was that he would withdraw his police and the protesters would go home.
+
+Scott (00:47:23):
+The leaders of the protest movement would join the government and they would hold new elections.
+
+Scott (00:47:28):
+Well, he pulled his...
+
+Scott (00:47:31):
+police back, but the protesters didn't go along with any of the rest of it.
+
+Scott (00:47:35):
+And what happened was when the protest leaders went up on the stage at the Maidan
+
+Scott (00:47:38):
+and announced that,
+
+Scott (00:47:39):
+hey,
+
+Scott (00:47:39):
+we've signed this new deal,
+
+Scott (00:47:40):
+this new compromise,
+
+Scott (00:47:42):
+a neo-Nazi named Tarasiuk,
+
+Scott (00:47:44):
+who was admittedly,
+
+Scott (00:47:45):
+and from multiple sources,
+
+Scott (00:47:47):
+the leader of the snipers from the music conservatory that started killing police
+
+Scott (00:47:52):
+and escalating the crisis the day before or two days before,
+
+Scott (00:47:57):
+He's the same guy who ran up on the stage and grabbed the microphone out of one of
+
+Scott (00:48:02):
+the protest leader's hands and said,
+
+Scott (00:48:05):
+oh,
+
+Scott (00:48:05):
+no,
+
+Scott (00:48:05):
+we don't accept any deal where the president stays.
+
+Scott (00:48:08):
+And in fact, if he's not gone by 10 a.m.
+
+Scott (00:48:10):
+tomorrow, I'll kill him myself.
+
+Scott (00:48:12):
+And the crowd goes, yeah, yeah, come on, let's kill him.
+
+Scott (00:48:15):
+And, you know, huge riotous crowd.
+
+Scott (00:48:18):
+And then the next morning they went to go kill the guy and the cops were all gone.
+
+Scott (00:48:22):
+They had already fled.
+
+Scott (00:48:23):
+I think their leaders had gotten out of there.
+
+Scott (00:48:25):
+And so the lower down guys said, well, forget this and got on buses and got out of town.
+
+Scott (00:48:29):
+So they didn't just withdraw from the Maidan.
+
+Scott (00:48:31):
+They just withdrew from downtown.
+
+Scott (00:48:32):
+And so then the protesters were able to sack all the government buildings and and
+
+Scott (00:48:37):
+chase the president out of town.
+
+Scott (00:48:39):
+And as soon as he left town.
+
+Scott (00:48:41):
+John Kerry's State Department recognized the new government as being the legitimate
+
+Scott (00:48:46):
+government of the country and,
+
+Scott (00:48:47):
+you know,
+
+Scott (00:48:48):
+recognized the push there.
+
+Scott (00:48:49):
+And so it was,
+
+Scott (00:48:51):
+you know,
+
+Scott (00:48:51):
+it was a it was a coup day Newland on the international level and a right wing Nazi
+
+Scott (00:48:57):
+street push when it came down to,
+
+Scott (00:49:00):
+you know,
+
+Scott (00:49:01):
+the final regime change is how it was done.
+
+Scott (00:49:04):
+And then this led immediately to the loss of Crimea and the outbreak of war in the
+
+Scott (00:49:09):
+east of the country and all that.
+
+Scott (00:49:10):
+But maybe I'll stop and give you a chance to direct the conversation your own way here.
+
+Hovik (00:49:15):
+Sure, sure.
+
+Hovik (00:49:17):
+Yeah, as I say, the rest is history or the rest is current events that we're seeing now.
+
+Hovik (00:49:22):
+But let's come to Armenia.
+
+Asbed (00:49:25):
+Well, Kovig, before you go to Armenia, can I also ask a question about
+
+Asbed (00:49:31):
+All this money that you've been talking about,
+
+Asbed (00:49:32):
+Scott,
+
+Asbed (00:49:33):
+that is the NGO money,
+
+Asbed (00:49:35):
+the Soros money and everything.
+
+Asbed (00:49:37):
+Are these basically substitutes inside our foreign aid that basically is a way of
+
+Asbed (00:49:46):
+affecting things abroad without the American government being responsible for or
+
+Asbed (00:49:55):
+accountable for it?
+
+Asbed (00:49:57):
+Yeah.
+
+Asbed (00:49:58):
+And also I want you to sound off a little bit on the whole USAID closure and if
+
+Asbed (00:50:03):
+it's for real or if it's a show or what's going on.
+
+Scott (00:50:06):
+Sure.
+
+Scott (00:50:06):
+Okay.
+
+Scott (00:50:07):
+So first of all,
+
+Scott (00:50:08):
+for people who aren't familiar with George Soros,
+
+Scott (00:50:10):
+you know,
+
+Scott (00:50:10):
+he gets a bad rap from the right as being some kind of communist.
+
+Scott (00:50:13):
+And which is, you know, really a rabbit trail.
+
+Scott (00:50:16):
+That's not what it is.
+
+Scott (00:50:18):
+What he is is actually a fervent anti-communist center right.
+
+Scott (00:50:23):
+Pardon me.
+
+Scott (00:50:23):
+Center left liberal Democrat, sort of a Cold War Democrat in the Harry Truman model.
+
+Scott (00:50:28):
+He hated Soviet communism and he worked very hard to undermine it when it was still around.
+
+Scott (00:50:35):
+He says, you know, his goal in the world is.
+
+Scott (00:50:37):
+to create open societies.
+
+Scott (00:50:39):
+That's his, you know, liberal democracies.
+
+Scott (00:50:43):
+And, you know, the Open Society Institute is one of them.
+
+Scott (00:50:47):
+And so
+
+Scott (00:50:49):
+It is very nefarious in a lot of ways, but if you ask him, it's all very justified.
+
+Scott (00:50:56):
+He's just doing the right thing to help spread open societies and liberal
+
+Scott (00:51:00):
+democracies in the world.
+
+Scott (00:51:02):
+And the fact that he's most interested in doing that in countries that are outside
+
+Scott (00:51:09):
+of America's foreign policy consensus is just a coincidence.
+
+Scott (00:51:16):
+And in fact, I show in the book where
+
+Scott (00:51:21):
+You know,
+
+Scott (00:51:21):
+America,
+
+Scott (00:51:21):
+for example,
+
+Scott (00:51:23):
+supported the dictator in,
+
+Scott (00:51:26):
+as you guys know,
+
+Scott (00:51:27):
+in Azerbaijan,
+
+Scott (00:51:28):
+as well as in Uzbekistan.
+
+Scott (00:51:31):
+And so but USAID and NED,
+
+Scott (00:51:35):
+the International Republican Institute and the National Democratic Institute,
+
+Scott (00:51:40):
+they don't mess around in Azerbaijan or in Uzbekistan.
+
+Scott (00:51:45):
+But Soros does.
+
+Scott (00:51:46):
+even though these are, you know, American-friendly places.
+
+Scott (00:51:49):
+Soros would go in there.
+
+Scott (00:51:50):
+In other words,
+
+Scott (00:51:51):
+there is a degree of true believer here where he's not 100% married to the State
+
+Scott (00:51:56):
+Department and their goals.
+
+Scott (00:51:57):
+He's willing to go in there and be disruptive even in countries that are compliant
+
+Scott (00:52:01):
+with American wishes.
+
+Scott (00:52:04):
+Although, you know, I'm sure not to the same degree.
+
+Scott (00:52:07):
+But essentially...
+
+Scott (00:52:09):
+You know,
+
+Scott (00:52:10):
+he he very often and openly,
+
+Scott (00:52:12):
+you know,
+
+Scott (00:52:12):
+in their words and in his words,
+
+Scott (00:52:14):
+he very often operates essentially as an adjunct of the State Department.
+
+Scott (00:52:18):
+Right.
+
+Scott (00:52:18):
+He is there as to to as like a multiplier for American so-called soft power.
+
+Scott (00:52:26):
+Because he's got these huge organizations and he's more nimble than a government group.
+
+Scott (00:52:31):
+He can hire and fire and pass out money to people that he thinks are going to be
+
+Scott (00:52:37):
+effective in certain things much easier.
+
+Scott (00:52:41):
+State Department officials said,
+
+Scott (00:52:43):
+you know,
+
+Scott (00:52:44):
+we coordinate with Britain,
+
+Scott (00:52:46):
+France,
+
+Scott (00:52:47):
+Germany and George Soros.
+
+Scott (00:52:49):
+when we're working on our foreign policy.
+
+Scott (00:52:51):
+So this is not, and some people take this wrong, but they're just wrong.
+
+Scott (00:52:55):
+This is not like picking on some guy because he's a rich Jew.
+
+Scott (00:52:58):
+There are a lot of rich Jews that don't have politics.
+
+Scott (00:53:02):
+This guy not just has politics, but his life's mission is to move the world.
+
+Scott (00:53:09):
+He has the biggest politics on the planet and is, you know,
+
+Scott (00:53:16):
+All glory to him.
+
+Scott (00:53:18):
+He's determined to write his name in the pages of history here.
+
+Scott (00:53:22):
+So you don't get to then turn around and say, oh, come on, don't pick on poor little old George.
+
+Scott (00:53:27):
+Yeah, no, he is a self-described man.
+
+Scott (00:53:31):
+you know,
+
+Scott (00:53:31):
+ruler of the planet and adjunct of the State Department of,
+
+Scott (00:53:36):
+you know,
+
+Scott (00:53:36):
+the foreign ministry of the most powerful world empire here.
+
+Scott (00:53:39):
+Right.
+
+Scott (00:53:39):
+So there's no mistaking what it is that he's doing.
+
+Scott (00:53:42):
+It's he is exercising power.
+
+Scott (00:53:45):
+Right.
+
+Scott (00:53:45):
+Not sitting around collecting royalties and dividend checks.
+
+Scott (00:53:49):
+Well, he's retired now, but only in the last year.
+
+Asbed (00:53:52):
+Yeah, they have a succession issue going on right now, as far as I know.
+
+Scott (00:53:56):
+Oh, that's good.
+
+Scott (00:53:57):
+Let them fight to the death.
+
+Asbed (00:53:58):
+What about USAID?
+
+Scott (00:54:01):
+He's played a very active role in all of this stuff.
+
+Scott (00:54:04):
+And I'm sorry, go ahead.
+
+Asbed (00:54:05):
+What about USAID?
+
+Scott (00:54:07):
+Yeah, so USAID, I mean, I think it's hilarious.
+
+Asbed (00:54:12):
+I should be saying USAID.
+
+Asbed (00:54:13):
+Hovey just criticized me before for saying USAID.
+
+Asbed (00:54:16):
+It sounds like we're giving goodwill aid or something like that.
+
+Asbed (00:54:20):
+No, USAID.
+
+Scott (00:54:22):
+Well, and there is a little bit of that, but even that is mostly just window dressing, right?
+
+Scott (00:54:26):
+Like soft power can be AIDS medicine,
+
+Scott (00:54:28):
+but it's mostly what it is is overthrowing your government if it's not compliant.
+
+Scott (00:54:32):
+So, you know, let's not like get confused about what they're really doing.
+
+Hovik (00:54:37):
+Or vaccines as vaccines acting as DNA collection mechanisms, you know.
+
+Hovik (00:54:42):
+Yeah.
+
+Hovik (00:54:42):
+Oh, God.
+
+Hovik (00:54:43):
+No.
+
+Scott (00:54:43):
+knows what you know yeah i think when they say oh they're you know they're doing a
+
+Scott (00:54:46):
+trans play down in peru or whatever no they're just stealing money like i guarantee
+
+Hovik (00:54:51):
+that never happened right before someone i'm talking about when they discovered
+
+Hovik (00:54:55):
+where bin laden was by injecting people with yeah so sorry about that i didn't mean
+
+Hovik (00:55:00):
+to mention vaccines now that we're gonna get banned you know i'm glad you brought
+
+Scott (00:55:04):
+that up because in fact you know what they did was that actually wasn't even true
+
+Scott (00:55:09):
+They blamed,
+
+Scott (00:55:11):
+they claimed that that was how they knew he was there,
+
+Scott (00:55:14):
+was from the WHO going around doing vaccines.
+
+Scott (00:55:18):
+And then, but it wasn't.
+
+Scott (00:55:19):
+It was a different doctor that got his DNA off a hairbrush.
+
+Scott (00:55:23):
+But what they did was they hung this albatross around the neck of the WHO and this one doctor.
+
+Scott (00:55:30):
+And I think he was killed.
+
+Scott (00:55:32):
+And then the WHO was ran out of town.
+
+Scott (00:55:35):
+And it was nothing but the CIA's cover story.
+
+Scott (00:55:37):
+Interesting.
+
+Scott (00:55:38):
+That wasn't even how they got the DNA anyway.
+
+Scott (00:55:40):
+They're such bastards, those guys.
+
+Scott (00:55:42):
+God.
+
+Scott (00:55:45):
+Anyway, so USAID, when Trump came in this time and Elon Musk did this doge thing,
+
+Scott (00:55:53):
+USAID immediately, like, tried to fight them and tried to clamp down and hide everything.
+
+Scott (00:56:01):
+And so that just peeped the Doge group's curiosity of what's really going on here.
+
+Scott (00:56:06):
+And that was how they made themselves a target and then got themselves exposed.
+
+Scott (00:56:11):
+And so it's really great because you got like this guy,
+
+Scott (00:56:13):
+Mike Benz,
+
+Scott (00:56:13):
+who's this former State Department official from the first Trump administration,
+
+Scott (00:56:18):
+who's just going off and explaining,
+
+Scott (00:56:19):
+connecting all the dots and explaining how USAID runs all these different
+
+Scott (00:56:23):
+organizations and controls these political parties and foreign corporations and
+
+Scott (00:56:29):
+NGOs and all these things all around the world.
+
+Scott (00:56:31):
+And so it really goes to show that they are
+
+Scott (00:56:38):
+You know, essentially, they're like a junior CIA or like an open CIA.
+
+Scott (00:56:43):
+The joke is,
+
+Scott (00:56:44):
+and they explain this in The Washington Post and other places back then with the
+
+Scott (00:56:47):
+creation of USAID and the National Endowment for Democracy,
+
+Scott (00:56:51):
+that when the CIA operates foreign sock puppets,
+
+Scott (00:56:55):
+it actually almost always gets exposed.
+
+Scott (00:56:59):
+And then when someone is exposed as being backed by the CIA,
+
+Scott (00:57:01):
+it just completely blows up their credibility.
+
+Scott (00:57:04):
+Right.
+
+Scott (00:57:05):
+So the secrecy is actually counterproductive.
+
+Scott (00:57:08):
+And what they figured out was it's better to just give the money out openly and say,
+
+Scott (00:57:13):
+that's right.
+
+Scott (00:57:13):
+We're just here to support democracy.
+
+Scott (00:57:15):
+Here's 50 million dollars for your group.
+
+Scott (00:57:18):
+As long as your group is supporting the guy that we want you to support, you're paid.
+
+Scott (00:57:22):
+And they say that it's just about democracy itself,
+
+Scott (00:57:25):
+but of course,
+
+Scott (00:57:26):
+it's all about making sure the right guy wins.
+
+Scott (00:57:27):
+As simple as that.
+
+Scott (00:57:28):
+I mean,
+
+Scott (00:57:28):
+imagine a world where America goes around supporting,
+
+Scott (00:57:32):
+creating democratic institutions,
+
+Scott (00:57:35):
+but not giving a damn who wins and whether that person is compliant with American
+
+Scott (00:57:40):
+goals or not.
+
+Scott (00:57:40):
+Yeah, right.
+
+Scott (00:57:41):
+The whole thing, of course, is about rigging the game for our side.
+
+Scott (00:57:45):
+See, Egypt 2011, I think.
+
+Scott (00:57:47):
+Yeah.
+
+Scott (00:57:48):
+Well,
+
+Scott (00:57:48):
+so in Egypt in 2011,
+
+Scott (00:57:52):
+now they had been working on this for a while because they knew that Hosni Mubarak,
+
+Scott (00:57:55):
+the American backed sock puppet dictator,
+
+Scott (00:57:58):
+they knew that he was getting old and was going to have to go.
+
+Scott (00:58:01):
+But his son, Gamal, was like ineffectual and was not believable to be his replacement.
+
+Scott (00:58:07):
+So they were trying to figure out,
+
+Scott (00:58:09):
+well,
+
+Scott (00:58:09):
+like,
+
+Scott (00:58:09):
+who can we move in to be the military dictator after him?
+
+Scott (00:58:13):
+And there were some,
+
+Scott (00:58:14):
+including,
+
+Scott (00:58:15):
+you know,
+
+Scott (00:58:15):
+some of these neoconservatives believe their own BS about spreading democracy and stuff.
+
+Scott (00:58:20):
+And Robert Kagan is one, for example, who supported even the Muslim Brotherhood in power.
+
+Scott (00:58:24):
+He said they were democratically elected.
+
+Scott (00:58:26):
+These guys are not terrorists.
+
+Scott (00:58:28):
+The Egyptian Muslim Brotherhood,
+
+Scott (00:58:30):
+they're basically like old men,
+
+Scott (00:58:32):
+property owners and lawyers and doctors and stuff.
+
+Scott (00:58:35):
+They're not young radicals.
+
+Scott (00:58:38):
+So like, what the hell, we can deal with them.
+
+Scott (00:58:39):
+They won the election.
+
+Scott (00:58:41):
+Let's give them a chance, right, as moderate Islamists.
+
+Scott (00:58:44):
+So there were people who thought that we should replace the Egyptian military
+
+Scott (00:58:49):
+dictatorship with a democratic system if we can.
+
+Scott (00:58:53):
+But then what happened with the Arab Spring was not the plan, right?
+
+Scott (00:58:57):
+The leak came out and the State Department cables radicalized politics in Tunisia
+
+Scott (00:59:02):
+because even though they all knew they lived in a dictatorship,
+
+Scott (00:59:05):
+The WikiLeaks had all these stories about the kleptocracy of Ben Ali and how his
+
+Scott (00:59:11):
+wife's family had just gangsterized the entire economy and all this.
+
+Scott (00:59:15):
+So he was forced to flee on a plane full of gold bricks to Saudi Arabia.
+
+Scott (00:59:21):
+So people of Egypt were like, holy crap, you can do that?
+
+Scott (00:59:23):
+And so in Giza and Alexandria and Cairo and everywhere in between, everybody came out.
+
+Scott (00:59:29):
+In fact, the Muslim Brotherhood waited.
+
+Scott (00:59:31):
+It was really,
+
+Scott (00:59:32):
+I think the liberals,
+
+Scott (00:59:34):
+union workers and university types were the first ones really out there.
+
+Scott (00:59:38):
+And the Muslim Brotherhood was more cautious and they came out,
+
+Scott (00:59:40):
+but essentially had the entire consensus of all of Egyptian society was now's our
+
+Scott (00:59:45):
+chance to get rid of Hosni Mubarak.
+
+Scott (00:59:47):
+And I think it was started out by these groups who'd been supported by the NED.
+
+Scott (00:59:51):
+But I think it very quickly got out of hand and was just this is an American back
+
+Scott (00:59:55):
+dictator being overthrown now.
+
+Scott (00:59:57):
+And in fact,
+
+Scott (00:59:58):
+the Obama people panicked and tried to work out a compromise where they would keep
+
+Scott (01:00:02):
+Omar Suleiman,
+
+Scott (01:00:03):
+who is the head of the secret torture police.
+
+Scott (01:00:06):
+And then but what happened was the the junior officers
+
+Scott (01:00:11):
+told the senior officers that we're not going to fire on this crowd.
+
+Scott (01:00:15):
+We'll kill you guys before we kill them.
+
+Scott (01:00:17):
+Believe it.
+
+Scott (01:00:18):
+That was it.
+
+Scott (01:00:19):
+Game is up, dude.
+
+Scott (01:00:20):
+You guys have to stop.
+
+Scott (01:00:21):
+The protesters aren't going home.
+
+Scott (01:00:23):
+So somebody tell the president it's time for him to go.
+
+Scott (01:00:26):
+And then right around that time, this is like weeks into the thing.
+
+Scott (01:00:30):
+And then finally, Barack Obama told them, OK, you got to step down now.
+
+Scott (01:00:34):
+And it was because the junior officers were going to mutiny.
+
+Scott (01:00:39):
+They weren't going to clear the square.
+
+Scott (01:00:42):
+So they they and then like like we're saying before,
+
+Scott (01:00:46):
+then they turned right around a year and a half later and they did a military coup
+
+Scott (01:00:50):
+and overthrow the overthrew the Muslim Brotherhood,
+
+Scott (01:00:52):
+drove them right back out of power.
+
+Scott (01:00:53):
+And Mubarak Jr.
+
+Scott (01:00:55):
+Fattah al-Sisi is the dictator this day.
+
+Scott (01:00:58):
+He held an election where he won with 97 percent in a Saddam Hussein style or
+
+Scott (01:01:04):
+You know, Azerbaijan style phony election.
+
+Asbed (01:01:07):
+Perfect democracy.
+
+Asbed (01:01:09):
+Scott,
+
+Asbed (01:01:10):
+I'm going to turn our attention a little bit to Armenia in the neighborhood,
+
+Asbed (01:01:13):
+because in Provoked,
+
+Asbed (01:01:15):
+you actually cover how U.S.
+
+Asbed (01:01:17):
+foreign policy in the 90s was shaped by energy politics in the South Caucasus.
+
+Asbed (01:01:22):
+You describe how Western oil interests backed the coup in Azerbaijan that brought
+
+Asbed (01:01:26):
+Haidar Aliyev to power,
+
+Asbed (01:01:27):
+paving the way for the Baku-Tbilisi-Ceyhan pipeline.
+
+Asbed (01:01:32):
+I'll call it the BTC pipeline.
+
+Asbed (01:01:34):
+The U.S.
+
+Asbed (01:01:35):
+aimed to bypass both Russia and Iran while backing Azerbaijan in the first
+
+Asbed (01:01:39):
+Nagorno-Karabakh war,
+
+Asbed (01:01:41):
+even facilitating the use of the Mujahideen fighters from Afghanistan and American mercenaries.
+
+Asbed (01:01:48):
+It's a kind of a striking example of how big oil and regime change and military
+
+Asbed (01:01:54):
+intervention intersected early on.
+
+Asbed (01:01:58):
+So the BTC pipeline was more than an energy project.
+
+Asbed (01:02:01):
+I'm kind of interested in hearing more about this from you.
+
+Asbed (01:02:04):
+What are the broader geopolitical goals behind routing everything through Georgia
+
+Asbed (01:02:10):
+and Turkey instead of Russia and Iran?
+
+Scott (01:02:13):
+Well, that's it.
+
+Scott (01:02:14):
+I mean, that's the answer is to keep that revenue out of the Russians or the Iranians hands.
+
+Scott (01:02:20):
+And it's... this is a very interesting subject.
+
+Scott (01:02:23):
+The,
+
+Scott (01:02:23):
+you know,
+
+Scott (01:02:24):
+very it's obscure,
+
+Scott (01:02:26):
+I think,
+
+Scott (01:02:26):
+you know,
+
+Scott (01:02:27):
+most people probably couldn't tell you where Azerbaijan or Armenia are there,
+
+Scott (01:02:31):
+you know,
+
+Scott (01:02:31):
+these tiny little countries.
+
+Scott (01:02:33):
+um crammed up between a lot of bigger ones and giant bodies of water and all these
+
+Scott (01:02:38):
+things very far from here so people might need to pull up a map and see where we're
+
+Scott (01:02:43):
+talking about but so everybody south of the caucasus mountains got to go free from
+
+Scott (01:02:49):
+soviet rule in the north they stayed part of the Russian Federation and so
+
+Scott (01:02:58):
+Azerbaijan and Armenia fought over Nagorno-Karabakh,
+
+Scott (01:03:02):
+which of course you guys call Artsakh there,
+
+Scott (01:03:06):
+which was,
+
+Scott (01:03:08):
+it's sort of like for people not familiar,
+
+Scott (01:03:10):
+I guess your audience knows,
+
+Scott (01:03:11):
+but for people not familiar,
+
+Scott (01:03:13):
+it's essentially like a weird West Berlin type situation where you had this
+
+Scott (01:03:18):
+Armenian enclave completely surrounded by Azerbaijan.
+
+Scott (01:03:23):
+And then there's,
+
+Scott (01:03:24):
+of course,
+
+Scott (01:03:25):
+this other Azerbaijan enclave that is bisected by Armenia on the other side.
+
+Scott (01:03:33):
+Only in modern times.
+
+Asbed (01:03:35):
+If you go back historically, you'll see a different story.
+
+Asbed (01:03:38):
+But yeah, you're absolutely right.
+
+Scott (01:03:40):
+Right.
+
+Scott (01:03:40):
+So I think it was,
+
+Scott (01:03:42):
+what,
+
+Scott (01:03:43):
+30 or 40,000 people were killed in the original war in 1994,
+
+Scott (01:03:48):
+somewhere around there.
+
+Scott (01:03:49):
+And as you said, they brought in Gulbuddine Hekmatyar and his terrorists from Afghanistan.
+
+Scott (01:03:55):
+People know Hekmatyar from being one of the close allies of the Taliban,
+
+Scott (01:03:58):
+one of the worst enemies of the United States during our occupation over the last
+
+Scott (01:04:02):
+20 years.
+
+Scott (01:04:04):
+He had also been a CIA favorite back in the 1980s.
+
+Scott (01:04:08):
+Because he was one of the most ruthless murderers,
+
+Scott (01:04:10):
+just getting people alive,
+
+Scott (01:04:11):
+that kind of thing.
+
+Scott (01:04:13):
+And then also Richard Secord, who is General Secord famous from Iran-Contra fame.
+
+Scott (01:04:19):
+Yeah, he had a group of mercenaries that were brought in as well.
+
+Scott (01:04:23):
+And it was, this wasn't really a color-coded revolution.
+
+Scott (01:04:25):
+It was just a military coup, basically, where...
+
+Scott (01:04:30):
+And the British press did a great job of explaining all this.
+
+Scott (01:04:32):
+It's in the London Times and the Telegraph where BP especially led this coup.
+
+Scott (01:04:41):
+And they had,
+
+Scott (01:04:42):
+you know,
+
+Scott (01:04:42):
+a bunch of MI6 officers were like in the leadership of British Petroleum at the time.
+
+Scott (01:04:49):
+And they just bribed some military officers and overthrew the democratically
+
+Scott (01:04:53):
+elected president of Azerbaijan,
+
+Scott (01:04:55):
+a guy named Elcibey.
+
+Scott (01:04:58):
+Yeah.
+
+Scott (01:04:58):
+So they overthrew him.
+
+Scott (01:05:00):
+And as you said, they installed Aliyev.
+
+Scott (01:05:03):
+And then he...
+
+Scott (01:05:07):
+His son took over in, I think, in the early W. Bush years when the father died.
+
+Scott (01:05:14):
+And neither of them ever won a legitimate election in their lives.
+
+Scott (01:05:18):
+They just, you know, it started with a military coup and then bogus elections ever since then.
+
+Scott (01:05:23):
+Again, just like al-Sisi in Egypt, 97% re-election rate.
+
+Scott (01:05:26):
+And then...
+
+Scott (01:05:31):
+In one case,
+
+Scott (01:05:32):
+W.
+
+Scott (01:05:32):
+Bush,
+
+Scott (01:05:32):
+and in the other case,
+
+Scott (01:05:33):
+Aliyev himself announced the results of the election before the election.
+
+Scott (01:05:38):
+W.
+
+Scott (01:05:38):
+Bush goes,
+
+Scott (01:05:38):
+man,
+
+Scott (01:05:38):
+I'm really looking forward to y'all's great democratic election,
+
+Scott (01:05:43):
+and I'm looking forward to working with you after that,
+
+Scott (01:05:46):
+you know?
+
+Hovik (01:05:47):
+Yeah.
+
+Scott (01:05:47):
+OK.
+
+Scott (01:05:48):
+And then and then Ali of himself did the same thing if you on the next election
+
+Scott (01:05:52):
+where they I think they just accidentally announced the results on TV when they
+
+Scott (01:05:57):
+held the damn thing yet.
+
+Scott (01:05:58):
+It was going to take place the next day.
+
+Scott (01:05:59):
+They're like, oh, well, you know, we're just practicing.
+
+Scott (01:06:02):
+But.
+
+Scott (01:06:04):
+So,
+
+Scott (01:06:04):
+yeah,
+
+Scott (01:06:06):
+which goes to show that all this crap about spreading democracy is just a ruse for
+
+Scott (01:06:11):
+overthrowing countries that aren't compliant with American wishes.
+
+Scott (01:06:14):
+If your absolute authoritarian,
+
+Scott (01:06:17):
+hereditary monarchy is in compliance with American goals,
+
+Scott (01:06:21):
+then we got no problem.
+
+Scott (01:06:22):
+If you're Aliyev or if you're Abdullah or Salman in Saudi Arabia or any of these guys,
+
+Scott (01:06:28):
+Bin Zayed in UAE or any of these guys,
+
+Scott (01:06:31):
+you get to do whatever you want.
+
+Asbed (01:06:33):
+Yeah,
+
+Asbed (01:06:33):
+I mean,
+
+Asbed (01:06:34):
+to a lot of us Armenians,
+
+Asbed (01:06:35):
+these under the table operations that you're talking about sound suspiciously like
+
+Asbed (01:06:40):
+the Iran-Contra scandal,
+
+Asbed (01:06:42):
+right?
+
+Asbed (01:06:42):
+Yeah.
+
+Asbed (01:06:43):
+I mean, we've known about it.
+
+Hovik (01:06:44):
+They even use the same people.
+
+Scott (01:06:46):
+Yeah, that's right.
+
+Asbed (01:06:48):
+Even the same players like the Richard Secords, like you mentioned, and the oil business.
+
+Scott (01:06:54):
+Well,
+
+Scott (01:06:54):
+and by the way,
+
+Scott (01:06:54):
+guys,
+
+Scott (01:06:55):
+I mean,
+
+Scott (01:06:55):
+I think it's worth bringing up,
+
+Scott (01:06:56):
+too,
+
+Scott (01:06:56):
+that as you guys well know,
+
+Scott (01:06:58):
+there are...
+
+Scott (01:07:00):
+uh, humongous Armenian communities in the United States.
+
+Scott (01:07:04):
+And as I found out when I lived in LA, but I've also, you know, known other Armenians.
+
+Scott (01:07:09):
+I have Armenian friends who have told me this,
+
+Scott (01:07:11):
+where there are some serious ass enclaves of Armenian Americans all over this country.
+
+Scott (01:07:16):
+And I don't remember which all cities he mentioned,
+
+Scott (01:07:19):
+but he mentioned a handful of cities where there are large groups of Armenian American.
+
+Hovik (01:07:24):
+Yeah.
+
+Hovik (01:07:24):
+And like,
+
+Scott (01:07:27):
+And, you know, a pretty close knit, right?
+
+Scott (01:07:31):
+Like pretty close knit communities in these different cities across country.
+
+Scott (01:07:34):
+My point being that, oh, well, all the Armenians in California cannot change this policy, right?
+
+Scott (01:07:42):
+Exactly.
+
+Scott (01:07:43):
+You would think that with all that money and all those votes,
+
+Scott (01:07:46):
+highly organized ethnic community here that obviously cares very much about what
+
+Scott (01:07:52):
+happens to Armenia back there.
+
+Scott (01:07:54):
+There are congressmen.
+
+Scott (01:07:55):
+I've seen congressmen bow and scrape before the Armenian lobby.
+
+Scott (01:07:59):
+I've seen,
+
+Scott (01:08:00):
+you know,
+
+Scott (01:08:00):
+American politicians go to Armenia and claim to support Armenia and all this.
+
+Scott (01:08:05):
+But doesn't matter.
+
+Scott (01:08:06):
+The executive branch, the American empire is on the side of
+
+Asbed (01:08:10):
+It's completely oblivious to the people.
+
+Hovik (01:08:15):
+What's,
+
+Hovik (01:08:15):
+I think,
+
+Hovik (01:08:16):
+unique,
+
+Hovik (01:08:16):
+and I just want to sort of underscore this,
+
+Hovik (01:08:17):
+is that there are many Armenians who,
+
+Hovik (01:08:21):
+you know,
+
+Hovik (01:08:21):
+living in the diaspora,
+
+Hovik (01:08:22):
+especially in the U.S.
+
+Hovik (01:08:22):
+diaspora,
+
+Hovik (01:08:23):
+are now part of the mainstream sort of,
+
+Hovik (01:08:26):
+you know,
+
+Hovik (01:08:26):
+they have bought into the mainstream narrative about the war in Ukraine,
+
+Hovik (01:08:29):
+and in general,
+
+Hovik (01:08:30):
+this anti-Russian belief.
+
+Hovik (01:08:31):
+So they actually genuinely believe that Armenia would be better off with
+
+Hovik (01:08:36):
+going towards the U.S.
+
+Hovik (01:08:37):
+than with Russia.
+
+Hovik (01:08:39):
+And I think that's an interesting twist because that's the liability that diaspora
+
+Hovik (01:08:44):
+has because you think you have influence,
+
+Hovik (01:08:46):
+but actually many of these people are influencing Armenia the wrong way,
+
+Hovik (01:08:49):
+I would say.
+
+Hovik (01:08:51):
+Not that, I mean, I don't have a...
+
+Hovik (01:08:53):
+Either way, I think that Armenians in Armenia should decide their future.
+
+Hovik (01:08:56):
+But this is the belief that the diaspora can help Armenia.
+
+Hovik (01:09:01):
+Maybe it can on some things, but on other aspects, it's actually used to divide Armenia as well.
+
+Hovik (01:09:06):
+Yeah, that makes sense.
+
+Hovik (01:09:08):
+Now, fast forward.
+
+Hovik (01:09:09):
+Well, wait, wait.
+
+Scott (01:09:10):
+So go back.
+
+Scott (01:09:10):
+Stop for just a second and go back because I didn't really answer the question
+
+Scott (01:09:13):
+about the BTC pipeline here.
+
+Scott (01:09:14):
+So so for people, everybody picture the area here or pull up a map.
+
+Scott (01:09:19):
+And basically, the deal is this.
+
+Scott (01:09:21):
+We want to make sure that all this Caspian oil and natural gas is transported out
+
+Scott (01:09:26):
+of there by American and or European,
+
+Scott (01:09:29):
+but especially American companies,
+
+Scott (01:09:31):
+and that the Russians and the Iranians get nothing.
+
+Scott (01:09:35):
+That's what's important,
+
+Scott (01:09:36):
+is that the pipelines cannot go through Russia and then on to Europe and they
+
+Scott (01:09:40):
+cannot go through Iran.
+
+Scott (01:09:42):
+Now, the oil companies wanted to just go through Iran.
+
+Scott (01:09:46):
+That would be the easiest way to do it.
+
+Scott (01:09:47):
+And in fact,
+
+Scott (01:09:48):
+even Zbigniew Brzezinski,
+
+Scott (01:09:50):
+who had egg all over his face from the Iranian revolution and the hostage crisis
+
+Scott (01:09:54):
+and everything in 79 when he was the national security adviser,
+
+Scott (01:09:57):
+all that stuff and a very powerful one at that,
+
+Scott (01:10:00):
+all that stuff was blowing up in his face.
+
+Scott (01:10:02):
+Well,
+
+Scott (01:10:03):
+And just 12 years later,
+
+Scott (01:10:05):
+in 1993,
+
+Scott (01:10:06):
+he's working for Unocal and saying,
+
+Scott (01:10:09):
+hey,
+
+Scott (01:10:09):
+we ought to build a pipeline across Iran.
+
+Scott (01:10:12):
+This would be a good opportunity for us to make some money and also to begin to
+
+Scott (01:10:16):
+normalize relations with Iran.
+
+Scott (01:10:18):
+What are we going to do?
+
+Scott (01:10:19):
+Keep a cold war against them forever or something?
+
+Scott (01:10:21):
+That doesn't make any sense.
+
+Scott (01:10:22):
+And Alexander Haig, who had been the secretary of state under...
+
+Scott (01:10:27):
+Ronald Reagan and who had been, was Kissinger's, you know, protege in the Nixon and Ford years.
+
+Scott (01:10:35):
+Alexander Haig also wanted to build a pipeline across Iran.
+
+Scott (01:10:38):
+The Israel lobby said, no, the pipeline cannot go across Iran.
+
+Scott (01:10:43):
+We cannot normalize relations with Iran.
+
+Scott (01:10:45):
+It's forbidden.
+
+Scott (01:10:47):
+OK, fine.
+
+Scott (01:10:48):
+And then there were all different other routes that they were exploring.
+
+Scott (01:10:52):
+But the American strategist in the Clinton White House said,
+
+Scott (01:10:56):
+no,
+
+Scott (01:10:56):
+what we're doing is we're going to make
+
+Scott (01:10:58):
+But you mentioned the BTC pipeline that's from Baku,
+
+Scott (01:11:02):
+Azerbaijan,
+
+Scott (01:11:03):
+through Tbilisi,
+
+Scott (01:11:04):
+Georgia,
+
+Scott (01:11:05):
+through to Ceyhan,
+
+Scott (01:11:06):
+Turkey,
+
+Scott (01:11:07):
+and the port on the Mediterranean Sea there.
+
+Scott (01:11:11):
+And then the whole point of this pipeline is it runs due west.
+
+Scott (01:11:15):
+And so they like thread the needle,
+
+Scott (01:11:17):
+as they put it,
+
+Scott (01:11:18):
+between Russia and Iran and really screwed them good.
+
+Scott (01:11:21):
+And there's a whole great series about this in the Washington Post by a guy named Dan Ottaway.
+
+Scott (01:11:27):
+And I forget the other one.
+
+Scott (01:11:28):
+It's these two guys, and they wrote like five or eight articles about this stuff.
+
+Asbed (01:11:34):
+And customer number one of the oil that runs through the BTC is Israel, actually.
+
+Scott (01:11:39):
+Sure.
+
+Scott (01:11:41):
+And of course, even when they're boycotting Russia, they now got Russian oil being pumped.
+
+Scott (01:11:46):
+The Azerbaijanis are reselling Russian oil through the BTC.
+
+Scott (01:11:49):
+That's right.
+
+Scott (01:11:50):
+The whole point was cutting them out.
+
+Scott (01:11:53):
+It gets rebranded.
+
+Scott (01:11:55):
+Yeah.
+
+Scott (01:11:56):
+And then so...
+
+Scott (01:11:58):
+And then this also went to the extent where they're willing to support the
+
+Scott (01:12:01):
+terrorists in Chechnya,
+
+Scott (01:12:02):
+especially in the second war.
+
+Scott (01:12:03):
+I want to support the terrorists in Chechnya as long as they're keeping the old
+
+Scott (01:12:08):
+Soviet pipeline through Chechnya from being rebuilt.
+
+Scott (01:12:11):
+And then when the Russians say,
+
+Scott (01:12:12):
+OK,
+
+Scott (01:12:13):
+fine,
+
+Scott (01:12:13):
+well,
+
+Scott (01:12:13):
+we'll build another new pipeline that just goes through Dagestan and goes around Chechnya.
+
+Scott (01:12:18):
+Then the terrorists invade Dagestan.
+
+Hovik (01:12:19):
+They blew it up.
+
+Hovik (01:12:20):
+Yeah.
+
+Scott (01:12:20):
+Yeah.
+
+Scott (01:12:21):
+They attack that, too.
+
+Hovik (01:12:22):
+So,
+
+Scott (01:12:23):
+I mean,
+
+Scott (01:12:23):
+that is the Americans on the side of the Bin Ladenites right up till the end of the,
+
+Scott (01:12:28):
+I mean,
+
+Scott (01:12:28):
+and even into the 21st century in order to disrupt the Russians,
+
+Scott (01:12:32):
+prevent them from having those pipelines through there.
+
+Scott (01:12:34):
+It means everything to them.
+
+Scott (01:12:35):
+And so,
+
+Scott (01:12:36):
+again,
+
+Scott (01:12:36):
+like when it comes down to,
+
+Scott (01:12:37):
+I mean,
+
+Scott (01:12:38):
+there's no Azerbaijani lobby in America,
+
+Scott (01:12:41):
+right?
+
+Scott (01:12:41):
+There's no giant Azerbaijani diaspora in America that has anything like the
+
+Scott (01:12:46):
+organized political power and money that Armenians have.
+
+Scott (01:12:49):
+But, oh, well.
+
+Scott (01:12:50):
+Yeah.
+
+Scott (01:12:51):
+Again,
+
+Scott (01:12:51):
+even in fact,
+
+Scott (01:12:52):
+as I show in the book,
+
+Scott (01:12:52):
+even when Congress appropriated more money to Armenia and and the Russians in the
+
+Scott (01:12:59):
+American Congress are both backing Armenia,
+
+Scott (01:13:01):
+the empire still backing Azerbaijan.
+
+Scott (01:13:03):
+So.
+
+Hovik (01:13:04):
+We have a lot of questions, so if you ever have to stop, let us know.
+
+Hovik (01:13:08):
+But I do want to fast forward to 2018 when Nikol Pashinyan came to power.
+
+Hovik (01:13:15):
+This was also a Western-backed color revolution, in my opinion.
+
+Hovik (01:13:19):
+It's not covered and it's not addressed by some because...
+
+Hovik (01:13:23):
+Honestly,
+
+Hovik (01:13:23):
+no one cares about Armenia probably as much as they do about Georgia,
+
+Hovik (01:13:26):
+and it's been one of the less covered things.
+
+Hovik (01:13:28):
+But since then,
+
+Hovik (01:13:30):
+Armenia has been steadily distancing itself from Russia,
+
+Hovik (01:13:33):
+just as US foreign policy toward the region continues to prioritize energy routes
+
+Hovik (01:13:40):
+and containment over security.
+
+Hovik (01:13:44):
+And Washington stayed largely silent during Azerbaijan's 2020 war, for instance.
+
+Hovik (01:13:50):
+That was during Trump, his first tenure.
+
+Hovik (01:13:53):
+And also,
+
+Hovik (01:13:53):
+of course,
+
+Hovik (01:13:54):
+in 2023,
+
+Hovik (01:13:54):
+ethnic cleansing of Artsakh,
+
+Hovik (01:13:56):
+you know,
+
+Hovik (01:13:57):
+a few State Department officials said,
+
+Hovik (01:13:59):
+you know,
+
+Hovik (01:13:59):
+no more business as usual.
+
+Hovik (01:14:00):
+But now it's way more than usual, actually.
+
+Hovik (01:14:05):
+Business is flowing.
+
+Hovik (01:14:05):
+Business is good.
+
+Hovik (01:14:08):
+So I would say that some would say actually, and I would subscribe to that, that the U.S.
+
+Hovik (01:14:13):
+not only tolerated Azerbaijan's recent advances, but that it enabled them.
+
+Hovik (01:14:19):
+And some, I'm sure in the U.S.
+
+Hovik (01:14:21):
+foreign policy establishment,
+
+Hovik (01:14:24):
+including the Israeli lobby types,
+
+Hovik (01:14:28):
+definitely cheered for the outcome.
+
+Hovik (01:14:30):
+Because...
+
+Hovik (01:14:31):
+Well, let's go to this.
+
+Hovik (01:14:32):
+You mentioned this in your book,
+
+Hovik (01:14:33):
+but in this Rand Corporation report in 2019,
+
+Hovik (01:14:39):
+Extending Russia,
+
+Hovik (01:14:40):
+it talks about actually exploiting tensions in the South Caucasus to split Armenia
+
+Hovik (01:14:45):
+away from...
+
+Hovik (01:14:47):
+Russia,
+
+Hovik (01:14:48):
+and the only way you could do that is if you could solve,
+
+Hovik (01:14:50):
+unfortunately by solve they mean ethnic cleansing and genocide,
+
+Hovik (01:14:54):
+if you could solve the Nagorno-Karabakh conflict or Artsakh conflict.
+
+Hovik (01:14:57):
+So I want to ask you,
+
+Hovik (01:14:59):
+we jumped,
+
+Hovik (01:15:00):
+there was a big time gap between the 1990s and 2018 and onwards.
+
+Hovik (01:15:02):
+Do you see that
+
+Hovik (01:15:11):
+the same foreign policy that drove US policy in the 1990s,
+
+Hovik (01:15:15):
+carrying through to now,
+
+Hovik (01:15:17):
+today,
+
+Hovik (01:15:17):
+in 2020 and 2023?
+
+Hovik (01:15:17):
+Or has anything changed?
+
+Scott (01:15:20):
+Yeah, no, I think the only thing that changed really was the extent, right?
+
+Scott (01:15:24):
+It was after the American-supported regime change in Armenia in 2019 that the
+
+Scott (01:15:30):
+American-supported guy then marginalized.
+
+Scott (01:15:33):
+Do I have that right, 19?
+
+Scott (01:15:35):
+2018.
+
+Scott (01:15:36):
+Oh, 18.
+
+Scott (01:15:36):
+The so-called Velvet Revolution.
+
+Scott (01:15:38):
+That guy marginalized the Russian position in the country,
+
+Scott (01:15:41):
+and the Russians had some peacekeepers there in Nagorno-Karabakh,
+
+Scott (01:15:45):
+correct?
+
+Scott (01:15:47):
+So then the Russians said, fine, oh, you don't like me no more and pulled their troops out.
+
+Scott (01:15:51):
+And then that was all she wrote for Nagorno-Karabakh.
+
+Scott (01:15:53):
+They chose America,
+
+Scott (01:15:55):
+but the Americans didn't put troops in there to prevent Azerbaijan from rolling in.
+
+Scott (01:15:59):
+So, you know, it was a major loss for Armenia there for going along with the Americans.
+
+Scott (01:16:07):
+And I don't know what the other side of the argument is of what they supposedly got
+
+Scott (01:16:11):
+out of it,
+
+Scott (01:16:12):
+but I don't see much.
+
+Hovik (01:16:14):
+We don't either.
+
+Hovik (01:16:15):
+So those think tank reports,
+
+Hovik (01:16:17):
+like the RAND Corporation report,
+
+Hovik (01:16:19):
+I don't know how much you know about it in detail.
+
+Hovik (01:16:22):
+Sort of how significant are they in shaping foreign policy?
+
+Hovik (01:16:26):
+Like people just try to, you know...
+
+Hovik (01:16:33):
+ignore that and say,
+
+Hovik (01:16:34):
+well,
+
+Hovik (01:16:34):
+it's just one report,
+
+Hovik (01:16:36):
+but there are other reports,
+
+Hovik (01:16:38):
+but what is the connection between,
+
+Hovik (01:16:41):
+I guess,
+
+Hovik (01:16:41):
+think tanks and foreign policy?
+
+Hovik (01:16:44):
+Yeah.
+
+Scott (01:16:46):
+It depends.
+
+Scott (01:16:46):
+I mean, the Rand Corporation was created by the Pentagon.
+
+Scott (01:16:49):
+I believe it's still financed by the Air Force.
+
+Scott (01:16:51):
+They put it in Santa Barbara so that it can be somewhat independent from all the
+
+Scott (01:16:55):
+East Coast consensus.
+
+Scott (01:16:58):
+But
+
+Scott (01:17:00):
+And I have to tell you,
+
+Scott (01:17:00):
+I don't know of any reporting that said where officials confirmed that,
+
+Scott (01:17:07):
+yes,
+
+Scott (01:17:07):
+they read that report and thought,
+
+Scott (01:17:09):
+this is great.
+
+Scott (01:17:10):
+Let's do this.
+
+Scott (01:17:11):
+Right.
+
+Scott (01:17:11):
+So I don't know any like hard connection between the Rand report and the policy.
+
+Scott (01:17:17):
+On the other hand, clearly the policy is based on the Rand Report.
+
+Scott (01:17:22):
+I'm sorry.
+
+Scott (01:17:22):
+It's just like the McCollum memo of how to provoke Japan into attacking us first
+
+Scott (01:17:28):
+from Arthur McCollum,
+
+Scott (01:17:30):
+the naval intelligence officer that he wrote in 1941.
+
+Scott (01:17:34):
+Well, they implemented his steps A through H in chronological order, right?
+
+Scott (01:17:40):
+Like they clearly based their policy on the McCollum memo.
+
+Scott (01:17:45):
+It's the same thing here.
+
+Scott (01:17:47):
+It's a circumstantial case, but an absolutely convincing one.
+
+Scott (01:17:51):
+And for people who haven't read it, I mean,
+
+Scott (01:17:54):
+What can I say?
+
+Scott (01:17:55):
+It's fantastic.
+
+Scott (01:17:56):
+It'll make your whole weekend, everybody.
+
+Scott (01:17:57):
+It's called Extending Russia from 2019.
+
+Scott (01:18:00):
+And what does that mean, extending Russia?
+
+Scott (01:18:03):
+It means overextending Russia.
+
+Scott (01:18:06):
+It means causing problems in Russia's near abroad where they will have to
+
+Scott (01:18:11):
+overextend themselves by spending money and time and attention and energy trying to
+
+Scott (01:18:17):
+put out these fires.
+
+Scott (01:18:18):
+And we can just disrupt them.
+
+Scott (01:18:20):
+We can hit them here, here, here, here, here, and here.
+
+Scott (01:18:23):
+and give them a giant pain in the ass.
+
+Scott (01:18:26):
+That was what the whole thing was about.
+
+Scott (01:18:28):
+So what does that mean?
+
+Scott (01:18:29):
+It means provoking them.
+
+Hovik (01:18:32):
+That's what it is.
+
+Hovik (01:18:32):
+It talks about arming Syrian rebels.
+
+Hovik (01:18:35):
+It talks about giving lethal weapons to Ukraine.
+
+Hovik (01:18:37):
+It talks about the Arctic.
+
+Hovik (01:18:39):
+So all of the things that either happened or are in the process of happening.
+
+Scott (01:18:44):
+That's right.
+
+Scott (01:18:44):
+And I think it's really important to note, too, that for every recommendation that they give,
+
+Scott (01:18:52):
+including as you just said arming the rebels in Syria that means al-Qaeda guys in
+
+Scott (01:18:56):
+the Idlib province held up in the Idlib province, right, the guys who ended up just
+
+Scott (01:19:00):
+taking over Damascus last December um as they go through their list of
+
+Scott (01:19:07):
+recommendations each one has a giant disclaimer at the bottom disclaimer it says
+
+Scott (01:19:15):
+don't listen to us
+
+Scott (01:19:17):
+Warning,
+
+Scott (01:19:18):
+if you follow this idiot advice,
+
+Scott (01:19:20):
+you're going to cause horrible things to happen,
+
+Scott (01:19:22):
+so don't.
+
+Scott (01:19:24):
+It's the disclaimer under every recommendation.
+
+Scott (01:19:27):
+They go,
+
+Scott (01:19:27):
+you know,
+
+Scott (01:19:28):
+we could screw around with the Nord Stream pipeline,
+
+Scott (01:19:31):
+but that could cause a reaction from the Germans.
+
+Scott (01:19:33):
+They might get mad at us and move even closer to Russia,
+
+Scott (01:19:36):
+and the Russians might get pissed off,
+
+Scott (01:19:38):
+and it might preclude our ability to negotiate with them about other interests that
+
+Scott (01:19:41):
+we have in common that we're working on.
+
+Scott (01:19:43):
+And they say, geez, if we try to overthrow the government of Belarus,
+
+Scott (01:19:47):
+Again, we try and fail again.
+
+Scott (01:19:49):
+Well, that could cause a war.
+
+Scott (01:19:53):
+Belarus is by far the single most important country to Russia,
+
+Scott (01:19:57):
+and they're not going to tolerate an American regime change in Minsk.
+
+Scott (01:20:00):
+And so that might really be more trouble than it's worth.
+
+Scott (01:20:03):
+But you could try it.
+
+Scott (01:20:05):
+And then they did that in 2020.
+
+Scott (01:20:07):
+They did another failed coup in Belarus for the third time.
+
+Scott (01:20:11):
+They tried no one and no five.
+
+Scott (01:20:13):
+And in 20, they did another failed coup against Lukashenko.
+
+Scott (01:20:16):
+Then they say you could arm the terrorists in Syria.
+
+Scott (01:20:21):
+But,
+
+Scott (01:20:22):
+you know,
+
+Scott (01:20:22):
+they are terrorists and that could end up causing a major problem,
+
+Scott (01:20:26):
+not just for Assad and Russia and Iran,
+
+Scott (01:20:28):
+but for us,
+
+Scott (01:20:29):
+too,
+
+Scott (01:20:30):
+if we're to really empower Al Qaeda there.
+
+Scott (01:20:32):
+I don't know about that.
+
+Scott (01:20:34):
+And then they say,
+
+Scott (01:20:35):
+well,
+
+Scott (01:20:35):
+and of course,
+
+Scott (01:20:35):
+we could increase arms for the Ukrainians and that could drive up costs for the Russians.
+
+Scott (01:20:42):
+Of course,
+
+Scott (01:20:43):
+they might decide that the problem in Ukraine has gotten so bad that now they need
+
+Scott (01:20:47):
+to go ahead and truly invade with regular ground troops and seize the entire Donbass,
+
+Scott (01:20:52):
+which would be very bad for our Ukrainian clients.
+
+Scott (01:20:56):
+It would be very expensive for us and would be a humiliation for us on the
+
+Scott (01:21:01):
+international stage as well.
+
+Scott (01:21:03):
+So there's very good reasons not to do that.
+
+Scott (01:21:05):
+And then it's the same thing all the way down the list.
+
+Scott (01:21:08):
+Essentially, what the report says is
+
+Scott (01:21:11):
+Look, we got paid to write this thing about ways that we could provoke the Russians.
+
+Scott (01:21:17):
+On the other hand,
+
+Scott (01:21:17):
+we're really recommending to you bosses that you don't follow our advice here.
+
+Scott (01:21:21):
+Every one of these things is extraordinarily risky.
+
+Scott (01:21:26):
+Yes, it could drive up costs for the Russians.
+
+Scott (01:21:28):
+They could absolutely drive up costs for us and our friends as well.
+
+Scott (01:21:31):
+And we might find ourselves regretting doing any of this stuff.
+
+Scott (01:21:35):
+So what can you say?
+
+Scott (01:21:37):
+You read the thing and you go, yeah, well, that's what they did.
+
+Scott (01:21:39):
+All right.
+
+Asbed (01:21:40):
+Scott,
+
+Asbed (01:21:40):
+you may have answered the question that I want to ask you as a final question with
+
+Asbed (01:21:45):
+all these disclaimers.
+
+Asbed (01:21:46):
+So as a small country,
+
+Asbed (01:21:47):
+Armenia,
+
+Asbed (01:21:49):
+on the periphery of Russia,
+
+Asbed (01:21:51):
+how should these little countries survive these times geopolitically?
+
+Asbed (01:21:56):
+They're just taken for collateral damage in the bigger geopolitical things.
+
+Asbed (01:22:01):
+So should they just get governments that say, we're just not gonna do that?
+
+Asbed (01:22:06):
+Or what's your advice on how they can survive this?
+
+Scott (01:22:09):
+Yeah, I would say maintain your neutrality as best as you can, right?
+
+Scott (01:22:13):
+Talk nice to everybody.
+
+Scott (01:22:15):
+Go along with as little as you can when major powers are trying to suborn your
+
+Scott (01:22:20):
+interests into theirs.
+
+Scott (01:22:22):
+And then...
+
+Scott (01:22:24):
+You know, whatever, tread as carefully as you can.
+
+Scott (01:22:26):
+It's something that's it's a very unfortunate reality for these minor powers.
+
+Scott (01:22:30):
+I think Syria is a great example of this,
+
+Scott (01:22:33):
+where even to this day,
+
+Scott (01:22:34):
+people say,
+
+Scott (01:22:36):
+you know,
+
+Scott (01:22:36):
+this is a people's revolution.
+
+Scott (01:22:37):
+This is there are people who are so sick and tired of being tyrannized by the Assad regime,
+
+Scott (01:22:42):
+and they're just protesting for their rights.
+
+Scott (01:22:45):
+And it's like, yeah, well, tough.
+
+Scott (01:22:48):
+So what?
+
+Scott (01:22:49):
+It's basically irrelevant because you know what else is going on?
+
+Scott (01:22:52):
+America and Turkey and Israel and Saudi and Qatar and UAE are pouring in billions
+
+Scott (01:22:57):
+to support a bunch of head chopping,
+
+Scott (01:22:59):
+suicide bombing terrorist maniacs in order to weaken Iran's position in the region.
+
+Scott (01:23:05):
+So.
+
+Scott (01:23:06):
+Your silly parochial little interests don't really mean anything.
+
+Scott (01:23:10):
+Syria has the tough problem of being a small,
+
+Scott (01:23:14):
+weak country surrounded by powerful ones who are determined to have their way.
+
+Scott (01:23:19):
+And so you might be a Syrian citizen who legitimately hates Assad,
+
+Scott (01:23:25):
+but you're a sock puppet of the CIA now.
+
+Scott (01:23:28):
+So pick very carefully whose side you're on.
+
+Scott (01:23:31):
+You might find that your domestic politics put you on the side,
+
+Scott (01:23:35):
+essentially committing treason against your own land in favor of foreign powers.
+
+Scott (01:23:39):
+I mean,
+
+Scott (01:23:40):
+people accuse me of that for just arguing against my government's position on these
+
+Scott (01:23:44):
+foreign policies,
+
+Scott (01:23:45):
+but nobody's truly threatening us.
+
+Scott (01:23:48):
+Right.
+
+Scott (01:23:48):
+Yeah.
+
+Scott (01:23:49):
+And I'm not really arguing for any of these other governments positions.
+
+Scott (01:23:53):
+It's just against my own government's horrible positions on all these things.
+
+Scott (01:23:57):
+But if it came down to a situation where there really was like hypothetically a
+
+Scott (01:24:03):
+massive tug of war for dominance and power and position in the United States between.
+
+Scott (01:24:10):
+say the EU, the Russians and the Chinese for who's going to dominate American politics more.
+
+Scott (01:24:16):
+Well,
+
+Scott (01:24:16):
+then I would be in a much more precarious position and I'd have to pick and choose
+
+Scott (01:24:20):
+my political positions very carefully for not just what do I really think,
+
+Scott (01:24:25):
+but whose position does my position coincide with and who might I be helping to
+
+Scott (01:24:31):
+empower at the expense of my own people?
+
+Scott (01:24:33):
+That's the position that we're putting Armenians and Syrians and Ukrainians and so
+
+Scott (01:24:38):
+many others in.
+
+Asbed (01:24:39):
+Scott,
+
+Asbed (01:24:39):
+I hope people are listening to you because we've talked to others like Jeffrey
+
+Asbed (01:24:43):
+Sachs and Larry Johnson and Pascal Lota and this stay neutral message.
+
+Asbed (01:24:49):
+We're trying to ram it home, actually.
+
+Scott (01:24:52):
+Yeah.
+
+Scott (01:24:52):
+Well, that's great.
+
+Scott (01:24:53):
+And those are all great guys.
+
+Scott (01:24:54):
+Well, the first two, I don't know the third, but.
+
+Asbed (01:24:57):
+He actually has a department of neutrality studies.
+
+Asbed (01:25:01):
+He's a scholar.
+
+Asbed (01:25:04):
+Which Japanese university it was?
+
+Asbed (01:25:05):
+I can't remember it at this very moment, but.
+
+Scott (01:25:08):
+I want neutrality for the USA, too.
+
+Scott (01:25:11):
+Just because America is so wealthy and powerful doesn't mean that we need to
+
+Scott (01:25:13):
+exercise that power all the time.
+
+Scott (01:25:16):
+You know,
+
+Scott (01:25:17):
+and it's clearly the American empire is the worst thing about our society and about
+
+Scott (01:25:23):
+our situation domestically.
+
+Scott (01:25:25):
+And I saw a really interesting interview.
+
+Scott (01:25:26):
+I like this guy, Matt Walsh.
+
+Scott (01:25:27):
+I guess I'm becoming more of a right winger as I grow old.
+
+Scott (01:25:30):
+Yeah.
+
+Scott (01:25:31):
+Matt Walsh is this cultural conservative, you know, railing against the woke.
+
+Scott (01:25:35):
+And Tucker Carlson interviewed him the other day.
+
+Scott (01:25:38):
+And they had this whole little,
+
+Scott (01:25:40):
+you know,
+
+Scott (01:25:41):
+little part of their discussion about,
+
+Scott (01:25:42):
+like,
+
+Scott (01:25:43):
+why should foreign policy matter so much to Americans anyway?
+
+Scott (01:25:46):
+It seems so, so...
+
+Scott (01:25:49):
+So negative and regretful to think that like on the right,
+
+Scott (01:25:52):
+we now have this giant fight over Israel,
+
+Scott (01:25:55):
+Palestine and dividing the MAGA movement over Israel,
+
+Scott (01:25:58):
+Palestine,
+
+Scott (01:25:59):
+when that should be such a peripheral interest to the American people.
+
+Scott (01:26:03):
+But the thing of it is, and they're right about that.
+
+Scott (01:26:07):
+I don't want to have a dog in that fight.
+
+Scott (01:26:08):
+But the whole thing is we do have a dog in the fight.
+
+Scott (01:26:12):
+It's the same with all of this stuff.
+
+Scott (01:26:14):
+Why should the American people care about foreign policy?
+
+Scott (01:26:17):
+One, they shouldn't at all have to.
+
+Scott (01:26:20):
+But they do have to because America is the world empire.
+
+Scott (01:26:25):
+And it is a terrible irony because our ancestors are the people who fled the old world.
+
+Scott (01:26:29):
+So they could just come here and be free,
+
+Scott (01:26:31):
+mind their own business,
+
+Scott (01:26:32):
+leave other people alone and be left alone.
+
+Scott (01:26:35):
+Running from empire.
+
+Scott (01:26:36):
+That's right.
+
+Scott (01:26:37):
+And yet America is the most powerful country in the history of the world and
+
+Scott (01:26:41):
+exercises that authority mercilessly.
+
+Scott (01:26:44):
+And as the great advocate of the American empire,
+
+Scott (01:26:47):
+William Buckley said,
+
+Scott (01:26:49):
+the American people will just have to tolerate a totalitarian bureaucracy on our shores.
+
+Scott (01:26:56):
+in order to protect us from all the foreign enemies,
+
+Scott (01:26:59):
+in that case,
+
+Scott (01:27:00):
+the Soviet commies and the Cold War.
+
+Scott (01:27:02):
+But whatever.
+
+Scott (01:27:03):
+It's the permanent crisis,
+
+Scott (01:27:05):
+the permanent emergency,
+
+Scott (01:27:07):
+and the world empire necessitates an all-powerful domestic empire to keep...
+
+Scott (01:27:13):
+The country in line so that it can be its resources can be marshaled to wage the world empire.
+
+Scott (01:27:18):
+When,
+
+Scott (01:27:19):
+in fact,
+
+Scott (01:27:20):
+if we didn't have a world empire,
+
+Scott (01:27:21):
+we find that we don't really need Washington,
+
+Scott (01:27:23):
+D.C.
+
+Scott (01:27:24):
+very much at all.
+
+Scott (01:27:26):
+It wouldn't just be the Department of Education would be the Department of
+
+Scott (01:27:28):
+Everything would be being dismantled right now.
+
+Scott (01:27:31):
+We really don't need him at all.
+
+Scott (01:27:32):
+And we could have.
+
+Scott (01:27:34):
+you know,
+
+Scott (01:27:34):
+representative democracy on the state level where the people's voices might actually,
+
+Scott (01:27:41):
+you know,
+
+Scott (01:27:41):
+have a say in policy whatsoever,
+
+Scott (01:27:44):
+where in in national politics,
+
+Scott (01:27:46):
+we don't and clearly in foreign policy.
+
+Scott (01:27:48):
+And I've had the most expert experts agree with me with a shrug like there's just no argument.
+
+Scott (01:27:54):
+The Israelis and the Turks and the British and the Saudis have a hell of a lot more
+
+Scott (01:28:03):
+to do with determining American foreign policy than the American people.
+
+Scott (01:28:07):
+That's right.
+
+Scott (01:28:08):
+We're not even considered.
+
+Scott (01:28:09):
+We're here just to be the taxpayers and the fathers of the soldiers to go and fight
+
+Scott (01:28:16):
+in the thing.
+
+Scott (01:28:17):
+They're going to have a committee meeting where the Brits and the Saudis and the
+
+Scott (01:28:21):
+Israelis decide who Americans should attack next.
+
+Scott (01:28:24):
+And their think tanks and George Soros and all of these guys have nothing to do
+
+Scott (01:28:29):
+with the people of this country at all,
+
+Scott (01:28:31):
+have no allegiance to the people of this country at all.
+
+Scott (01:28:34):
+They get to decide what we're going to do while the American people only find out later.
+
+Hovik (01:28:40):
+Scott, thank you.
+
+Hovik (01:28:43):
+This was a very interesting discussion and we didn't even get to cover Iran or any,
+
+Hovik (01:28:47):
+a lot of other things that we want to talk about.
+
+Hovik (01:28:49):
+But I think it's, you know, we need a break.
+
+Hovik (01:28:52):
+I think you need a break.
+
+Hovik (01:28:53):
+This was, you know, your energy is very admirable.
+
+Hovik (01:28:57):
+So Scott is the author of Provoked.
+
+Hovik (01:29:01):
+Sorry.
+
+Hovik (01:29:02):
+Yeah, Provoked, I guess it's.
+
+Asbed (01:29:04):
+Yeah, it's hard to see.
+
+Hovik (01:29:05):
+Well, it's out of focus.
+
+Scott (01:29:06):
+Hold it back.
+
+Asbed (01:29:07):
+We'll have a link in the show notes.
+
+Scott (01:29:09):
+There you go.
+
+Scott (01:29:12):
+Thank you both very much for having me.
+
+Scott (01:29:14):
+It's been great.
+
+Asbed (01:29:15):
+Thank you, Scott.
+
+Asbed (01:29:16):
+We'll talk to you again.
+
+Scott (01:29:17):
+Absolutely.
+
+Scott (01:29:18):
+Y'all have a great night.
+
+Asbed (01:29:18):
+Take care.
+
+Hovik (01:29:19):
+Take care.
+
+Hovik (01:29:21):
+So we've been talking with Scott Horton,
+
+Hovik (01:29:23):
+an American radio host,
+
+Hovik (01:29:25):
+author,
+
+Hovik (01:29:25):
+and prominent voice in the libertarian anti-war movement.
+
+Hovik (01:29:29):
+He is the editorial director of the Libertarian Institute, as well as antiwar.com.
+
+Hovik (01:29:34):
+And he's the host of the Scott Horton Show,
+
+Hovik (01:29:37):
+where he has conducted thousands of interviews with experts on foreign policy,
+
+Hovik (01:29:41):
+war,
+
+Hovik (01:29:41):
+and civil liberties.
+
+Hovik (01:29:43):
+He also hosts anti-war radio on 90.7 FM KPFK in Los Angeles.
+
+Hovik (01:29:49):
+For more information on all of us,
+
+Hovik (01:29:52):
+including Scott Horton,
+
+Hovik (01:29:53):
+you can go to podcasts.groong.org slash episode-number.
+
+Hovik (01:29:57):
+And I believe this is episode 433.
+
+Hovik (01:30:02):
+I'm Hovik Manucharyan, temporarily in Los Angeles.
+
+Asbed (01:30:06):
+And I'm Asbed Bedrossian, also in Los Angeles.
+
+Asbed (01:30:09):
+Please find us on social media.
+
+Asbed (01:30:11):
+You know where to find our links.
+
+Asbed (01:30:15):
+Please COMMENT, LIKE, and SHARE our shows with your friends.
+
+Asbed (01:30:19):
+And even better,
+
+Asbed (01:30:20):
+become a sustaining member of our podcast by giving through our Patreon and
+
+Asbed (01:30:25):
+BuyMeACoffee pages.
+
+Asbed (01:30:27):
+You can find those at podcasts.groong.org / donate.
+
+Asbed (01:30:31):
+Nothing wrong with becoming one of our Surj Sponsors or Lahmajun Luminaries or
+
+Asbed (01:30:37):
+Harisa Humanitarians.
+
+Asbed (01:30:39):
+Let's become BFFs.
+
+Asbed (01:30:42):
+Thanks for listening.
+
+Asbed (01:30:43):
+We'll talk to you soon.
+
+Hovik (01:30:45):
+Bye-bye.
