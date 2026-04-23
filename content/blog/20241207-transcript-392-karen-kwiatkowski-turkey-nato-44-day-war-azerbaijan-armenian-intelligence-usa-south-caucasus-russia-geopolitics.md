@@ -35,7 +35,7 @@ tags = ["Armenian News", "Armenia", "Nagorno Karabakh", "Artsakh", "Karen Kwiatk
 
 > **Warning:** This is a rush transcript generated automatically and may contain errors.
 
-**Asbed:** Hello and welcome to this episode of Conversations on Groom. Today we're diving into regional developments in the greater Middle East and beyond with intelligence expert, author and scholar, Lieutenant Colonel Karen Katowski, retired. We'll also explore the role of Turkey as a NATO member in the 44-day war.
+**Asbed:** Hello and welcome to this episode of Conversations on Groong. Today we're diving into regional developments in the greater Middle East and beyond with intelligence expert, author and scholar, Lieutenant Colonel Karen Katowski, retired. We'll also explore the role of Turkey as a NATO member in the 44-day war.
 
 **Hovik:** This promises to be a fascinating discussion, so stay tuned. But before we begin, a quick reminder for our listeners. If you enjoy deep dive coverage of Armenia, the South Caucasus and beyond, please hit the subscribe button. I don't know if it's over here or if it's over here, but it's somewhere over there.
 
@@ -511,4 +511,4 @@ I'm Aspet Bedrosyan.
 
 **Asbed:** And don't forget to comment on this episode. Let us know what you think.
 
-**Hovik:** And support us. Go to podcast.groom.org slash donate and help us out. Thanks for listening. We'll talk to you soon.
+**Hovik:** And support us. Go to podcast.groong.org slash donate and help us out. Thanks for listening. We'll talk to you soon.

@@ -43,7 +43,7 @@ tags = ["Jeffrey Sachs", "Armenia", "Azerbaijan", "Syria", "USA", "Turkey", "Rus
 
 So please continue the dialogue in the comments section.
 
-**Hovik:** And lastly, if you enjoy this podcast, please consider supporting us. Your help will make it easier for us, Aspet and I, who volunteer our time to produce quality content. Visit podcast.groom.org slash donate for details. All right, without further ado, let's go to the interview.
+**Hovik:** And lastly, if you enjoy this podcast, please consider supporting us. Your help will make it easier for us, Asbed and I, who volunteer our time to produce quality content. Visit podcast.groom.org slash donate for details. All right, without further ado, let's go to the interview.
 
 **Jeffrey:** Professor Jeffrey Sachs, welcome to the show.
 
@@ -279,8 +279,8 @@ He's had a very long career and very, very busy man. Please take a look at his b
 
 We're doing this to have Armenian issues reach a wider audience, and anything you can do in that regard would be much appreciated.
 
-**Jeffrey:** Absolutely. Well, I'm Aspet Bedrosyan.
+**Jeffrey:** Absolutely. Well, I'm Asbed Bedrosyan.
 
-**Hovik:** And I'm Hobartik Manucharyan.
+**Hovik:** And I'm Hovik Manucharyan.
 
 **Jeffrey:** So please find us on social media and follow us everywhere you get your Armenian news. The links are in the show notes. Thanks for listening. And goodbye.

@@ -38,7 +38,7 @@ In this Conversations on Groong episode, we speak with longtime antiwar author a
 
 **Asbed:** Hello, everyone, and welcome to this Conversations on Groong episode. Today, we're speaking with Scott Horton, author, radio host, and editorial director of Antiwar.com and the Libertarian Institute. With over 6,000 interviews under his belt, Scott has long challenged U.S. foreign policy. His new book, Provoked, argues that the 2022 invasion of Ukraine wasn't unprovoked, but the result of decades of Western escalation.
 
-**Hovik:** But before that, a brief interruption from your least annoying sponsor, us. If you like what we do, consider fueling our caffeine addiction and keeping the lights on at Groom as well. You can go to podcasts.groong.org / donate and you'll find links to our Patreon and BuyMeACoffee pages. But, of course, we don't want to break your bank, so the algorithm gods do accept other offerings, including likes, comments, and shares with your friends, enemies, coworkers, and that one guy from Twitter who always is wrong.
+**Hovik:** But before that, a brief interruption from your least annoying sponsor, us. If you like what we do, consider fueling our caffeine addiction and keeping the lights on at Groong as well. You can go to podcasts.groong.org / donate and you'll find links to our Patreon and BuyMeACoffee pages. But, of course, we don't want to break your bank, so the algorithm gods do accept other offerings, including likes, comments, and shares with your friends, enemies, coworkers, and that one guy from Twitter who always is wrong.
 
 It really helps us, so we appreciate it. All right, enough groveling for your grub. Let's get to it.
 
