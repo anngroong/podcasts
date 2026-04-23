@@ -35,7 +35,7 @@ tags = ["Jeffrey Sachs", "Armenia", "Azerbaijan", "Syria", "USA", "Turkey", "Rus
 
 > **Warning:** This is a rush transcript generated automatically and may contain errors.
 
-**Jeffrey:** Hello and welcome to this Conversations on Grung episode. Today, we're talking with the world famous scholar Jeffrey Sachs, who is a renowned economist, a recognized public policy expert, and a professor of sustainable development, poverty alleviation, and global economic policy. We'll talk about the recent escalation in Syria, as well as his impressions about the recent trip that he had to Armenia and Azerbaijan.
+**Jeffrey:** Hello and welcome to this Conversations on Groong episode. Today, we're talking with the world famous scholar Jeffrey Sachs, who is a renowned economist, a recognized public policy expert, and a professor of sustainable development, poverty alleviation, and global economic policy. We'll talk about the recent escalation in Syria, as well as his impressions about the recent trip that he had to Armenia and Azerbaijan.
 
 **Hovik:** Folks, we think you will enjoy the show greatly, so please stay tuned. But before we begin, a quick reminder.
 
@@ -43,7 +43,7 @@ tags = ["Jeffrey Sachs", "Armenia", "Azerbaijan", "Syria", "USA", "Turkey", "Rus
 
 So please continue the dialogue in the comments section.
 
-**Hovik:** And lastly, if you enjoy this podcast, please consider supporting us. Your help will make it easier for us, Asbed and I, who volunteer our time to produce quality content. Visit podcast.groom.org slash donate for details. All right, without further ado, let's go to the interview.
+**Hovik:** And lastly, if you enjoy this podcast, please consider supporting us. Your help will make it easier for us, Asbed and I, who volunteer our time to produce quality content. Visit podcasts.groong.org slash donate for details. All right, without further ado, let's go to the interview.
 
 **Jeffrey:** Professor Jeffrey Sachs, welcome to the show.
 
@@ -273,7 +273,7 @@ So it gave us an opportunity to dive deeper into some of the areas.
 
 **Jeffrey:** Well, so this episode was recorded on December 4th, 2024. And as you know, we've been talking with Professor Jeffrey Sachs, who is the president of the UN Sustainable Development Solutions Network and director of the Center for Sustainable Development at Columbia University. He is the author of many bestselling books, including The End of Poverty and the Ages of Globalization. Now, the credentials for Professor Sachs are very long.
 
-He's had a very long career and very, very busy man. Please take a look at his bio through our pages, our show notes, podcast.grung.org slash episode number. Thank you for listening.
+He's had a very long career and very, very busy man. Please take a look at his bio through our pages, our show notes, podcasts.groong.org slash episode number. Thank you for listening.
 
 **Hovik:** Folks, before we go, please don't forget to subscribe. Add a comment, drop a comment, let us know how we're doing, and share our show with your friends. It really helps us. We are doing this for you.
 

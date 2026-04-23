@@ -34,9 +34,9 @@ categories = ["Russia", "Ukraine", "Video", "World Order"]
 
 > **Warning:** This is a rush transcript generated automatically and may contain errors.
 
-**Asbed:** Welcome to this Conversations on Groong episode. Today, we're talking about Russia and the incoming New World Order. We have with us Dr. Glenn Deason of the University of Southeast Norway.
+**Asbed:** Welcome to this Conversations on Groong episode. Today, we're talking about Russia and the incoming New World Order. We have with us Dr. Glenn Diesen of the University of Southeast Norway.
 
-Hello, Dr. Deason. Welcome to the show.
+Hello, Dr. Diesen. Welcome to the show.
 
 **Glenn:** Hi, good to meet both of you.
 
@@ -98,7 +98,7 @@ And that's all they hear. So the objective reality doesn't really matter. It's a
 
 And so again, this is why I think people become very misinformed.
 
-**Hovik:** Professor Deason, I want to talk a little bit about your book, which we briefly mentioned. And it seems like, as I said, the book was well received, 4.7 stars on Amazon. And a glowing review from John Mearsheimer, who said that this book is, I'm quoting, a must read for anyone who wants to understand the great shift in the global distribution of power that is taking place before our eyes. And the title of the book is The Ukraine War and the Eurasian World Order.
+**Hovik:** Professor Diesen, I want to talk a little bit about your book, which we briefly mentioned. And it seems like, as I said, the book was well received, 4.7 stars on Amazon. And a glowing review from John Mearsheimer, who said that this book is, I'm quoting, a must read for anyone who wants to understand the great shift in the global distribution of power that is taking place before our eyes. And the title of the book is The Ukraine War and the Eurasian World Order.
 
 So what is the main thesis of your book?
 
@@ -214,13 +214,13 @@ So we're walking down a very dangerous path at the moment. And the more Ukraine 
 
 We will have a direct war and it will end terribly for everyone.
 
-**Asbed:** Hovig, let's just take a moment here. We'd like to remind our listeners to go to our donate page, podcasts.grung.org slash donate, or just go to podcasts.grung.org, and there's a donate link there, and consider buying us a coffee, or better yet, become a sustaining member of Grung through our Patreon link and give us monthly.
+**Asbed:** Hovig, let's just take a moment here. We'd like to remind our listeners to go to our donate page, podcasts.groong.org slash donate, or just go to podcasts.groong.org, and there's a donate link there, and consider buying us a coffee, or better yet, become a sustaining member of Groong through our Patreon link and give us monthly.
 
 **Hovik:** You know, there aren't that many shows like us who digest Armenian news weekly and bring you interesting discussions relevant to it in English language and in a regular manner. We've always operated as a labor of love and we're not only nonprofit, but we're also non-budget, unfortunately. So we rely on listeners like you to help us. Just two to three friends who have committed our lifetime and effort to understand the world around Armenians and Armenia and sharing that understanding with you.
 
 **Asbed:** So we will continue to do our work as we always have, but your support will help us expand our reach to more people who are interested in Armenian affairs around the world.
 
-**Hovik:** So please visit our donate page. Again, podcast.groom.org forward slash donate and consider supporting us. Thank you in advance. We appreciate your listening to us and we take that trust and your support very seriously.
+**Hovik:** So please visit our donate page. Again, podcasts.groong.org forward slash donate and consider supporting us. Thank you in advance. We appreciate your listening to us and we take that trust and your support very seriously.
 
 **Asbed:** Thank you. Thank you.
 
@@ -384,7 +384,7 @@ And I'm just wondering, how does one... prove or disprove whether Turkey could h
 
 **Hovik:** Well, I mean, it just continues the thesis, which is that the West could have, I mean, I don't know if they willingly did it, but maybe at some point they said, oh, look, here's an opportunity. Let's get Turkey involved through NATO. And Turkey willingly did that because they knew this was coming. I'm not sure.
 
-We don't want to engage in too much conspiracy theories. But I mean, does this seem plausible to you, Professor Deason?
+We don't want to engage in too much conspiracy theories. But I mean, does this seem plausible to you, Professor Diesen?
 
 **Glenn:** Well, in Ukraine, I think the role of NATO has been quite profound and not just the weapons, the training, the munition, the military planning, providing intelligence, they contributed with targeting, even managing complex weapon systems, the organized mercenaries. Keep in mind during the counteroffensive last year, Ukrainian generals complained in the Washington Post that they didn't want to do this counteroffensive because it would lose too many men, but they were pressured by the Americans. So the idea that the Americans are just sitting on the side, not contributing here, I think that now seems ridiculous.
 
@@ -418,13 +418,13 @@ Whenever we go anywhere in the world, what is our main objective? When we deal w
 
 Let's cut ties with the Russians or any other adversaries. And I think, yeah, this is how you maintain unipolarity. And I think that would have been a trap for the Russians if they would have gone in.
 
-**Asbed:** All right, well, let's leave it there for today. Thank you very much, Dr. Deason, for joining us today. We appreciate your time.
+**Asbed:** All right, well, let's leave it there for today. Thank you very much, Dr. Diesen, for joining us today. We appreciate your time.
 
-**Hovik:** Professor Deason, thanks for joining us. Yeah, thank you so much. Let's do it again sometimes.
+**Hovik:** Professor Diesen, thanks for joining us. Yeah, thank you so much. Let's do it again sometimes.
 
 **Asbed:** We will definitely talk again. Bye-bye. That's our show today. This episode was recorded on August 30th, 2024.
 
-We've been talking with Dr. Glenn Deason, who is a professor at the University of Southeastern Norway, an associate editor of Russia and Global Affairs, and editor of Political Economy, Russian Foreign Policy, and Eurasian Integration. For more on Dr. Deason and our show, please check our pages through our show notes at podcasts.grung.org.
+We've been talking with Dr. Glenn Diesen, who is a professor at the University of Southeastern Norway, an associate editor of Russia and Global Affairs, and editor of Political Economy, Russian Foreign Policy, and Eurasian Integration. For more on Dr. Diesen and our show, please check our pages through our show notes at podcasts.groong.org.
 
 I'm Asped Bedrosian.
 

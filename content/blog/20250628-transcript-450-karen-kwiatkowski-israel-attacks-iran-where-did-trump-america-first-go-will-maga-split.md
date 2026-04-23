@@ -41,7 +41,7 @@ We'll also look at Israel's role, Congress's silence, and what it all means for 
 
 **Hovik:** But before we get into it, Trump says that bombing Iran is part of Making America Great Again. We say it's time to make analysis great again. competent, interesting analysis. While some MAGA influencers are busy justifying a brand new forever war, we're over here asking the real questions, bringing you the voices that mainstream media want. So if you're tired of the spin and want more honest, critical conversations like this, hit that button on Apple Podcasts and Spotify and subscribe to us wherever you listen to us, actually.
 
-And if you can spare a few bucks not already pledged to Lockheed Martin, why not give it to us, podcast.groom.org slash donate, and your support will help keep us going and help keep spreading the message. Now on with the show.
+And if you can spare a few bucks not already pledged to Lockheed Martin, why not give it to us, podcasts.groong.org slash donate, and your support will help keep us going and help keep spreading the message. Now on with the show.
 
 **Asbed:** Lieutenant Colonel Karen Kwiatowski, welcome back to the Groong podcast.
 

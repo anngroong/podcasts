@@ -35,15 +35,15 @@ tags = ["Armenian News", "Armenia", "Nagorno Karabakh", "Artsakh", "Karen Kwiatk
 
 > **Warning:** This is a rush transcript generated automatically and may contain errors.
 
-**Asbed:** Hello and welcome to this episode of Conversations on Groong. Today we're diving into regional developments in the greater Middle East and beyond with intelligence expert, author and scholar, Lieutenant Colonel Karen Katowski, retired. We'll also explore the role of Turkey as a NATO member in the 44-day war.
+**Asbed:** Hello and welcome to this episode of Conversations on Groong. Today we're diving into regional developments in the greater Middle East and beyond with intelligence expert, author and scholar, Lieutenant Colonel Karen Kwiatkowski, retired. We'll also explore the role of Turkey as a NATO member in the 44-day war.
 
 **Hovik:** This promises to be a fascinating discussion, so stay tuned. But before we begin, a quick reminder for our listeners. If you enjoy deep dive coverage of Armenia, the South Caucasus and beyond, please hit the subscribe button. I don't know if it's over here or if it's over here, but it's somewhere over there.
 
 We're the only comprehensive English language podcast focused on Armenia and the region, bringing you long form interviews like this one with experts across a variety of fields. Now, if you're watching this on YouTube, drop us a comment. We love to read your feedback. So please continue the dialogue in the comment section.
 
-And lastly, if you enjoy this podcast, please consider supporting us. Your help will make it easier for us to produce quality content. So visit podcast.grung.org slash donate and help us. All right, let's get back to our discussion.
+And lastly, if you enjoy this podcast, please consider supporting us. Your help will make it easier for us to produce quality content. So visit podcasts.groong.org slash donate and help us. All right, let's get back to our discussion.
 
-Karen Kutowski, we're really thrilled to have you on the show. Welcome to Grung.
+Karen Kwiatkowski, we're really thrilled to have you on the show. Welcome to Groong.
 
 **Karen:** Well, thank you for having me.
 
@@ -73,7 +73,7 @@ But now I was working in the midst of them. And we were planning in 2000, well, 
 
 You know, we don't want to go into 9-11. There's a lot of blame to go around lots of places. But the idea was that this 9-11, this new Pearl Harbor that many neocons had been writing about and hoping for would allow the U.S. to go in, and of course NATO with it, to go into Iraq and topple it. So I'm looking at, I'm doing my job writing policy papers, seeing intelligence.
 
-And what's weird is we're also seeing newspaper flippings because when you're in the Pentagon, they make sure you see a collection of media on a daily basis. And I love reading the newspaper, so to speak, although it was online. And I noticed that some of the things that were in our intelligence, our classified word for word, were showing up in the New York Times and the Washington Post. I'm like, my goodness, this is bad.
+And what's weird is we're also seeing newspaper clippings because when you're in the Pentagon, they make sure you see a collection of media on a daily basis. And I love reading the newspaper, so to speak, although it was online. And I noticed that some of the things that were in our intelligence, our classified word for word, were showing up in the New York Times and the Washington Post. I'm like, my goodness, this is bad.
 
 Why would they share that? And little by little, of course, it was all about shaping the American populace and shaping the Congress to support a war in Iraq, an invasion and second invasion of Iraq, of course, in 2003. And much of it was based on lies. Of course, the lie part I figured out also, but most of the people in the Pentagon knew what I knew.
 
@@ -333,9 +333,9 @@ And we are now seeing a government that is making concession after concession an
 
 I should also say that after the war in 2020, there was still a population of 120,000 Armenians were left in Nagorno-Karabakh out of the original 150,000. 30,000 fled during the war. And then last year, a year ago, for those who are not familiar, the remaining 120,000 were ethnically cleansed out of their centuries-old homeland.
 
-Nagorno-Garabakh for Armenians is sacred land, and it's the most ancient piece of land that Armenians maintained a contiguous existence on so it is uh it is particularly i mean i don't want to you know be emotional but it's particularly devastating time for armenians to be an armenian and unfortunately we're our our grief is overshadowed by more global things like ukraine gaza and everything not that we uh not that western media cared about us at all like in the past but anyway so when we were talking with Glenn Deason, episode 359 of our podcast, we asked him whether the war in 2020 was a trap set up for Russia because we knew that the wheels for the Ukraine war were already in motion.
+Nagorno-Garabakh for Armenians is sacred land, and it's the most ancient piece of land that Armenians maintained a contiguous existence on so it is uh it is particularly i mean i don't want to you know be emotional but it's particularly devastating time for armenians to be an armenian and unfortunately we're our our grief is overshadowed by more global things like ukraine gaza and everything not that we uh not that western media cared about us at all like in the past but anyway so when we were talking with Glenn Diesen, episode 359 of our podcast, we asked him whether the war in 2020 was a trap set up for Russia because we knew that the wheels for the Ukraine war were already in motion.
 
-There was a RAND, 2019 RAND Corporation report titled Extending Russia that cynically, almost like Machiavelli wrote it, it was talking about how the US and how the West could exploit various conflicts in the region, including the South Caucasus, to strain Russia's resources to occupy it and to... divert its attention. So Glenn Deason, in that discussion, he said that if Russia intervened on the side of Armenians, it would have a huge problem with Turkey and Azerbaijan right now. As we know, Russia is providing gas to Azerbaijan, and Azerbaijan is rebranding that gas as Azeri and selling it to Europe.
+There was a RAND, 2019 RAND Corporation report titled Extending Russia that cynically, almost like Machiavelli wrote it, it was talking about how the US and how the West could exploit various conflicts in the region, including the South Caucasus, to strain Russia's resources to occupy it and to... divert its attention. So Glenn Diesen, in that discussion, he said that if Russia intervened on the side of Armenians, it would have a huge problem with Turkey and Azerbaijan right now. As we know, Russia is providing gas to Azerbaijan, and Azerbaijan is rebranding that gas as Azeri and selling it to Europe.
 
 It's a very critical piece of resources for Europe itself. And that's why we're seeing European diplomats and politicians kneeling in front of the dictator in Azerbaijan for anything for that gas and for that energy. And if Russia didn't intervene in that war, then it would risk alienating Armenians, which it did. And another point in that Grant Corporation report, we will link it in our documents, in our show notes, but it actually talks about Azerbaijan being a very attractive geographic position for intelligence gathering against Iran and Russia.
 
@@ -411,7 +411,7 @@ He said, do not trust the United States.
 
 Yet Azerbaijan was not able to achieve success at that time. And many analysts that we talked to argue that Turkey's involvement in this war as opposed to previous cases where it was mostly hands-off or declarative, was the key determinant of the outcome. Basically, 95% of the analysts believed that Turkey's involvement was the number one determining factor. And while Turkey didn't commit huge troops to the war, it sent Syrian mercenaries.
 
-The same ones that are in Idlib today were in Azerbaijan in 2020. And then they invaded Arabakh. There were reports that Turkish special forces were taking part in that war. In fact, they participated in the military parade after the war in Baku, where both Erdogan and Aliyev were present.
+The same ones that are in Idlib today were in Azerbaijan in 2020. And then they invaded Karabakh. There were reports that Turkish special forces were taking part in that war. In fact, they participated in the military parade after the war in Baku, where both Erdogan and Aliyev were present.
 
 Four or more Turkish generals were incorporated directly under the Azerbaijani military command. The drone war was reportedly being controlled from AWACS aircraft on Turkish airspace, but with full view of the battlefields and everything. And Erdogan, lastly, just like last year when the Israel thing was heating up, Erdogan boasted that just like we entered Karabakh, we can enter Israel too. So Turkish denials that it was not involved, you know, against all this evidence that I pointed, just like they're saying they're not involved in Idlib today.
 
@@ -499,9 +499,9 @@ We expected that, so it's not a surprise. Karen, thank you so much for coming on
 
 **Asbed:** Thank you, Karen.
 
-**Hovik:** That's our show today. This episode was recorded on December 2nd, 2024. We've been talking with Lieutenant Colonel Karen Kutowski, who is a retired U.S. Air Force officer who served at the Pentagon and the NSA.
+**Hovik:** That's our show today. This episode was recorded on December 2nd, 2024. We've been talking with Lieutenant Colonel Karen Kwiatkowski, who is a retired U.S. Air Force officer who served at the Pentagon and the NSA.
 
-She is known for her critiques of U.S. military intelligence and its political influences, particularly leading up to the Iraq War. Kutowski has authored books on African military operations and contributed to works on liberty and foreign policy. She holds advanced degrees from Harvard, the University of Alaska, and the Catholic University of America, where her PhD focused on Angola and the Reagan doctrine. She's also a founding member of Veteran Intelligence Professionals for Sanity organization.
+She is known for her critiques of U.S. military intelligence and its political influences, particularly leading up to the Iraq War. Kwiatkowski has authored books on African military operations and contributed to works on liberty and foreign policy. She holds advanced degrees from Harvard, the University of Alaska, and the Catholic University of America, where her PhD focused on Angola and the Reagan doctrine. She's also a founding member of Veteran Intelligence Professionals for Sanity organization.
 
 I'm Aspet Bedrosyan.
 
@@ -511,4 +511,4 @@ I'm Aspet Bedrosyan.
 
 **Asbed:** And don't forget to comment on this episode. Let us know what you think.
 
-**Hovik:** And support us. Go to podcast.groong.org slash donate and help us out. Thanks for listening. We'll talk to you soon.
+**Hovik:** And support us. Go to podcasts.groong.org slash donate and help us out. Thanks for listening. We'll talk to you soon.

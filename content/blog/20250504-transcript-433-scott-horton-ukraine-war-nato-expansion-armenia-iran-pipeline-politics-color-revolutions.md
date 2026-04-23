@@ -184,7 +184,7 @@ Now, gentlemen, I got to tell you, I don't watch primetime broadcast TV, but I k
 
 But once I did read that, I was like, oh, well, he's just going to win. I mean, what are you going to do? This guy, people know him. They feel like they know him.
 
-In a way, you know, like like only you can like you relate to your most personal, like your favorite sports broadcast or your your or your, you know, FN morning show on your drive to work for the last 20 years. The same two guys, Bob and Jim or whatever they are in your town who do the morning drive. You know what I mean? Like people really know Trump.
+In a way, you know, like like only you can like you relate to your most personal, like your favorite sports broadcast or your your or your, you know, FM morning show on your drive to work for the last 20 years. The same two guys, Bob and Jim or whatever they are in your town who do the morning drive. You know what I mean? Like people really know Trump.
 
 Of course he won against Hillary Clinton, the most hated woman in the society. That's who you ran. But they said, nope, it must have been stolen. It couldn't have been legit that the most famous American ever won as the Republican.
 

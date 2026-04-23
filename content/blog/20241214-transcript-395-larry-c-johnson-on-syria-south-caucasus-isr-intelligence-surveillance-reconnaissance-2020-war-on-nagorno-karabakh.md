@@ -43,7 +43,7 @@ Johnson a former CIA analyst and State Department counterterrorism officer speci
 
 And if you're watching this on YouTube, then drop us a comment. We'd love to read your feedback, so please continue the dialogue in the comments section.
 
-**Asbed:** And lastly, if you enjoy this podcast, please consider supporting us. Your help will make it easier for us to produce quality content. Visit podcast.groong.org / donate for details. All right, let's get on with our show now.
+**Asbed:** And lastly, if you enjoy this podcast, please consider supporting us. Your help will make it easier for us to produce quality content. Visit podcasts.groong.org / donate for details. All right, let's get on with our show now.
 
 Mr. Larry Johnson, welcome to the show. Hey, thanks for having me.
 

@@ -47,7 +47,7 @@ So the quick question I have is how do you read what happened in Islamabad and i
 
 **Hrant:** Frankly speaking, I see a very low credibility of peace chance right now. And there are at least two major reasons. And it's difficult to say which one is more important. The reason number one is that there is a very strong disruptor of peace.
 
-And it is Israeli leadership who is Benjamin Netanyahu, who has reportedly called J.D. Vance, talked to him and discussed. And not only that, of course, he has several times striked Lebanon with very brutal attack on civilians too. creates all the possibilities for continuing the war. So he does whatever is possible and many Israeli politicians thought that this deal, especially that it did not include Israel, is not good for Israel.
+And it is Israeli leadership who is Benjamin Netanyahu, who has reportedly called J.D. Vance, talked to him and discussed. And not only that, of course, he has several times struck Lebanon with very brutal attack on civilians too. creates all the possibilities for continuing the war. So he does whatever is possible and many Israeli politicians thought that this deal, especially that it did not include Israel, is not good for Israel.
 
 And that's why they are disrupting this deal. And it is a very important reason why it doesn't work. Another reason is that As of now, both US, I mean Trump and Iranian leadership are killing themselves in a corner. So they need to somehow win in this situation, especially Trump, since the ceasefire seemed to be more beneficial to Iranians, since the attacker was the United States and Israel.
 
@@ -57,7 +57,7 @@ Vance came out was either take what we're suggesting Or there will be a war. So 
 
 Although I would say that at least there is a second or one and a half track which is still ongoing. Obviously, there are negotiations, discussions, talks and so on. But politically, situation is not ready for peace. And what else are we observing is that U.S. is intensively rearming itself and Israel, obviously before the second round.
 
-So what Trump found out was that Iranian leadership did not collapse and it started running out of ammunition and weaponry, which it needed to attack Iran and the personnel which he had in the region was not sufficient. They started moving more personal, more ammunition and so on, but it was not sufficient to because the channels are not that wide and the supply lines are very long and many countries refuse to participate. So there is an air bridge and we have seen through some pictures from flight radar that there is very intense intense supply through UK, then Eastern Europe, and then the Gulf countries.
+So what Trump found out was that Iranian leadership did not collapse and it started running out of ammunition and weaponry, which it needed to attack Iran and the personnel which he had in the region was not sufficient. They started moving more personnel, more ammunition and so on, but it was not sufficient to because the channels are not that wide and the supply lines are very long and many countries refuse to participate. So there is an air bridge and we have seen through some pictures from flight radar that there is very intense intense supply through UK, then Eastern Europe, and then the Gulf countries.
 
 And I assume that there is a preparation for the second round. Maybe US is preparing for the limited ground strike. So that's what I expect. And maybe in one week or maybe even later, when they will gather all forces, they will try it again.
 
@@ -93,7 +93,7 @@ But at the same time, I think that Erdogan will lose his influence, which he had
 
 **Asbed:** Hrant, one of the things that we notice is how the opposition coalesce around one candidate to defeat Orban. Is there some kind of a lesson here for the Armenian opposition in the upcoming elections in June?
 
-**Hrant:** Frankly speaking, it is not. And I'll try to explain why. Because those opposition groups and opposition parties which supported Peter Madhyar are very different. It's a very wide coalition, which looks very similar to what there was in Israel several years ago, like five years ago, if I'm not mistaken.
+**Hrant:** Frankly speaking, it is not. And I'll try to explain why. Because those opposition groups and opposition parties which supported Peter Magyar are very different. It's a very wide coalition, which looks very similar to what there was in Israel several years ago, like five years ago, if I'm not mistaken.
 
 So the issue is here that to unite such a different coalition, and by the way, Armenian opposition is not such diverse as Hungarian opposition, but still to unite such a big variety of groups you need an external force who will do this work and there was such force in Israel it was a US Biden administration there was such force in Hungary it was Brussels and there is no such force in Armenia so I think this is the difference if we look at it objectively because again the Foreign influence is there on both sides in Hungary, but EU side played, let's say, more technologically.
 
@@ -143,7 +143,7 @@ And in reality, this kind of peace is. But, you know, if you analyze the semanti
 
 Another thing which is important is that Iran's support is very strong. So, according to this poll, 58% support Iran, and just 3.3% support US and Israel. Yeah, we'll cover actually the Iran question separately, but yeah. Okay, but what is important here is that since US, since Trump was broker of that peace, or fake peace process, to be honest, because nothing about trip and the so-called peace process which Pashinyan was undertaking, nothing was about lasting realistic and favoring Armenian peace.
 
-So it was just a time losing manure to win elections and to create a fake picture of peace for a couple of years before and to give more and more concessions before the new war erupts. And now what is different is that opposition during the pre-election campaign started speaking out. And as of now, they have alternative suggestion. They say they need to renegotiate the peace.
+So it was just a time-losing maneuver to win elections and to create a fake picture of peace for a couple of years before and to give more and more concessions before the new war erupts. And now what is different is that opposition during the pre-election campaign started speaking out. And as of now, they have alternative suggestion. They say they need to renegotiate the peace.
 
 They say that these conditions are unacceptable. This has been said. And they say that they need to renegotiate it with different partners while Pashinyan was negotiating it only with one partner, basically the United States and Trump. So this is a different agenda.
 
@@ -363,9 +363,9 @@ It's a basic, you know, it's just an insult. Just as Trump said lately that, you
 
 **Hrant:** Thank you, guys, for me too. Thank you, Hrant.
 
-**Asbed:** That was our show recorded on April 14, 2026. We've been talking with Hrant Mikhaelian, a political scientist and multidisciplinary researcher in social sciences in Yerevan. For more information, go to our website, podcasts.grung.org slash episode number. Check us out.
+**Asbed:** That was our show recorded on April 14, 2026. We've been talking with Hrant Mikhaelian, a political scientist and multidisciplinary researcher in social sciences in Yerevan. For more information, go to our website, podcasts.groong.org slash episode number. Check us out.
 
-**Hovik:** Send us some love, like, comment, share, or if your preferred currency for love is dollars, we accept that too, podcasts.grung.org slash donate.
+**Hovik:** Send us some love, like, comment, share, or if your preferred currency for love is dollars, we accept that too, podcasts.groong.org slash donate.
 
 **Asbed:** Share our shows. I'm Aspet Pedrosyan. And I'm Rovig Mosharyan.
 
