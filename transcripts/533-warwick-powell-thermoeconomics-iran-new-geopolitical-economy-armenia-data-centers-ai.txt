@@ -1,0 +1,4154 @@
+Asbed (00:00:05):
+The war on Iran is not just about missiles, oil, or even the Middle East.
+
+Asbed (00:00:09):
+According to our guest today,
+
+Asbed (00:00:11):
+it is also about who controls energy,
+
+Asbed (00:00:13):
+money,
+
+Asbed (00:00:14):
+technology,
+
+Asbed (00:00:14):
+and the rules of the next world order.
+
+Asbed (00:00:17):
+And as the dollar weakens, supply chains shift, and new power blocks take shape.
+
+Asbed (00:00:23):
+Where does that leave small states like Armenia?
+
+Asbed (00:00:25):
+And how is all of this tied to TRIPP, SMRs, and AI data centers in Armenia?
+
+Asbed (00:00:30):
+Stay tuned.
+
+Asbed (00:00:31):
+You're going to find out a little bit more about this stuff.
+
+Asbed (00:00:34):
+We are being joined by Professor Warwick Powell,
+
+Asbed (00:00:37):
+who is of the University of Queensland in Australia,
+
+Asbed (00:00:40):
+and also the Taihe Institute in Beijing.
+
+Asbed (00:00:43):
+His research straddles the intersection of digital innovation and technologies and
+
+Asbed (00:00:48):
+international political economy.
+
+Hovik (00:00:51):
+For real folks, this is going to be an interesting discussion, so stay tuned.
+
+Hovik (00:00:54):
+But very quickly,
+
+Hovik (00:00:56):
+if you are just watching us for the first time or are not yet subscribed,
+
+Hovik (00:01:00):
+please consider subscribing.
+
+Hovik (00:01:03):
+And as a small podcast, your financial contribution means a lot.
+
+Hovik (00:01:06):
+Podcasts.groong.org/donate is the URL for helping us financially.
+
+Hovik (00:01:13):
+And last but not least, LIKE, COMMENT, and SHARE so that we can be seen by more people.
+
+Hovik (00:01:18):
+And with that, on with the show.
+
+Asbed (00:01:20):
+Dr. Warwick Powell, welcome back to the Groong Podcast.
+
+Powell (00:01:24):
+It's great to be back with both of you.
+
+Powell (00:01:25):
+It's been a while, I think.
+
+Powell (00:01:27):
+Yes, it has.
+
+Powell (00:01:27):
+A year.
+
+Powell (00:01:29):
+Wow.
+
+Powell (00:01:30):
+Now time flies.
+
+Hovik (00:01:31):
+Welcome, Professor Powell.
+
+Hovik (00:01:32):
+It's really nice to have a chance to speak to you.
+
+Hovik (00:01:36):
+You recently published a new book called Thermoeconomics in the Time of Monsters,
+
+Hovik (00:01:40):
+Rethinking Theory of
+
+Hovik (00:01:42):
+China and international geopolitical economy.
+
+Hovik (00:01:45):
+Of course, we'll include the links in the description and the show notes.
+
+Hovik (00:01:48):
+But I said to myself, what a very interesting topic and an opportune time for Armenia as well.
+
+Hovik (00:01:54):
+So I'm really excited to and looking forward to this discussion.
+
+Hovik (00:01:59):
+Now,
+
+Hovik (00:01:59):
+your book represents essentially a radical rethinking of economics as a collection
+
+Hovik (00:02:05):
+of fundamentally
+
+Hovik (00:02:07):
+metabolic systems,
+
+Hovik (00:02:08):
+as you phrase it,
+
+Hovik (00:02:09):
+where energy transformation and not just money determines survival.
+
+Hovik (00:02:14):
+So can you tell us more about your impetus to write a book,
+
+Hovik (00:02:18):
+your research,
+
+Hovik (00:02:19):
+and more details about your modeling of world economies and societies essentially
+
+Hovik (00:02:26):
+as metabolic systems?
+
+Powell (00:02:28):
+Look,
+
+Powell (00:02:29):
+in some ways,
+
+Powell (00:02:29):
+when friends of mine asked me how long did it take to write the book,
+
+Powell (00:02:32):
+I say to them,
+
+Powell (00:02:33):
+well,
+
+Powell (00:02:33):
+I started a little bit over a year ago to,
+
+Powell (00:02:36):
+in a sense,
+
+Powell (00:02:37):
+pull this particular book together.
+
+Powell (00:02:39):
+But it's taken me 35 years to think about some of these things and perhaps to
+
+Powell (00:02:46):
+become more settled in some of the
+
+Powell (00:02:49):
+ideas that I guess I've developed over that period of time and I should say at the
+
+Powell (00:02:54):
+outset that many of these ideas are in some ways a work of bricolage.
+
+Powell (00:03:00):
+They build on obviously an extensive body of work.
+
+Powell (00:03:08):
+There are a lot of smart people in the world and there have been a lot of smart
+
+Powell (00:03:11):
+people in the world and
+
+Powell (00:03:13):
+In some respects,
+
+Powell (00:03:14):
+I think of this body of work as a kind of a synthesis,
+
+Powell (00:03:19):
+but one which hopefully also contributes something new to that body of work as well
+
+Powell (00:03:25):
+that can take this kind of thinking forward.
+
+Powell (00:03:29):
+The basic idea,
+
+Powell (00:03:31):
+I guess,
+
+Powell (00:03:32):
+is that economic systems and social economic systems need to be treated
+
+Powell (00:03:37):
+holistically,
+
+Powell (00:03:39):
+and they must be understood fundamentally
+
+Powell (00:03:43):
+as the interactions between three broad domains or what I often call circuits of flow.
+
+Powell (00:03:51):
+The fundamental circuit is the metabolic energetic circuit.
+
+Powell (00:03:56):
+And the reason that's the case is because as far as we understand the physical
+
+Powell (00:04:03):
+world and as human beings,
+
+Powell (00:04:04):
+we are embedded in the physical world,
+
+Powell (00:04:07):
+the
+
+Powell (00:04:08):
+Laws of thermodynamics are laws that we actually can't avoid.
+
+Powell (00:04:13):
+They are part and parcel of our very existence.
+
+Powell (00:04:16):
+And two of those laws in particular are relevant for the way that I think about
+
+Powell (00:04:22):
+economic systems.
+
+Powell (00:04:23):
+The first of those is that energy can neither be created nor destroyed,
+
+Powell (00:04:29):
+but simply changes form through time.
+
+Powell (00:04:32):
+And the second law is that there is an intrinsic effect
+
+Powell (00:04:37):
+dynamic or tendency towards entropy,
+
+Powell (00:04:39):
+chaos,
+
+Powell (00:04:40):
+dissipation,
+
+Powell (00:04:41):
+fragmentation,
+
+Powell (00:04:43):
+that is part and parcel of our energetic and,
+
+Powell (00:04:46):
+of course,
+
+Powell (00:04:47):
+our material world.
+
+Powell (00:04:49):
+These two fundamental laws,
+
+Powell (00:04:51):
+in a sense,
+
+Powell (00:04:52):
+provide that substrate,
+
+Powell (00:04:54):
+that anchor,
+
+Powell (00:04:55):
+that underpins and creates the
+
+Powell (00:05:00):
+envelope of constraints,
+
+Powell (00:05:02):
+but also through the applications of human knowledge,
+
+Powell (00:05:05):
+the parameters of possibilities of human social and economic transformations.
+
+Powell (00:05:11):
+What human societies seek to do in relation to this fundamental energetic and
+
+Powell (00:05:16):
+material substrate is mobilise energy and materials to
+
+Powell (00:05:23):
+harness that and create things of use value for human societies.
+
+Powell (00:05:30):
+So immediately I introduced the idea of use value within the way we can think about
+
+Powell (00:05:36):
+economic systems.
+
+Powell (00:05:37):
+And I do that by drawing on very traditional or classical economic thinkers and the
+
+Powell (00:05:42):
+way that they thought about economic systems.
+
+Powell (00:05:46):
+And I'm talking about Smith, Ricardo, Marx,
+
+Powell (00:05:50):
+and also,
+
+Powell (00:05:51):
+to some extent,
+
+Powell (00:05:51):
+the physiocrats from France,
+
+Powell (00:05:54):
+who deeply understood that,
+
+Powell (00:05:56):
+in fact,
+
+Powell (00:05:57):
+value came from nature.
+
+Powell (00:05:59):
+So use values are things that human societies find useful.
+
+Powell (00:06:03):
+And by useful,
+
+Powell (00:06:04):
+I mean things that enable the system to reproduce itself and to be able to continue
+
+Powell (00:06:09):
+doing what it does in a metabolic sense tomorrow.
+
+Powell (00:06:12):
+Think of it as needing to have a certain amount of energy to be able to get up the
+
+Powell (00:06:17):
+next day and go about doing what you need to do.
+
+Powell (00:06:20):
+And then what you need to do enables you to harness enough energy for you to do it
+
+Powell (00:06:25):
+again the next day.
+
+Powell (00:06:28):
+So very, very fundamental.
+
+Powell (00:06:30):
+And I think about this in two specific ways in terms of social systems.
+
+Powell (00:06:34):
+One is that all viable social systems,
+
+Powell (00:06:37):
+ones that can successfully reproduce themselves,
+
+Powell (00:06:40):
+are able to provide food for people and fuel for machines.
+
+Powell (00:06:45):
+So that anchors, in a sense, our social and economic system.
+
+Powell (00:06:50):
+The challenge is twofold.
+
+Powell (00:06:52):
+The first one is that we are constantly fighting against the tide of entropy.
+
+Powell (00:06:57):
+Social systems,
+
+Powell (00:06:57):
+to be able to reproduce themselves,
+
+Powell (00:06:59):
+actually need to create stability and,
+
+Powell (00:07:02):
+in effect,
+
+Powell (00:07:03):
+implement strategies and approaches that can be described as negentropic.
+
+Powell (00:07:10):
+So we're countering the tendencies to dissipation, fragmentation,
+
+Powell (00:07:14):
+and chaos.
+
+Powell (00:07:16):
+The second thing that human societies actually do is that they also seek to not
+
+Powell (00:07:21):
+only reproduce themselves in a simplistic sense,
+
+Powell (00:07:24):
+but many societies ultimately are able to harness and secure and make available
+
+Powell (00:07:33):
+growing amounts of surplus energy in various forms for the purposes of building
+
+Powell (00:07:40):
+complex social
+
+Powell (00:07:42):
+systems.
+
+Powell (00:07:43):
+So if you think of everything around us that humans have created in our various
+
+Powell (00:07:48):
+civilisations and economic systems over time,
+
+Powell (00:07:52):
+everything involves a certain amount of embedded energy,
+
+Powell (00:07:55):
+whether it's a bridge,
+
+Powell (00:07:56):
+a building,
+
+Powell (00:07:57):
+a table,
+
+Powell (00:07:58):
+clothes or what have you.
+
+Powell (00:08:00):
+They ultimately involve the mobilisation of energy,
+
+Powell (00:08:04):
+the harnessing of energy and the deployment of energy
+
+Powell (00:08:07):
+for the creation of those things.
+
+Powell (00:08:09):
+So in many ways, what we wear today is the amalgamation of the energetic inputs into it.
+
+Powell (00:08:17):
+Viable and flourishing human societies are ones that are able to achieve high
+
+Powell (00:08:24):
+energy efficiencies,
+
+Powell (00:08:25):
+what we would call energy return on energy invested,
+
+Powell (00:08:29):
+and societies that struggle to renew their energetic foundations and keep their
+
+Powell (00:08:35):
+energy systems
+
+Powell (00:08:37):
+at a high level of efficiency over time experience all sorts of processes of decline.
+
+Powell (00:08:43):
+Some of that decline can be seen in degradation of physical infrastructure where we
+
+Powell (00:08:48):
+no longer commit sufficient energetic surpluses to their maintenance and renewal.
+
+Powell (00:08:53):
+Things fall apart, right?
+
+Powell (00:08:54):
+That's entropy.
+
+Powell (00:08:56):
+And so the aim in a sense of viable social systems is not only simple reproduction,
+
+Powell (00:09:03):
+but the creation of systems that can harness,
+
+Powell (00:09:06):
+store,
+
+Powell (00:09:07):
+and make available higher amounts of surplus energies,
+
+Powell (00:09:12):
+surplus meaning above and beyond what we need for simple reproduction.
+
+Powell (00:09:16):
+To make all of this happen, so that's one layer, and that's your foundational piece.
+
+Powell (00:09:20):
+The other two pieces is that to mobilize all of this,
+
+Powell (00:09:23):
+particularly in complex systems characterized by divisions of labor,
+
+Powell (00:09:29):
+where no single node of activity is self-sufficient,
+
+Powell (00:09:33):
+it is necessary for energetic forms,
+
+Powell (00:09:36):
+input materials,
+
+Powell (00:09:38):
+labour,
+
+Powell (00:09:38):
+et cetera,
+
+Powell (00:09:39):
+to circulate.
+
+Powell (00:09:40):
+We need to move particular kinds of resources from one activity to another,
+
+Powell (00:09:46):
+and that is usually undertaken through processes of exchange.
+
+Powell (00:09:50):
+And exchange is made possible through something that we call money.
+
+Powell (00:09:56):
+Now, money, in the way that I think about it, really has two principal attributes.
+
+Powell (00:10:02):
+One draws very much from the endogenous money approach that is characteristic of
+
+Powell (00:10:07):
+many heterodox economic schools,
+
+Powell (00:10:10):
+namely that money is and the creation of money through credit is a response to
+
+Powell (00:10:17):
+demand for money.
+
+Powell (00:10:18):
+And that demand for money,
+
+Powell (00:10:20):
+that demand for some medium of circulation comes about by virtue of the need for
+
+Powell (00:10:25):
+this metabolic processes of physical production and transformation and circulation.
+
+Powell (00:10:31):
+The second thing is that not only is money endogenous,
+
+Powell (00:10:37):
+but it is also treated not as a thing in and of itself,
+
+Powell (00:10:41):
+but as a claim on future use values.
+
+Powell (00:10:46):
+So money is a quintessential and generic form of exchange value.
+
+Powell (00:10:53):
+In and of itself,
+
+Powell (00:10:54):
+an exchange value is not useful in the processes of metabolic transformation and
+
+Powell (00:11:00):
+production.
+
+Powell (00:11:02):
+We can't actually eat money.
+
+Powell (00:11:04):
+We can't use money in production systems.
+
+Powell (00:11:06):
+Money does not substitute for oil, for example.
+
+Powell (00:11:10):
+Now, what happens in the economic metabolic processes is that
+
+Powell (00:11:16):
+Money circulates in one direction,
+
+Powell (00:11:19):
+so to speak,
+
+Powell (00:11:20):
+so that goods and materials,
+
+Powell (00:11:22):
+energy,
+
+Powell (00:11:23):
+circulates in the other direction.
+
+Powell (00:11:25):
+And what connects these two things together is the third piece of the sort of
+
+Powell (00:11:30):
+aggregate systemic jigsaw puzzle,
+
+Powell (00:11:32):
+and that is information itself.
+
+Powell (00:11:34):
+Now,
+
+Powell (00:11:35):
+traditional theoretical approaches to information have viewed information largely
+
+Powell (00:11:39):
+in positive or negentropic terms,
+
+Powell (00:11:43):
+that information is the means by which
+
+Powell (00:11:47):
+humans and human societies are able to counter or push against the intrinsic and
+
+Powell (00:11:53):
+tropic tendencies of our world.
+
+Powell (00:11:56):
+My suggestion,
+
+Powell (00:11:57):
+however,
+
+Powell (00:11:57):
+and perhaps this is modestly novel,
+
+Powell (00:12:00):
+is that we need to think about information as an energetic product itself,
+
+Powell (00:12:06):
+if you will,
+
+Powell (00:12:07):
+because the creation,
+
+Powell (00:12:09):
+collection,
+
+Powell (00:12:10):
+storage,
+
+Powell (00:12:10):
+validation and circulation of information also requires energy.
+
+Powell (00:12:15):
+And so if
+
+Powell (00:12:17):
+the information that is created,
+
+Powell (00:12:19):
+circulated,
+
+Powell (00:12:20):
+etc.,
+
+Powell (00:12:20):
+etc.,
+
+Powell (00:12:21):
+contributes positively to system-wide negentropy and that the energy consumed is
+
+Powell (00:12:30):
+less than the positive outcome of that information,
+
+Powell (00:12:33):
+then that information itself is what I would call viable information.
+
+Powell (00:12:37):
+If, however, that information is just noise,
+
+Powell (00:12:41):
+whether it's just surplus information unnecessary,
+
+Powell (00:12:45):
+costly but unnecessary,
+
+Powell (00:12:47):
+or is misleading information,
+
+Powell (00:12:50):
+erroneous information,
+
+Powell (00:12:52):
+then we run the risk that we commit a large amount of society's energy to the
+
+Powell (00:12:59):
+creation of things that are actually deeply entropic accelerants in and of
+
+Powell (00:13:05):
+themselves.
+
+Powell (00:13:07):
+You put those three pieces together and we now have,
+
+Powell (00:13:10):
+I guess,
+
+Powell (00:13:11):
+a general theory of a thermodynamically grounded,
+
+Powell (00:13:16):
+financially driven,
+
+Powell (00:13:20):
+informationally coordinated economic and social metabolism.
+
+Powell (00:13:25):
+And through that process,
+
+Powell (00:13:26):
+I can then begin to explain the dynamics through time,
+
+Powell (00:13:31):
+which is the ways in which human societies successfully or unsuccessfully
+
+Powell (00:13:37):
+grope with this challenge of entropy.
+
+Powell (00:13:40):
+And the core dialectic,
+
+Powell (00:13:43):
+if you will,
+
+Powell (00:13:44):
+in social economic evolution is the one between human societies striving for
+
+Powell (00:13:51):
+negentropic interventions,
+
+Powell (00:13:53):
+stability,
+
+Powell (00:13:54):
+reproduction,
+
+Powell (00:13:56):
+et cetera,
+
+Powell (00:13:56):
+et cetera,
+
+Powell (00:13:57):
+order versus the entropic dimensions and intrinsic tendencies within the material
+
+Powell (00:14:04):
+and energetic substrate itself.
+
+Powell (00:14:06):
+Now,
+
+Powell (00:14:06):
+in doing all of this,
+
+Powell (00:14:08):
+last point is that we're able then to understand the nature of economic crises
+
+Powell (00:14:14):
+because we begin to see how these three circuits also operate at different rhythms.
+
+Powell (00:14:20):
+The physical material circuit
+
+Powell (00:14:22):
+is constrained by the physical world and what we know about it and what we can do
+
+Powell (00:14:27):
+to engage with it.
+
+Powell (00:14:29):
+Information itself can be created relatively quickly and circulate relatively
+
+Powell (00:14:33):
+quickly,
+
+Powell (00:14:34):
+particularly today.
+
+Powell (00:14:36):
+And of course,
+
+Powell (00:14:37):
+money and other forms of exchange values can increasingly be created extremely
+
+Powell (00:14:43):
+quickly and circulate extremely quickly as well.
+
+Powell (00:14:46):
+And when these circuits really come out of sync with each other, so to speak,
+
+Powell (00:14:52):
+That lays the foundations for economic crises.
+
+Asbed (00:14:57):
+Professor,
+
+Asbed (00:14:59):
+one of your key arguments in all of this sort of dialectic between money,
+
+Asbed (00:15:03):
+energy,
+
+Asbed (00:15:04):
+information,
+
+Asbed (00:15:05):
+is that the U.S.
+
+Asbed (00:15:06):
+is a thermodynamic empire,
+
+Asbed (00:15:09):
+or maybe I should just call it a thermoeconomic empire,
+
+Asbed (00:15:12):
+one that is kind of sliding into a systemic environment
+
+Asbed (00:15:17):
+lack of efficiency,
+
+Asbed (00:15:18):
+leading to attempts to seize control of higher efficiency resources in nations like
+
+Asbed (00:15:24):
+Iran and Venezuela,
+
+Asbed (00:15:25):
+which we've seen this year.
+
+Asbed (00:15:27):
+So how do you explain the thesis,
+
+Asbed (00:15:30):
+given that the U.S.
+
+Asbed (00:15:31):
+is actually a major producer of oil and gas and energies?
+
+Asbed (00:15:37):
+In fact, Trump has gloated that
+
+Asbed (00:15:39):
+We don't need the Strait of Hormuz.
+
+Asbed (00:15:40):
+We don't need any of their things.
+
+Asbed (00:15:43):
+People who need that energy should go and deal with Iran.
+
+Asbed (00:15:47):
+So if we don't need it, how is it that the United States can be explained here?
+
+Powell (00:15:53):
+Well, the United States actually does need it.
+
+Powell (00:15:54):
+It's a net importer of crude oil,
+
+Powell (00:15:56):
+and it's the imports of crude oil that is the feedstock for many of its energetic
+
+Powell (00:16:02):
+export industries anyway.
+
+Powell (00:16:03):
+So...
+
+Powell (00:16:04):
+The first thing first is that the United States actually does need the particular
+
+Powell (00:16:09):
+kinds of oils,
+
+Powell (00:16:12):
+medium sour grades that come from the Middle East.
+
+Powell (00:16:17):
+So we can deal with that.
+
+Powell (00:16:19):
+The United States isn't quite as energy self-sufficient as oil.
+
+Powell (00:16:25):
+as many would seem to suggest.
+
+Powell (00:16:27):
+And partly it's because energy in the abstract is in some ways not meaningful until
+
+Powell (00:16:36):
+it takes useful form.
+
+Powell (00:16:38):
+And the useful forms that energy takes also affects the kinds of machinery that are
+
+Powell (00:16:43):
+set up to deal with that and to transform it.
+
+Powell (00:16:45):
+So many of the
+
+Powell (00:16:48):
+the refineries in the United States have actually been set up for the crude from
+
+Powell (00:16:53):
+the Middle East.
+
+Powell (00:16:54):
+And the reason that that's the case is historical.
+
+Powell (00:16:57):
+That's where the crude came from before the discovery and expansion of the American
+
+Powell (00:17:02):
+shale oil industry,
+
+Powell (00:17:03):
+which delivers a much sweeter,
+
+Powell (00:17:05):
+lighter crude oil.
+
+Powell (00:17:07):
+The second point to remember is that the availability of volume does not
+
+Powell (00:17:13):
+necessarily equal a high energy return on investment or a rising trajectory of
+
+Powell (00:17:21):
+energy return on energy invested.
+
+Powell (00:17:23):
+So it's important to distinguish between two different things.
+
+Powell (00:17:27):
+One is the potential available stock within a national territory,
+
+Powell (00:17:31):
+for example,
+
+Powell (00:17:32):
+versus the energy return that you get by accessing and making use of that stock.
+
+Powell (00:17:39):
+And what we find in the United States is that
+
+Powell (00:17:42):
+100 or so years ago,
+
+Powell (00:17:44):
+the American system writ large was achieving incredibly high energy return on
+
+Powell (00:17:50):
+energy invested outcomes.
+
+Powell (00:17:52):
+Well over 100 units of energy would be gathered for each unit of energy expended to gather it.
+
+Powell (00:17:59):
+These days, that is on the decline.
+
+Powell (00:18:02):
+And you actually see this materialize in things like the way that the shale oil
+
+Powell (00:18:07):
+industry has worked,
+
+Powell (00:18:08):
+because unsurprisingly,
+
+Powell (00:18:10):
+the easiest to access shale oil was accessed early,
+
+Powell (00:18:16):
+and that is relatively high energy return on energy invested.
+
+Powell (00:18:19):
+But as that stock depletes, the energy return costs.
+
+Powell (00:18:24):
+declines as you need to commit more energy and effort to extract the next unit of
+
+Powell (00:18:30):
+energy from the fields.
+
+Powell (00:18:31):
+And so whilst the United States actually does have vast fields of raw materials in
+
+Powell (00:18:38):
+theory available to it,
+
+Powell (00:18:40):
+accessing that and mobilising that is actually less energy efficient today than it
+
+Powell (00:18:47):
+was historically.
+
+Powell (00:18:48):
+And secondly, it is on a downward trajectory in terms of efficiency.
+
+Powell (00:18:53):
+So there is a paradox here because things like wars,
+
+Powell (00:18:58):
+which cause shortages of certain things,
+
+Powell (00:19:00):
+increase the short term exchange value of this resource,
+
+Powell (00:19:04):
+which leads to
+
+Powell (00:19:06):
+intensified exploitation of it and also a channeling of money capital to mobilize
+
+Powell (00:19:12):
+other resources to do more exploration,
+
+Powell (00:19:15):
+more drilling,
+
+Powell (00:19:15):
+more fracking.
+
+Powell (00:19:16):
+But ultimately,
+
+Powell (00:19:18):
+that is an accelerant to a declining energy return on energy invested outcome
+
+Powell (00:19:24):
+within the system altogether.
+
+Asbed (00:19:26):
+So I'm guessing fracking is much lower on the energy return scale.
+
+Powell (00:19:34):
+It becomes rapidly less efficient.
+
+Powell (00:19:38):
+It starts off actually in the early days when the resource was relatively easy to
+
+Powell (00:19:43):
+access,
+
+Powell (00:19:44):
+you know,
+
+Powell (00:19:45):
+reasonably efficient.
+
+Powell (00:19:46):
+But we do see that within two and a half to three and a half years,
+
+Powell (00:19:50):
+four years or so of any particular new resource being tapped,
+
+Powell (00:19:55):
+that
+
+Powell (00:19:56):
+the costs,
+
+Powell (00:19:57):
+the energetic and financial costs of tapping that particular resource actually
+
+Powell (00:20:02):
+rises substantially.
+
+Powell (00:20:04):
+Basically, the easy to get stuff gets taken out very, very quickly.
+
+Powell (00:20:10):
+And what's left becomes harder and harder.
+
+Powell (00:20:13):
+And in fact, it becomes harder, quicker as well.
+
+Asbed (00:20:16):
+Yeah.
+
+Asbed (00:20:17):
+So having worked in IT,
+
+Asbed (00:20:20):
+information technology,
+
+Asbed (00:20:21):
+I'm kind of interested when you say,
+
+Asbed (00:20:23):
+for example,
+
+Asbed (00:20:24):
+that information is...
+
+Asbed (00:20:25):
+is an energetic property that can be either negentropic I think you said, or
+
+Asbed (00:20:31):
+entropic adding order versus adding chaos given the massive energy demands of the
+
+Asbed (00:20:37):
+us ai industry is there a risk that the quest for AGI is currently... actually a
+
+Asbed (00:20:42):
+net energy drain, an entropic force that is outcompeting vital other industrial
+
+Asbed (00:20:48):
+sectors given the limited EROI.
+
+Powell (00:20:52):
+Yeah, absolutely.
+
+Powell (00:20:53):
+And in fact,
+
+Powell (00:20:55):
+I devote,
+
+Powell (00:20:56):
+I think,
+
+Powell (00:20:56):
+a couple of chapters in the book to exploring these particular or these specific
+
+Powell (00:21:00):
+dynamics.
+
+Powell (00:21:02):
+Artificial intelligence,
+
+Powell (00:21:03):
+in a sense,
+
+Powell (00:21:04):
+really brings this energy information relationship,
+
+Powell (00:21:08):
+you know,
+
+Powell (00:21:09):
+right up to us very,
+
+Powell (00:21:10):
+very closely,
+
+Powell (00:21:12):
+because we know that to
+
+Powell (00:21:15):
+generate a certain amount of computational output, it requires a certain amount of energy.
+
+Powell (00:21:19):
+Whereas,
+
+Powell (00:21:20):
+you know,
+
+Powell (00:21:21):
+in times past,
+
+Powell (00:21:22):
+you know,
+
+Powell (00:21:22):
+when we were using calculators,
+
+Powell (00:21:23):
+for example,
+
+Powell (00:21:24):
+we didn't quite have a sense of,
+
+Powell (00:21:26):
+you know,
+
+Powell (00:21:27):
+how much energy there was in a couple of AA or AAA batteries to be able to generate
+
+Powell (00:21:31):
+a particular computational outcome.
+
+Powell (00:21:33):
+And certainly when we use pen and paper, we really didn't think about the
+
+Powell (00:21:38):
+embedded energy that is contained in the pen, the ink, and the paper itself, right?
+
+Powell (00:21:42):
+Right.
+
+Asbed (00:21:43):
+Today, it's the heat that we generate with all these servers.
+
+Powell (00:21:46):
+Well, the heat's the dissipation of the waste.
+
+Powell (00:21:49):
+That's right.
+
+Powell (00:21:49):
+And we need to have electricity to run these systems.
+
+Powell (00:21:53):
+So we actually have a very clear and direct accounting,
+
+Powell (00:21:58):
+if you will,
+
+Powell (00:21:58):
+of the amount of electricity needed to generate particular outcomes.
+
+Powell (00:22:02):
+And the interesting feature, I guess,
+
+Powell (00:22:06):
+about the US's approach to AI,
+
+Powell (00:22:08):
+and by way of contrast in my book,
+
+Powell (00:22:10):
+I use China as the counterweight,
+
+Powell (00:22:12):
+if you will,
+
+Powell (00:22:14):
+to in a sense tell contrasting stories,
+
+Powell (00:22:17):
+is that China's efficiency at the microprocessor level,
+
+Powell (00:22:24):
+its performance levels,
+
+Powell (00:22:26):
+are actually not as high as those of the United States.
+
+Powell (00:22:29):
+But when you introduce the overall stack,
+
+Powell (00:22:33):
+with software and being able to layer hardware on top of each other,
+
+Powell (00:22:38):
+together with relatively cheaper electricity in China's case,
+
+Powell (00:22:44):
+the energy to computational output ratios actually begin to fall in favor of the
+
+Powell (00:22:50):
+Chinese ecosystem,
+
+Powell (00:22:52):
+even though it is using a relatively,
+
+Powell (00:22:55):
+though modestly inferior microprocessor.
+
+Powell (00:22:59):
+What's happening in the United States is a couple of things.
+
+Powell (00:23:02):
+One is that there is significant efficiencies,
+
+Powell (00:23:04):
+obviously,
+
+Powell (00:23:05):
+with globally leading microprocessors.
+
+Powell (00:23:09):
+But these are offset by an electricity system that has very significant constraints.
+
+Powell (00:23:19):
+And those constraints lead to a number of first round and second round outcomes,
+
+Powell (00:23:26):
+which potentially
+
+Powell (00:23:29):
+quite entropic in nature.
+
+Powell (00:23:31):
+In terms of data centers themselves,
+
+Powell (00:23:34):
+it obviously leads to increased costs for them as they compete with other users of
+
+Powell (00:23:40):
+electricity for available energy.
+
+Powell (00:23:43):
+Additional capital investment requirements will also drive up the cost of
+
+Powell (00:23:48):
+electricity in the short term for data centers as a result of the capital
+
+Powell (00:23:53):
+expenditure required to build and augment electricity generation distribution
+
+Powell (00:23:59):
+networks.
+
+Powell (00:24:00):
+So much so that we have seen a number of data centers planned in the United States
+
+Powell (00:24:07):
+now being postponed because of the lack of availability of electricity itself.
+
+Powell (00:24:14):
+In addition to that,
+
+Powell (00:24:15):
+we have a second round effect,
+
+Powell (00:24:17):
+and that is the impact this dynamic has on other users of electricity,
+
+Powell (00:24:23):
+meaning other industries that are electricity dependent and households,
+
+Powell (00:24:28):
+of course.
+
+Powell (00:24:29):
+And across the United States,
+
+Powell (00:24:31):
+there is now clear data that the distribution,
+
+Powell (00:24:36):
+the location of where data centers are expanding rapidly,
+
+Powell (00:24:41):
+and above average increases in the price or cost of electricity is very, very tight.
+
+Powell (00:24:48):
+In other words,
+
+Powell (00:24:48):
+wherever there is an expansion of AI data centers,
+
+Powell (00:24:52):
+we tend to see an increase in electricity costs impacting other industries and
+
+Powell (00:24:58):
+ultimately leading to above average increases in electricity bills for households
+
+Powell (00:25:04):
+themselves,
+
+Powell (00:25:05):
+adding to household economic pressures.
+
+Powell (00:25:08):
+So these are the dynamics.
+
+Powell (00:25:09):
+The third thing is,
+
+Asbed (00:25:11):
+Professor, I want to add one more thing.
+
+Asbed (00:25:13):
+It's also leading to some violence because there have been some cases of violence
+
+Asbed (00:25:17):
+against some of the CEOs in the United States of these AI companies.
+
+Asbed (00:25:23):
+We can see a little bit of a stressing up of the population because of the,
+
+Asbed (00:25:28):
+well,
+
+Asbed (00:25:28):
+let's say because of the utility bills going up for this very reason.
+
+Powell (00:25:32):
+So social entropy, again, a very abstract idea.
+
+Powell (00:25:37):
+manifests itself in potentially very violent ways.
+
+Powell (00:25:41):
+So initially it'll manifest itself in household budget stress.
+
+Powell (00:25:45):
+Households adjust,
+
+Powell (00:25:46):
+they do less in certain areas as they commit more of available budgets to things
+
+Powell (00:25:54):
+like essentials.
+
+Powell (00:25:55):
+Households we know in the United States are taking on greater amounts of household
+
+Powell (00:26:00):
+debt to cover living expenses,
+
+Powell (00:26:02):
+et cetera,
+
+Powell (00:26:03):
+et cetera.
+
+Powell (00:26:04):
+And eventually,
+
+Powell (00:26:05):
+if things get bad enough,
+
+Powell (00:26:07):
+we see violence,
+
+Powell (00:26:09):
+we see intensified opioid dependencies,
+
+Powell (00:26:13):
+et cetera,
+
+Powell (00:26:13):
+et cetera.
+
+Powell (00:26:15):
+These stresses feed through into some very antisocial and therefore entropic
+
+Powell (00:26:22):
+dynamics within the social system writ large.
+
+Powell (00:26:25):
+We also see, of course, the effects of unemployment, the declining employment in
+
+Powell (00:26:30):
+in American manufacturing paradoxically during the last 10 months when the
+
+Powell (00:26:36):
+Liberation Day tariffs of 2nd of April 2025 were supposedly going to lead to a
+
+Powell (00:26:43):
+renaissance of American manufacturing.
+
+Powell (00:26:45):
+So you can see how American economic structures,
+
+Powell (00:26:50):
+the energy substrate and the broader policy regime
+
+Powell (00:26:54):
+is actually leading to perverse outcomes.
+
+Powell (00:26:58):
+The third thing I was gonna touch on is this idea of noise,
+
+Powell (00:27:01):
+viable information versus unviable information.
+
+Powell (00:27:05):
+The jury remains out in the United States as to the extent to which the
+
+Powell (00:27:10):
+productivity dividend has materialized in industry and in society writ large.
+
+Powell (00:27:17):
+Perhaps it has, perhaps it will take some time to filter through.
+
+Powell (00:27:21):
+What we do know,
+
+Powell (00:27:22):
+though,
+
+Powell (00:27:22):
+is that AI companies have been exploring what I think we would intuitively say are
+
+Powell (00:27:33):
+solutions,
+
+Powell (00:27:34):
+if you will,
+
+Powell (00:27:34):
+or computational outcomes that are likely to be entropic,
+
+Powell (00:27:42):
+or at least not particularly negentropic in nature,
+
+Powell (00:27:46):
+given the amount of energy committed.
+
+Powell (00:27:48):
+And these things include the development of age ring fenced AI models,
+
+Powell (00:27:56):
+which really would only support things like AI enabled only fan services,
+
+Powell (00:28:02):
+for example.
+
+Powell (00:28:04):
+AI enabled gambling, AI enabled high intensity
+
+Powell (00:28:10):
+stocks and financial markets trading, et cetera, et cetera.
+
+Powell (00:28:14):
+Many of those sorts of applications,
+
+Powell (00:28:17):
+which obviously take advantage of computational speed and scale,
+
+Powell (00:28:23):
+are not necessarily negentropic in nature.
+
+Powell (00:28:27):
+And I am concerned that we don't have enough clarity around the extent to which
+
+Powell (00:28:34):
+these uses of electricity ultimately
+
+Powell (00:28:38):
+don't support negentropic renewal within the American body politic at large that's
+
+Powell (00:28:46):
+of course a particular American challenge um the Chinese have a very different
+
+Powell (00:28:50):
+approach as I was mentioning so you know these are things that I think we've just
+
+Powell (00:28:54):
+got to be much more mindful of today than than ever. yeah and we might touch on
+
+Powell (00:28:59):
+later on some things happening in China really that go to the very heart
+
+Powell (00:29:06):
+of the energetic substrate, if you will, of information itself.
+
+Powell (00:29:10):
+But I'll leave it at that now.
+
+Hovik (00:29:13):
+Since our podcast is also focused on the South Caucasus, I wanted to
+
+Hovik (00:29:19):
+get your take on what small countries for instance let's take armenia uh landlocked
+
+Hovik (00:29:24):
+in the south caucasus waged between multiple larger neighbors and then also foreign
+
+Hovik (00:29:29):
+powers such as the us which is currently seeking to actively increase its uh
+
+Hovik (00:29:35):
+influence in the region the US through this, I would say, ill-conceived TRIPP
+
+Hovik (00:29:42):
+project is...
+
+Hovik (00:29:45):
+also,
+
+Hovik (00:29:45):
+throwing in the US-manufactured small modular reactors,
+
+Hovik (00:29:50):
+which are being counter-imposed against the traditional large nuclear reactor that
+
+Hovik (00:29:56):
+Armenia has,
+
+Hovik (00:29:58):
+as well as an AI data center.
+
+Hovik (00:30:00):
+Armenia received a special permission to use NVIDIA chips in these data centers into the mix.
+
+Hovik (00:30:07):
+I wanted to see if you have any thoughts about Armenia's case specifically and
+
+Hovik (00:30:11):
+what's happening geopolitically,
+
+Hovik (00:30:12):
+but also how should small countries in general navigate this age of essentially
+
+Hovik (00:30:19):
+thermodynamic imperialism that you talked about?
+
+Powell (00:30:23):
+The two core things I think that countries need to be increasingly mindful of,
+
+Powell (00:30:28):
+and in fact,
+
+Powell (00:30:29):
+this is probably the principal touchstone for public policymaking,
+
+Powell (00:30:33):
+is the extent to which they are able to achieve energetic sovereignty on the one
+
+Powell (00:30:39):
+hand.
+
+Powell (00:30:40):
+And secondly,
+
+Powell (00:30:41):
+how do they build systems that enable them to function with informational
+
+Powell (00:30:47):
+sovereignty or what I've broadly called
+
+Powell (00:30:51):
+a world defined by digital West failure.
+
+Powell (00:30:55):
+And that means ensuring that a country's ability to mobilize its economic resources
+
+Powell (00:31:04):
+through having different forms of energy is not at the beck and call of what
+
+Powell (00:31:10):
+happens in other parts of the world.
+
+Powell (00:31:13):
+And secondly, that the informational architecture
+
+Powell (00:31:17):
+is something that the nation state itself is able to ultimately determine and
+
+Powell (00:31:22):
+manage and control.
+
+Powell (00:31:24):
+Now, when I say that, I don't mean controlling content.
+
+Powell (00:31:27):
+Different countries will think about those issues in their own ways.
+
+Powell (00:31:31):
+What I mean simply is that the information that is gathered within a social and
+
+Powell (00:31:37):
+economic system needs to be
+
+Powell (00:31:41):
+managed and controlled in a way that doesn't leave a country and its citizens and
+
+Powell (00:31:46):
+its businesses exposed to coercion by others.
+
+Powell (00:31:51):
+And that coercion, of course, can take place through the enforcement of informational standards.
+
+Powell (00:31:57):
+You must use our technology, otherwise, you know, we will do X, Y and Z to you.
+
+Powell (00:32:04):
+All the way through to
+
+Powell (00:32:06):
+the ability to intercede in information flows,
+
+Powell (00:32:10):
+some of which are related to finances that make it impossible for a country to
+
+Powell (00:32:16):
+exercise its right to autonomous and sovereign development.
+
+Powell (00:32:21):
+Now we've known that the US has used the US dollar system in particular,
+
+Powell (00:32:28):
+increasingly as an extension of American foreign and security policy.
+
+Powell (00:32:33):
+It no longer functions as a public good,
+
+Powell (00:32:37):
+to the extent that it might have been 20 or 30 or 40 years ago.
+
+Powell (00:32:41):
+And of course,
+
+Powell (00:32:43):
+there are critics of the US dollar dominated system,
+
+Powell (00:32:47):
+even then through the institutions of the IMF and the World Bank,
+
+Powell (00:32:50):
+for example,
+
+Powell (00:32:51):
+and the way that that played out as far as third world or developing country debt,
+
+Powell (00:32:56):
+etc,
+
+Powell (00:32:57):
+etc.
+
+Powell (00:32:58):
+But if we think simply about the way in which the US has been able to and has used
+
+Powell (00:33:04):
+its control over the
+
+Powell (00:33:08):
+the financial ledgers that track the US dollar to control what other countries do,
+
+Powell (00:33:17):
+then it is quite clear that those risks need to be addressed at the front end.
+
+Powell (00:33:22):
+And those risks really go to your ability to control your fundamental information architecture.
+
+Powell (00:33:28):
+So they're the two main things that I would comment on, both in terms of
+
+Powell (00:33:33):
+the Armenian case, but also more broadly speaking for small countries in terms of
+
+Powell (00:33:38):
+data centers, I think this is a hugely important issue we've seen now as a result of
+
+Powell (00:33:45):
+the war against Iran that large data centers are actually risky and targets
+
+Hovik (00:33:52):
+vulnerabilities yes
+
+Powell (00:33:54):
+They are vulnerabilities and liabilities as much as they may be assets.
+
+Powell (00:34:00):
+That's the first thing.
+
+Powell (00:34:00):
+The second thing,
+
+Powell (00:34:02):
+apropos the discussion about the United States experience in particular,
+
+Powell (00:34:06):
+is that these large data centers are incredible drains,
+
+Powell (00:34:11):
+if you will,
+
+Powell (00:34:11):
+on the electricity system.
+
+Powell (00:34:13):
+both in terms of computation itself,
+
+Powell (00:34:16):
+but also in terms of the cost of transmitting data to and from these data centers
+
+Powell (00:34:22):
+from those who use them.
+
+Powell (00:34:25):
+So I think it is increasingly
+
+Powell (00:34:29):
+wise or prudent for countries to have second thoughts about becoming captured by
+
+Powell (00:34:39):
+proprietary systems and also being captured by a model where these large-scale data
+
+Powell (00:34:45):
+centers become the only show in town.
+
+Powell (00:34:49):
+Fortunately, there are emerging technologies that I think open up
+
+Powell (00:34:55):
+actually practical and cost effective paths to overcoming these risks.
+
+Powell (00:35:00):
+And they go to the ways in which the energy substrate is actually being tackled
+
+Powell (00:35:08):
+right at the edges of data collection and processing itself.
+
+Powell (00:35:12):
+So we have in China now a number of technical,
+
+Powell (00:35:18):
+scientific and chemical developments that actually open pathway to radically
+
+Powell (00:35:23):
+transforming how
+
+Powell (00:35:25):
+information and energy work.
+
+Powell (00:35:28):
+They go to,
+
+Powell (00:35:29):
+for instance,
+
+Powell (00:35:30):
+the development of new 2D chip processing capabilities,
+
+Powell (00:35:35):
+which are achieving performance levels that actually,
+
+Powell (00:35:38):
+from an energetic point of view,
+
+Powell (00:35:40):
+that supersede the capabilities of silicon based technologies.
+
+Powell (00:35:44):
+Now, these have not scaled yet, but over the next five years or so, I think they will.
+
+Powell (00:35:49):
+The second thing is that we also have developments in conductor technologies, right?
+
+Powell (00:35:55):
+The technologies that we need or the materials that we need to carry the electronic signals.
+
+Powell (00:36:01):
+Traditionally,
+
+Powell (00:36:02):
+copper has been central to the whole story,
+
+Powell (00:36:05):
+but the developments in graphene as a technology opens up a new vista of low
+
+Powell (00:36:17):
+entropy processes
+
+Powell (00:36:18):
+energy conductive capabilities,
+
+Powell (00:36:20):
+which also improves the efficiencies of transmitting data and processing data at
+
+Powell (00:36:27):
+the edge.
+
+Powell (00:36:28):
+The third piece of this jigsaw puzzle,
+
+Powell (00:36:30):
+which I think is quite an important one,
+
+Powell (00:36:32):
+is the rapid development of what are known as Triboelectric Nanogenerators,
+
+Powell (00:36:39):
+TENGS.
+
+Powell (00:36:41):
+And these are technologies that enable the harnessing of what is in effect ambient energy
+
+Powell (00:36:48):
+in distributed environments through things like,
+
+Powell (00:36:52):
+you know,
+
+Powell (00:36:52):
+a little bit of wind,
+
+Powell (00:36:54):
+a little bit of movement,
+
+Powell (00:36:55):
+vibrations,
+
+Powell (00:36:56):
+et cetera,
+
+Powell (00:36:56):
+et cetera.
+
+Powell (00:36:58):
+And you combine these three technology advances that have been made really in the
+
+Powell (00:37:03):
+last,
+
+Powell (00:37:04):
+let's say,
+
+Powell (00:37:05):
+three years.
+
+Powell (00:37:06):
+And you have the material foundations for high level AI computation
+
+Powell (00:37:13):
+at the edges.
+
+Powell (00:37:14):
+So we're looking at a future where AI in shipping containers becomes increasingly
+
+Powell (00:37:20):
+possible,
+
+Powell (00:37:21):
+where local townships,
+
+Powell (00:37:22):
+communities,
+
+Powell (00:37:23):
+businesses,
+
+Powell (00:37:24):
+industrial parks can actually run high powered AI
+
+Powell (00:37:29):
+in a distributed environment with less risk exposure to some of the larger
+
+Powell (00:37:34):
+centralized infrastructures that we've experienced in recent times.
+
+Powell (00:37:38):
+The last piece,
+
+Powell (00:37:39):
+by the way,
+
+Powell (00:37:40):
+in this jigsaw puzzle goes to developments in storage technologies and
+
+Powell (00:37:46):
+And what this means is that as we see greater advances in not only lithium
+
+Powell (00:37:53):
+technologies,
+
+Powell (00:37:54):
+as we move into a new generation of lithium ion batteries,
+
+Powell (00:37:59):
+we also have sodium ion batteries,
+
+Powell (00:38:05):
+and we also have significant developments in solid state battery technologies.
+
+Powell (00:38:10):
+And all of these will enable a more efficient
+
+Powell (00:38:14):
+storage and less dissipation of energies that can be harvested again at the edges.
+
+Powell (00:38:22):
+So if you start to imagine what AI in a container begins to look like,
+
+Powell (00:38:29):
+they begin to look like energy autonomous
+
+Powell (00:38:33):
+distributed AI infrastructure that can be rolled out and moved,
+
+Powell (00:38:39):
+relatively easily enabling supply chains,
+
+Powell (00:38:42):
+enterprises,
+
+Powell (00:38:43):
+industrial districts,
+
+Powell (00:38:45):
+villages,
+
+Powell (00:38:45):
+townships,
+
+Powell (00:38:46):
+communities,
+
+Powell (00:38:46):
+and others to literally operate their own infrastructure with much less risk
+
+Powell (00:38:52):
+exposure to some of those issues we've touched on before.
+
+Asbed (00:38:56):
+Professor,
+
+Asbed (00:38:58):
+While you're talking about the high technology here,
+
+Asbed (00:39:01):
+I was thinking about the low technology end of this.
+
+Asbed (00:39:05):
+You know how we said that each of these data centers have become targets.
+
+Asbed (00:39:09):
+If each data center at this point has to be fortified,
+
+Asbed (00:39:12):
+has to be a military-grade installation protected like a White House,
+
+Asbed (00:39:16):
+just imagine that the energy expenditure,
+
+Asbed (00:39:19):
+the real money expenditure of any kind of computation that you need to do that
+
+Asbed (00:39:24):
+involves AI.
+
+Asbed (00:39:25):
+It would be insane.
+
+Powell (00:39:29):
+That's right.
+
+Powell (00:39:30):
+So again,
+
+Powell (00:39:31):
+you know,
+
+Powell (00:39:31):
+the embedded energy to deal with these security issues is manifest in more steel,
+
+Powell (00:39:37):
+more concrete,
+
+Powell (00:39:38):
+etc. etc.,
+
+Powell (00:39:39):
+right?
+
+Powell (00:39:40):
+So again,
+
+Powell (00:39:41):
+just think about all of these things as really just functions of energetic
+
+Powell (00:39:45):
+transformations.
+
+Powell (00:39:47):
+You know, every ton of steel actually is embedded energy in one shape or another.
+
+Powell (00:39:52):
+So at a level of abstraction, we're committing a lot more of abstraction
+
+Powell (00:39:56):
+theoretically socially available energetic surpluses to that activity instead of
+
+Asbed (00:40:02):
+building a school for sake of argument let's talk just a moment about the war on
+
+Asbed (00:40:08):
+Iran because that is obviously a seminal moment that that we're living through
+
+Asbed (00:40:13):
+right now, I'm not going to rehash through all of the history but after Islamabad we
+
+Asbed (00:40:17):
+have a situation that is a very dynamic and in flux right now, Iran
+
+Asbed (00:40:22):
+a couple of cargo ships that were intercepted over this past weekend by the United States.
+
+Asbed (00:40:27):
+Hormuz closed and Iran saying that they no longer want to talk about it.
+
+Asbed (00:40:31):
+Can you tell us your perspective on where the United States and Israel
+
+Asbed (00:40:36):
+miscalculated how Iran would resist,
+
+Asbed (00:40:39):
+how much resilience it would show?
+
+Asbed (00:40:41):
+And what's your perspective on what kind of trajectory it's going to take from here on?
+
+Powell (00:40:47):
+There's no doubt,
+
+Powell (00:40:47):
+as you say,
+
+Powell (00:40:48):
+that the United States underestimated Iranian resolve and Iranian combat
+
+Powell (00:40:54):
+capability.
+
+Powell (00:40:55):
+When the attack was launched on the 28th of February,
+
+Powell (00:40:59):
+there was a clear expectation that a decapitation of the Iranian political
+
+Powell (00:41:04):
+leadership would lead to a regime collapse and a regime change.
+
+Powell (00:41:10):
+When that didn't happen, the rhetoric changed, and so did the objective and the theory
+
+Powell (00:41:16):
+change behind the attacks where the ongoing pummeling of Iran was then rationalized
+
+Powell (00:41:22):
+as being necessary to spark public unrest against the government,
+
+Powell (00:41:29):
+leading again to regime overthrowing.
+
+Powell (00:41:33):
+Now,
+
+Powell (00:41:33):
+we know that these two particular theoretical approaches to regime change or
+
+Powell (00:41:39):
+overthrowing governments have failed.
+
+Powell (00:41:42):
+In Iran, contrary to attempts to spin it otherwise,
+
+Powell (00:41:46):
+the change of personality,
+
+Powell (00:41:48):
+if you will,
+
+Powell (00:41:49):
+did not actually change the institutions of state themselves.
+
+Powell (00:41:53):
+And unless you're changing the institutions of state and particular policy
+
+Powell (00:41:57):
+trajectory,
+
+Powell (00:41:58):
+you can't really call that regime change,
+
+Powell (00:42:01):
+quote unquote.
+
+Powell (00:42:03):
+What we do have, of course, is arguably a hardening
+
+Powell (00:42:07):
+of attitudes and perspectives amongst the current political leadership in Iran
+
+Powell (00:42:12):
+after the assassination of the Ayatollah Khomeini on day one,
+
+Powell (00:42:17):
+together with more recent assassinations of other leaders.
+
+Powell (00:42:22):
+The second thing that was underestimated,
+
+Powell (00:42:24):
+not only in terms of Iranian society resolve and the fact that these attacks,
+
+Powell (00:42:28):
+rather than causing a social uprising against the government,
+
+Powell (00:42:32):
+would see a galvanization around the idea of the Islamic Republic,
+
+Powell (00:42:39):
+even from domestic critics,
+
+Powell (00:42:41):
+is that there was an underestimation,
+
+Powell (00:42:43):
+a chronic intelligence failure,
+
+Powell (00:42:46):
+perhaps,
+
+Powell (00:42:47):
+in relation to Iran's military capabilities.
+
+Powell (00:42:51):
+And we see this in two very particular ways.
+
+Powell (00:42:54):
+Firstly,
+
+Powell (00:42:56):
+Iran,
+
+Powell (00:42:56):
+as many people have known for a long time,
+
+Powell (00:42:59):
+was one of the originators of drones to a point where,
+
+Powell (00:43:04):
+of course,
+
+Powell (00:43:04):
+it supplied some of its drone capabilities to Russia in the early days of the
+
+Powell (00:43:09):
+Russia-Ukraine conflict.
+
+Powell (00:43:11):
+And the ability of Iran to
+
+Powell (00:43:15):
+manufacture and replenish its drones fleet and deliver them to regional targets has
+
+Powell (00:43:22):
+actually proven itself to be largely undented in terms of launches and the drones
+
+Powell (00:43:28):
+themselves and the ability to replenish the drones that have been destroyed.
+
+Powell (00:43:35):
+or destroyed as a result of being used or intercepted.
+
+Powell (00:43:39):
+The second thing we know is that the missiles that Iran has also has greater depth
+
+Powell (00:43:45):
+than I think many in the West had expected,
+
+Powell (00:43:48):
+and also a greater quality.
+
+Powell (00:43:52):
+Their ability to target targets with great precision has been proven in ways that I
+
+Powell (00:44:00):
+think was underestimated.
+
+Powell (00:44:02):
+And
+
+Powell (00:44:03):
+A combination of these two aspects of Iranian air defense and air offense has meant
+
+Powell (00:44:10):
+that the United States has experienced some catastrophic losses,
+
+Powell (00:44:16):
+actually,
+
+Powell (00:44:17):
+and these are very important.
+
+Powell (00:44:19):
+The first set of catastrophic losses really was American bases across the region.
+
+Powell (00:44:25):
+These bases ultimately were not able to be defended by American and allied systems,
+
+Powell (00:44:32):
+and they are now functionally unusable.
+
+Powell (00:44:35):
+Troops have had to be withdrawn from them,
+
+Powell (00:44:37):
+and this has very important practical short-term implications for ongoing conflict,
+
+Powell (00:44:44):
+as well as medium-term implications around the world.
+
+Powell (00:44:47):
+In terms of local, in terms of the immediate implications, it means that
+
+Powell (00:44:52):
+attacks on Iran can't be launched from nearby bases.
+
+Powell (00:44:56):
+And that means that they have to be launched from further away.
+
+Powell (00:45:00):
+As they're launched from further away and you have to travel greater distances,
+
+Powell (00:45:03):
+the number of attack sorties diminishes.
+
+Powell (00:45:07):
+That's the first thing.
+
+Powell (00:45:08):
+The second thing we've seen in the American approach,
+
+Powell (00:45:11):
+because it was heavily focused on aerial combat or aerial decimation,
+
+Powell (00:45:17):
+if you will,
+
+Powell (00:45:18):
+is that it has expended a very,
+
+Powell (00:45:20):
+very large amount of its pre-war inventory to a point where its manufacturing
+
+Powell (00:45:28):
+capability can't keep up.
+
+Powell (00:45:30):
+It will take years for
+
+Powell (00:45:33):
+The ammunition expended already in the first 40 days or 30 days of this war to be replenished.
+
+Powell (00:45:40):
+And this obviously has implications for American strategic posture around the rest of the world.
+
+Powell (00:45:47):
+It's led to the United States then having to contemplate a couple of things.
+
+Powell (00:45:51):
+One is,
+
+Powell (00:45:52):
+is that it's having to use different kinds of missiles and bombs,
+
+Powell (00:45:55):
+which has caused a need to fly closer to Iranian airspace.
+
+Powell (00:46:00):
+OK, so that has, of course, created greater risks.
+
+Powell (00:46:04):
+And we've seen some aircraft down now as they fly over Iran.
+
+Powell (00:46:08):
+The second thing is that it has caused the United States to have to contemplate
+
+Powell (00:46:16):
+essentially boots on the ground.
+
+Powell (00:46:19):
+And I think that
+
+Powell (00:46:21):
+What was covered over as an attempted rescue mission of a fallen pilot was actually
+
+Powell (00:46:29):
+an attempted landing of significant numbers of troops around about 10 days or so
+
+Powell (00:46:37):
+ago.
+
+Powell (00:46:37):
+And so we now have a significant buildup, obviously.
+
+Powell (00:46:41):
+We entered into this negotiation period, if you will,
+
+Powell (00:46:47):
+And there's a few ways we can interpret that.
+
+Powell (00:46:49):
+One is that it was really just a time for both sides to recuperate and reorganize.
+
+Powell (00:46:54):
+Perhaps that's actually true.
+
+Powell (00:46:56):
+Alternatively,
+
+Powell (00:46:57):
+it is actually a genuine consequence of the Americans reaching a point where they
+
+Powell (00:47:02):
+are seeking a way out,
+
+Powell (00:47:04):
+but nonetheless have to find a way out that doesn't render them reputationally
+
+Powell (00:47:10):
+destroyed.
+
+Powell (00:47:12):
+And we are witnessing
+
+Powell (00:47:14):
+a whole bunch of what people like Nasaf Faruqui described as "armed negotiations"
+
+Powell (00:47:22):
+or coercive negotiations.
+
+Powell (00:47:24):
+I tend to look at all of this through, I guess, a three layered lens, if you will.
+
+Powell (00:47:30):
+What I've just described is really a bunch of incidents around the event of the war
+
+Powell (00:47:34):
+itself and the short term dynamics of
+
+Powell (00:47:40):
+ceasefire negotiations.
+
+Powell (00:47:41):
+But I think it's worth bearing in mind two other temporal layers.
+
+Powell (00:47:46):
+One is what we could view as the sort of the more immediate temporal context,
+
+Powell (00:47:52):
+which is the 30 odd years of the post-Cold War era,
+
+Powell (00:47:56):
+where the United States obviously had preponderance and had unipolar superiority in
+
+Powell (00:48:03):
+many parts of the world.
+
+Powell (00:48:05):
+And at the same time,
+
+Powell (00:48:05):
+of course,
+
+Powell (00:48:07):
+planned a long term strategic approach to the Middle East and together with Israel
+
+Powell (00:48:13):
+that sought to cement American dominance in this part of the world and to arguably
+
+Powell (00:48:19):
+create the conditions by which greater Israel could then come into reality.
+
+Powell (00:48:23):
+And that particular contextual approach was well documented as far back as 2009.
+
+Powell (00:48:32):
+in a paper from Brookings Institute,
+
+Powell (00:48:34):
+for instance,
+
+Powell (00:48:35):
+which talked about the game plan,
+
+Powell (00:48:40):
+if you will,
+
+Powell (00:48:40):
+to progressively destabilize and overthrow unfriendly governments in smaller
+
+Powell (00:48:45):
+countries,
+
+Powell (00:48:45):
+but ultimately to clear the way to dealing with Iran.
+
+Powell (00:48:49):
+And then,
+
+Powell (00:48:49):
+of course,
+
+Powell (00:48:49):
+there is the much longer historical backdrop,
+
+Powell (00:48:52):
+and that's probably where a lot of my thermoeconomic work fits,
+
+Powell (00:48:55):
+which is the
+
+Powell (00:48:57):
+progressive diminution of American energetic efficiency,
+
+Powell (00:49:02):
+which has led to this kind of thermoeconomic imperialism.
+
+Powell (00:49:08):
+Now,
+
+Powell (00:49:08):
+by the way,
+
+Powell (00:49:10):
+as nation states and systems begin to experience declining energy return on energy
+
+Powell (00:49:17):
+invested,
+
+Powell (00:49:18):
+That in and of itself doesn't mean that they need to go to war.
+
+Powell (00:49:21):
+There are many other things that they could conceivably do,
+
+Powell (00:49:23):
+some of which,
+
+Powell (00:49:24):
+of course,
+
+Powell (00:49:24):
+is to tap available resources.
+
+Powell (00:49:26):
+The United States did that with the fracking revolution.
+
+Powell (00:49:30):
+They could also, of course, transform their systems.
+
+Powell (00:49:34):
+China is working on transforming its system,
+
+Powell (00:49:36):
+changing from a system that was more oil dependent to one that is more electricity
+
+Powell (00:49:43):
+dependent.
+
+Powell (00:49:44):
+And of course,
+
+Powell (00:49:48):
+strange as this may sound,
+
+Powell (00:49:49):
+especially today,
+
+Powell (00:49:50):
+countries might actually just engage in trade and purchase a relatively low
+
+Powell (00:49:56):
+entropy,
+
+Powell (00:49:58):
+higher EOEI energy from somebody else.
+
+Powell (00:50:02):
+The United States, of course, has not done that in recent times.
+
+Powell (00:50:05):
+It has explicitly now reached a point where for assorted reasons of the moment,
+
+Powell (00:50:12):
+instead of pursuing those three other options,
+
+Powell (00:50:14):
+It has now engaged in thermoeconomic imperialism in part to secure control for
+
+Powell (00:50:23):
+itself,
+
+Powell (00:50:24):
+but arguably also as part of its wider concerns about the reemergence of Russia on
+
+Powell (00:50:32):
+the one hand,
+
+Powell (00:50:33):
+and of course,
+
+Powell (00:50:33):
+the rise of China on the other.
+
+Asbed (00:50:36):
+You answered the question I was just going to ask.
+
+Asbed (00:50:39):
+If it's a matter of perspective,
+
+Asbed (00:50:41):
+how a country proceeds from,
+
+Asbed (00:50:43):
+if they see that the world is basically a zero-sum game,
+
+Asbed (00:50:47):
+then they're going to engage in thermodynamic imperialism instead of inventing
+
+Asbed (00:50:52):
+something that enlarges the pie and they find new ways of finding win-win
+
+Asbed (00:50:57):
+solutions.
+
+Hovik (00:50:59):
+Professor,
+
+Hovik (00:51:00):
+since you just mentioned China and Russia,
+
+Hovik (00:51:02):
+actually,
+
+Hovik (00:51:03):
+I think that that is a really interesting topic.
+
+Hovik (00:51:05):
+So now they have already moved much of their trade,
+
+Hovik (00:51:09):
+including their energy transactions from US-based dollar to ruble and yuan.
+
+Hovik (00:51:16):
+Now, these are two major world economies that have already moved away.
+
+Hovik (00:51:20):
+And interestingly,
+
+Hovik (00:51:22):
+over the weekend,
+
+Hovik (00:51:22):
+we heard also that the UAE warned that it's running short on dollars and might
+
+Hovik (00:51:26):
+switch to other currencies,
+
+Hovik (00:51:28):
+including yuan,
+
+Hovik (00:51:29):
+if this conflict continues.
+
+Hovik (00:51:31):
+So do you think that this de-dollarization is now a global trend?
+
+Hovik (00:51:38):
+And what is the reason for it?
+
+Hovik (00:51:40):
+Of course, we already discussed some of them.
+
+Hovik (00:51:42):
+And do you think that
+
+Hovik (00:51:43):
+this momentum will continue?
+
+Hovik (00:51:45):
+Or is this just a short-term thing?
+
+Powell (00:51:48):
+Look,
+
+Powell (00:51:48):
+this process of what I call currency multipolarity has been ongoing now,
+
+Powell (00:51:54):
+really,
+
+Powell (00:51:55):
+for well over a decade.
+
+Powell (00:51:57):
+It hasn't been fast.
+
+Powell (00:51:59):
+It's been very much related to practicalities from different nations as they sought
+
+Powell (00:52:04):
+to build out their trading relationships with others.
+
+Powell (00:52:08):
+And most countries, insofar as the US dollar system is
+
+Powell (00:52:13):
+provided them with useful,
+
+Powell (00:52:15):
+reliable,
+
+Powell (00:52:16):
+low cost and fast transaction capabilities were not really in the business of
+
+Powell (00:52:23):
+rocking the boat too much.
+
+Powell (00:52:24):
+These aren't things that you worry too much about if they're working.
+
+Powell (00:52:28):
+The problem is that over the course of actually the last 20 years is that the
+
+Powell (00:52:33):
+prevailing infrastructure
+
+Powell (00:52:36):
+coupled with the political economy around it and the institutions of American state
+
+Powell (00:52:40):
+interventions have led to the dollar being weaponized and the dollar system itself
+
+Powell (00:52:47):
+being weaponized,
+
+Powell (00:52:48):
+you know,
+
+Powell (00:52:48):
+with freezing of assets,
+
+Powell (00:52:51):
+prohibitions from interacting with the payment rails,
+
+Powell (00:52:55):
+censorships,
+
+Powell (00:52:56):
+et cetera,
+
+Powell (00:52:56):
+et cetera,
+
+Powell (00:52:58):
+through to confiscation,
+
+Powell (00:52:59):
+really.
+
+Powell (00:53:01):
+And so that's on the one hand, the weaponization piece.
+
+Powell (00:53:04):
+But the system itself is also incredibly old.
+
+Powell (00:53:08):
+So relatively speaking, it has become a more costly and slower settlement system.
+
+Powell (00:53:15):
+And the third thing is,
+
+Powell (00:53:16):
+is that there is actually just simply less need for the dollar because the dynamics
+
+Powell (00:53:23):
+of global trade to begin with
+
+Powell (00:53:26):
+have increasingly diversified.
+
+Powell (00:53:28):
+So if you look at a trade map 30 years ago,
+
+Powell (00:53:32):
+you will see that for most countries in the world,
+
+Powell (00:53:34):
+the United States was the central trading partner.
+
+Powell (00:53:37):
+If you look at the trade map today,
+
+Powell (00:53:39):
+you will see that for 150 odd countries in the world,
+
+Powell (00:53:42):
+China is the most important trading partner.
+
+Powell (00:53:44):
+And that transformation at that fundamental material level ultimately creates the
+
+Powell (00:53:50):
+conditions by which China
+
+Powell (00:53:54):
+national currency transactions become increasingly possible,
+
+Powell (00:53:58):
+in part,
+
+Powell (00:53:59):
+not only because of dollar weaponization,
+
+Powell (00:54:02):
+you know,
+
+Powell (00:54:03):
+more expensive,
+
+Powell (00:54:04):
+et cetera,
+
+Powell (00:54:04):
+et cetera,
+
+Powell (00:54:05):
+but also because there are other risks that countries seek to mitigate,
+
+Powell (00:54:09):
+and that is foreign exchange risk.
+
+Powell (00:54:12):
+we have seen over the course of the last 20 odd years that there are not only risks
+
+Powell (00:54:16):
+in terms of fluctuations in foreign exchange,
+
+Powell (00:54:19):
+capital flight,
+
+Powell (00:54:21):
+but ultimately also liquidity problems.
+
+Powell (00:54:23):
+So you touched on the issue of the UAE, and the UAE would not be the first country
+
+Powell (00:54:27):
+that would experience liquidity problems as a result of problems with excessive
+
+Powell (00:54:33):
+exposure to the US dollar and the use of US dollar as its means of payment.
+
+Powell (00:54:37):
+So my own sense,
+
+Powell (00:54:40):
+is that there certainly has been an acceleration of currency multipolarity over the
+
+Powell (00:54:44):
+course of,
+
+Powell (00:54:45):
+say,
+
+Powell (00:54:45):
+the last five,
+
+Powell (00:54:46):
+six years,
+
+Powell (00:54:47):
+accelerated firstly by the sanctioning of Russia in Germany.
+
+Powell (00:54:53):
+you know in short obviously the sanctioning all these sanctions do this right it's
+
+Powell (00:54:59):
+just that sanctions kind of work better when there were no alternatives but since
+
+Powell (00:55:02):
+about 2014 2015 we've got alternatives whether it's a mere system in Russia whether
+
+Powell (00:55:07):
+it's the CIPS system developed by China so there are literally alternatives now
+
+Powell (00:55:13):
+and because there are alternatives
+
+Powell (00:55:16):
+It is now increasingly possible for countries to literally engage in transactions
+
+Powell (00:55:21):
+with each other without needing to go through a third party intermediary.
+
+Powell (00:55:25):
+currency.
+
+Powell (00:55:26):
+The last thing,
+
+Powell (00:55:26):
+of course,
+
+Powell (00:55:26):
+we've seen as a result of sanctions is countries simply just barter if they need
+
+Powell (00:55:31):
+to,
+
+Powell (00:55:31):
+particularly when you're dealing with high volume commodities such as oil.
+
+Powell (00:55:35):
+So Iran has,
+
+Powell (00:55:37):
+as part of its counter sanctions maneuvers,
+
+Powell (00:55:40):
+actually bartered quite successfully with oil for other things.
+
+Powell (00:55:46):
+And so I don't see anything that will reverse this trend.
+
+Powell (00:55:52):
+The real issue, I think, for
+
+Powell (00:55:55):
+the US is that it needs to get some clarity around what it actually wants to
+
+Powell (00:56:01):
+accomplish in the end.
+
+Powell (00:56:03):
+President Trump has actually articulated contradictory objectives.
+
+Powell (00:56:07):
+On the one hand,
+
+Powell (00:56:09):
+he has made it very,
+
+Powell (00:56:10):
+very clear that he objects to the idea of a weakening of the US dollar,
+
+Powell (00:56:16):
+that he believes that the US dollar as the most significant global reserve currency
+
+Powell (00:56:22):
+is
+
+Powell (00:56:23):
+critical to the United States and that losing that status would be akin to losing a war.
+
+Powell (00:56:29):
+He said that on a number of occasions.
+
+Powell (00:56:32):
+On the flip side,
+
+Powell (00:56:33):
+he has policy objectives such as reducing America's trade deficit that broadly
+
+Powell (00:56:38):
+speaking would presuppose a weakening of the dollar.
+
+Powell (00:56:43):
+So we literally have contradictory objectives at the moment.
+
+Powell (00:56:47):
+In reality, the dollar has been weakening.
+
+Powell (00:56:50):
+So regardless of the ambitions around a strong dollar,
+
+Powell (00:56:54):
+the practical experience is actually that the dollar has been weakening relative to
+
+Powell (00:57:01):
+currencies like the RMB.
+
+Powell (00:57:03):
+And that in the end is going to have implications for the United States because the
+
+Powell (00:57:09):
+United States,
+
+Powell (00:57:10):
+as we know,
+
+Powell (00:57:11):
+has been going through really a half century of industrial hollowing out.
+
+Powell (00:57:17):
+even though it is still the world's second largest manufacturing country,
+
+Powell (00:57:21):
+the things that it makes are typically very,
+
+Powell (00:57:25):
+very high value industrial and military application related things.
+
+Powell (00:57:30):
+They're not things that ordinary householders use and experience,
+
+Powell (00:57:33):
+which means that households have been able to sustain a certain level of
+
+Powell (00:57:40):
+standard of living despite flatlining real wages growth for the bottom half of
+
+Powell (00:57:44):
+American households by virtue of the fact that the US dollar has been a strong
+
+Powell (00:57:49):
+currency.
+
+Powell (00:57:50):
+It's been able to enable households to buy relatively cheap things manufactured
+
+Powell (00:57:56):
+elsewhere in the world and increasingly by China.
+
+Powell (00:58:00):
+And more recently into Southeast Asia.
+
+Powell (00:58:02):
+So American standards of living are likely to decline over the next 10 years as
+
+Powell (00:58:07):
+America actually becomes simply a more expensive place or a more expensive economic
+
+Powell (00:58:14):
+system,
+
+Powell (00:58:15):
+both in terms of a weakening currency,
+
+Powell (00:58:17):
+but also in terms of a declining energy return on energy invested outcomes.
+
+Asbed (00:58:23):
+And you're right.
+
+Asbed (00:58:24):
+Households usually buy televisions.
+
+Asbed (00:58:26):
+They don't buy patriot missile systems.
+
+Asbed (00:58:29):
+I want to expand your thought about the weaponization of the dollar,
+
+Asbed (00:58:33):
+of the financial system,
+
+Asbed (00:58:34):
+which a lot of these countries are fleeing because they have alternatives right
+
+Asbed (00:58:38):
+now,
+
+Asbed (00:58:39):
+such as China,
+
+Asbed (00:58:41):
+to the sphere of information and technology.
+
+Asbed (00:58:45):
+And we come here to what you describe as the underground empire.
+
+Asbed (00:58:48):
+Can you describe what your thought is in this area?
+
+Powell (00:58:52):
+Well,
+
+Powell (00:58:54):
+I guess this is an extension,
+
+Powell (00:58:55):
+I guess,
+
+Powell (00:58:55):
+of my earlier comments about the importance of digital Westphalia as a policy
+
+Powell (00:59:01):
+principle,
+
+Powell (00:59:01):
+the idea of controlling your critical information infrastructure.
+
+Powell (00:59:08):
+The idea of underground empire comes from a book written by two American scholars
+
+Powell (00:59:14):
+called Underground Empire,
+
+Powell (00:59:16):
+which documents the ways in which over the course of the last 30 years,
+
+Powell (00:59:20):
+the United States through a number of companies has come to build out and
+
+Powell (00:59:27):
+ultimately control
+
+Powell (00:59:29):
+The information architecture of the world,
+
+Powell (00:59:32):
+particularly the commercial world,
+
+Powell (00:59:34):
+but also increasingly the informational world and they speak of things like
+
+Powell (00:59:39):
+information routers servers data centers submarine cables satellite networks.
+
+Powell (00:59:48):
+data collection devices, software on computers, etc, etc.
+
+Powell (00:59:52):
+And by essentially becoming the global provider of the information infrastructure
+
+Powell (01:00:00):
+at both a hardware and a software level,
+
+Powell (01:00:02):
+and connecting these things up via data centers,
+
+Powell (01:00:06):
+much of which continue to
+
+Powell (01:00:09):
+reside in North America.
+
+Powell (01:00:10):
+I mean,
+
+Powell (01:00:10):
+they talk about somewhere in the order of about 70% of global internet data still
+
+Powell (01:00:15):
+flows through data centers located in Virginia,
+
+Powell (01:00:18):
+right?
+
+Powell (01:00:18):
+So the United States has,
+
+Powell (01:00:21):
+over the course of the last 30 odd years,
+
+Powell (01:00:24):
+become almost the monopoly provider of everything related to digital information.
+
+Powell (01:00:31):
+And it has increasingly exploited that
+
+Powell (01:00:37):
+for geopolitical purposes.
+
+Powell (01:00:40):
+There is an argument and the authors of the book kind of suggest this,
+
+Powell (01:00:43):
+that in the early days,
+
+Powell (01:00:45):
+even though that potential was always there,
+
+Powell (01:00:48):
+this infrastructure was largely dealt with as a global public good.
+
+Powell (01:00:52):
+I'm sure that some people will have a slight difference with that view,
+
+Powell (01:00:57):
+but I'll just put that aside for the moment.
+
+Asbed (01:00:58):
+Maybe back in the 90s.
+
+Powell (01:01:00):
+Yeah,
+
+Powell (01:01:01):
+what's more important is that from about 2003 onwards,
+
+Powell (01:01:06):
+when the war on Iraq unfolded,
+
+Powell (01:01:10):
+the American intelligence agencies realized that transactions data actually came
+
+Powell (01:01:19):
+through
+
+Powell (01:01:19):
+The data centers located in Virginia and they successfully sought authority to gain
+
+Powell (01:01:29):
+access to view that data.
+
+Powell (01:01:31):
+So initially it was to view the data so they could at least see who was doing
+
+Powell (01:01:36):
+business with whom in and out of Iraq.
+
+Powell (01:01:40):
+A few years later,
+
+Powell (01:01:41):
+they successfully prosecuted a case in courts that enabled them to not only view
+
+Powell (01:01:46):
+the data,
+
+Powell (01:01:47):
+but to intervene in that data flow,
+
+Powell (01:01:50):
+which led to the ability to sanction the flow of dollars by interventions at the
+
+Powell (01:01:58):
+data centre level itself.
+
+Powell (01:02:01):
+So once that happened, it's been a slippery slope ever since.
+
+Powell (01:02:04):
+And it gets worse, of course, because we now have not only the
+
+Powell (01:02:09):
+weaponization of that infrastructure by the apparatuses of state,
+
+Powell (01:02:15):
+increasingly that infrastructure is being complemented by a much larger and
+
+Powell (01:02:21):
+arguably more powerful architecture that is a non-state infrastructure being
+
+Powell (01:02:26):
+created by the artificial intelligence and the American big tech private sector
+
+Powell (01:02:31):
+world sitting in parallel to the state ecosystems,
+
+Powell (01:02:36):
+but obviously with arguably less oversight,
+
+Powell (01:02:39):
+etc. etc.,
+
+Powell (01:02:41):
+And we are, I think, really,
+
+Powell (01:02:45):
+Not even on the cusp of entering this.
+
+Powell (01:02:48):
+I think parts of the Western world,
+
+Powell (01:02:51):
+and the United States in particular,
+
+Powell (01:02:52):
+have already entered into this world of digitalized surveillance,
+
+Powell (01:02:58):
+where the surveillance is predominantly undertaken in the name of the state by
+
+Powell (01:03:06):
+private actors.
+
+Hovik (01:03:08):
+Right.
+
+Hovik (01:03:09):
+Well, this has been a very interesting discussion.
+
+Hovik (01:03:13):
+I'm hoping if you have one or two more minutes just to give us a final,
+
+Hovik (01:03:17):
+maybe your parting thoughts about what does all of this portend for BRICS,
+
+Hovik (01:03:24):
+the Shanghai Cooperation Organization,
+
+Hovik (01:03:27):
+and the Global South in general,
+
+Hovik (01:03:28):
+and the role of these organizations?
+
+Powell (01:03:33):
+Look,
+
+Powell (01:03:33):
+many people have in the last few months have commented about the sort of absence of
+
+Powell (01:03:39):
+BRICS in all of this.
+
+Powell (01:03:41):
+It's important to remember that BRICS is largely an economic organization.
+
+Powell (01:03:45):
+Iran's obviously a member of BRICS, but so are many other countries.
+
+Powell (01:03:49):
+And BRICS continues to do what it principally set out to do,
+
+Powell (01:03:52):
+which is to facilitate economic development,
+
+Powell (01:03:56):
+trade,
+
+Powell (01:03:58):
+investment flows, etc, etc.
+
+Powell (01:04:00):
+Probably more important.
+
+Powell (01:04:01):
+And so BRICS really wasn't a, let's call it a geopolitical security institution per se.
+
+Powell (01:04:08):
+So BRICS is quiet, but largely because the intensity is, or the spotlight is elsewhere.
+
+Powell (01:04:17):
+And that's where the SCO, I think, actually becomes far more important.
+
+Powell (01:04:20):
+The SCO matters because it now has 20-odd members,
+
+Powell (01:04:26):
+and those members straddle most of the countries of,
+
+Powell (01:04:29):
+I guess,
+
+Powell (01:04:29):
+what we would call Eurasia writ large.
+
+Powell (01:04:33):
+And what's important about that is that the SCO,
+
+Powell (01:04:37):
+which began 20-odd years ago as an organization with half a dozen or so members
+
+Powell (01:04:43):
+aimed at coordinating responses to terrorism,
+
+Powell (01:04:45):
+separatism,
+
+Powell (01:04:46):
+and extremism,
+
+Powell (01:04:47):
+has now morphed into an organization that one has a bigger footprint and which has
+
+Powell (01:04:53):
+extended its broad security remit to other dimensions of security cooperation.
+
+Powell (01:05:01):
+Now,
+
+Powell (01:05:01):
+it is not a military alliance,
+
+Powell (01:05:02):
+but it has actually extended its security cooperation to significant projects in
+
+Powell (01:05:08):
+transport and energy.
+
+Powell (01:05:11):
+So the SCO meeting in Tianjin last October, from memory,
+
+Powell (01:05:18):
+actually arrived at a number of really important agreements concerning energy collaboration.
+
+Powell (01:05:25):
+Now, in light of the closure of the Strait of Hormuz, it is now abundantly clear that
+
+Powell (01:05:36):
+that a terrestrial based network of energy infrastructure is more important than
+
+Powell (01:05:42):
+ever for countries that continue to depend upon the energy coming from Central
+
+Powell (01:05:52):
+Asia,
+
+Powell (01:05:53):
+West Asia and Russia feeding the sort of eastern parts of the Eurasian continent
+
+Powell (01:05:59):
+itself.
+
+Powell (01:06:01):
+So
+
+Powell (01:06:01):
+The SCO,
+
+Powell (01:06:02):
+even though,
+
+Powell (01:06:03):
+again,
+
+Powell (01:06:04):
+you know,
+
+Powell (01:06:04):
+it doesn't make grand statements,
+
+Powell (01:06:07):
+is playing a vital role institutionally and in orchestrating the infrastructural
+
+Powell (01:06:14):
+substrates.
+
+Powell (01:06:15):
+The other interesting thing and one to be watching now,
+
+Powell (01:06:18):
+and this goes to the financial question,
+
+Powell (01:06:19):
+actually,
+
+Powell (01:06:21):
+is that the longstanding proposal for a SEO development bank,
+
+Powell (01:06:26):
+which China has been proposing for a while,
+
+Powell (01:06:30):
+has now been picked up and has been agreed to and is likely to come online later
+
+Powell (01:06:35):
+this year or sometime next year.
+
+Powell (01:06:38):
+And that development bank, as opposed to the Eurasian Development Bank, but in
+
+Powell (01:06:45):
+complement to the Eurasian Development Bank,
+
+Powell (01:06:48):
+which already exists,
+
+Powell (01:06:49):
+will be focused on financing the initiatives agreed by the SCO countries through
+
+Powell (01:06:55):
+the SCO mechanisms.
+
+Powell (01:06:57):
+And the currency of choice for the
+
+Powell (01:07:01):
+SCO Development Bank is China's Renminbi.
+
+Powell (01:07:05):
+So we are seeing multiple layers,
+
+Powell (01:07:08):
+if you will,
+
+Powell (01:07:09):
+of response,
+
+Powell (01:07:11):
+resilience and preparation and building out alternatives to the world that has
+
+Powell (01:07:19):
+dominated, I guess, the lives of all of us throughout our time and for these countries as well.
+
+Powell (01:07:26):
+So that's BRICS and that's the SCO.
+
+Powell (01:07:29):
+Look,
+
+Powell (01:07:30):
+the Global South in many ways is confronted with some important questions and
+
+Powell (01:07:36):
+policy choices.
+
+Powell (01:07:38):
+They go to the same issues that we touched on in relation to Armenia and small
+
+Powell (01:07:42):
+countries in general,
+
+Powell (01:07:43):
+and that is to find pathways
+
+Powell (01:07:48):
+to achieve high levels of energy sovereignty,
+
+Powell (01:07:54):
+information sovereignty,
+
+Powell (01:07:56):
+and through those processes,
+
+Powell (01:07:59):
+augment their productive capabilities to achieve high levels of energy return on
+
+Powell (01:08:05):
+energy invested.
+
+Powell (01:08:06):
+So they are the challenges for the global south.
+
+Powell (01:08:09):
+Obviously, for some, it will be a little easier to do than others.
+
+Powell (01:08:13):
+Those who have exposure to US dollar denominated debts,
+
+Powell (01:08:17):
+who have strong exposure to oil-based infrastructure and systems like that,
+
+Powell (01:08:21):
+will find it very,
+
+Powell (01:08:22):
+very difficult in the short term.
+
+Powell (01:08:24):
+Those with arguably a blank sheet of paper, if you will,
+
+Powell (01:08:29):
+where you're looking to replace things like diesel generators with local
+
+Powell (01:08:35):
+microgrids,
+
+Powell (01:08:36):
+that will be a lot easier to do.
+
+Powell (01:08:38):
+So patchwork quilt consequences for the Global South.
+
+Powell (01:08:43):
+But this is in many ways the kind of,
+
+Powell (01:08:47):
+well,
+
+Powell (01:08:47):
+it's another crossroad or another fork in the road for Global South nations as they
+
+Powell (01:08:53):
+seek to wrestle their way out of
+
+Powell (01:08:58):
+the neocolonialism of the post-war era.
+
+Asbed (01:09:02):
+Professor,
+
+Asbed (01:09:03):
+what an interesting conversation and what an interesting perspective on what's
+
+Asbed (01:09:06):
+going on in the world.
+
+Asbed (01:09:08):
+We hope to have you on our show again sooner than one year from now.
+
+Asbed (01:09:13):
+So that's a commitment on our side.
+
+Asbed (01:09:16):
+Thank you so much for joining us.
+
+Asbed (01:09:18):
+We really appreciate your insight.
+
+Powell (01:09:21):
+It's been a pleasure to be with you.
+
+Powell (01:09:22):
+And if you want me on the show, just let me know and we'll work something out.
+
+Asbed (01:09:25):
+Absolutely.
+
+Asbed (01:09:26):
+Thank you so much.
+
+Hovik (01:09:28):
+Thank you, Professor Powell.
+
+Asbed (01:09:30):
+That's our show.
+
+Asbed (01:09:32):
+Today is April 22nd, 2026.
+
+Asbed (01:09:34):
+What an interesting conversation.
+
+Asbed (01:09:36):
+Hovik, did you have any thoughts about any of this?
+
+Hovik (01:09:42):
+Oh, I have a lot of thoughts.
+
+Hovik (01:09:44):
+And the first thought is we are going to try very hard to bring Ulrich Powell on
+
+Hovik (01:09:51):
+our show at least once a few months.
+
+Hovik (01:09:54):
+And I think it's especially poignant from the perspective of this U.S.
+
+Hovik (01:10:00):
+encroachment into Armenia,
+
+Hovik (01:10:02):
+specifically with these data centers.
+
+Hovik (01:10:05):
+Again, I'm an IT guy.
+
+Hovik (01:10:06):
+I love data centers.
+
+Hovik (01:10:07):
+But...
+
+Hovik (01:10:10):
+Just looking at how they are creating single points of failure.
+
+Hovik (01:10:13):
+And,
+
+Hovik (01:10:13):
+you know,
+
+Hovik (01:10:13):
+if there is a conflict and God knows our region is going to be anything but
+
+Hovik (01:10:19):
+conflict in the coming century,
+
+Hovik (01:10:21):
+probably.
+
+Hovik (01:10:22):
+What Warwick Powell is saying, it makes a lot of sense to me.
+
+Hovik (01:10:26):
+And less centralized processing of technology, more decentralized, decoupled from each other.
+
+Hovik (01:10:31):
+You know, he talked about the resources that these data centers use in terms of electricity.
+
+Hovik (01:10:38):
+I will add to that.
+
+Hovik (01:10:40):
+water usage?
+
+Asbed (01:10:41):
+I also don't want to be,
+
+Asbed (01:10:42):
+I mean,
+
+Asbed (01:10:43):
+we've said this before,
+
+Asbed (01:10:44):
+and I don't want to be negative on this whole data center business.
+
+Asbed (01:10:47):
+But when you were saying single points of failure,
+
+Asbed (01:10:49):
+we're not talking about IT single points of failure.
+
+Asbed (01:10:52):
+It's not that you have to do all rail stuff and things like that.
+
+Asbed (01:10:55):
+But we're talking about a single point of failure in the resources of Armenia,
+
+Asbed (01:11:00):
+because we've talked about how much
+
+Asbed (01:11:03):
+energy they're going to.
+
+Asbed (01:11:04):
+You did some math and you kind of have an idea of the kind of energy this data
+
+Asbed (01:11:08):
+center is going to require.
+
+Asbed (01:11:09):
+If it's going to have 50,000 to 110,000 NVIDIA chips,
+
+Asbed (01:11:13):
+it's going to be using,
+
+Asbed (01:11:15):
+let's say,
+
+Asbed (01:11:16):
+a quarter of a nuclear power station,
+
+Asbed (01:11:18):
+right?
+
+Asbed (01:11:19):
+And when they are talking about acquiring small modular reactors,
+
+Asbed (01:11:25):
+SMRs,
+
+Asbed (01:11:26):
+those are essentially half-sized compared to Medzamor.
+
+Asbed (01:11:31):
+or a quarter size, depending on the sizing.
+
+Asbed (01:11:33):
+So essentially,
+
+Asbed (01:11:35):
+in my mind,
+
+Asbed (01:11:35):
+what they're trying to do is basically stick a small modular reactor on Armenia's
+
+Asbed (01:11:43):
+bill and make them pay for this data center,
+
+Asbed (01:11:47):
+very little of which is probably going to serve Armenia.
+
+Asbed (01:11:50):
+Armenia does not have 110,000 NVIDIA processors needed.
+
+Hovik (01:11:56):
+Look, I'm a little bit lukewarm on the data center.
+
+Hovik (01:11:58):
+I'm totally against the SMR.
+
+Hovik (01:12:02):
+I think the prescription for success for Armenia,
+
+Hovik (01:12:04):
+regardless of the government,
+
+Hovik (01:12:05):
+is going to be build three or four large nuclear power plants.
+
+Hovik (01:12:10):
+build many small decentralized data centers.
+
+Hovik (01:12:14):
+I'm not saying reject this data center,
+
+Hovik (01:12:18):
+but actually really investigate what it takes to have localized processing of AI on
+
+Hovik (01:12:25):
+your computer or in smaller data centers rather than a single data center.
+
+Hovik (01:12:30):
+And DeepSeek and other technologies are coming online that will allow that.
+
+Hovik (01:12:35):
+Now,
+
+Hovik (01:12:36):
+if the U.S.
+
+Hovik (01:12:36):
+wants to give us a data center as well and make profit from it,
+
+Hovik (01:12:41):
+as long as there is no strings attached,
+
+Hovik (01:12:42):
+I'm okay with that.
+
+Asbed (01:12:45):
+I'm also on your side.
+
+Asbed (01:12:47):
+I'm against an SMR.
+
+Asbed (01:12:48):
+I want actually a big fucking reactor in Armenia.
+
+Hovik (01:12:52):
+Yes, BFRs for the win.
+
+Asbed (01:12:54):
+BFR, that's right.
+
+Asbed (01:12:56):
+That's what I want.
+
+Asbed (01:12:59):
+There was one point that we discussed a little bit earlier,
+
+Asbed (01:13:02):
+and that has to be with the security of a data center.
+
+Asbed (01:13:04):
+And I'm really afraid that as data centers become extremely critical,
+
+Asbed (01:13:09):
+how were the data centers in the Gulf countries critical?
+
+Asbed (01:13:13):
+The United States and Israel were using,
+
+Asbed (01:13:17):
+let's say,
+
+Asbed (01:13:17):
+AWS data centers for their military operations,
+
+Asbed (01:13:21):
+because when you use a data center that is very close,
+
+Asbed (01:13:24):
+you have minimal latency of those services to
+
+Asbed (01:13:27):
+whoever is using them.
+
+Asbed (01:13:29):
+So if Armenia is going to be used for that,
+
+Asbed (01:13:31):
+obviously the enemy is going to be striking back on Armenia.
+
+Asbed (01:13:34):
+So this is a huge concern for me.
+
+Hovik (01:13:36):
+Yeah,
+
+Hovik (01:13:36):
+I mean,
+
+Hovik (01:13:36):
+when you're talking about the war in Iran,
+
+Hovik (01:13:38):
+but yes,
+
+Hovik (01:13:40):
+but even as a strategic resource,
+
+Hovik (01:13:44):
+like,
+
+Hovik (01:13:44):
+you know,
+
+Hovik (01:13:44):
+we've seen how
+
+Hovik (01:13:46):
+not just because the data centers are used for power,
+
+Hovik (01:13:49):
+but because data centers are critical for other parts of,
+
+Hovik (01:13:52):
+let's say,
+
+Hovik (01:13:53):
+a nation's economy and infrastructure,
+
+Hovik (01:13:57):
+a potential enemy could attack it just like Trump is threatening to attack power
+
+Hovik (01:14:02):
+stations in Iran.
+
+Asbed (01:14:03):
+That's right, power stations and bridges in Iran.
+
+Hovik (01:14:05):
+So, yeah, I think it's more general than that.
+
+Hovik (01:14:07):
+And you won't have the same nuclear fallout effect if you attack a nuclear reactor,
+
+Hovik (01:14:11):
+in which case,
+
+Hovik (01:14:11):
+for instance,
+
+Hovik (01:14:12):
+our enemies, Turkey and Azerbaijan, would be affected by that as well.
+
+Hovik (01:14:16):
+So they would not dare to do that,
+
+Hovik (01:14:18):
+but they could take out a data center and cause huge damage both to the investors
+
+Hovik (01:14:23):
+and to the country's credit and so forth.
+
+Hovik (01:14:26):
+So I think that it's prudent to not put all our eggs in that basket.
+
+Asbed (01:14:33):
+We have to seek the true thermodynamic cost of a data center.
+
+Hovik (01:14:38):
+And if I may just add one more thing, you know,
+
+Hovik (01:14:41):
+Another interesting aspect,
+
+Hovik (01:14:45):
+I think Professor Powell used the term digital Westphalia,
+
+Hovik (01:14:50):
+I think is really important,
+
+Hovik (01:14:52):
+meaning that countries have to get sovereignty of their information space and
+
+Hovik (01:14:57):
+information infrastructure,
+
+Hovik (01:15:00):
+whether small or big.
+
+Hovik (01:15:02):
+So what I see and one of the reasons why we are in this mess right now, Pashinyan came to power
+
+Hovik (01:15:10):
+largely to the help of social media.
+
+Hovik (01:15:12):
+Social media is used to actually control the sentiment,
+
+Hovik (01:15:16):
+public sentiment in Armenia,
+
+Hovik (01:15:18):
+and it enables it.
+
+Hovik (01:15:20):
+And in their own hands,
+
+Hovik (01:15:22):
+and I think that right now that a lot of that is happening,
+
+Hovik (01:15:24):
+public opinion is being shaped for civilizational suicide for Armenians,
+
+Hovik (01:15:30):
+meaning that forget your
+
+Hovik (01:15:32):
+traditional partners, you know, let's go with the Turks, you know, follow the money.
+
+Hovik (01:15:37):
+We're going to eat the money.
+
+Hovik (01:15:38):
+If there is no food, it's okay.
+
+Hovik (01:15:41):
+And those things very struck a chord with me.
+
+Hovik (01:15:43):
+So I think that as a security person,
+
+Hovik (01:15:46):
+as an information security person,
+
+Hovik (01:15:48):
+I'm really interested in how organizations like SEO can help define maybe
+
+Hovik (01:15:56):
+standards.
+
+Hovik (01:15:57):
+So if there can be some open standards in terms of being able to
+
+Hovik (01:16:02):
+introspect hardware for any hidden backdoors or security vulnerabilities.
+
+Hovik (01:16:07):
+I think that's a second order concern because right now we just have to fucking
+
+Hovik (01:16:11):
+figure out how to stop Facebook from making half of Armenia's population or 30% of
+
+Hovik (01:16:18):
+Armenia's population love piroshki eating monsters.
+
+Asbed (01:16:24):
+Half of the population and all of the government, by the way.
+
+Asbed (01:16:29):
+Let's not drill too far away from Professor Warwick.
+
+Asbed (01:16:34):
+I completely agree with you.
+
+Asbed (01:16:36):
+My posture
+
+Hovik (01:16:39):
+Information domain is very much important,
+
+Hovik (01:16:42):
+and I think it's core to the thesis that Professor Warwick is talking about.
+
+Hovik (01:16:46):
+So I don't think I'm steering at all too far away,
+
+Hovik (01:16:48):
+but hopefully we'll have more shows on that topic.
+
+Hovik (01:16:52):
+It's my pet area of interest in terms of being able to have security of hardware,
+
+Hovik (01:16:58):
+actually,
+
+Hovik (01:16:58):
+and security of devices as part of the securing your own information space.
+
+Asbed (01:17:07):
+Yeah.
+
+Asbed (01:17:08):
+Get rid of all social media you don't use all the time.
+
+Asbed (01:17:11):
+It's just spyware.
+
+Hovik (01:17:12):
+Or have your own controlled one.
+
+Hovik (01:17:13):
+I mean,
+
+Hovik (01:17:15):
+as much as they're being criticized in Russia and China,
+
+Hovik (01:17:18):
+at least,
+
+Hovik (01:17:19):
+and Iran,
+
+Hovik (01:17:20):
+actually,
+
+Hovik (01:17:21):
+those countries have been able to maintain sovereignty over their information space
+
+Hovik (01:17:26):
+as bad as it is.
+
+Hovik (01:17:27):
+And that's what has contributed to their survival.
+
+Asbed (01:17:30):
+Yeah.
+
+Asbed (01:17:32):
+Thank you.
+
+Asbed (01:17:32):
+So we've been talking with Professor Warwick Powell,
+
+Asbed (01:17:36):
+who is an adjunct professor at Queensland University of Technology in Brisbane,
+
+Asbed (01:17:39):
+Australia,
+
+Asbed (01:17:41):
+and a senior fellow at Taihe Institute in Beijing.
+
+Asbed (01:17:44):
+He is the author of China, Trust and Digital Supply Chains, Dynamics of a Zero Trust World.
+
+Asbed (01:17:50):
+His work focuses on digital innovation technologies and international political economy.
+
+Asbed (01:17:55):
+Actually, we also mentioned his latest book,
+
+Asbed (01:17:58):
+which is called Thermoeconomics in a Time of Monsters,
+
+Asbed (01:18:02):
+Rethinking Theory,
+
+Asbed (01:18:03):
+China,
+
+Asbed (01:18:04):
+and International Geopolitical Economy.
+
+Asbed (01:18:07):
+Thank you for joining us, folks.
+
+Asbed (01:18:09):
+Thank you.
+
+Hovik (01:18:09):
+Have a great day.
+
+Asbed (01:18:12):
+I'm Asbed Bedrossian.
+
+Hovik (01:18:15):
+And I'm Hovik Manucharyan
+
+Hovik (01:18:16):
+Bye-bye.
