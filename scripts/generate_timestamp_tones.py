@@ -1,13 +1,15 @@
 #!/usr/bin/env python3
-import sys, wave, math, struct
+import sys
+import numpy as np
+import wave
 
 labels_file = sys.argv[1]
 out_wav = sys.argv[2]
 
 sample_rate = 48000
-tone_freq = 707
+tone_freq = 1000
 tone_duration = 1.0
-fade_duration = 0.03   # 30 ms fade
+fade_duration = 0.03
 amp = 1.0
 
 times = []
@@ -15,7 +17,7 @@ times = []
 with open(labels_file, "r", encoding="utf-8") as f:
     for line in f:
         parts = line.strip().split("\t")
-        if len(parts) >= 1:
+        if parts:
             try:
                 times.append(float(parts[0]))
             except ValueError:
@@ -26,41 +28,42 @@ if not times:
 
 half_tone = tone_duration / 2
 end_time = max(times) + half_tone + 1
-
 total_samples = int(end_time * sample_rate)
-audio = [0.0] * total_samples
+
+audio = np.zeros(total_samples, dtype=np.float32)
 
 tone_samples = int(tone_duration * sample_rate)
 fade_samples = int(fade_duration * sample_rate)
 
-for t in times:
-    start_time = max(0, t - half_tone)
-    start = int(start_time * sample_rate)
+t = np.arange(tone_samples) / sample_rate
+tone = amp * np.sin(2 * np.pi * tone_freq * t)
 
-    for i in range(tone_samples):
-        idx = start + i
-        if idx >= total_samples:
-            break
+# fade in/out
+envelope = np.ones(tone_samples, dtype=np.float32)
+envelope[:fade_samples] = np.linspace(0, 1, fade_samples)
+envelope[-fade_samples:] = np.linspace(1, 0, fade_samples)
 
-        # fade envelope
-        if i < fade_samples:
-            envelope = i / fade_samples
-        elif i > tone_samples - fade_samples:
-            envelope = (tone_samples - i) / fade_samples
-        else:
-            envelope = 1.0
+tone = tone * envelope
 
-        sample = amp * envelope * math.sin(
-            2 * math.pi * tone_freq * i / sample_rate
-        )
+for ts in times:
+    start = int((ts - half_tone) * sample_rate)
+    tone_start = 0
 
-        audio[idx] += sample
+    if start < 0:
+        tone_start = -start
+        start = 0
 
-with wave.open(out_wav, "w") as w:
+    end = min(start + tone_samples - tone_start, total_samples)
+    n = end - start
+
+    if n > 0:
+        audio[start:end] += tone[tone_start:tone_start + n]
+
+audio = np.clip(audio, -1.0, 1.0)
+audio_int16 = (audio * 32767).astype(np.int16)
+
+with wave.open(out_wav, "wb") as w:
     w.setnchannels(1)
     w.setsampwidth(2)
     w.setframerate(sample_rate)
-
-    for s in audio:
-        s = max(-1.0, min(1.0, s))
-        w.writeframes(struct.pack("<h", int(s * 32767)))
+    w.writeframes(audio_int16.tobytes())
