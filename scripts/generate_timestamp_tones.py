@@ -8,7 +8,7 @@ out_wav = sys.argv[2]
 
 sample_rate = 48000
 tone_freq = 1000
-tone_duration = 1.0
+tone_duration = 2.0
 fade_duration = 0.03
 amp = 1.0
 
