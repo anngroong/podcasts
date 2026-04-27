@@ -1,6 +1,5 @@
 +++
-Date = 2026-04-27T02:30:00+04:00
-upcoming = true
+Date = 2026-04-27T13:00:00+04:00
 
 title = "Philippe Raffi Kalfayan - Monitoring the June 2026 Parliamentary Elections in Armenia | Ep 535, Apr 27, 2026"
 subtitle = "Groong Week in Review - April 27, 2026"
@@ -9,10 +8,10 @@ episode_image = "img/episode/535/thumbnail-535.webp"
 episode_banner = "img/episode/535/banner-535.webp"
 images = ["img/episode/535/banner-535.webp"]
 
-podcast_file     = ""
-podcast_duration = ""
-podcast_bytes    = ""
-youtube = ""
+podcast_file     = "19081934-philippe-raffi-kalfayan-monitoring-the-june-2026-election-in-armenia-ep-535-apr-26-2026.mp3"
+podcast_duration = "3922"
+podcast_bytes    = "47099235"
+youtube = "IuqGI9y6PGw"
 
 hosts = ["asbed", "hovik"]
 guests = ["prkalfayan"]
@@ -43,7 +42,8 @@ Description = """
 Episode 535 | Recorded: April 24, 2026"""
 +++
 
-# summary
+# Summary
+
 __Dr. Philippe Raffi Kalfayan__ joined Groong to discuss the International Observatory for Democracy in Armenia (IODA), its work ahead of Armenia’s June 7, 2026 parliamentary elections, and the risks it sees in the pre-election environment. The conversation covered IODA’s mission, its first fact-finding trip to Armenia, concerns about judicial control and administrative resources, questions about OSCE/ODIHR and EU impartiality, and the pressure facing opposition figures and parties before election day.
 
 ## Main Topics Addressed
@@ -88,6 +88,7 @@ __Dr. Philippe Raffi Kalfayan__ joined Groong to discuss the International Obser
 
 - [Kenneth Roth post on Armenia’s 2026 election and geopolitical pressures](https://x.com/KenRoth/status/2046117251372220604)
 
+- [Fact-Checking The Fact Checkers/Փաստերի ստուգման հարթակների ստուգման հարթակ](https://www.facebook.com/profile.php?id=61574358193271)
 
 # Wrap-up
 
