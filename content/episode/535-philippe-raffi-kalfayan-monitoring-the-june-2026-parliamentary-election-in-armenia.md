@@ -21,7 +21,7 @@ aliases = ["/535"]
 
 series = ["wir", "video"]
 categories = ["Armenia", "Politics", "election"]
-tags = ["Armenian News", "Armenia", "Philippe Raffi Kalfayan", "Raffi Kalfayan", "IODA", "International Observatory for Democracy in Armenia", "Kenneth Roth", "Parliamentary Election", "Election 2026", "Sarah Leah Whitson", "Human Rights Watch", "SHERPA", "OSCE", "ODIHR", "FIP", "Fact Investigation Platform", "UIC", "Union of Informed Citizens", "Daniel Ioannisyan", "Meta", "Facebook", "Instagram", "WhatsApp", "CEC", "Savel Karapetyan", "Strong Armenia", "Nikol Pashinyan", "Civil Contract"]
+tags = ["Armenian News", "Armenia", "Philippe Raffi Kalfayan", "Raffi Kalfayan", "IODA", "International Observatory for Democracy in Armenia", "Kenneth Roth", "Parliamentary Election", "Election 2026", "Sarah Leah Whitson", "Human Rights Watch", "SHERPA", "OSCE", "ODIHR", "FIP", "Fact Investigation Platform", "UIC", "Union of Informed Citizens", "Daniel Ioannisyan", "Meta", "Facebook", "Instagram", "WhatsApp", "CEC", "Samvel Karapetyan", "Strong Armenia", "Nikol Pashinyan", "Civil Contract"]
 
 Description = """
 
