@@ -50,13 +50,6 @@ def process_file(path, test_mode=False):
         content[idx:]
     )
 
-    backup = path + ".bak"
-
-    if not os.path.exists(backup):
-        os.rename(path, backup)
-    else:
-        os.remove(path)
-
     with open(path, "wb") as f:
         f.write(new_content)
 
@@ -85,7 +78,7 @@ def main():
         "-x",
         "--exclude",
         action="append",
-        default=["news"],
+        default=[],
         help="Subdirectory to exclude (repeatable)"
     )
 

@@ -20,7 +20,7 @@ hosts = ["hovik","asbed"]
 episode = "533"
 aliases = ["/533"]
 
-series = ["cog"]
+series = ["cog", "video"]
 categories = ["Geopolitics", "Iran", "World","Economy", "Armenia"]
 explicit = "no" # values are "yes" or "no"
 tags = ["Warwick Powell", "Iran", "Iran War", "Geopolitics", "World Economy", "BRICS", "Global South", "Dollar", "Dollarization", "Dedollarization", "USA", "Donald Trump", "China", "Russia", "Thermodynamics", "ThermoEconomics", "AI", "Artificial Intelligence", "Data Centers", "negentropic", "EROI", "Shale Oil", "Fracking", "Social Entropy", "Digital Westphalia", "Copper", "TENGS", "Currency Multipolarity", "Renminbi", "SWIFT", "CIPS", "Energy Sovereignty", "Information Sovereignty", "SCO", "SCO Development Bank", "Shanghai Cooperation Organization", "Armenia", "TRIPP", "Hormuz"]
