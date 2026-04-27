@@ -44,7 +44,49 @@ Episode 535 | Recorded: April 24, 2026"""
 +++
 
 # summary
+__Dr. Philippe Raffi Kalfayan__ joined Groong to discuss the International Observatory for Democracy in Armenia (IODA), its work ahead of Armenia’s June 7, 2026 parliamentary elections, and the risks it sees in the pre-election environment. The conversation covered IODA’s mission, its first fact-finding trip to Armenia, concerns about judicial control and administrative resources, questions about OSCE/ODIHR and EU impartiality, and the pressure facing opposition figures and parties before election day.
 
+## Main Topics Addressed
+
+- IODA’s election role
+- Armenia’s 2026 election risks
+- Observer impartiality concerns
+- Voter list and fraud concerns
+- Pressure on the opposition
+
+## Key Questions Discussed
+
+- Why did Raffi Kalfayan launch IODA, and what does the organization aim to monitor before Armenia’s parliamentary elections?
+
+- How is IODA’s work different from formal election-day monitoring by OSCE/ODIHR and other institutional missions?
+
+- What did IODA observe during its March fact-finding mission to Armenia, and why will its next mission focus on the regions?
+
+- How serious are concerns about judicial independence, including the Supreme Judicial Council and the assignment of politically sensitive cases?
+
+- How does the use of administrative resources, campaign-style official travel, pension increases, and bonuses affect the fairness of the election?
+
+- Can OSCE/ODIHR and European institutions be fully impartial when Armenia is treated as part of a broader geopolitical contest between the West and Russia?
+
+- What role do Armenian fact-checking groups, Meta, and EU-backed “disinformation” tools play in the pre-election information environment?
+
+- How are opposition figures and parties, including Samvel Karapetyan and Strong Armenia, being affected by legal pressure and limits on political competition?
+
+- What practical steps can IODA take before June 7 to alert institutions, document problems, and prevent opposition candidates or parties from being removed from the race?
+
+- What would Armenia’s government need to do now for the elections to be viewed as free and fair?
+
+## Referenced Articles & Sources
+
+- [International Observatory for Democracy in Armenia (IODA)](https://armeniaobservatory.org/)
+
+- [ODIHR opens election observation mission in Armenia](https://armenpress.am/en/article/1248300)
+
+- [CEC hosts OSCE/ODIHR election observation mission in Armenia](https://armenpress.am/en/article/1248317)
+
+- [Armenian Bank Accused Of Illegally Funding Pashinian’s Election Campaign](https://www.azatutyun.am/a/33741089.html)
+
+- [Kenneth Roth post on Armenia’s 2026 election and geopolitical pressures](https://x.com/KenRoth/status/2046117251372220604)
 
 
 # Wrap-up
