@@ -2,7 +2,7 @@
 Date = 2026-04-27T13:00:00+04:00
 
 title = "Philippe Raffi Kalfayan - Monitoring the June 2026 Parliamentary Elections in Armenia | Ep 535, Apr 27, 2026"
-subtitle = "Groong Week in Review - April 27, 2026"
+subtitle = "Conversations on Groong - April 27, 2026"
 
 episode_image = "img/episode/535/thumbnail-535.webp"
 episode_banner = "img/episode/535/banner-535.webp"
@@ -18,7 +18,7 @@ guests = ["prkalfayan"]
 episode = "535"
 aliases = ["/535"]
 
-series = ["wir", "video"]
+series = ["cog", "video"]
 categories = ["Armenia", "Politics", "election"]
 tags = ["Armenian News", "Armenia", "Philippe Raffi Kalfayan", "Raffi Kalfayan", "IODA", "International Observatory for Democracy in Armenia", "Kenneth Roth", "Parliamentary Election", "Election 2026", "Sarah Leah Whitson", "Human Rights Watch", "SHERPA", "OSCE", "ODIHR", "FIP", "Fact Investigation Platform", "UIC", "Union of Informed Citizens", "Daniel Ioannisyan", "Meta", "Facebook", "Instagram", "WhatsApp", "CEC", "Samvel Karapetyan", "Strong Armenia", "Nikol Pashinyan", "Civil Contract"]
 
@@ -39,7 +39,9 @@ Description = """
 * Pressure on opposition figures and parties
 
 
-Episode 535 | Recorded: April 24, 2026"""
+Episode 535 | Recorded: April 24, 2026
+
+#Armenia #ArmenianElections #Election2026 #IODA #OSCE #ODIHR #Geopolitics #Democracy"""
 +++
 
 # Summary
