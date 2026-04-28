@@ -2,7 +2,7 @@
 Date = 2026-04-28T02:00:00+04:00
 upcoming = false
 
-title = "Arthur Martirosyan - Iran War, Effect on Armenia, June Parliamentary | Ep 536, Mar 15, 2026"
+title = "Arthur Martirosyan - Iran War, Effect on Armenia, June Parliamentary | Ep 536, Apr 26, 2026"
 subtitle = "Groong Week in Review - April 26, 2026"
 
 podcast_summary = "We examine how the Iran war fallout and the extension of the ceasefire are reshaping Armenia’s geopolitical position. We break down the push for the TRIPP or Zangezur Corridor and the claims of Armenia-Azerbaijan normalization, and assess how they tie to regional power dynamics involving Iran, Russia, Turkey, and the United States. The episode also covers Armenia’s 2026 elections and rising elite tensions. In addition, we discuss the global commemoration of the Armenian Genocide, contrasting international messaging with domestic narratives and linking it to ongoing debates around Artsakh and historical continuity."
