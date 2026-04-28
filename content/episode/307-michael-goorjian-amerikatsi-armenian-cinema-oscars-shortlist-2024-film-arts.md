@@ -7,8 +7,8 @@ subtitle = "Conversations on Groong - 02/06/2023"
 author = "Armenian News Network - Groong"
 
 podcast_file = "14453728-amerikatsi-michael-goorjian-s-odyssey-ep-307-feb-6-2024.mp3"
-podcast_duration = "54747937"
-podcast_bytes = "4559"
+podcast_duration = "4559"
+podcast_bytes = "54747937"
 youtube = "ESPfHpjVomA"
 
 episode_image = "img/episode/307/thumbnail-307.webp"

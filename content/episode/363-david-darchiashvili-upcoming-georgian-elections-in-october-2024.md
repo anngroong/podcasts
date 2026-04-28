@@ -7,8 +7,8 @@ subtitle = "Conversations on Groong - 09/14/2024"
 author = "Armenian News Network - Groong"
 
 podcast_file = "15753197-david-darchiashvili-georgian-elections-in-october-2024-ep-363-sep-14-2024.mp3"
-podcast_duration = "33504146"
-podcast_bytes = "2789"
+podcast_bytes = "33504146"
+podcast_duration = "2789"
 youtube = "l8ctu_OpjdI"
 
 episode_image = "img/episode/363/thumbnail-363.webp"

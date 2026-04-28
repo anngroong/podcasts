@@ -7,8 +7,8 @@ subtitle = "Week in Review - 11/10/2024"
 author = "Armenian News Network - Groong"
 
 podcast_file = "16107832-arthur-khachatryan-armenia-azerbaijan-talks-2025-state-budget-internal-political-developments-ep-385-nov-10-2024.mp3"
-podcast_duration = "41522872"
-podcast_bytes = "3457"
+podcast_duration = "3457"
+podcast_bytes = "41522872"
 youtube = "cq3wNYXV2JM"
 
 episode_image = "img/episode/385/thumbnail-385.webp"

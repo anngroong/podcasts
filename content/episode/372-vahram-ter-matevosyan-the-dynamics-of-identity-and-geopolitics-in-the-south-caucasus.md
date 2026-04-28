@@ -7,8 +7,8 @@ subtitle = "Conversations on Groong - 10/05/2024"
 author = "Armenian News Network - Groong"
 
 podcast_file = "15873330-vahram-ter-matevosyan-the-dynamics-of-identity-and-geopolitics-in-the-south-caucasus-ep-372-oct-5-2024.mp3"
-podcast_duration = "43623838"
-podcast_bytes = "3632"
+podcast_duration = "3632"
+podcast_bytes = "43623838"
 youtube = "E6flKbFgWvk"
 
 episode_image = "img/episode/372/thumbnail-372.webp"

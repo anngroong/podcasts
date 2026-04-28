@@ -10,8 +10,8 @@ episode_banner = "img/episode/438/banner-438.webp"
 images = ["img/episode/438/banner-438.webp"]
 
 podcast_file = "17213949-hrant-mikaelian-tirana-lavrov-armenian-un-democracy-demilitarization-and-more-ep-438-may-18-2025.mp3"
-podcast_duration = "48799254"
-podcast_bytes = "4064"
+podcast_bytes = "48799254"
+podcast_duration = "4064"
 youtube = "5sffNcHhm5I"
 
 hosts = ["asbed", "hovik"]

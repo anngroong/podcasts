@@ -2,8 +2,8 @@
 Date = 2024-05-03T09:02:17+04:00
 
 podcast_file = "15001534-benyamin-poghosyan-rananjay-anand-indian-armenian-relations-in-2024-ep-327-may-2-2024.mp3"
-podcast_duration = "48617370"
-podcast_bytes = "4048"
+podcast_duration = "4048"
+podcast_bytes = "48617370"
 youtube = "uCDeIJO6yn4"
 
 episode_image = "img/episode/327/thumbnail-327.webp"

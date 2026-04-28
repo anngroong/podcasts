@@ -4,8 +4,8 @@ Date = 2023-03-19T23:30:00+04:00
 upcoming = false
 
 podcast_file = "12489013-pashinyan-press-conference-belligerent-azerbaijan-mirzoyan-in-moscow-yerevan-mayor-ep-240-mar-19-2023.mp3"
-podcast_duration = "41135405"
-podcast_bytes = "3425"
+podcast_duration = "3425"
+podcast_bytes = "41135405"
 youtube = "khu72d_Qd_A"
 
 episode = "240"

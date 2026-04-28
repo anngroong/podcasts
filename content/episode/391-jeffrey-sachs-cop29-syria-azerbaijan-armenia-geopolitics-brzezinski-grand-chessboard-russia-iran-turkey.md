@@ -5,8 +5,8 @@ Date = 2024-12-05T11:00:00-08:00
 explicit = "no" # values are "yes" or "no"
 
 podcast_file = "16225936-jeffrey-sachs-escalation-in-syria-cop29-advice-for-armenia-ep-391-dec-5-2024.mp3"
-podcast_duration = "30539951"
-podcast_bytes = "2542"
+podcast_duration = "2542"
+podcast_bytes = "30539951"
 youtube = "sG_ji42YHj8"
 
 episode_image = "img/episode/391/thumbnail-391.webp"

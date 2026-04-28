@@ -3,8 +3,8 @@ Date = 2023-10-04T22:00:00+04:00
 upcoming = false
 
 podcast_file = "13714109-arthur-g-martirosyan-the-game-of-alternatives-is-armenia-negotiating-effectively-ep-282-oct-4-2023.mp3"
-podcast_duration = "25802822"
-podcast_bytes = "2147"
+podcast_duration = "2147"
+podcast_bytes = "25802822"
 youtube = "BfKS27wsVKM"
 
 
@@ -50,8 +50,6 @@ We have regularly covered the attempts by the Pashinyan regime to change the str
 
 Today, we’d like to discuss with the calculations that Armenia's authorities are relying upon in their provocatively aggressive, some would say “suicidal”, positioning. 
 
-
-
 ## The Game of Alternatives
 
 Arthur, in your previous interviews with us and other media, you frequently refer to the concept of the 'alternative game'.
@@ -75,8 +73,6 @@ Let's assume that Pashinyan is a rational actor, and he's making rational choice
 **Questions:**
 * What would be the premises from which he's making his decisions for them to be rational, in the sense that we consider them as protecting Armenian national interests?
 * What promises would have been made to him to form a basis for relying on the US and the EU, as a security alternative to Russia, for Armenia?
-
-
 
 # Wrap-up
 

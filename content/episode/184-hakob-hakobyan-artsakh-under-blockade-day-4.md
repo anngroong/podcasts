@@ -2,8 +2,8 @@
 Date = 2022-12-15T23:30:00+04:00
 PublishDate = 2022-12-15T23:30:00+04:00
 podcast_file = "11881473-4-artsakh-under-blockade-day-4-ep-184-dec-15-2022.mp3" # the name of the podcast file, after the media prefix.
-podcast_duration = "24240325"
-podcast_bytes = "2016"
+podcast_duration = "2016"
+podcast_bytes = "24240325"
 episode_image = "img/episode/default.jpg"
 #episode_banner = ""
 guests = ["hhakobyan"]

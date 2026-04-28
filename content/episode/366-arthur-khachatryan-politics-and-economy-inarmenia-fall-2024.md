@@ -7,8 +7,8 @@ subtitle = "Conversations on Groong - 09/21/2024"
 author = "Armenian News Network - Groong"
 
 podcast_file = "15790585-arthur-khachatryan-politics-and-economy-in-armenia-fall-2024-ep-366-sep-21-2024.mp3"
-podcast_duration = "32789945"
-podcast_bytes = "2729"
+podcast_bytes = "32789945"
+podcast_duration = "2729"
 youtube = "LWUBVFWj6GQ"
 
 episode_image = "img/episode/366/thumbnail-366.webp"

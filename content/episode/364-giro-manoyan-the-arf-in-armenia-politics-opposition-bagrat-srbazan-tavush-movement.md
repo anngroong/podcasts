@@ -7,8 +7,8 @@ subtitle = "Conversations on Groong - 09/16/2024"
 author = "Armenian News Network - Groong"
 
 podcast_file = "15764771-giro-manoyan-the-arf-in-armenia-s-politics-ep-364-sep-16-2024.mp3"
-podcast_duration = "41676958"
-podcast_bytes = "3470"
+podcast_duration = "3470"
+podcast_bytes = "41676958"
 youtube = "vzU7q1-RhnE"
 
 episode_image = "img/episode/364/thumbnail-364.webp"
