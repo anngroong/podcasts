@@ -4,8 +4,7 @@ Date = 2026-04-27T13:00:00+04:00
 title = "Philippe Raffi Kalfayan - Monitoring the June 2026 Parliamentary Elections in Armenia | Ep 535, Apr 27, 2026"
 subtitle = "Conversations on Groong - April 27, 2026"
 
-podcast_summary = """
-Dr. Philippe Raffi Kalfayan joined Groong to discuss the International Observatory for Democracy in Armenia (IODA), its work ahead of Armenia’s June 7, 2026 parliamentary elections, and the risks it sees in the pre-election environment. The conversation covered IODA’s mission, its first fact-finding trip to Armenia, concerns about judicial control and administrative resources, questions about OSCE/ODIHR and EU impartiality, and the pressure facing opposition figures and parties before election day."""
+podcast_summary = "Dr. Philippe Raffi Kalfayan joined Groong to discuss the International Observatory for Democracy in Armenia (IODA), its work ahead of Armenia’s June 7, 2026 parliamentary elections, and the risks it sees in the pre-election environment. The conversation covered IODA’s mission, its first fact-finding trip to Armenia, concerns about judicial control and administrative resources, questions about OSCE/ODIHR and EU impartiality, and the pressure facing opposition figures and parties before election day."
 
 episode_image = "img/episode/535/thumbnail-535.webp"
 episode_banner = "img/episode/535/banner-535.webp"
