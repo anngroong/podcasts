@@ -5,6 +5,9 @@ Date = {{ .Date }}
 title = ""
 subtitle = ""
 
+podcast_summary = """
+"""
+
 episode_image = "img/episode/EPISODE_NUMBER/thumbnail-EPISODE_NUMBER.webp"
 episode_banner = "img/episode/EPISODE_NUMBER/banner-EPISODE_NUMBER.webp"
 images = ["img/episode/EPISODE_NUMBER/banner-EPISODE_NUMBER.webp"]
@@ -40,7 +43,9 @@ Description = """
 Episode EPISODE_NUMBER | Recorded: """
 +++
 
+# Summary
 
+{{% param "podcast_summary" %}}
 
 # Wrap-up
 
