@@ -1,8 +1,9 @@
 +++
-Description = "{{% param \"podcast_summary\" %}}"
+Description = "Dr. Philippe Raffi Kalfayan joined Groong to discuss the International Observatory for Democracy in Armenia (IODA), its work ahead of Armenia’s June 7, 2026 parliamentary elections, and the risks it sees in the pre-election environment. The conversation covered IODA’s mission, its first fact-finding trip to Armenia, concerns about judicial control and administrative resources, questions about OSCE/ODIHR and EU impartiality, and the pressure facing opposition figures and parties before election day."
 Date = 2026-04-27
 PublishDate = 2026-04-27 # this is the datetime for the when the epsiode was published. This will default to Date if it is not set. Example is "2016-04-25T04:09:45-05:00"
 title = "Transcript: Philippe Raffi Kalfayan - Monitoring the June 2026 Parliamentary Elections in Armenia | Ep 535, Apr 27, 2026"
+episode = "535"
 #blog_banner = ""
 blog_image = "img/episode/535/banner-535.webp"
 images = ["img/episode/535/banner-535.webp"]
@@ -12,7 +13,7 @@ tags = ["Armenian News", "Armenia", "Philippe Raffi Kalfayan", "Raffi Kalfayan",
 #aliases = ["/##"]
 +++
 
-{{% param "podcast_summary" %}}
+{{< podcast_summary >}}
 
 ## Episode Information
 

@@ -58,6 +58,7 @@ class EpisodeMetadata:
     categories: list[str]
     tags: list[str]
     description: Optional[str]
+    podcast_summary: Optional[str]
     summary: Optional[str]
     podcast_file: Optional[str]
     episode_image: Optional[str]
@@ -180,6 +181,7 @@ def parse_episode_file(path: Path) -> EpisodeMetadata:
         categories=_string_list(data.get("categories", [])),
         tags=_string_list(data.get("tags", [])),
         description=_opt_str(data.get("Description")) or _opt_str(data.get("description")),
+        podcast_summary=_opt_str(data.get("podcast_summary")),
         summary=summary,
         podcast_file=_opt_str(data.get("podcast_file")),
         episode_image=_opt_str(data.get("episode_image")),
@@ -315,6 +317,9 @@ def default_images_value(meta: EpisodeMetadata) -> str:
 
 
 def generate_short_description(meta: EpisodeMetadata) -> str:
+    if meta.podcast_summary:
+        text = normalize_whitespace(meta.podcast_summary)
+        return text
     if meta.summary:
         text = normalize_whitespace(meta.summary)
         if len(text) <= 210:
@@ -373,6 +378,7 @@ def render_front_matter(
     meta: EpisodeMetadata,
     transcript_title: str,
     description: str,
+    episode: str,
     blog_image: str,
     images_default: str,
     author: str,
@@ -391,6 +397,7 @@ def render_front_matter(
             'This will default to Date if it is not set. Example is "2016-04-25T04:09:45-05:00"'
         )
     lines.append(f'title = "{escape_toml_string(transcript_title)}"')
+    lines.append(f'episode = "{escape_toml_string(episode)}"')
     lines.append('#blog_banner = ""')
     lines.append(f'blog_image = "{escape_toml_string(blog_image)}"')
     lines.append(f'images = ["{escape_toml_string(images_default)}"]')
@@ -503,6 +510,7 @@ def build_output(
         meta,
         transcript_title,
         description=description or generate_short_description(meta),
+        episode=f"{meta.episode}" if meta.episode else "",
         blog_image=blog_image or default_blog_image(meta),
         images_default=images_default or default_images_value(meta),
         author=author,

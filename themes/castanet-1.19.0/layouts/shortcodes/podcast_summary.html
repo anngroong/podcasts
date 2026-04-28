@@ -1,0 +1,10 @@
+{{- $episode := .Get 0 | default .Page.Params.episode -}}
+{{- $matches := where .Site.RegularPages "Params.episode" $episode -}}
+
+{{- if gt (len $matches) 0 -}}
+  {{- with index $matches 0 -}}
+    {{- with .Params.podcast_summary -}}
+{{ . | markdownify }}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
