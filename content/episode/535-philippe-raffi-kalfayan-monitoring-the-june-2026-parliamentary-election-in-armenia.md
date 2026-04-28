@@ -4,6 +4,10 @@ Date = 2026-04-27T13:00:00+04:00
 title = "Philippe Raffi Kalfayan - Monitoring the June 2026 Parliamentary Elections in Armenia | Ep 535, Apr 27, 2026"
 subtitle = "Conversations on Groong - April 27, 2026"
 
+podcast_summary = """
+Dr. Philippe Raffi Kalfayan joined Groong to discuss the International Observatory for Democracy in Armenia (IODA), its work ahead of Armenia’s June 7, 2026 parliamentary elections, and the risks it sees in the pre-election environment. The conversation covered IODA’s mission, its first fact-finding trip to Armenia, concerns about judicial control and administrative resources, questions about OSCE/ODIHR and EU impartiality, and the pressure facing opposition figures and parties before election day.
+"""
+
 episode_image = "img/episode/535/thumbnail-535.webp"
 episode_banner = "img/episode/535/banner-535.webp"
 images = ["img/episode/535/banner-535.webp"]
@@ -23,7 +27,6 @@ categories = ["Armenia", "Politics", "election"]
 tags = ["Armenian News", "Armenia", "Philippe Raffi Kalfayan", "Raffi Kalfayan", "IODA", "International Observatory for Democracy in Armenia", "Kenneth Roth", "Parliamentary Election", "Election 2026", "Sarah Leah Whitson", "Human Rights Watch", "SHERPA", "OSCE", "ODIHR", "FIP", "Fact Investigation Platform", "UIC", "Union of Informed Citizens", "Daniel Ioannisyan", "Meta", "Facebook", "Instagram", "WhatsApp", "CEC", "Samvel Karapetyan", "Strong Armenia", "Nikol Pashinyan", "Civil Contract"]
 
 Description = """
-
 #### Groong Links:
 * [GIVE to GROONG](https://podcasts.groong.org/donate)
 * [linktr.ee/Groong](https://linktr.ee/groong)
@@ -38,15 +41,12 @@ Description = """
 * Suspect voter lists, fraud, and transparency concerns
 * Pressure on opposition figures and parties
 
-
 Episode 535 | Recorded: April 24, 2026
 
 #Armenia #ArmenianElections #Election2026 #IODA #OSCE #ODIHR #Geopolitics #Democracy"""
 +++
 
-# Summary
-
-__Dr. Philippe Raffi Kalfayan__ joined Groong to discuss the International Observatory for Democracy in Armenia (IODA), its work ahead of Armenia’s June 7, 2026 parliamentary elections, and the risks it sees in the pre-election environment. The conversation covered IODA’s mission, its first fact-finding trip to Armenia, concerns about judicial control and administrative resources, questions about OSCE/ODIHR and EU impartiality, and the pressure facing opposition figures and parties before election day.
+{{% param "podcast_summary" %}}
 
 ## Main Topics Addressed
 

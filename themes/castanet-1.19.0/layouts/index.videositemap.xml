@@ -1,0 +1,47 @@
+{{ printf "<?xml version=\"1.0\" encoding=\"UTF-8\"?>" | safeHTML }}
+<urlset
+ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+ xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+
+{{ range where .Site.RegularPages "Type" "episode" }}
+{{ if .Params.youtube }}
+
+<url>
+  <loc>{{ .Permalink }}</loc>
+
+  <video:video>
+    <video:thumbnail_loc>
+      https://i.ytimg.com/vi/{{ .Params.youtube }}/maxresdefault.jpg
+    </video:thumbnail_loc>
+
+    <video:title>
+      {{ .Title }}
+    </video:title>
+
+    <video:description>
+      {{ default (.Description | plainify) .Params.podcast_summary | htmlEscape }}
+    </video:description>
+
+    <video:content_loc>
+      https://www.youtube.com/watch?v={{ .Params.youtube }}
+    </video:content_loc>
+
+    <video:publication_date>
+      {{ .Date.Format "2006-01-02T15:04:05-07:00" }}
+    </video:publication_date>
+
+    {{ with .Params.podcast_duration }}
+    {{ if not (in (string .) ":") }}
+    <video:duration>{{ . }}</video:duration>
+    {{ end }}
+    {{ end }}
+
+    <video:family_friendly>yes</video:family_friendly>
+
+  </video:video>
+</url>
+
+{{ end }}
+{{ end }}
+
+</urlset>

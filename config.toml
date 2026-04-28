@@ -3,22 +3,31 @@ languageCode = 'en-us'
 title = 'Groong Podcast'
 theme = "castanet-1.19.0" 
 googleAnalytics = 'G-JNZ5XF71ZR'
-paginate = "9"
 buildFuture = true
 enableRobotsTXT = true
+
+[pagination]
+  pagerSize = 9
 
 [taxonomies]
   category = "categories"
   series = "series"
   tag = "tags"
 
+[outputFormats.VideoSitemap]
+mediaType = "application/xml"
+baseName = "sitemap-video"
+isPlainText = false
+notAlternative = true
+
+[outputs]
+home = ["HTML", "RSS", "VideoSitemap"]
 
 [permalinks]
 	# page = "/:filename/"
 	about = "/:filename/"
 	episode = "/:filename/"
 	blog = "/:filename/"
-
 
 # The theme supports menus with up to one submenu per menu item
 # The menu name must be "Main"
